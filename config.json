@@ -1,0 +1,345 @@
+{
+  "project_name": "Yankees News",
+  "people": [
+    {
+      "name": "Austin Wells",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Ali Sánchez",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Aaron Judge",
+      "role": "Outfielder",
+      "status": "Active (Reinstated from 60-day IL)",
+      "type": "player"
+    },
+    {
+      "name": "Cody Bellinger",
+      "role": "Left Fielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Heliot Ramos",
+      "role": "Left Fielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Spencer Jones",
+      "role": "Right Fielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Ryan McMahon",
+      "role": "Third Baseman",
+      "status": "Active (Reinstated from 10-day IL)",
+      "type": "player"
+    },
+    {
+      "name": "Amed Rosario",
+      "role": "Third Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Anthony Volpe",
+      "role": "Shortstop",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jose Caballero",
+      "role": "Shortstop",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "George Lombard Jr.",
+      "role": "Shortstop",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Luis García Jr.",
+      "role": "First Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Paul Goldschmidt",
+      "role": "First Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Ben Rice",
+      "role": "Designated Hitter",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Gerrit Cole",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Max Fried",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Carlos Rodón",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Luis Gil",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Clarke Schmidt",
+      "role": "Starting Pitcher",
+      "status": "Active (Reinstated from 60-day IL today)",
+      "type": "player"
+    },
+    {
+      "name": "Cam Schlittler",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Will Warren",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "David Bednar",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "John Schreiber",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Tim Hill",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Paul Blackburn",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Brent Headrick",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Michael Fulmer",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jazz Chisholm Jr.",
+      "role": "Infielder / Outfielder",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Jasson Domínguez",
+      "role": "Outfielder",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Aaron Boone",
+      "role": "Head Coach",
+      "status": "Coaching Staff",
+      "type": "staff"
+    },
+    {
+      "name": "Brian Cashman",
+      "role": "Senior VP & General Manager",
+      "status": "Front Office",
+      "type": "staff"
+    },
+    {
+      "name": "Babe Ruth",
+      "role": "Legend / Hall of Famer",
+      "status": "All-time baseball icon and franchise pillar.",
+      "type": "legend"
+    },
+    {
+      "name": "Lou Gehrig",
+      "role": "Legend / Hall of Famer",
+      "status": "The Iron Horse, legendary first baseman.",
+      "type": "legend"
+    },
+    {
+      "name": "Mickey Mantle",
+      "role": "Legend / Hall of Famer",
+      "status": "Dominant switch-hitting centerfielder, 3-time MVP.",
+      "type": "legend"
+    },
+    {
+      "name": "Joe DiMaggio",
+      "role": "Legend / Hall of Famer",
+      "status": "The Yankee Clipper, holder of the 56-game hitting streak.",
+      "type": "legend"
+    },
+    {
+      "name": "Derek Jeter",
+      "role": "Legend / Hall of Famer",
+      "status": "The Captain, core of the late-90s/2000s dynasty.",
+      "type": "legend"
+    },
+    {
+      "name": "Mariano Rivera",
+      "role": "Legend / Hall of Famer",
+      "status": "Unanimous Hall of Famer, greatest closer in history.",
+      "type": "legend"
+    },
+    {
+      "name": "Hideki Matsui",
+      "role": "Legend / Outfielder",
+      "status": "Godzilla, 2009 World Series MVP and Japanese icon.",
+      "type": "legend"
+    },
+    {
+      "name": "Yogi Berra",
+      "role": "Legend / Hall of Famer",
+      "status": "10-time World Series champion catcher and legendary personality.",
+      "type": "legend"
+    },
+    {
+      "name": "Don Mattingly",
+      "role": "Legend / First Baseman",
+      "status": "Donnie Baseball, beloved 1980s captain and MVP.",
+      "type": "legend"
+    },
+    {
+      "name": "Whitey Ford",
+      "role": "Legend / Hall of Famer",
+      "status": "The Chairman of the Board, franchise wins leader.",
+      "type": "legend"
+    },
+    {
+      "name": "Reggie Jackson",
+      "role": "Legend / Hall of Famer",
+      "status": "Mr. October, iconic postseason home run hero.",
+      "type": "legend"
+    },
+    {
+      "name": "Alex Rodriguez",
+      "role": "Legend / Third Baseman",
+      "status": "2-time MVP with NYY, key piece of the 2009 title team.",
+      "type": "legend"
+    },
+    {
+      "name": "CC Sabathia",
+      "role": "Legend / Starting Pitcher",
+      "status": "Workhorse ace of the 2009 championship rotation.",
+      "type": "legend"
+    },
+    {
+      "name": "John Sterling",
+      "role": "Legendary Broadcaster",
+      "status": "Iconic Voice of the Yankees who passed away in May 2026.",
+      "type": "legend"
+    }
+  ],
+  "settings": {
+    "max_age_hours": 72,
+    "gdelt_results_per_person": 20,
+    "google_results_per_edition": 5,
+    "max_stored_articles": 3000,
+    "max_feed_items": 300,
+    "minimum_body_characters": 250,
+    "delay_between_articles_seconds": 0.4
+  },
+  "google_news_editions": [
+    {
+      "label": "US English",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en"
+    },
+    {
+      "label": "México Español",
+      "hl": "es-419",
+      "gl": "MX",
+      "ceid": "MX:es-419"
+    },
+    {
+      "label": "Japan Japanese",
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja"
+    },
+    {
+      "label": "South Korea Korean",
+      "hl": "ko",
+      "gl": "KR",
+      "ceid": "KR:ko"
+    },
+    {
+      "label": "Spain Español",
+      "hl": "es",
+      "gl": "ES",
+      "ceid": "ES:es"
+    }
+  ],
+  "translation": {
+    "enabled": true,
+    "target_language": "es",
+    "chunk_size": 4000
+  },
+  "deduplication": {
+    "enabled": true,
+    "max_hours_apart": 48,
+    "title_similarity_threshold": 0.72,
+    "title_token_overlap_threshold": 0.58,
+    "body_lead_similarity_threshold": 0.66,
+    "body_lead_characters": 1600
+  },
+  "context_terms": [
+    "yankees",
+    "new york yankees",
+    "ny yankees",
+    "nyy",
+    "mlb",
+    "major league baseball",
+    "yankee stadium",
+    "bronx bombers",
+    "the bronx"
+  ],
+  "feed": {
+    "title": "Yankees News — Noticias",
+    "description": "Noticias multilingües sobre Yankees, traducidas al español y deduplicadas.",
+    "site_url": "http://localhost:8000/"
+  }
+}
