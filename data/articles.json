@@ -1,5 +1,233 @@
 [
   {
+    "id": "da28bddc4655e9ce7178",
+    "title": "Anthony Volpe Handed Harsh Take on New York Yankees Future Before Playoffs",
+    "source": "heavy.com",
+    "author": "Cole Shelton",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/anthony-volpe-harsh-take-future/",
+    "published_iso": "2026-09-18T19:05:25+00:00",
+    "published_rfc2822": "Fri, 18 Sep 2026 19:05:25 +0000",
+    "body": "The New York Yankees could make a surprising move on Anthony Volpe.\nVolpe has had success since being recalled, but George Lombard Jr. has taken over as the starting shortstop. So, Volpe’s future in New York is very much up in the air.\nNew York will begin a three-game road series against the Arizona Diamondbacks on Friday.\nNew York Yankees Surprise Anthony Volpe Decision\nAlthough Volpe has been playing better, he isn’t guaranteed a spot on the Yankees playoff roster.\nAfter New York clinched a playoff spot, Yankees analysts Bryan Hoch and Patrick Donnelly of MLB.com revealed the likely playoff roster, and they didn’t have Volpe on it.\nWhat could the postseason roster look like?\nC: Austin Wells, Ali Sánchez\n1B: Luis García Jr., Paul Goldschmidt\n2B: Jazz Chisholm Jr.\n3B: Ryan McMahon, Amed Rosario\nSS: George Lombard Jr., José Caballero\nOF: Cody Bellinger, Spencer Jones, Aaron Judge, Heliot Ramos\nDH: Ben Rice\nSP: Cam Schlittler, Max Fried, Gerrit Cole\nRP: David Bednar, Brent Headrick, Paul Blackburn, Tim Hill, Ryan Yarbrough, Clarke Schmidt, Michael Fulmer, Ryan Weathers, Will Warren\nThe Yankees leaving Volpe off the playoff roster would be a disappointing outcome for the shortstop. It also could signal the end of his tenure in New York as Lombard is the shortstop of the future.\nVolpe is hitting .253 with 2 home runs and 26 RBIs this season with the Yankees.\nNew York Right Now\nThe Yankees have clinched a playoff spot as New York will be hosting a Wild Card series again.\n“Every year you go through a lot, it seems like. But we’ve been through a lot this year with injuries, with adversity,” Yankees manager Aaron Boone said. “But credit to them for coming together. Through all the ups and downs, they’ve been a together group. I feel like they’ve developed a lot of grit over the season.”\nHowever, despite clinching a playoff spot, the Yankees made it clear the job isn’t finished. New York likely won’t win the AL East again, which is frustrating, but the Yankees have confidence they can go on a deep playoff run.\nThe Yankees are 88-64 and 5 games back of the Tampa Bay Rays for the top spot in the AL East.",
+    "tracked_people": [
+      {
+        "name": "Austin Wells",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ali Sánchez",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player"
+      },
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player"
+      },
+      {
+        "name": "Amed Rosario",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player"
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Brent Headrick",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Anthony Volpe Handed Harsh Take on New York Yankees Future Before Playoffs",
+    "original_body": "The New York Yankees could make a surprising move on Anthony Volpe.\nVolpe has had success since being recalled, but George Lombard Jr. has taken over as the starting shortstop. So, Volpe’s future in New York is very much up in the air.\nNew York will begin a three-game road series against the Arizona Diamondbacks on Friday.\nNew York Yankees Surprise Anthony Volpe Decision\nAlthough Volpe has been playing better, he isn’t guaranteed a spot on the Yankees playoff roster.\nAfter New York clinched a playoff spot, Yankees analysts Bryan Hoch and Patrick Donnelly of MLB.com revealed the likely playoff roster, and they didn’t have Volpe on it.\nWhat could the postseason roster look like?\nC: Austin Wells, Ali Sánchez\n1B: Luis García Jr., Paul Goldschmidt\n2B: Jazz Chisholm Jr.\n3B: Ryan McMahon, Amed Rosario\nSS: George Lombard Jr., José Caballero\nOF: Cody Bellinger, Spencer Jones, Aaron Judge, Heliot Ramos\nDH: Ben Rice\nSP: Cam Schlittler, Max Fried, Gerrit Cole\nRP: David Bednar, Brent Headrick, Paul Blackburn, Tim Hill, Ryan Yarbrough, Clarke Schmidt, Michael Fulmer, Ryan Weathers, Will Warren\nThe Yankees leaving Volpe off the playoff roster would be a disappointing outcome for the shortstop. It also could signal the end of his tenure in New York as Lombard is the shortstop of the future.\nVolpe is hitting .253 with 2 home runs and 26 RBIs this season with the Yankees.\nNew York Right Now\nThe Yankees have clinched a playoff spot as New York will be hosting a Wild Card series again.\n“Every year you go through a lot, it seems like. But we’ve been through a lot this year with injuries, with adversity,” Yankees manager Aaron Boone said. “But credit to them for coming together. Through all the ups and downs, they’ve been a together group. I feel like they’ve developed a lot of grit over the season.”\nHowever, despite clinching a playoff spot, the Yankees made it clear the job isn’t finished. New York likely won’t win the AL East again, which is frustrating, but the Yankees have confidence they can go on a deep playoff run.\nThe Yankees are 88-64 and 5 games back of the Tampa Bay Rays for the top spot in the AL East.",
+    "rss_title": "Anthony Volpe Handed Harsh Take on New York Yankees Future Before Playoffs",
+    "rss_body": "The New York Yankees could make a surprising move on Anthony Volpe.\nVolpe has had success since being recalled, but George Lombard Jr. has taken over as the starting shortstop. So, Volpe’s future in New York is very much up in the air.\nNew York will begin a three-game road series against the Arizona Diamondbacks on Friday.\nNew York Yankees Surprise Anthony Volpe Decision\nAlthough Volpe has been playing better, he isn’t guaranteed a spot on the Yankees playoff roster.\nAfter New York clinched a playoff spot, Yankees analysts Bryan Hoch and Patrick Donnelly of MLB.com revealed the likely playoff roster, and they didn’t have Volpe on it.\nWhat could the postseason roster look like?\nC: Austin Wells, Ali Sánchez\n1B: Luis García Jr., Paul Goldschmidt\n2B: Jazz Chisholm Jr.\n3B: Ryan McMahon, Amed Rosario\nSS: George Lombard Jr., José Caballero\nOF: Cody Bellinger, Spencer Jones, Aaron Judge, Heliot Ramos\nDH: Ben Rice\nSP: Cam Schlittler, Max Fried, Gerrit Cole\nRP: David Bednar, Brent Headrick, Paul Blackburn, Tim Hill, Ryan Yarbrough, Clarke Schmidt, Michael Fulmer, Ryan Weathers, Will Warren\nThe Yankees leaving Volpe off the playoff roster would be a disappointing outcome for the shortstop. It also could signal the end of his tenure in New York as Lombard is the shortstop of the future.\nVolpe is hitting .253 with 2 home runs and 26 RBIs this season with the Yankees.\nNew York Right Now\nThe Yankees have clinched a playoff spot as New York will be hosting a Wild Card series again.\n“Every year you go through a lot, it seems like. But we’ve been through a lot this year with injuries, with adversity,” Yankees manager Aaron Boone said. “But credit to them for coming together. Through all the ups and downs, they’ve been a together group. I feel like they’ve developed a lot of grit over the season.”\nHowever, despite clinching a playoff spot, the Yankees made it clear the job isn’t finished. New York likely won’t win the AL East again, which is frustrating, but the Yankees have confidence they can go on a deep playoff run.\nThe Yankees are 88-64 and 5 games back of the Tampa Bay Rays for the top spot in the AL East.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "464f42442dfbd668ce4b",
+    "title": "Carlos Rodón has earned a Yankees playoff start over Gerrit Cole",
+    "source": "FanSided",
+    "author": "Jake Elman",
+    "url": "https://fansided.com/mlb/why-carlos-rodon-should-be-taken-more-seriously-as-a-yankees-wild-card-rotation-option",
+    "published_iso": "2026-09-18T19:01:29+00:00",
+    "published_rfc2822": "Fri, 18 Sep 2026 19:01:29 +0000",
+    "body": "History and common sense (we know, two things that don’t always share space in a conversation) typically dictate that a $162 million pitcher doesn’t make a playoff roster for one of two reasons: injuries or disaster.\nLuckily for the New York Yankees, that’s not the problem with veteran lefty Carlos Rodón. The three-time All-Star is healthy after multiple elbow problems, and he’s recorded a 2.95 ERA and 1.6 bWAR over 11 starts. Depending on how confident you feel about Gerrit Cole, we’d argue that Rodón is the Yankees’ third-best starter behind AL Cy Young favorite Cam Schlittler and the always-reliable Max Fried.\nYet all signs point to Cole, and not Rodón, starting a potential Game 3 in the Wild Card Series. In fact, some who cover the Yankees have even listed the latter as someone who could be on the roster bubble, at least for the first round.\nThe New York Yankees must turn to Carlos Rodón rather than Gerrit Cole in the playoffs\nWe addressed the Cole vs. Rodón debate earlier this week, so we don’t want to make things too repetitive. The bottom line is that Cole has allowed far more home runs at Yankee Stadium than on the road, and the Yankees would host all three games (if needed) in the Wild Card Series. Theoretically, that’d set Rodón up to possibly pitch Game 1 of the ALDS, which would either be against the No. 1 Rays or whoever earns the No. 2 seed; as of Friday afternoon, that honor would go to the AL Central-leading White Sox.\nLet’s take a quick look at how Cole and Rodón fare in several key departments:\n| Stat | Carlos Rodón | Gerrit Cole | \n|---|---|---|\n| Batters faced | 315 | 475 | \n| Batting average against | .178 | .241 | \n| Walk rate | 12.1 percent | 4.2 percent | \n| Strikeout rate | 26.3 percent | 24.6 percent | \n| Home runs allowed | Seven | 20 | \n| Doubles | 12 | 21 | \n| Triples | Zero | Two | \n| Hit batsmen | 2 | 2 | \nThe knock against Rodón, though, is his career-worst 12.1 percent walk rate, which is significantly above his lifetime 9.0 average. He hasn't exceeded a 9.0 percent walk rate over a full season since a 10.8 mark in 2018. Assuming that the Yankees don’t overtake the Rays in the AL East, they’d host the Red Sox in the first round.\nBut here's the good news: The Red Sox have drawn 491 walks, well below the league average of 516. So you’d think that Rodón has the leg up on Cole, right? Interestingly, the Red Sox have only hit 158 home runs, which is tied for seventh-worst in baseball. Much of their offense comes from doubles — their 272 two-baggers are one off the Royals for the MLB lead — and the occasional bruise; the Red Sox’s 93 hit-by-pitches are tied with the Angels for the league lead.\nCall us boring, but we’d much rather have the guy who works around walks instead of the 36-year-old with a penchant for giving up home runs. Naturally, that means we should prepare for Cole to throw seven shutout innings during his first playoff start, but what do we know?",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Carlos Rodón has earned a Yankees playoff start over Gerrit Cole",
+    "original_body": "History and common sense (we know, two things that don’t always share space in a conversation) typically dictate that a $162 million pitcher doesn’t make a playoff roster for one of two reasons: injuries or disaster.\nLuckily for the New York Yankees, that’s not the problem with veteran lefty Carlos Rodón. The three-time All-Star is healthy after multiple elbow problems, and he’s recorded a 2.95 ERA and 1.6 bWAR over 11 starts. Depending on how confident you feel about Gerrit Cole, we’d argue that Rodón is the Yankees’ third-best starter behind AL Cy Young favorite Cam Schlittler and the always-reliable Max Fried.\nYet all signs point to Cole, and not Rodón, starting a potential Game 3 in the Wild Card Series. In fact, some who cover the Yankees have even listed the latter as someone who could be on the roster bubble, at least for the first round.\nThe New York Yankees must turn to Carlos Rodón rather than Gerrit Cole in the playoffs\nWe addressed the Cole vs. Rodón debate earlier this week, so we don’t want to make things too repetitive. The bottom line is that Cole has allowed far more home runs at Yankee Stadium than on the road, and the Yankees would host all three games (if needed) in the Wild Card Series. Theoretically, that’d set Rodón up to possibly pitch Game 1 of the ALDS, which would either be against the No. 1 Rays or whoever earns the No. 2 seed; as of Friday afternoon, that honor would go to the AL Central-leading White Sox.\nLet’s take a quick look at how Cole and Rodón fare in several key departments:\n| Stat | Carlos Rodón | Gerrit Cole | \n|---|---|---|\n| Batters faced | 315 | 475 | \n| Batting average against | .178 | .241 | \n| Walk rate | 12.1 percent | 4.2 percent | \n| Strikeout rate | 26.3 percent | 24.6 percent | \n| Home runs allowed | Seven | 20 | \n| Doubles | 12 | 21 | \n| Triples | Zero | Two | \n| Hit batsmen | 2 | 2 | \nThe knock against Rodón, though, is his career-worst 12.1 percent walk rate, which is significantly above his lifetime 9.0 average. He hasn't exceeded a 9.0 percent walk rate over a full season since a 10.8 mark in 2018. Assuming that the Yankees don’t overtake the Rays in the AL East, they’d host the Red Sox in the first round.\nBut here's the good news: The Red Sox have drawn 491 walks, well below the league average of 516. So you’d think that Rodón has the leg up on Cole, right? Interestingly, the Red Sox have only hit 158 home runs, which is tied for seventh-worst in baseball. Much of their offense comes from doubles — their 272 two-baggers are one off the Royals for the MLB lead — and the occasional bruise; the Red Sox’s 93 hit-by-pitches are tied with the Angels for the league lead.\nCall us boring, but we’d much rather have the guy who works around walks instead of the 36-year-old with a penchant for giving up home runs. Naturally, that means we should prepare for Cole to throw seven shutout innings during his first playoff start, but what do we know?",
+    "rss_title": "Carlos Rodón has earned a Yankees playoff start over Gerrit Cole",
+    "rss_body": "History and common sense (we know, two things that don’t always share space in a conversation) typically dictate that a $162 million pitcher doesn’t make a playoff roster for one of two reasons: injuries or disaster.\nLuckily for the New York Yankees, that’s not the problem with veteran lefty Carlos Rodón. The three-time All-Star is healthy after multiple elbow problems, and he’s recorded a 2.95 ERA and 1.6 bWAR over 11 starts. Depending on how confident you feel about Gerrit Cole, we’d argue that Rodón is the Yankees’ third-best starter behind AL Cy Young favorite Cam Schlittler and the always-reliable Max Fried.\nYet all signs point to Cole, and not Rodón, starting a potential Game 3 in the Wild Card Series. In fact, some who cover the Yankees have even listed the latter as someone who could be on the roster bubble, at least for the first round.\nThe New York Yankees must turn to Carlos Rodón rather than Gerrit Cole in the playoffs\nWe addressed the Cole vs. Rodón debate earlier this week, so we don’t want to make things too repetitive. The bottom line is that Cole has allowed far more home runs at Yankee Stadium than on the road, and the Yankees would host all three games (if needed) in the Wild Card Series. Theoretically, that’d set Rodón up to possibly pitch Game 1 of the ALDS, which would either be against the No. 1 Rays or whoever earns the No. 2 seed; as of Friday afternoon, that honor would go to the AL Central-leading White Sox.\nLet’s take a quick look at how Cole and Rodón fare in several key departments:\n| Stat | Carlos Rodón | Gerrit Cole | \n|---|---|---|\n| Batters faced | 315 | 475 | \n| Batting average against | .178 | .241 | \n| Walk rate | 12.1 percent | 4.2 percent | \n| Strikeout rate | 26.3 percent | 24.6 percent | \n| Home runs allowed | Seven | 20 | \n| Doubles | 12 | 21 | \n| Triples | Zero | Two | \n| Hit batsmen | 2 | 2 | \nThe knock against Rodón, though, is his career-worst 12.1 percent walk rate, which is significantly above his lifetime 9.0 average. He hasn't exceeded a 9.0 percent walk rate over a full season since a 10.8 mark in 2018. Assuming that the Yankees don’t overtake the Rays in the AL East, they’d host the Red Sox in the first round.\nBut here's the good news: The Red Sox have drawn 491 walks, well below the league average of 516. So you’d think that Rodón has the leg up on Cole, right? Interestingly, the Red Sox have only hit 158 home runs, which is tied for seventh-worst in baseball. Much of their offense comes from doubles — their 272 two-baggers are one off the Royals for the MLB lead — and the occasional bruise; the Red Sox’s 93 hit-by-pitches are tied with the Angels for the league lead.\nCall us boring, but we’d much rather have the guy who works around walks instead of the 36-year-old with a penchant for giving up home runs. Naturally, that means we should prepare for Cole to throw seven shutout innings during his first playoff start, but what do we know?",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "62bd4740ff8a1cce6e00",
     "title": "Oswaldo Cabrera claimed by Reds after Yankees DFA",
     "source": "Yahoo Sports",
@@ -4218,44 +4446,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "c7a27a666d825d43d1e4",
-    "title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
-    "source": "heavy.com",
-    "author": "TJ French",
-    "url": "https://heavy.com/sports/mlb/new-york-yankees/mlb-world-reacts-george-lombard-jr-blunder-in-yankees-twins-game/",
-    "published_iso": "2026-09-16T22:02:18+00:00",
-    "published_rfc2822": "Wed, 16 Sep 2026 22:02:18 +0000",
-    "body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
-    "tracked_people": [
-      {
-        "name": "George Lombard Jr.",
-        "role": "Shortstop",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
-    "original_body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
-    "rss_title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
-    "rss_body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/mlb-world-reacts-george-lombard-004140231.html",
-        "title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
-        "body_characters": 1353
-      }
-    ]
-  },
-  {
     "id": "42b2f26f6c565b6acdbe",
     "title": "Yankees news: Spencer Jones joins Aaron Judge club nobody wants in loss to Twins",
     "source": "sports.yahoo.com",
@@ -4928,6 +5118,44 @@
     "rss_title": "Yankees Make Sudden Cody Bellinger Change During Twins Game",
     "rss_body": "On Wednesday, the New York Yankees are playing the finale of their three-game series against the Twins (in Minnesota).\nThey have won each of the first two games, so they are looking to go for a sweep.\nCody Bellinger started the game in left field (and hit second in the order).\nUnderdog MLB wrote: “Yankees 9/16 B. Rice DH C. Bellinger LF A. Judge RF L. García Jr. 1B S. Jones CF G. Lombard Jr. SS R. McMahon 3B A. Wells C A. Volpe 2B C. Rodón SP”\nUPDATE: The Yankees lost 5-4 on Wednesday.\nBellinger had three hits, one walk and one stolen base.\nYankees Make Sudden Cody Bellinger Change\nDuring the game, the Yankees made a handful of lineup adjustments.\nBellinger was moved to first base.\nThe former MVP is arguably the best fielder on the team (and is very versatile).\nHe has been moved to first base several times this year, but only started there one time.\nLooking At Bellinger\nBellinger is in the middle of his second season playing for the Yankees.\nPrior to New York, the 2020 World Series Champion had stints with the Los Angeles Dodgers and Chicago Cubs.\nHe came into the day batting .272 with 126 hits, 16 home runs, 71 RBIs, 70 runs and 11 stolen bases in 124 games.\nThis year, Bellinger made his first All-Star Game appearance since 2019 (when he was with the Dodgers).\nHe also won the 2026 MLB All-Star Game MVP Award.\nLooking At The Yankees Right Now\nThe Yankees are currently the second-place team in the American League East with an 88-63 record in 151 games.\nThey are just 3.5 games back of the Tampa Bay Rays for first.\nFollowing their series with the Twins, the Yankees will head to Arizona to face off against the Diamondbacks on Friday night.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "c7a27a666d825d43d1e4",
+    "title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
+    "source": "heavy.com",
+    "author": "TJ French",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/mlb-world-reacts-george-lombard-jr-blunder-in-yankees-twins-game/",
+    "published_iso": "2026-09-16T22:02:18+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 22:02:18 +0000",
+    "body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
+    "tracked_people": [
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
+    "original_body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
+    "rss_title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
+    "rss_body": "NEW YORK, NEW YORK - SEPTEMBER 11: George Lombard Jr. #96 of the New York Yankees celebrates after turning the double play for the final out of the game as Francisco Lindor #12 of the New York Mets looks on at Yankee Stadium on September 11, 2026 in The Bronx borough of New York City. The New York Yankees and the New York Mets are wearing hats and using gear to honor the memory of the first responders on the 25th anniversary of the 9/11 attacks. The New York Yankees defeated the New York Mets 6-4. (Photo by Elsa/Getty Images)\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.\nOn Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.\nNew York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove in extra innings, which allowed the Twins to score the game-winning run.\n“Ultimately, meaning what happened in the very end, which you can see above is a bouncing dribbler go right under George Lombard Jr.’s glove that allows a runner to score from second base”\nIt’s also a big hit to the Yankees’ potential AL East chances, as they will fall back at least 0.5 games further from the Rays for now.\nHere are some notable reactions from Yankees fans across X.com:\nGettyNEW YORK, NEW YORK – AUGUST 22: George Lombard Jr. #96 of the New York Yankees completes a third inning double play after forcing out Vladimir Guerrero Jr. #27 of the Toronto Blue Jays at Yankee Stadium on August 22, 2026 in New York City. (Photo by Jim McIsaac/Getty Images)\nI’m not entirely sure how confident Yankees fans feel right now about George Lombard Jr.’s defense, especially with October looming really quickly and judgment day rapidly approaching.\nThere will certainly be those who call for George Lombard Jr. to be sent down, but that feels unlikely at this juncture.\nHowever, with that being said, it would be very tragic if the Yankees season comes down to Lombard Jr. making an error in the biggest moment. That would be extremely tragic.\nTJ French covers the MLB for Heavy. TJ is a graduate of the University of Georgia. He has 2+ years of writing experience.\nFollow TJ French on X: @tj_french5 More about TJ French\n2 Comments\nThe New York Yankees‘ shortstop defense might be a real glaring issue for the team.On Wednesday, a costly George Lombard Jr. blunder cost the Yankees a potential win.New York lost by a score of 5-4 to the Minnesota Twins on Wednesday afternoon after George Lombard Jr. allowed a ball to go right under his glove […]",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/mlb-world-reacts-george-lombard-004140231.html",
+        "title": "MLB World Reacts to George Lombard Jr. Blunder in Yankees-Twins Game",
+        "body_characters": 1353
+      }
+    ]
   },
   {
     "id": "beb96b71d0b9da78511f",
