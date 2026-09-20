@@ -1,5 +1,71 @@
 [
   {
+    "id": "3ccd4e81cd6fa14f42cd",
+    "title": "Yankees lose to Diamondbacks in walk-off fashion",
+    "source": "Pinstripe Alley",
+    "author": "Joshua Diemert",
+    "url": "https://www.pinstripealley.com/yankees-scores-standings/208196/yankees-game-score-recap-diamondbacks-cam-schlittler-walkoff-pavin-smith-wells-ramos-homer",
+    "published_iso": "2026-09-20T03:50:00+00:00",
+    "published_rfc2822": "Sun, 20 Sep 2026 03:50:00 +0000",
+    "body": "One would figure that with Cam Schlittler going on Saturday night, this would be the game for the Yankees to win if they had any hope for a last-ditch AL East comeback, but something about Arizona wore down the likely Cy Young Award winner tonight. The Snakes were pesky, annoying, and other terms my editors won’t let me use while in the batter’s box tonight, finally breaking through on a Pavin Smith walk-off home run, to win it, 5-3.\nRight off the top, I need to be grumpy about something. Nobody likes West Coast games and nobody likes the fact that every time the Yankees are on the West Coast, they play more night games than day games. This goes double for West Coast Yankee fans, because the beautiful thing about cheering for an East Coast team is they start playing when you get off work, or when you’re just finishing your Saturday morning coffee, the game takes three hours and you have the evening to yourself. That doesn’t happen on these trips.\nNow, the Diamondbacks were celebrating the only World Series title in history, 25 years ago this season. I get it, you want to have a special event, the team isn’t very good so the end of the season starts to drag a little bit, you want a little spice. I even respect the cheek of waiting until the Yankees are in town. What I don’t respect is being completely incapable of running a functioning ceremony. The Yankees have Old Timer’s Day every year, they designate a special start time and at that time, the festivities have concluded and we can get down to the reason we’re all here, to watch a baseball game, which I don’t think is an unreasonable expectation at a baseball stadium with a baseball team in town.\nThe Diamondbacks started their pregame ceremonies at 4:30pm local time, with a scheduled 5:10pm first pitch. They absolutely blew past that in a way that, in my opinion, was both unprofessional and downright insulting. The four clocks I have ready access to in my apartment agreed: Brandon Pfaadt didn’t throw his first offering to Ben Rice until 5:42pm. This was an absolute joke of a start to the series’ second game. That all this happened in a city I’m predisposed to dislike already was…whatever the anti-cherry on top. I also firmly don’t like the existence of Phoenix as a city in general so I was always going to be ticked off watching this one.\nI said in the gamethread that we had maybe begun to develop outsized expectations for Cam Schlittler. He’s been SO good, for long enough, that we needed to remember the other team all drives nice cars and lives in nice houses too. While Cam did get through 4.1 innings without allowing a hit, the Diamondbacks pushed a pair of runs across in the fifth. Nolan Arenado reached with a one-out single, before Tim Tawa attempted to give himself up with a sac bunt. Schlittler couldn’t corral what should have been an out though, an error that put two men on, and #9 hitter Jordan Lawlar made him pay:\nFunny enough, because Schlittler was charged with that error, both of the runs were unearned, and he still hasn’t allowed more than a single earned run in eight starts now. The Yankees would tie the game the next inning, but all those extra pitches taxed his right arm, and I think had a major impact on what would happen in the sixth.\nSpeaking of tying the game, Heliot Ramos was brought to New York because of his opposite field power. He stunk in his first taste of East Coast baseball, but has looked much more representative in his last 20 games, and flexed that oppo pop within moments of Schlittler getting back in the dugout:\nCorbin Carroll ran down a sinking Anthony Volpe liner for the second out, a very nice play that loomed larger when Austin Wells stepped to the plate:\nWells is getting hot at the right time, with three home runs in his last five games and he’s actually been a league average hitter since August 1! The nice thing about being a good defensive catcher is if you can just not embarrass yourself at the plate, you’re a major asset for your team.\nThe good vibes only lasted until Cam got back on the mound though. I think the error and the triple shook him up a little, and we’ve seen this happen before. Schlittler’s a high-energy guy, when that energy is less than positive I do think he gets a little in his own head and starts to overthrow. He walked the first two batters of the inning on eight total pitches, completely uncompetitive at-bats that are just so out of whack with what he’s done so far this season.\nA soft Geraldo Perdomo bunt loaded the bases, and Cam did seem to lock in at that point. Corbin Carroll did bring in the third Snakes run of the game — and the only earned for Cam — but the ace got both Arenado and Tawa to whiff to end the threat. It was a weird one for Schlittler tonight, but 6.0 IP and one earned run is what the line reads.\nThe bullpen wasn’t exactly dynamite in Cam’s stead; the Diamondbacks have the third-lowest strikeout rate in baseball and their ability to grind out at-bats showed, even if the Yankees got through eight innings keeping the game tied at three. This was a long, miserable game, and wasn’t helped by the fact the Yankees couldn’t really find the nine-run spark that they showed on Friday.\nIf nothing else, I got to re-hate Michael Fulmer, and all those feelings from 2016 sprung forth anew. He walked the leadoff batter to open the ninth, and gave up the walk-off dinger to Pavin Smith:\nThe division race is functionally over with the Rays’ win earlier today, as they restored their five-game lead. Get yourself set for the Wild Card, lock up home-field advantage for that series, and don’t get yourselves hurt. The Yankes finish this series tomorrow with Will Warren on the hill. First pitch is supposedly at 4:10pm Eastern, but we’ll see.",
+    "tracked_people": [
+      {
+        "name": "Austin Wells",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees lose to Diamondbacks in walk-off fashion",
+    "original_body": "One would figure that with Cam Schlittler going on Saturday night, this would be the game for the Yankees to win if they had any hope for a last-ditch AL East comeback, but something about Arizona wore down the likely Cy Young Award winner tonight. The Snakes were pesky, annoying, and other terms my editors won’t let me use while in the batter’s box tonight, finally breaking through on a Pavin Smith walk-off home run, to win it, 5-3.\nRight off the top, I need to be grumpy about something. Nobody likes West Coast games and nobody likes the fact that every time the Yankees are on the West Coast, they play more night games than day games. This goes double for West Coast Yankee fans, because the beautiful thing about cheering for an East Coast team is they start playing when you get off work, or when you’re just finishing your Saturday morning coffee, the game takes three hours and you have the evening to yourself. That doesn’t happen on these trips.\nNow, the Diamondbacks were celebrating the only World Series title in history, 25 years ago this season. I get it, you want to have a special event, the team isn’t very good so the end of the season starts to drag a little bit, you want a little spice. I even respect the cheek of waiting until the Yankees are in town. What I don’t respect is being completely incapable of running a functioning ceremony. The Yankees have Old Timer’s Day every year, they designate a special start time and at that time, the festivities have concluded and we can get down to the reason we’re all here, to watch a baseball game, which I don’t think is an unreasonable expectation at a baseball stadium with a baseball team in town.\nThe Diamondbacks started their pregame ceremonies at 4:30pm local time, with a scheduled 5:10pm first pitch. They absolutely blew past that in a way that, in my opinion, was both unprofessional and downright insulting. The four clocks I have ready access to in my apartment agreed: Brandon Pfaadt didn’t throw his first offering to Ben Rice until 5:42pm. This was an absolute joke of a start to the series’ second game. That all this happened in a city I’m predisposed to dislike already was…whatever the anti-cherry on top. I also firmly don’t like the existence of Phoenix as a city in general so I was always going to be ticked off watching this one.\nI said in the gamethread that we had maybe begun to develop outsized expectations for Cam Schlittler. He’s been SO good, for long enough, that we needed to remember the other team all drives nice cars and lives in nice houses too. While Cam did get through 4.1 innings without allowing a hit, the Diamondbacks pushed a pair of runs across in the fifth. Nolan Arenado reached with a one-out single, before Tim Tawa attempted to give himself up with a sac bunt. Schlittler couldn’t corral what should have been an out though, an error that put two men on, and #9 hitter Jordan Lawlar made him pay:\nFunny enough, because Schlittler was charged with that error, both of the runs were unearned, and he still hasn’t allowed more than a single earned run in eight starts now. The Yankees would tie the game the next inning, but all those extra pitches taxed his right arm, and I think had a major impact on what would happen in the sixth.\nSpeaking of tying the game, Heliot Ramos was brought to New York because of his opposite field power. He stunk in his first taste of East Coast baseball, but has looked much more representative in his last 20 games, and flexed that oppo pop within moments of Schlittler getting back in the dugout:\nCorbin Carroll ran down a sinking Anthony Volpe liner for the second out, a very nice play that loomed larger when Austin Wells stepped to the plate:\nWells is getting hot at the right time, with three home runs in his last five games and he’s actually been a league average hitter since August 1! The nice thing about being a good defensive catcher is if you can just not embarrass yourself at the plate, you’re a major asset for your team.\nThe good vibes only lasted until Cam got back on the mound though. I think the error and the triple shook him up a little, and we’ve seen this happen before. Schlittler’s a high-energy guy, when that energy is less than positive I do think he gets a little in his own head and starts to overthrow. He walked the first two batters of the inning on eight total pitches, completely uncompetitive at-bats that are just so out of whack with what he’s done so far this season.\nA soft Geraldo Perdomo bunt loaded the bases, and Cam did seem to lock in at that point. Corbin Carroll did bring in the third Snakes run of the game — and the only earned for Cam — but the ace got both Arenado and Tawa to whiff to end the threat. It was a weird one for Schlittler tonight, but 6.0 IP and one earned run is what the line reads.\nThe bullpen wasn’t exactly dynamite in Cam’s stead; the Diamondbacks have the third-lowest strikeout rate in baseball and their ability to grind out at-bats showed, even if the Yankees got through eight innings keeping the game tied at three. This was a long, miserable game, and wasn’t helped by the fact the Yankees couldn’t really find the nine-run spark that they showed on Friday.\nIf nothing else, I got to re-hate Michael Fulmer, and all those feelings from 2016 sprung forth anew. He walked the leadoff batter to open the ninth, and gave up the walk-off dinger to Pavin Smith:\nThe division race is functionally over with the Rays’ win earlier today, as they restored their five-game lead. Get yourself set for the Wild Card, lock up home-field advantage for that series, and don’t get yourselves hurt. The Yankes finish this series tomorrow with Will Warren on the hill. First pitch is supposedly at 4:10pm Eastern, but we’ll see.",
+    "rss_title": "Yankees lose to Diamondbacks in walk-off fashion",
+    "rss_body": "One would figure that with Cam Schlittler going on Saturday night, this would be the game for the Yankees to win if they had any hope for a last-ditch AL East comeback, but something about Arizona wore down the likely Cy Young Award winner tonight. The Snakes were pesky, annoying, and other terms my editors won’t let me use while in the batter’s box tonight, finally breaking through on a Pavin Smith walk-off home run, to win it, 5-3.\nRight off the top, I need to be grumpy about something. Nobody likes West Coast games and nobody likes the fact that every time the Yankees are on the West Coast, they play more night games than day games. This goes double for West Coast Yankee fans, because the beautiful thing about cheering for an East Coast team is they start playing when you get off work, or when you’re just finishing your Saturday morning coffee, the game takes three hours and you have the evening to yourself. That doesn’t happen on these trips.\nNow, the Diamondbacks were celebrating the only World Series title in history, 25 years ago this season. I get it, you want to have a special event, the team isn’t very good so the end of the season starts to drag a little bit, you want a little spice. I even respect the cheek of waiting until the Yankees are in town. What I don’t respect is being completely incapable of running a functioning ceremony. The Yankees have Old Timer’s Day every year, they designate a special start time and at that time, the festivities have concluded and we can get down to the reason we’re all here, to watch a baseball game, which I don’t think is an unreasonable expectation at a baseball stadium with a baseball team in town.\nThe Diamondbacks started their pregame ceremonies at 4:30pm local time, with a scheduled 5:10pm first pitch. They absolutely blew past that in a way that, in my opinion, was both unprofessional and downright insulting. The four clocks I have ready access to in my apartment agreed: Brandon Pfaadt didn’t throw his first offering to Ben Rice until 5:42pm. This was an absolute joke of a start to the series’ second game. That all this happened in a city I’m predisposed to dislike already was…whatever the anti-cherry on top. I also firmly don’t like the existence of Phoenix as a city in general so I was always going to be ticked off watching this one.\nI said in the gamethread that we had maybe begun to develop outsized expectations for Cam Schlittler. He’s been SO good, for long enough, that we needed to remember the other team all drives nice cars and lives in nice houses too. While Cam did get through 4.1 innings without allowing a hit, the Diamondbacks pushed a pair of runs across in the fifth. Nolan Arenado reached with a one-out single, before Tim Tawa attempted to give himself up with a sac bunt. Schlittler couldn’t corral what should have been an out though, an error that put two men on, and #9 hitter Jordan Lawlar made him pay:\nFunny enough, because Schlittler was charged with that error, both of the runs were unearned, and he still hasn’t allowed more than a single earned run in eight starts now. The Yankees would tie the game the next inning, but all those extra pitches taxed his right arm, and I think had a major impact on what would happen in the sixth.\nSpeaking of tying the game, Heliot Ramos was brought to New York because of his opposite field power. He stunk in his first taste of East Coast baseball, but has looked much more representative in his last 20 games, and flexed that oppo pop within moments of Schlittler getting back in the dugout:\nCorbin Carroll ran down a sinking Anthony Volpe liner for the second out, a very nice play that loomed larger when Austin Wells stepped to the plate:\nWells is getting hot at the right time, with three home runs in his last five games and he’s actually been a league average hitter since August 1! The nice thing about being a good defensive catcher is if you can just not embarrass yourself at the plate, you’re a major asset for your team.\nThe good vibes only lasted until Cam got back on the mound though. I think the error and the triple shook him up a little, and we’ve seen this happen before. Schlittler’s a high-energy guy, when that energy is less than positive I do think he gets a little in his own head and starts to overthrow. He walked the first two batters of the inning on eight total pitches, completely uncompetitive at-bats that are just so out of whack with what he’s done so far this season.\nA soft Geraldo Perdomo bunt loaded the bases, and Cam did seem to lock in at that point. Corbin Carroll did bring in the third Snakes run of the game — and the only earned for Cam — but the ace got both Arenado and Tawa to whiff to end the threat. It was a weird one for Schlittler tonight, but 6.0 IP and one earned run is what the line reads.\nThe bullpen wasn’t exactly dynamite in Cam’s stead; the Diamondbacks have the third-lowest strikeout rate in baseball and their ability to grind out at-bats showed, even if the Yankees got through eight innings keeping the game tied at three. This was a long, miserable game, and wasn’t helped by the fact the Yankees couldn’t really find the nine-run spark that they showed on Friday.\nIf nothing else, I got to re-hate Michael Fulmer, and all those feelings from 2016 sprung forth anew. He walked the leadoff batter to open the ninth, and gave up the walk-off dinger to Pavin Smith:\nThe division race is functionally over with the Rays’ win earlier today, as they restored their five-game lead. Get yourself set for the Wild Card, lock up home-field advantage for that series, and don’t get yourselves hurt. The Yankes finish this series tomorrow with Will Warren on the hill. First pitch is supposedly at 4:10pm Eastern, but we’ll see.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "0b002c96ce63f0c481fc",
     "title": "Evening Shade-Resistance Rising-Saturday, September 19th, 2026 (Regional edition)",
     "source": "dailykos.com",
@@ -1079,42 +1145,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "cde38e2490e683e8972e",
-    "title": "Spencer Jones Injury: Battling foot soreness",
-    "source": "RotoWire",
-    "author": "RotoWire Staff",
-    "url": "https://www.rotowire.com/baseball/headlines/spencer-jones-injury-battling-foot-soreness-1026291",
-    "published_iso": "2026-09-19T21:39:41+00:00",
-    "published_rfc2822": "Sat, 19 Sep 2026 21:39:41 +0000",
-    "body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
-    "tracked_people": [
-      {
-        "name": "Spencer Jones",
-        "role": "Right Fielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Jose Caballero",
-        "role": "Shortstop",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Spencer Jones Injury: Battling foot soreness",
-    "original_body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
-    "rss_title": "Spencer Jones Injury: Battling foot soreness",
-    "rss_body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
-    "translation_status": "fallback_original"
-  },
-  {
     "id": "1be230e42a11e01648bf",
     "title": "New York Yankees Announce Surprising José Caballero Decision Amid Diamondbacks Series",
     "source": "heavy.com",
@@ -1221,8 +1251,50 @@
         "url": "https://heavy.com/sports/mlb/new-york-yankees/new-york-yankees-announce-paul-goldschmidt-decision/",
         "title": "New York Yankees Announce Paul Goldschmidt Decision Before Diamondbacks Series",
         "body_characters": 1874
+      },
+      {
+        "source": "heavy.com",
+        "url": "https://heavy.com/sports/mlb/new-york-yankees/surprising-jose-caballero-change-diamondbacks-series/",
+        "title": "New York Yankees Announce Surprising José Caballero Change Amid Diamondbacks Series",
+        "body_characters": 1909
       }
     ]
+  },
+  {
+    "id": "cde38e2490e683e8972e",
+    "title": "Spencer Jones Injury: Battling foot soreness",
+    "source": "RotoWire",
+    "author": "RotoWire Staff",
+    "url": "https://www.rotowire.com/baseball/headlines/spencer-jones-injury-battling-foot-soreness-1026291",
+    "published_iso": "2026-09-19T21:39:41+00:00",
+    "published_rfc2822": "Sat, 19 Sep 2026 21:39:41 +0000",
+    "body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
+    "tracked_people": [
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Spencer Jones Injury: Battling foot soreness",
+    "original_body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
+    "rss_title": "Spencer Jones Injury: Battling foot soreness",
+    "rss_body": "Spencer Jones Injury: Battling foot soreness\nJones said Saturday that he is dealing with a sore left foot/heel, Brendan Kuty of The Athletic reports.\nJones didn't seem to be overly concerned about his foot, but the Yankees will err on the side of caution and give him the day off so he can recover. While he sits, Jose Caballero will patrol center field Saturday against the Diamondbacks.",
+    "translation_status": "fallback_original"
   },
   {
     "id": "de940d6fa11047e64640",
