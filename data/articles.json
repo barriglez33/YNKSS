@@ -1,43 +1,29 @@
 [
   {
-    "id": "97ccc17b279b07e8015d",
-    "title": "New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series",
-    "source": "Yahoo Sports",
-    "author": "TJ French",
-    "url": "https://sports.yahoo.com/articles/york-yankees-face-jazz-chisholm-013058234.html",
-    "published_iso": "2026-09-22T01:30:00+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 01:30:00 +0000",
-    "body": "The New York Yankees will begin a four-game set with the Tampa Bay Rays on Tuesday evening, which has divisional implications, but more so for the Rays, who will likely clinch the AL East with just a series split.\nNew York would have to basically sweep the 4-game set to have a chance on the final weekend of the season.\nAnyway, there is still a lot on the line, and as October nears, teams with high aspirations like the Yankees are looking to get all their players healthy and feeling right.\nThat includes Jazz Chisholm Jr., who is expected to be part of the postseason fold despite being injured for the past couple of weeks.\nMore MLB on Heavy: New York Yankees Issued Major Aaron Judge Warning Amid Injury\nJazz Chisholm Jr. Could be Activated on Tuesday\nPer multiple reports, Jazz Chisholm Jr. could be activated on Tuesday for the Yankees series with the Rays.\nThe Yankees-Rays will play a split doubleheader on Tuesday, and then the series will roll until Friday.\nWith Jazz returning to the fold, it puts the Yankees at a crossroads with their infielder alignment.\nAnthony Volpe has been a solid hitter for New York all season, and Aaron Boone may want to keep him in the fold, so there's some reason to believe Jazz could end up playing some third base.\nMore MLB on Heavy: Houston Astros Announce Personal Yainer Diaz News Before Mariners Series\nNew York Yankees Facing Jazz Chisholm Jr. Decision Upon Return\nNow, it will likely be purely matchup-based, but the Yankees will have to potentially shift things around with their crowded infield.\nRyan McMahon hasn't been good enough at the plate to warrant any playoff at-bats, even against RHP, so Jazz could slot in at third against righties going forward.\nNow, when there's a lefty on the mound, Chisholm Jr. might not even play at all, which would make some sense.\nThinking about the outlook of the Yankees' playoff picture, if the playoffs started tomorrow, New York would host Boston in a 3-game series, then would play the top-seeded Rays afterwards (if they were to win).\nIt's a very interesting Jazz Chisholm Jr. decision, and Boone's hand will be tipped off a little bit by how he utilizes Jazz in the final week of the season.\nMore MLB on Heavy: Los Angeles Dodgers Josue De Paula Shares Honest Message Amid Defensive Criticism\nThis article was originally published on HEAVY\nThe post New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series appeared first on HEAVY.",
+    "id": "c69e4dca960a994c5c1e",
+    "title": "Yankees reveal Aaron Judge’s status for potential Red Sox playoff series",
+    "source": "Boston Herald",
+    "author": "Gabrielle Starr",
+    "url": "https://www.bostonherald.com/2026/09/22/red-sox-new-york-yankees-aaron-judge-injury-update-wild-card-series-aaron-boone-mlb-news/",
+    "published_iso": "2026-09-22T16:33:52+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:33:52 +0000",
+    "body": "New York Yankees captain Aaron Judge has a “moderate” calf strain, and is not expected to be available for next week’s Wild Card Series, manager Aaron Boone told reporters on Tuesday morning.\n“We’re not planning on him being a part of that,” said Boone, who announced that Judge had a Platelet-Poor Plasma injection during Monday’s off-day. (PPP injections are geared toward muscle recovery, as they offer a less inflammatory option than the Platelet-Rich Plasma (PRP) injections commonly used for joint injuries.)\nThe news is highly relevant for the Boston Red Sox, who are almost certainly set to face their rivals in a rematch of last year’s first round at Yankee Stadium, which the home team took 2-1. Judge went 4 for 11 (.364) with an RBI and two strikeouts in the series.\nJudge, 34, is coming off back-to-back American League MVP seasons, and three MVP titles in the last four years. Since the start of 2021 he has hit .306 with a 1.075 OPS, and averaged 49.8 home runs per season (249 in 721 regular-season games).\nInjuries cost Judge the majority of 2026, but he remains one of the most fearsome sluggers in the game; his 18 home runs in a mere 66 games would rank fourth on the Red Sox roster this year.",
     "tracked_people": [
       {
         "name": "Aaron Judge",
         "role": "Outfielder",
         "status": "Active (Reinstated from 60-day IL)",
-        "type": "player"
-      },
-      {
-        "name": "Ryan McMahon",
-        "role": "Third Baseman",
-        "status": "Active (Reinstated from 10-day IL)",
-        "type": "player"
-      },
-      {
-        "name": "Anthony Volpe",
-        "role": "Shortstop",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Jazz Chisholm Jr.",
-        "role": "Infielder / Outfielder",
-        "status": "10-day Injured List",
-        "type": "player"
+        "type": "player",
+        "id": 3,
+        "batch": 1
       },
       {
         "name": "Aaron Boone",
         "role": "Head Coach",
         "status": "Coaching Staff",
-        "type": "staff"
+        "type": "staff",
+        "id": 30,
+        "batch": 2
       }
     ],
     "source_languages": [],
@@ -47,25 +33,219 @@
     "discovery_sources": [
       "Google News"
     ],
-    "original_title": "New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series",
-    "original_body": "The New York Yankees will begin a four-game set with the Tampa Bay Rays on Tuesday evening, which has divisional implications, but more so for the Rays, who will likely clinch the AL East with just a series split.\nNew York would have to basically sweep the 4-game set to have a chance on the final weekend of the season.\nAnyway, there is still a lot on the line, and as October nears, teams with high aspirations like the Yankees are looking to get all their players healthy and feeling right.\nThat includes Jazz Chisholm Jr., who is expected to be part of the postseason fold despite being injured for the past couple of weeks.\nMore MLB on Heavy: New York Yankees Issued Major Aaron Judge Warning Amid Injury\nJazz Chisholm Jr. Could be Activated on Tuesday\nPer multiple reports, Jazz Chisholm Jr. could be activated on Tuesday for the Yankees series with the Rays.\nThe Yankees-Rays will play a split doubleheader on Tuesday, and then the series will roll until Friday.\nWith Jazz returning to the fold, it puts the Yankees at a crossroads with their infielder alignment.\nAnthony Volpe has been a solid hitter for New York all season, and Aaron Boone may want to keep him in the fold, so there's some reason to believe Jazz could end up playing some third base.\nMore MLB on Heavy: Houston Astros Announce Personal Yainer Diaz News Before Mariners Series\nNew York Yankees Facing Jazz Chisholm Jr. Decision Upon Return\nNow, it will likely be purely matchup-based, but the Yankees will have to potentially shift things around with their crowded infield.\nRyan McMahon hasn't been good enough at the plate to warrant any playoff at-bats, even against RHP, so Jazz could slot in at third against righties going forward.\nNow, when there's a lefty on the mound, Chisholm Jr. might not even play at all, which would make some sense.\nThinking about the outlook of the Yankees' playoff picture, if the playoffs started tomorrow, New York would host Boston in a 3-game series, then would play the top-seeded Rays afterwards (if they were to win).\nIt's a very interesting Jazz Chisholm Jr. decision, and Boone's hand will be tipped off a little bit by how he utilizes Jazz in the final week of the season.\nMore MLB on Heavy: Los Angeles Dodgers Josue De Paula Shares Honest Message Amid Defensive Criticism\nThis article was originally published on HEAVY\nThe post New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series appeared first on HEAVY.",
-    "rss_title": "New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series",
-    "rss_body": "The New York Yankees will begin a four-game set with the Tampa Bay Rays on Tuesday evening, which has divisional implications, but more so for the Rays, who will likely clinch the AL East with just a series split.\nNew York would have to basically sweep the 4-game set to have a chance on the final weekend of the season.\nAnyway, there is still a lot on the line, and as October nears, teams with high aspirations like the Yankees are looking to get all their players healthy and feeling right.\nThat includes Jazz Chisholm Jr., who is expected to be part of the postseason fold despite being injured for the past couple of weeks.\nMore MLB on Heavy: New York Yankees Issued Major Aaron Judge Warning Amid Injury\nJazz Chisholm Jr. Could be Activated on Tuesday\nPer multiple reports, Jazz Chisholm Jr. could be activated on Tuesday for the Yankees series with the Rays.\nThe Yankees-Rays will play a split doubleheader on Tuesday, and then the series will roll until Friday.\nWith Jazz returning to the fold, it puts the Yankees at a crossroads with their infielder alignment.\nAnthony Volpe has been a solid hitter for New York all season, and Aaron Boone may want to keep him in the fold, so there's some reason to believe Jazz could end up playing some third base.\nMore MLB on Heavy: Houston Astros Announce Personal Yainer Diaz News Before Mariners Series\nNew York Yankees Facing Jazz Chisholm Jr. Decision Upon Return\nNow, it will likely be purely matchup-based, but the Yankees will have to potentially shift things around with their crowded infield.\nRyan McMahon hasn't been good enough at the plate to warrant any playoff at-bats, even against RHP, so Jazz could slot in at third against righties going forward.\nNow, when there's a lefty on the mound, Chisholm Jr. might not even play at all, which would make some sense.\nThinking about the outlook of the Yankees' playoff picture, if the playoffs started tomorrow, New York would host Boston in a 3-game series, then would play the top-seeded Rays afterwards (if they were to win).\nIt's a very interesting Jazz Chisholm Jr. decision, and Boone's hand will be tipped off a little bit by how he utilizes Jazz in the final week of the season.\nMore MLB on Heavy: Los Angeles Dodgers Josue De Paula Shares Honest Message Amid Defensive Criticism\nThis article was originally published on HEAVY\nThe post New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series appeared first on HEAVY.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
+    "original_title": "Yankees reveal Aaron Judge’s status for potential Red Sox playoff series",
+    "original_body": "New York Yankees captain Aaron Judge has a “moderate” calf strain, and is not expected to be available for next week’s Wild Card Series, manager Aaron Boone told reporters on Tuesday morning.\n“We’re not planning on him being a part of that,” said Boone, who announced that Judge had a Platelet-Poor Plasma injection during Monday’s off-day. (PPP injections are geared toward muscle recovery, as they offer a less inflammatory option than the Platelet-Rich Plasma (PRP) injections commonly used for joint injuries.)\nThe news is highly relevant for the Boston Red Sox, who are almost certainly set to face their rivals in a rematch of last year’s first round at Yankee Stadium, which the home team took 2-1. Judge went 4 for 11 (.364) with an RBI and two strikeouts in the series.\nJudge, 34, is coming off back-to-back American League MVP seasons, and three MVP titles in the last four years. Since the start of 2021 he has hit .306 with a 1.075 OPS, and averaged 49.8 home runs per season (249 in 721 regular-season games).\nInjuries cost Judge the majority of 2026, but he remains one of the most fearsome sluggers in the game; his 18 home runs in a mere 66 games would rank fourth on the Red Sox roster this year.",
+    "rss_title": "Yankees reveal Aaron Judge’s status for potential Red Sox playoff series",
+    "rss_body": "New York Yankees captain Aaron Judge has a “moderate” calf strain, and is not expected to be available for next week’s Wild Card Series, manager Aaron Boone told reporters on Tuesday morning.\n“We’re not planning on him being a part of that,” said Boone, who announced that Judge had a Platelet-Poor Plasma injection during Monday’s off-day. (PPP injections are geared toward muscle recovery, as they offer a less inflammatory option than the Platelet-Rich Plasma (PRP) injections commonly used for joint injuries.)\nThe news is highly relevant for the Boston Red Sox, who are almost certainly set to face their rivals in a rematch of last year’s first round at Yankee Stadium, which the home team took 2-1. Judge went 4 for 11 (.364) with an RBI and two strikeouts in the series.\nJudge, 34, is coming off back-to-back American League MVP seasons, and three MVP titles in the last four years. Since the start of 2021 he has hit .306 with a 1.075 OPS, and averaged 49.8 home runs per season (249 in 721 regular-season games).\nInjuries cost Judge the majority of 2026, but he remains one of the most fearsome sluggers in the game; his 18 home runs in a mere 66 games would rank fourth on the Red Sox roster this year.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a8494bc8c48e047fff7b",
+    "title": "Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone",
+    "source": "Yahoo Sports",
+    "author": "Sean Leahy",
+    "url": "https://sports.yahoo.com/mlb/breaking-news/article/yankees-aaron-judge-set-to-miss-wild-card-series-says-aaron-boone-155536040.html",
+    "published_iso": "2026-09-22T16:30:31+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:30:31 +0000",
+    "body": "Aaron Judge is not expected to be part of the New York Yankees' roster when they begin their wild-card series next week against their likely opponents, the Boston Red Sox, manager Aaron Boone said Tuesday.\nThe Yankees slugger was placed on the 10-day injured list Friday with a right calf strain. He was eligible to return on Sept. 27, the day of the Yankees' regular-season finale, but now it appears Judge will be out longer.\nRegarding Judge's status for the opening round, Boone told reporters, \"We're planning on him not being a part of that,\" and noted that Judge received a PPP injection and is dealing with a \"moderate grade\" calf strain.\nJudge returned Sept. 8 following a three-month IL stint due to a stress fracture in his ribs. Over his seven games back, he went 4-for-23 with 1 home run and 13 strikeouts.\nA three-time AL MVP, Judge's 2026 season has been one to forget for the slugger. He got off to a slow start by his standards, slashing only .248/.375/.533 until the Yankees placed him on the IL in early June. Those struggles were partially due to the rib injury, which he reportedly tried to play through for six weeks.\nThe Yankees have seven games to play and finish the regular season this week at home against the AL East-leading Tampa Bay Rays and Baltimore Orioles. The AL wild-card series is scheduled to begin Sept. 29, and New York is on pace to meet Boston for the second straight postseason.",
+    "tracked_people": [
       {
-        "source": "heavy.com",
-        "url": "https://heavy.com/sports/mlb/new-york-yankees/new-york-yankees-jazz-chisholm-jr-news-rays-series/",
-        "title": "New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series",
-        "body_characters": 2292
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
       },
       {
-        "source": "heavy.com",
-        "url": "https://heavy.com/sports/mlb/new-york-yankees/new-york-yankees-announce-ryan-mcmahon-decision-before-rays-series/",
-        "title": "New York Yankees Announce Ryan McMahon Decision Before Rays Series",
-        "body_characters": 1815
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
       }
-    ]
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone",
+    "original_body": "Aaron Judge is not expected to be part of the New York Yankees' roster when they begin their wild-card series next week against their likely opponents, the Boston Red Sox, manager Aaron Boone said Tuesday.\nThe Yankees slugger was placed on the 10-day injured list Friday with a right calf strain. He was eligible to return on Sept. 27, the day of the Yankees' regular-season finale, but now it appears Judge will be out longer.\nRegarding Judge's status for the opening round, Boone told reporters, \"We're planning on him not being a part of that,\" and noted that Judge received a PPP injection and is dealing with a \"moderate grade\" calf strain.\nJudge returned Sept. 8 following a three-month IL stint due to a stress fracture in his ribs. Over his seven games back, he went 4-for-23 with 1 home run and 13 strikeouts.\nA three-time AL MVP, Judge's 2026 season has been one to forget for the slugger. He got off to a slow start by his standards, slashing only .248/.375/.533 until the Yankees placed him on the IL in early June. Those struggles were partially due to the rib injury, which he reportedly tried to play through for six weeks.\nThe Yankees have seven games to play and finish the regular season this week at home against the AL East-leading Tampa Bay Rays and Baltimore Orioles. The AL wild-card series is scheduled to begin Sept. 29, and New York is on pace to meet Boston for the second straight postseason.",
+    "rss_title": "Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone",
+    "rss_body": "Aaron Judge is not expected to be part of the New York Yankees' roster when they begin their wild-card series next week against their likely opponents, the Boston Red Sox, manager Aaron Boone said Tuesday.\nThe Yankees slugger was placed on the 10-day injured list Friday with a right calf strain. He was eligible to return on Sept. 27, the day of the Yankees' regular-season finale, but now it appears Judge will be out longer.\nRegarding Judge's status for the opening round, Boone told reporters, \"We're planning on him not being a part of that,\" and noted that Judge received a PPP injection and is dealing with a \"moderate grade\" calf strain.\nJudge returned Sept. 8 following a three-month IL stint due to a stress fracture in his ribs. Over his seven games back, he went 4-for-23 with 1 home run and 13 strikeouts.\nA three-time AL MVP, Judge's 2026 season has been one to forget for the slugger. He got off to a slow start by his standards, slashing only .248/.375/.533 until the Yankees placed him on the IL in early June. Those struggles were partially due to the rib injury, which he reportedly tried to play through for six weeks.\nThe Yankees have seven games to play and finish the regular season this week at home against the AL East-leading Tampa Bay Rays and Baltimore Orioles. The AL wild-card series is scheduled to begin Sept. 29, and New York is on pace to meet Boston for the second straight postseason.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "42279ac86f7b20b4f9e2",
+    "title": "Jazz Chisholm Jr. to be activated from IL",
+    "source": "Pinstripe Alley",
+    "author": "Dani Mohr",
+    "url": "https://www.pinstripealley.com/yankees-injuries/208623/yankees-jazz-chisholm-jr-activated-rays-series",
+    "published_iso": "2026-09-22T16:27:09+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:27:09 +0000",
+    "body": "Aaron Boone shared a more positive update on Jazz Chisholm Jr. ahead of the series opener against the Rays on Tuesday.\nThe Yankees infielder is to be activated between games of the doubleheader and is expected to return to the lineup for the second game against Tampa Bay. Chisholm Jr. initially landed on the injured list approximately two weeks ago with a right thumb sprain.\nHe was always expected to return for the postseason, but it will certainly be exciting to see him get some reps before all the chaos begins. Missing Aaron Judge from the Wild Card series, the Pinstripes will need all the power they can get to gain some momentum on offense. This also raises some key questions about who will be put where in the infield once the postseason comes along.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Jazz Chisholm Jr. to be activated from IL",
+    "original_body": "Aaron Boone shared a more positive update on Jazz Chisholm Jr. ahead of the series opener against the Rays on Tuesday.\nThe Yankees infielder is to be activated between games of the doubleheader and is expected to return to the lineup for the second game against Tampa Bay. Chisholm Jr. initially landed on the injured list approximately two weeks ago with a right thumb sprain.\nHe was always expected to return for the postseason, but it will certainly be exciting to see him get some reps before all the chaos begins. Missing Aaron Judge from the Wild Card series, the Pinstripes will need all the power they can get to gain some momentum on offense. This also raises some key questions about who will be put where in the infield once the postseason comes along.",
+    "rss_title": "Jazz Chisholm Jr. to be activated from IL",
+    "rss_body": "Aaron Boone shared a more positive update on Jazz Chisholm Jr. ahead of the series opener against the Rays on Tuesday.\nThe Yankees infielder is to be activated between games of the doubleheader and is expected to return to the lineup for the second game against Tampa Bay. Chisholm Jr. initially landed on the injured list approximately two weeks ago with a right thumb sprain.\nHe was always expected to return for the postseason, but it will certainly be exciting to see him get some reps before all the chaos begins. Missing Aaron Judge from the Wild Card series, the Pinstripes will need all the power they can get to gain some momentum on offense. This also raises some key questions about who will be put where in the infield once the postseason comes along.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a494cbf12e72e18c8130",
+    "title": "Yankees Should Keep Jazz Chisholm Jr. at Second Base Over Anthony Volpe",
+    "source": "Sports Illustrated",
+    "author": "Joseph Randazzo; Unknown",
+    "url": "https://www.si.com/mlb/yankees/onsi/yankees-should-keep-jazz-chisholm-jr-at-second-base-over-anthony-volpe-01m34cberr3p",
+    "published_iso": "2026-09-22T16:00:01+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:00:01 +0000",
+    "body": "It was easy for everybody to get ahead of themselves when Anthony Volpe had a big first game back against the Colorado Rockies. Jazz Chisholm Jr. had just gone down, and Volpe delivered a three-hit night capped by a grand slam. At that point, Volpe had gone through a torrid home run streak in the minors, so the thought was that if he replicated it in the big leagues, maybe he could usurp Chisholm.\nWhile Volpe's teammates at Triple-A saw the version of him that closely resembled an infield Barry Bonds, he just wasn't that after that first game. Since then, Volpe has gone 7-for-33. He didn't hit a home run and had just two doubles in that span. In many ways, his .226/.263/.290 slash line is about where he has always been as a big leaguer.\nThat is why, since Chisholm will be playing in the second game of Tuesday night's doubleheader vs. the Rays, per Chris Kirschner of The Athletic, there's no reason to debate who takes second base. The answer is easily Chisholm. Chisholm hasn't had the best season, but in the postseason, he's more of a threat at the plate and on the basepaths. Chisholm has 19 homers this year with 40 stolen bases. Overall, he's hitting .232/.312/.403 at the plate.\nThen, of course, there's the defense. That's why a hitter who's been at or below a 100 wRC+ all year can post a 3.2 WAR, according to FanGraphs. This year, Chisholm also has 12 Outs Above Average at the position, per Baseball Savant.\nIt does feel like Chisholm is the priority, too, once he's back. According to manager Aaron Boone, when asked about Volpe's status and the possibility of him playing at third base, the focus was on getting Chisholm back.\n\"We'll see,\" Boone said of Volpe getting reps at the hot corner, according to the New York Post's Greg Joyce. \"First things first, getting Jazz back, and then we'll figure it out as the week unfolds, how I want to play it.\"\nPotential infield configuration against a lefty\nIf the Yankees face a tough lefty in October and aren't too keen on playing Ryan McMahon, who has a 74 wRC+, and Chisholm, they might have a choice here. They could stick with Chisholm at second and have either Jose Caballero or Anthony Volpe play third base.\nThey could also have Chisholm go back to third base and have Volpe at second. That way, they keep the better player on the field while also getting a righty at second or third.\nWith Aaron Judge out, Chisholm could boost the lineup. He's had a tough year, but a big October could make up for some regular-season woes.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Should Keep Jazz Chisholm Jr. at Second Base Over Anthony Volpe",
+    "original_body": "It was easy for everybody to get ahead of themselves when Anthony Volpe had a big first game back against the Colorado Rockies. Jazz Chisholm Jr. had just gone down, and Volpe delivered a three-hit night capped by a grand slam. At that point, Volpe had gone through a torrid home run streak in the minors, so the thought was that if he replicated it in the big leagues, maybe he could usurp Chisholm.\nWhile Volpe's teammates at Triple-A saw the version of him that closely resembled an infield Barry Bonds, he just wasn't that after that first game. Since then, Volpe has gone 7-for-33. He didn't hit a home run and had just two doubles in that span. In many ways, his .226/.263/.290 slash line is about where he has always been as a big leaguer.\nThat is why, since Chisholm will be playing in the second game of Tuesday night's doubleheader vs. the Rays, per Chris Kirschner of The Athletic, there's no reason to debate who takes second base. The answer is easily Chisholm. Chisholm hasn't had the best season, but in the postseason, he's more of a threat at the plate and on the basepaths. Chisholm has 19 homers this year with 40 stolen bases. Overall, he's hitting .232/.312/.403 at the plate.\nThen, of course, there's the defense. That's why a hitter who's been at or below a 100 wRC+ all year can post a 3.2 WAR, according to FanGraphs. This year, Chisholm also has 12 Outs Above Average at the position, per Baseball Savant.\nIt does feel like Chisholm is the priority, too, once he's back. According to manager Aaron Boone, when asked about Volpe's status and the possibility of him playing at third base, the focus was on getting Chisholm back.\n\"We'll see,\" Boone said of Volpe getting reps at the hot corner, according to the New York Post's Greg Joyce. \"First things first, getting Jazz back, and then we'll figure it out as the week unfolds, how I want to play it.\"\nPotential infield configuration against a lefty\nIf the Yankees face a tough lefty in October and aren't too keen on playing Ryan McMahon, who has a 74 wRC+, and Chisholm, they might have a choice here. They could stick with Chisholm at second and have either Jose Caballero or Anthony Volpe play third base.\nThey could also have Chisholm go back to third base and have Volpe at second. That way, they keep the better player on the field while also getting a righty at second or third.\nWith Aaron Judge out, Chisholm could boost the lineup. He's had a tough year, but a big October could make up for some regular-season woes.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "rss_title": "Yankees Should Keep Jazz Chisholm Jr. at Second Base Over Anthony Volpe",
+    "rss_body": "It was easy for everybody to get ahead of themselves when Anthony Volpe had a big first game back against the Colorado Rockies. Jazz Chisholm Jr. had just gone down, and Volpe delivered a three-hit night capped by a grand slam. At that point, Volpe had gone through a torrid home run streak in the minors, so the thought was that if he replicated it in the big leagues, maybe he could usurp Chisholm.\nWhile Volpe's teammates at Triple-A saw the version of him that closely resembled an infield Barry Bonds, he just wasn't that after that first game. Since then, Volpe has gone 7-for-33. He didn't hit a home run and had just two doubles in that span. In many ways, his .226/.263/.290 slash line is about where he has always been as a big leaguer.\nThat is why, since Chisholm will be playing in the second game of Tuesday night's doubleheader vs. the Rays, per Chris Kirschner of The Athletic, there's no reason to debate who takes second base. The answer is easily Chisholm. Chisholm hasn't had the best season, but in the postseason, he's more of a threat at the plate and on the basepaths. Chisholm has 19 homers this year with 40 stolen bases. Overall, he's hitting .232/.312/.403 at the plate.\nThen, of course, there's the defense. That's why a hitter who's been at or below a 100 wRC+ all year can post a 3.2 WAR, according to FanGraphs. This year, Chisholm also has 12 Outs Above Average at the position, per Baseball Savant.\nIt does feel like Chisholm is the priority, too, once he's back. According to manager Aaron Boone, when asked about Volpe's status and the possibility of him playing at third base, the focus was on getting Chisholm back.\n\"We'll see,\" Boone said of Volpe getting reps at the hot corner, according to the New York Post's Greg Joyce. \"First things first, getting Jazz back, and then we'll figure it out as the week unfolds, how I want to play it.\"\nPotential infield configuration against a lefty\nIf the Yankees face a tough lefty in October and aren't too keen on playing Ryan McMahon, who has a 74 wRC+, and Chisholm, they might have a choice here. They could stick with Chisholm at second and have either Jose Caballero or Anthony Volpe play third base.\nThey could also have Chisholm go back to third base and have Volpe at second. That way, they keep the better player on the field while also getting a righty at second or third.\nWith Aaron Judge out, Chisholm could boost the lineup. He's had a tough year, but a big October could make up for some regular-season woes.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "5ac9737887eee719ce30",
+    "title": "Do you blame Aaron Boone, Brian Cashman, or Rays for Yankees' playoff reality?",
+    "source": "Yanks Go Yard",
+    "author": "Adam Weinrib",
+    "url": "https://yanksgoyard.com/do-you-blame-aaron-boone-brian-cashman-or-rays-for-yankees-playoff-reality",
+    "published_iso": "2026-09-22T15:42:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 15:42:00 +0000",
+    "body": "The Tampa Bay Rays come to town today for four games in three days. There's a mid-50s chill in the air. Every step you take alternates between dewy grass and dry leaves. It's October baseball, baby.\nExcept, because of the way the standings are situated, the Yankees will likely need to win at least one playoff game to even reach the actual month of October. One Rays win out of four games this week sentences the Yankees to the Wild Card round against the Red Sox, taking place Sept. 29-Oct. 1. That's not how it was supposed to be, but that's how it is.\nDo you rage at the sky? The Yankees went through a 5-15 stretch midsummer, then steered out of it nicely, playing some of the best ball in the league in August and September without their Captain. But the Rays were still better. Every time the Yankees won, seemingly so did the Rays. Ditto for losses. They synced their inanity pretty nicely with one another. At one point, the Rays hit a game-tying home run with two outs in the ninth off Mason Miller that was in a Padre's glove and was dropped over the fence. Do you tip your cap, or does the Rays' relentlessness make you angrier?\nAaron Boone, Brian Cashman to blame for Yankees' Wild Card reality?\nDo you blame Aaron Boone? The best argument for ditching him with an underwhelming playoff finish is the same as it's always been for me: Time for a new voice. Something has to change. The other arguments ring kind of hollow this year, to be honest. He's manned the ship during a season where injuries should've killed the Yankees, not just derailed them from the pursuit of their primary goal of winning the AL East, but didn't at all. He's done a fantastic job managing an undermanned bullpen.\nDo we blame the man who gave him the undermanned bullpen? I lean more in that direction. Brian Cashman's hubris led him to believe the waiver wire and his surplus of injured starting pitchers would build a better bullpen than what was available all offseason/at the trade deadline. We'll see if he's right, but he already failed to account for August wear-and-tear. He crowded the DH room with purpose, forcing Aaron Judge back into right field, then back onto the IL. We needed bats. We didn't necessarily need an added logjam of non-fielders.\nUnless the Yankees can somehow sweep a four-game series, including a doubleheader, this week, the Rays will celebrate on their turf. Will it motivate them more than it motivates you, the general fan, some of whom have already counted them out? It had better. Leaving this series with a bad taste in their mouths could pay dividends. It could also end their season before October begins.\nThis article has been reprinted (with additions and addendums) from the morning edition of the Yanks Go Yard Newsletter. If you'd like to subscribe, sign up here!",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Do you blame Aaron Boone, Brian Cashman, or Rays for Yankees' playoff reality?",
+    "original_body": "The Tampa Bay Rays come to town today for four games in three days. There's a mid-50s chill in the air. Every step you take alternates between dewy grass and dry leaves. It's October baseball, baby.\nExcept, because of the way the standings are situated, the Yankees will likely need to win at least one playoff game to even reach the actual month of October. One Rays win out of four games this week sentences the Yankees to the Wild Card round against the Red Sox, taking place Sept. 29-Oct. 1. That's not how it was supposed to be, but that's how it is.\nDo you rage at the sky? The Yankees went through a 5-15 stretch midsummer, then steered out of it nicely, playing some of the best ball in the league in August and September without their Captain. But the Rays were still better. Every time the Yankees won, seemingly so did the Rays. Ditto for losses. They synced their inanity pretty nicely with one another. At one point, the Rays hit a game-tying home run with two outs in the ninth off Mason Miller that was in a Padre's glove and was dropped over the fence. Do you tip your cap, or does the Rays' relentlessness make you angrier?\nAaron Boone, Brian Cashman to blame for Yankees' Wild Card reality?\nDo you blame Aaron Boone? The best argument for ditching him with an underwhelming playoff finish is the same as it's always been for me: Time for a new voice. Something has to change. The other arguments ring kind of hollow this year, to be honest. He's manned the ship during a season where injuries should've killed the Yankees, not just derailed them from the pursuit of their primary goal of winning the AL East, but didn't at all. He's done a fantastic job managing an undermanned bullpen.\nDo we blame the man who gave him the undermanned bullpen? I lean more in that direction. Brian Cashman's hubris led him to believe the waiver wire and his surplus of injured starting pitchers would build a better bullpen than what was available all offseason/at the trade deadline. We'll see if he's right, but he already failed to account for August wear-and-tear. He crowded the DH room with purpose, forcing Aaron Judge back into right field, then back onto the IL. We needed bats. We didn't necessarily need an added logjam of non-fielders.\nUnless the Yankees can somehow sweep a four-game series, including a doubleheader, this week, the Rays will celebrate on their turf. Will it motivate them more than it motivates you, the general fan, some of whom have already counted them out? It had better. Leaving this series with a bad taste in their mouths could pay dividends. It could also end their season before October begins.\nThis article has been reprinted (with additions and addendums) from the morning edition of the Yanks Go Yard Newsletter. If you'd like to subscribe, sign up here!",
+    "rss_title": "Do you blame Aaron Boone, Brian Cashman, or Rays for Yankees' playoff reality?",
+    "rss_body": "The Tampa Bay Rays come to town today for four games in three days. There's a mid-50s chill in the air. Every step you take alternates between dewy grass and dry leaves. It's October baseball, baby.\nExcept, because of the way the standings are situated, the Yankees will likely need to win at least one playoff game to even reach the actual month of October. One Rays win out of four games this week sentences the Yankees to the Wild Card round against the Red Sox, taking place Sept. 29-Oct. 1. That's not how it was supposed to be, but that's how it is.\nDo you rage at the sky? The Yankees went through a 5-15 stretch midsummer, then steered out of it nicely, playing some of the best ball in the league in August and September without their Captain. But the Rays were still better. Every time the Yankees won, seemingly so did the Rays. Ditto for losses. They synced their inanity pretty nicely with one another. At one point, the Rays hit a game-tying home run with two outs in the ninth off Mason Miller that was in a Padre's glove and was dropped over the fence. Do you tip your cap, or does the Rays' relentlessness make you angrier?\nAaron Boone, Brian Cashman to blame for Yankees' Wild Card reality?\nDo you blame Aaron Boone? The best argument for ditching him with an underwhelming playoff finish is the same as it's always been for me: Time for a new voice. Something has to change. The other arguments ring kind of hollow this year, to be honest. He's manned the ship during a season where injuries should've killed the Yankees, not just derailed them from the pursuit of their primary goal of winning the AL East, but didn't at all. He's done a fantastic job managing an undermanned bullpen.\nDo we blame the man who gave him the undermanned bullpen? I lean more in that direction. Brian Cashman's hubris led him to believe the waiver wire and his surplus of injured starting pitchers would build a better bullpen than what was available all offseason/at the trade deadline. We'll see if he's right, but he already failed to account for August wear-and-tear. He crowded the DH room with purpose, forcing Aaron Judge back into right field, then back onto the IL. We needed bats. We didn't necessarily need an added logjam of non-fielders.\nUnless the Yankees can somehow sweep a four-game series, including a doubleheader, this week, the Rays will celebrate on their turf. Will it motivate them more than it motivates you, the general fan, some of whom have already counted them out? It had better. Leaving this series with a bad taste in their mouths could pay dividends. It could also end their season before October begins.\nThis article has been reprinted (with additions and addendums) from the morning edition of the Yanks Go Yard Newsletter. If you'd like to subscribe, sign up here!",
+    "translation_status": "fallback_original"
   },
   {
     "id": "25767c17843d650e2d5f",
@@ -298,6 +478,54 @@
     "rss_title": "McMahon on bench yet again for Yankees",
     "rss_body": "Ryan McMahon is on the bench for the first game of the doubleheader on Tuesday against the Rays.\n            \n                This is now the third straight game that McMahon has been on the bench. Jose Caballero is starting at third base, as he has in the last two games. McMahon may start in the second game of the doubleheader, but it would be safe to say that he has lost the primary share of the third base job to Caballero.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "9f548b059bebc1681d6f",
+    "title": "New York Yankees Announce Major Jazz Chisholm Jr. News Before Rays Series",
+    "source": "heavy.com",
+    "author": "Jackson Kruse",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/jazz-chisholm-announcement-before-rays-series/",
+    "published_iso": "2026-09-22T15:20:49+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 15:20:49 +0000",
+    "body": "NEW YORK, NEW YORK - MAY 18: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a two-run home run during the seventh inning against the Toronto Blue Jays at Yankee Stadium on May 18, 2026 in the Bronx borough of New York City. (Photo by Ishika Samant/Getty Images)\nThe New York Yankees are set to begin a four-game series against the Tampa Bay Rays at Yankee Stadium, starting with a doubleheader on Tuesday.\nBefore the series began, Yankees manager Aaron Boone announced major news involving second baseman Jazz Chisholm Jr., who has been on the injured list since Sept. 10 with a sprained right thumb.\nNew York Yankees’ Aaron Boone Announces Jazz Chisholm Jr. News Before Tampa Bay Rays Series\nChisholm said he will play in Game 2 of Tuesday’s doubleheader, according to multiple reports.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a solo homerun during the first inning of a game against the Los Angeles Angels at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm is set to be a free agent at the end of the season.\nThe second baseman has had a rough year at the plate for his standards, slashing .232/.312/.403 over 134 games.\nGettyNEW YORK, NEW YORK – AUGUST 23: Jazz Chisholm Jr. #13 of the New York Yankees looks on during the second inning against the Toronto Blue Jays at Yankee Stadium on August 23, 2026 in the Bronx borough of New York City. (Photo by Sarah Stier/Getty Images)\nFanGraphs and Baseball Reference value Chisholm much differently.\nHe has been worth 1.5 bWAR and 3.4 fWAR this year.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees is late with a tag on Oswald Peraza #2 after a single hit by Tyler Heineman #31 of the Los Angeles Angels during the fifth inning of a game at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm began his MLB career with the Miami Marlins in 2020.\nMiami traded him to New York during the 2024 season.\nGettyNEW YORK, NEW YORK – AUGUST 12: Jazz Chisholm Jr. #13 of the New York Yankees in action during the game against the Seattle Mariners at Yankee Stadium on August 12, 2026 in the Bronx borough of New York City. The Yankees won 10-5. (Photo by Sarah Stier/Getty Images)\nIn his three seasons with the Yankees, Chisholm has posted a .774 OPS with 61 home runs and 158 RBI.\nIn his seven-year MLB career, the second baseman has posted 14.1 bWAR, 17.8 fWAR and a .245/.315/.445 slash line. He has 127 home runs, 363 RBI and 170 stolen bases throughout his career.\nGame 1 of the doubleheader between the Yankees and Rays is scheduled to begin at 1:05 p.m. EDT. The second game will begin at 7:05 p.m. EDT.\nJackson Kruse Jackson Kruse covers Major League Baseball for Heavy Sports. He is also the site expert for FanSided's Minnesota Twins site, Puckett's Pond, and writes for Nolan Writin', FanSided's Texas Rangers site. Jackson earned a Bachelor of Science in Electronic Media from Texas State University's School of Journalism and Mass Communication. Before joining Heavy Sports and FanSided, he served as sports editor of The University Star, Texas State University's student-run newspaper. More about Jackson Kruse\n0 Comments\nNew York Yankees manager Aaron Boone announced major news regarding second baseman Jazz Chisholm Jr. before the Rays series.",
+    "tracked_people": [
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees Announce Major Jazz Chisholm Jr. News Before Rays Series",
+    "original_body": "NEW YORK, NEW YORK - MAY 18: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a two-run home run during the seventh inning against the Toronto Blue Jays at Yankee Stadium on May 18, 2026 in the Bronx borough of New York City. (Photo by Ishika Samant/Getty Images)\nThe New York Yankees are set to begin a four-game series against the Tampa Bay Rays at Yankee Stadium, starting with a doubleheader on Tuesday.\nBefore the series began, Yankees manager Aaron Boone announced major news involving second baseman Jazz Chisholm Jr., who has been on the injured list since Sept. 10 with a sprained right thumb.\nNew York Yankees’ Aaron Boone Announces Jazz Chisholm Jr. News Before Tampa Bay Rays Series\nChisholm said he will play in Game 2 of Tuesday’s doubleheader, according to multiple reports.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a solo homerun during the first inning of a game against the Los Angeles Angels at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm is set to be a free agent at the end of the season.\nThe second baseman has had a rough year at the plate for his standards, slashing .232/.312/.403 over 134 games.\nGettyNEW YORK, NEW YORK – AUGUST 23: Jazz Chisholm Jr. #13 of the New York Yankees looks on during the second inning against the Toronto Blue Jays at Yankee Stadium on August 23, 2026 in the Bronx borough of New York City. (Photo by Sarah Stier/Getty Images)\nFanGraphs and Baseball Reference value Chisholm much differently.\nHe has been worth 1.5 bWAR and 3.4 fWAR this year.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees is late with a tag on Oswald Peraza #2 after a single hit by Tyler Heineman #31 of the Los Angeles Angels during the fifth inning of a game at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm began his MLB career with the Miami Marlins in 2020.\nMiami traded him to New York during the 2024 season.\nGettyNEW YORK, NEW YORK – AUGUST 12: Jazz Chisholm Jr. #13 of the New York Yankees in action during the game against the Seattle Mariners at Yankee Stadium on August 12, 2026 in the Bronx borough of New York City. The Yankees won 10-5. (Photo by Sarah Stier/Getty Images)\nIn his three seasons with the Yankees, Chisholm has posted a .774 OPS with 61 home runs and 158 RBI.\nIn his seven-year MLB career, the second baseman has posted 14.1 bWAR, 17.8 fWAR and a .245/.315/.445 slash line. He has 127 home runs, 363 RBI and 170 stolen bases throughout his career.\nGame 1 of the doubleheader between the Yankees and Rays is scheduled to begin at 1:05 p.m. EDT. The second game will begin at 7:05 p.m. EDT.\nJackson Kruse Jackson Kruse covers Major League Baseball for Heavy Sports. He is also the site expert for FanSided's Minnesota Twins site, Puckett's Pond, and writes for Nolan Writin', FanSided's Texas Rangers site. Jackson earned a Bachelor of Science in Electronic Media from Texas State University's School of Journalism and Mass Communication. Before joining Heavy Sports and FanSided, he served as sports editor of The University Star, Texas State University's student-run newspaper. More about Jackson Kruse\n0 Comments\nNew York Yankees manager Aaron Boone announced major news regarding second baseman Jazz Chisholm Jr. before the Rays series.",
+    "rss_title": "New York Yankees Announce Major Jazz Chisholm Jr. News Before Rays Series",
+    "rss_body": "NEW YORK, NEW YORK - MAY 18: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a two-run home run during the seventh inning against the Toronto Blue Jays at Yankee Stadium on May 18, 2026 in the Bronx borough of New York City. (Photo by Ishika Samant/Getty Images)\nThe New York Yankees are set to begin a four-game series against the Tampa Bay Rays at Yankee Stadium, starting with a doubleheader on Tuesday.\nBefore the series began, Yankees manager Aaron Boone announced major news involving second baseman Jazz Chisholm Jr., who has been on the injured list since Sept. 10 with a sprained right thumb.\nNew York Yankees’ Aaron Boone Announces Jazz Chisholm Jr. News Before Tampa Bay Rays Series\nChisholm said he will play in Game 2 of Tuesday’s doubleheader, according to multiple reports.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees reacts after hitting a solo homerun during the first inning of a game against the Los Angeles Angels at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm is set to be a free agent at the end of the season.\nThe second baseman has had a rough year at the plate for his standards, slashing .232/.312/.403 over 134 games.\nGettyNEW YORK, NEW YORK – AUGUST 23: Jazz Chisholm Jr. #13 of the New York Yankees looks on during the second inning against the Toronto Blue Jays at Yankee Stadium on August 23, 2026 in the Bronx borough of New York City. (Photo by Sarah Stier/Getty Images)\nFanGraphs and Baseball Reference value Chisholm much differently.\nHe has been worth 1.5 bWAR and 3.4 fWAR this year.\nGettyANAHEIM, CALIFORNIA – SEPTEMBER 01: Jazz Chisholm Jr. #13 of the New York Yankees is late with a tag on Oswald Peraza #2 after a single hit by Tyler Heineman #31 of the Los Angeles Angels during the fifth inning of a game at Angel Stadium of Anaheim on September 01, 2026 in Anaheim, California. (Photo by Sean M. Haffey/Getty Images)\nChisholm began his MLB career with the Miami Marlins in 2020.\nMiami traded him to New York during the 2024 season.\nGettyNEW YORK, NEW YORK – AUGUST 12: Jazz Chisholm Jr. #13 of the New York Yankees in action during the game against the Seattle Mariners at Yankee Stadium on August 12, 2026 in the Bronx borough of New York City. The Yankees won 10-5. (Photo by Sarah Stier/Getty Images)\nIn his three seasons with the Yankees, Chisholm has posted a .774 OPS with 61 home runs and 158 RBI.\nIn his seven-year MLB career, the second baseman has posted 14.1 bWAR, 17.8 fWAR and a .245/.315/.445 slash line. He has 127 home runs, 363 RBI and 170 stolen bases throughout his career.\nGame 1 of the doubleheader between the Yankees and Rays is scheduled to begin at 1:05 p.m. EDT. The second game will begin at 7:05 p.m. EDT.\nJackson Kruse Jackson Kruse covers Major League Baseball for Heavy Sports. He is also the site expert for FanSided's Minnesota Twins site, Puckett's Pond, and writes for Nolan Writin', FanSided's Texas Rangers site. Jackson earned a Bachelor of Science in Electronic Media from Texas State University's School of Journalism and Mass Communication. Before joining Heavy Sports and FanSided, he served as sports editor of The University Star, Texas State University's student-run newspaper. More about Jackson Kruse\n0 Comments\nNew York Yankees manager Aaron Boone announced major news regarding second baseman Jazz Chisholm Jr. before the Rays series.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/york-yankees-face-jazz-chisholm-013058234.html",
+        "title": "New York Yankees Face Jazz Chisholm Jr. Decision Before Rays Series",
+        "body_characters": 2441
+      }
+    ]
   },
   {
     "id": "02bb4a3f470b46d85dce",
