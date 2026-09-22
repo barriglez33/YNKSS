@@ -1,5 +1,277 @@
 [
   {
+    "id": "406b81c89e29cedf0cde",
+    "title": "Aaron Judge es duda para los playoffs con los Yankees",
+    "source": "Reforma",
+    "author": "AP",
+    "url": "https://www.reforma.com/aaron-judge-es-duda-para-los-playoffs-con-los-yankees/ar3280275",
+    "published_iso": "2026-09-22T17:28:45+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 17:28:45 +0000",
+    "body": "Aaron Judge es duda para los playoffs con los Yankees\n03 MIN 00 SEG\nAP\nNueva York, Estados Unidos (22 septiembre 2026) .-11:26 hrs\nEl astro de los Yankees, Aaron Judge, recibió una inyección en la pantorrilla derecha adolorida, lo que pone su situación para la postemporada con Nueva York en aún más riesgo.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Aaron Judge es duda para los playoffs con los Yankees",
+    "original_body": "Aaron Judge es duda para los playoffs con los Yankees\n03 MIN 00 SEG\nAP\nNueva York, Estados Unidos (22 septiembre 2026) .-11:26 hrs\nEl astro de los Yankees, Aaron Judge, recibió una inyección en la pantorrilla derecha adolorida, lo que pone su situación para la postemporada con Nueva York en aún más riesgo.",
+    "rss_title": "Aaron Judge es duda para los playoffs con los Yankees",
+    "rss_body": "Aaron Judge es duda para los playoffs con los Yankees\n03 MIN 00 SEG\nAP\nNueva York, Estados Unidos (22 septiembre 2026) .-11:26 hrs\nEl astro de los Yankees, Aaron Judge, recibió una inyección en la pantorrilla derecha adolorida, lo que pone su situación para la postemporada con Nueva York en aún más riesgo.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "61653623413f9262bd78",
+    "title": "Yankees Notebook: Jazz Chisholm to return for Tuesday’s night game; Clarke Schmidt avoids disaster",
+    "source": "New York Daily News",
+    "author": "James O'Connell",
+    "url": "https://www.nydailynews.com/2026/09/22/yankees-jazz-chisholm-jr-injury-rays-clarke-schmidt-mlb-ryan-weathers-postseason/",
+    "published_iso": "2026-09-22T17:26:32+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 17:26:32 +0000",
+    "body": "A flurry of injury news came across for the battered and bruised Bronx Bombers on Tuesday at Yankee Stadium.\nWhile the team is clearly compromised and will likely be missing their best player, Aaron Judge, when the playoffs start on Sept. 29, they will be getting their second baseman back with some time to get ready for the inevitable Wild Card Series vs. the Boston Red Sox.\nJazz Chisholm Jr. is expected to be activated between games on Tuesday as the Bombers begin their four-game set with the Tampa Bay Rays with a day-night doubleheader. Chisholm Jr. has been out since Sept. 8 with a right thumb sprain.\n“He should be in a good spot and ready to go,” said manager Aaron Boone. “He’s been hitting now for several days and and throwing the last three or four days, so he should be ready to go.”\nThe 28-year-old is slashing .232/.312/.403 with 19 homers and 55 RBI in 134 games this season. The impending free agent is expected to resume duties as their starting second baseman, which likely doesn’t bode well for Anthony Volpe’s playing time.\n“Obviously, Anthony’s done a good job,” said Boone. “But looking forward to getting Jazz back as well. So, Jazz, I plan on playing Jazz at second in the night game.”\nVolpe has performed well since being recalled from Triple-A on Sept. 10, slashing .286/.324/.429 with a homer, seven RBI and four stolen bases. It remains to be seen how he will be utilized and if a platoon scenario between Volpe and Chisholm Jr. is on the table.\nCLARKE GOOD\nClarke Schmidt appears to have avoided anything major after experiencing bicep soreness while warming up during Sunday’s loss to the Arizona Diamondbacks.\n“Clark is gonna play catch [Tuesday]. He did have some testing and it looks like he’s in a pretty good spot.” Boone said. “But [he’s] gotta throw and see how he is, and then we’ll go from there. … He’s on the active roster for now, but he’s got to play catch and do all those things and see how available he is.”\nSchmidt returned from Tommy John surgery on Sept. 16 against the Minnesota Twins. He is expected to play a crucial role out of the bullpen in whatever time the Yankees have in the postseason.\nWEATHERS UPDATE\nRyan Weathers (left forearm flexor strain) will throw a side session between games on Tuesday. Weathers exited his start against the Toronto Blue Jays on Aug 22 after feeling discomfort and has not appeared in a game since.\nIf the southpaw is to return in the postseason, it will very likely be out of the bullpen.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Notebook: Jazz Chisholm to return for Tuesday’s night game; Clarke Schmidt avoids disaster",
+    "original_body": "A flurry of injury news came across for the battered and bruised Bronx Bombers on Tuesday at Yankee Stadium.\nWhile the team is clearly compromised and will likely be missing their best player, Aaron Judge, when the playoffs start on Sept. 29, they will be getting their second baseman back with some time to get ready for the inevitable Wild Card Series vs. the Boston Red Sox.\nJazz Chisholm Jr. is expected to be activated between games on Tuesday as the Bombers begin their four-game set with the Tampa Bay Rays with a day-night doubleheader. Chisholm Jr. has been out since Sept. 8 with a right thumb sprain.\n“He should be in a good spot and ready to go,” said manager Aaron Boone. “He’s been hitting now for several days and and throwing the last three or four days, so he should be ready to go.”\nThe 28-year-old is slashing .232/.312/.403 with 19 homers and 55 RBI in 134 games this season. The impending free agent is expected to resume duties as their starting second baseman, which likely doesn’t bode well for Anthony Volpe’s playing time.\n“Obviously, Anthony’s done a good job,” said Boone. “But looking forward to getting Jazz back as well. So, Jazz, I plan on playing Jazz at second in the night game.”\nVolpe has performed well since being recalled from Triple-A on Sept. 10, slashing .286/.324/.429 with a homer, seven RBI and four stolen bases. It remains to be seen how he will be utilized and if a platoon scenario between Volpe and Chisholm Jr. is on the table.\nCLARKE GOOD\nClarke Schmidt appears to have avoided anything major after experiencing bicep soreness while warming up during Sunday’s loss to the Arizona Diamondbacks.\n“Clark is gonna play catch [Tuesday]. He did have some testing and it looks like he’s in a pretty good spot.” Boone said. “But [he’s] gotta throw and see how he is, and then we’ll go from there. … He’s on the active roster for now, but he’s got to play catch and do all those things and see how available he is.”\nSchmidt returned from Tommy John surgery on Sept. 16 against the Minnesota Twins. He is expected to play a crucial role out of the bullpen in whatever time the Yankees have in the postseason.\nWEATHERS UPDATE\nRyan Weathers (left forearm flexor strain) will throw a side session between games on Tuesday. Weathers exited his start against the Toronto Blue Jays on Aug 22 after feeling discomfort and has not appeared in a game since.\nIf the southpaw is to return in the postseason, it will very likely be out of the bullpen.",
+    "rss_title": "Yankees Notebook: Jazz Chisholm to return for Tuesday’s night game; Clarke Schmidt avoids disaster",
+    "rss_body": "A flurry of injury news came across for the battered and bruised Bronx Bombers on Tuesday at Yankee Stadium.\nWhile the team is clearly compromised and will likely be missing their best player, Aaron Judge, when the playoffs start on Sept. 29, they will be getting their second baseman back with some time to get ready for the inevitable Wild Card Series vs. the Boston Red Sox.\nJazz Chisholm Jr. is expected to be activated between games on Tuesday as the Bombers begin their four-game set with the Tampa Bay Rays with a day-night doubleheader. Chisholm Jr. has been out since Sept. 8 with a right thumb sprain.\n“He should be in a good spot and ready to go,” said manager Aaron Boone. “He’s been hitting now for several days and and throwing the last three or four days, so he should be ready to go.”\nThe 28-year-old is slashing .232/.312/.403 with 19 homers and 55 RBI in 134 games this season. The impending free agent is expected to resume duties as their starting second baseman, which likely doesn’t bode well for Anthony Volpe’s playing time.\n“Obviously, Anthony’s done a good job,” said Boone. “But looking forward to getting Jazz back as well. So, Jazz, I plan on playing Jazz at second in the night game.”\nVolpe has performed well since being recalled from Triple-A on Sept. 10, slashing .286/.324/.429 with a homer, seven RBI and four stolen bases. It remains to be seen how he will be utilized and if a platoon scenario between Volpe and Chisholm Jr. is on the table.\nCLARKE GOOD\nClarke Schmidt appears to have avoided anything major after experiencing bicep soreness while warming up during Sunday’s loss to the Arizona Diamondbacks.\n“Clark is gonna play catch [Tuesday]. He did have some testing and it looks like he’s in a pretty good spot.” Boone said. “But [he’s] gotta throw and see how he is, and then we’ll go from there. … He’s on the active roster for now, but he’s got to play catch and do all those things and see how available he is.”\nSchmidt returned from Tommy John surgery on Sept. 16 against the Minnesota Twins. He is expected to play a crucial role out of the bullpen in whatever time the Yankees have in the postseason.\nWEATHERS UPDATE\nRyan Weathers (left forearm flexor strain) will throw a side session between games on Tuesday. Weathers exited his start against the Toronto Blue Jays on Aug 22 after feeling discomfort and has not appeared in a game since.\nIf the southpaw is to return in the postseason, it will very likely be out of the bullpen.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "2f8d7fcb0d5de5a2eaa6",
+    "title": "Jazz Chisholm Jr.’s return creates Yankees questions at 2B with Anthony Volpe | amNewYork",
+    "source": "amNewYork",
+    "author": "Joe Pantorno; Amnewyork",
+    "url": "https://www.amny.com/sports/jazz-chisholm-jr-volpe-yankees-2b-qs-9-22-26/",
+    "published_iso": "2026-09-22T17:09:59+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 17:09:59 +0000",
+    "body": "BRONX, NY — Jazz Chisholm Jr. is set to be activated from the 10-day injured list following the first game of the Yankees’ doubleheader on Tuesday against the Tampa Bay Rays.\nThe second baseman missed two weeks after spraining his thumb, and his spot was filled in admirably by Anthony Volpe — the cast-off shortstop who has enjoyed a minor renaissance, of sorts. Entering Tuesday’s action, he had hit safely in six of his 10 games since being called back up from Triple-A, adding a home run and seven RBI. Five of them came in his first game back on Sept. 10 against the Colorado Rockies.\nYankees manager Aaron Boone said that Chisholm is “in a good spot” after hitting and throwing over the past several days. How playing time will shake out remains to be seen.\n“We’ll see,” Boone said. “Obviously, Anthony’s done a good job, but looking forward to getting Jazz back as well.”\nWith the opportunity for playing time seemingly available at third base with Jose Caballero, Ryan McMahon, and Amed Rosario in the mix, Boone had said that “we’ll see” when asked about Volpe potentially moving to the hot corner. Volpe said he has yet to have those conversations with team brass.\nIt has been a down season for Chisholm, who owns a .715 OPS with 19 home runs and 55 RBI. After a 30/30 season last year, he came into the 2026 campaign hoping to make a run at 50/50.\nThat did not happen, but getting a healthy Chisholm back who could possibly recapture last year’s spark would provide a significant boost for the Yankees, who are facing the very real possibility of being without Aaron Judge for their Wild Card Series against the Boston Red Sox next week.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Jazz Chisholm Jr.’s return creates Yankees questions at 2B with Anthony Volpe | amNewYork",
+    "original_body": "BRONX, NY — Jazz Chisholm Jr. is set to be activated from the 10-day injured list following the first game of the Yankees’ doubleheader on Tuesday against the Tampa Bay Rays.\nThe second baseman missed two weeks after spraining his thumb, and his spot was filled in admirably by Anthony Volpe — the cast-off shortstop who has enjoyed a minor renaissance, of sorts. Entering Tuesday’s action, he had hit safely in six of his 10 games since being called back up from Triple-A, adding a home run and seven RBI. Five of them came in his first game back on Sept. 10 against the Colorado Rockies.\nYankees manager Aaron Boone said that Chisholm is “in a good spot” after hitting and throwing over the past several days. How playing time will shake out remains to be seen.\n“We’ll see,” Boone said. “Obviously, Anthony’s done a good job, but looking forward to getting Jazz back as well.”\nWith the opportunity for playing time seemingly available at third base with Jose Caballero, Ryan McMahon, and Amed Rosario in the mix, Boone had said that “we’ll see” when asked about Volpe potentially moving to the hot corner. Volpe said he has yet to have those conversations with team brass.\nIt has been a down season for Chisholm, who owns a .715 OPS with 19 home runs and 55 RBI. After a 30/30 season last year, he came into the 2026 campaign hoping to make a run at 50/50.\nThat did not happen, but getting a healthy Chisholm back who could possibly recapture last year’s spark would provide a significant boost for the Yankees, who are facing the very real possibility of being without Aaron Judge for their Wild Card Series against the Boston Red Sox next week.",
+    "rss_title": "Jazz Chisholm Jr.’s return creates Yankees questions at 2B with Anthony Volpe | amNewYork",
+    "rss_body": "BRONX, NY — Jazz Chisholm Jr. is set to be activated from the 10-day injured list following the first game of the Yankees’ doubleheader on Tuesday against the Tampa Bay Rays.\nThe second baseman missed two weeks after spraining his thumb, and his spot was filled in admirably by Anthony Volpe — the cast-off shortstop who has enjoyed a minor renaissance, of sorts. Entering Tuesday’s action, he had hit safely in six of his 10 games since being called back up from Triple-A, adding a home run and seven RBI. Five of them came in his first game back on Sept. 10 against the Colorado Rockies.\nYankees manager Aaron Boone said that Chisholm is “in a good spot” after hitting and throwing over the past several days. How playing time will shake out remains to be seen.\n“We’ll see,” Boone said. “Obviously, Anthony’s done a good job, but looking forward to getting Jazz back as well.”\nWith the opportunity for playing time seemingly available at third base with Jose Caballero, Ryan McMahon, and Amed Rosario in the mix, Boone had said that “we’ll see” when asked about Volpe potentially moving to the hot corner. Volpe said he has yet to have those conversations with team brass.\nIt has been a down season for Chisholm, who owns a .715 OPS with 19 home runs and 55 RBI. After a 30/30 season last year, he came into the 2026 campaign hoping to make a run at 50/50.\nThat did not happen, but getting a healthy Chisholm back who could possibly recapture last year’s spark would provide a significant boost for the Yankees, who are facing the very real possibility of being without Aaron Judge for their Wild Card Series against the Boston Red Sox next week.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "dfddcfbeddbdc5fb313f",
+    "title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "source": "Pinstripe Alley",
+    "author": "Peter Brody",
+    "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/208630/yankees-game-thread-rays-how-to-watch-doubleheader-game-one-streaming-lineups-carlos-rodon",
+    "published_iso": "2026-09-22T16:35:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:35:00 +0000",
+    "body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "original_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "rss_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "rss_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "c69e4dca960a994c5c1e",
     "title": "Yankees reveal Aaron Judge’s status for potential Red Sox playoff series",
     "source": "Boston Herald",
@@ -128,6 +400,46 @@
     "translation_status": "fallback_original"
   },
   {
+    "id": "deb1f463d17ba5193f54",
+    "title": "Aaron Judge injury latest: Yankees ‘planning’ for slugger to be out for AL Wild Card Series | amNewYork",
+    "source": "amNewYork",
+    "author": "Joe Pantorno",
+    "url": "https://www.amny.com/sports/aaron-judge-injury-latest-9-22-26-yankees/",
+    "published_iso": "2026-09-22T16:04:03+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:04:03 +0000",
+    "body": "BRONX, NY — New York Yankees manager Aaron Boone admitted that his team is “planning” not to have superstar slugger Aaron Judge available for the American League Wild Card Series against the Boston Red Sox next week after suffering a “moderate” calf strain.\n“I have no idea. We’re planning on him not being a part of that,” Boone said before Tuesday’s doubleheader opener against the Tampa Bay Rays at Yankee Stadium. “You hear all the time with injuries, we give ranges: two to four weeks, four to six weeks. There are ranges for a reason. We’re at a point in the year where we’d push it a little bit if that was in play. But that’s a week away, so I’m not expecting it, but I’m not ruling it out, either.”\nJudge received a PPP (platelet-poor plasma) injection on Monday and will be limited in his activities — mostly just running and jumping — over the next few days.\nThe 34-year-old captain suffered the injury on Wednesday against the Minnesota Twins, though it is still unclear when exactly it happened. Boone revealed that Judge “felt like it cramped up” when he was picking up the rosin off the pitchers’ mound on his way to the outfield in the first inning.\nNot much explanation is needed when going into just how big a hole this leaves in the Yankees’ lineup should Judge not be able to go for the Wild Card Series. The 2026 season has been completely derailed by injuries for a player coming off back-to-back American League MVP Awards. He missed three months due to a fractured rib, then only lasted seven games before this calf strain.\nIn 66 games, he owned an .871 OPS with 18 home runs and 41 RBI. Even though that is well below recent award-winning paces of his, that would still translate to 44 home runs and 100 RBI over 162 games.\n“We’ve played much of the year without him, and so for the most part, we’ve done a pretty good job,” Boone said. “So, guys are used to it. Obviously, you always want your best player in the mix, but we understand we’ve got a job to do and an expectation ot win. And I think that expectation doesn’t change with or without him. We’re expected to go into the series and know we can beat anyone when we play our game.”\nGame 1 of the Wild Card Series in the Bronx is scheduled to start on Sept. 29.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Aaron Judge injury latest: Yankees ‘planning’ for slugger to be out for AL Wild Card Series | amNewYork",
+    "original_body": "BRONX, NY — New York Yankees manager Aaron Boone admitted that his team is “planning” not to have superstar slugger Aaron Judge available for the American League Wild Card Series against the Boston Red Sox next week after suffering a “moderate” calf strain.\n“I have no idea. We’re planning on him not being a part of that,” Boone said before Tuesday’s doubleheader opener against the Tampa Bay Rays at Yankee Stadium. “You hear all the time with injuries, we give ranges: two to four weeks, four to six weeks. There are ranges for a reason. We’re at a point in the year where we’d push it a little bit if that was in play. But that’s a week away, so I’m not expecting it, but I’m not ruling it out, either.”\nJudge received a PPP (platelet-poor plasma) injection on Monday and will be limited in his activities — mostly just running and jumping — over the next few days.\nThe 34-year-old captain suffered the injury on Wednesday against the Minnesota Twins, though it is still unclear when exactly it happened. Boone revealed that Judge “felt like it cramped up” when he was picking up the rosin off the pitchers’ mound on his way to the outfield in the first inning.\nNot much explanation is needed when going into just how big a hole this leaves in the Yankees’ lineup should Judge not be able to go for the Wild Card Series. The 2026 season has been completely derailed by injuries for a player coming off back-to-back American League MVP Awards. He missed three months due to a fractured rib, then only lasted seven games before this calf strain.\nIn 66 games, he owned an .871 OPS with 18 home runs and 41 RBI. Even though that is well below recent award-winning paces of his, that would still translate to 44 home runs and 100 RBI over 162 games.\n“We’ve played much of the year without him, and so for the most part, we’ve done a pretty good job,” Boone said. “So, guys are used to it. Obviously, you always want your best player in the mix, but we understand we’ve got a job to do and an expectation ot win. And I think that expectation doesn’t change with or without him. We’re expected to go into the series and know we can beat anyone when we play our game.”\nGame 1 of the Wild Card Series in the Bronx is scheduled to start on Sept. 29.",
+    "rss_title": "Aaron Judge injury latest: Yankees ‘planning’ for slugger to be out for AL Wild Card Series | amNewYork",
+    "rss_body": "BRONX, NY — New York Yankees manager Aaron Boone admitted that his team is “planning” not to have superstar slugger Aaron Judge available for the American League Wild Card Series against the Boston Red Sox next week after suffering a “moderate” calf strain.\n“I have no idea. We’re planning on him not being a part of that,” Boone said before Tuesday’s doubleheader opener against the Tampa Bay Rays at Yankee Stadium. “You hear all the time with injuries, we give ranges: two to four weeks, four to six weeks. There are ranges for a reason. We’re at a point in the year where we’d push it a little bit if that was in play. But that’s a week away, so I’m not expecting it, but I’m not ruling it out, either.”\nJudge received a PPP (platelet-poor plasma) injection on Monday and will be limited in his activities — mostly just running and jumping — over the next few days.\nThe 34-year-old captain suffered the injury on Wednesday against the Minnesota Twins, though it is still unclear when exactly it happened. Boone revealed that Judge “felt like it cramped up” when he was picking up the rosin off the pitchers’ mound on his way to the outfield in the first inning.\nNot much explanation is needed when going into just how big a hole this leaves in the Yankees’ lineup should Judge not be able to go for the Wild Card Series. The 2026 season has been completely derailed by injuries for a player coming off back-to-back American League MVP Awards. He missed three months due to a fractured rib, then only lasted seven games before this calf strain.\nIn 66 games, he owned an .871 OPS with 18 home runs and 41 RBI. Even though that is well below recent award-winning paces of his, that would still translate to 44 home runs and 100 RBI over 162 games.\n“We’ve played much of the year without him, and so for the most part, we’ve done a pretty good job,” Boone said. “So, guys are used to it. Obviously, you always want your best player in the mix, but we understand we’ve got a job to do and an expectation ot win. And I think that expectation doesn’t change with or without him. We’re expected to go into the series and know we can beat anyone when we play our game.”\nGame 1 of the Wild Card Series in the Bronx is scheduled to start on Sept. 29.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "a494cbf12e72e18c8130",
     "title": "Yankees Should Keep Jazz Chisholm Jr. at Second Base Over Anthony Volpe",
     "source": "Sports Illustrated",
@@ -197,6 +509,142 @@
     "original_body": "It was easy for everybody to get ahead of themselves when Anthony Volpe had a big first game back against the Colorado Rockies. Jazz Chisholm Jr. had just gone down, and Volpe delivered a three-hit night capped by a grand slam. At that point, Volpe had gone through a torrid home run streak in the minors, so the thought was that if he replicated it in the big leagues, maybe he could usurp Chisholm.\nWhile Volpe's teammates at Triple-A saw the version of him that closely resembled an infield Barry Bonds, he just wasn't that after that first game. Since then, Volpe has gone 7-for-33. He didn't hit a home run and had just two doubles in that span. In many ways, his .226/.263/.290 slash line is about where he has always been as a big leaguer.\nThat is why, since Chisholm will be playing in the second game of Tuesday night's doubleheader vs. the Rays, per Chris Kirschner of The Athletic, there's no reason to debate who takes second base. The answer is easily Chisholm. Chisholm hasn't had the best season, but in the postseason, he's more of a threat at the plate and on the basepaths. Chisholm has 19 homers this year with 40 stolen bases. Overall, he's hitting .232/.312/.403 at the plate.\nThen, of course, there's the defense. That's why a hitter who's been at or below a 100 wRC+ all year can post a 3.2 WAR, according to FanGraphs. This year, Chisholm also has 12 Outs Above Average at the position, per Baseball Savant.\nIt does feel like Chisholm is the priority, too, once he's back. According to manager Aaron Boone, when asked about Volpe's status and the possibility of him playing at third base, the focus was on getting Chisholm back.\n\"We'll see,\" Boone said of Volpe getting reps at the hot corner, according to the New York Post's Greg Joyce. \"First things first, getting Jazz back, and then we'll figure it out as the week unfolds, how I want to play it.\"\nPotential infield configuration against a lefty\nIf the Yankees face a tough lefty in October and aren't too keen on playing Ryan McMahon, who has a 74 wRC+, and Chisholm, they might have a choice here. They could stick with Chisholm at second and have either Jose Caballero or Anthony Volpe play third base.\nThey could also have Chisholm go back to third base and have Volpe at second. That way, they keep the better player on the field while also getting a righty at second or third.\nWith Aaron Judge out, Chisholm could boost the lineup. He's had a tough year, but a big October could make up for some regular-season woes.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
     "rss_title": "Yankees Should Keep Jazz Chisholm Jr. at Second Base Over Anthony Volpe",
     "rss_body": "It was easy for everybody to get ahead of themselves when Anthony Volpe had a big first game back against the Colorado Rockies. Jazz Chisholm Jr. had just gone down, and Volpe delivered a three-hit night capped by a grand slam. At that point, Volpe had gone through a torrid home run streak in the minors, so the thought was that if he replicated it in the big leagues, maybe he could usurp Chisholm.\nWhile Volpe's teammates at Triple-A saw the version of him that closely resembled an infield Barry Bonds, he just wasn't that after that first game. Since then, Volpe has gone 7-for-33. He didn't hit a home run and had just two doubles in that span. In many ways, his .226/.263/.290 slash line is about where he has always been as a big leaguer.\nThat is why, since Chisholm will be playing in the second game of Tuesday night's doubleheader vs. the Rays, per Chris Kirschner of The Athletic, there's no reason to debate who takes second base. The answer is easily Chisholm. Chisholm hasn't had the best season, but in the postseason, he's more of a threat at the plate and on the basepaths. Chisholm has 19 homers this year with 40 stolen bases. Overall, he's hitting .232/.312/.403 at the plate.\nThen, of course, there's the defense. That's why a hitter who's been at or below a 100 wRC+ all year can post a 3.2 WAR, according to FanGraphs. This year, Chisholm also has 12 Outs Above Average at the position, per Baseball Savant.\nIt does feel like Chisholm is the priority, too, once he's back. According to manager Aaron Boone, when asked about Volpe's status and the possibility of him playing at third base, the focus was on getting Chisholm back.\n\"We'll see,\" Boone said of Volpe getting reps at the hot corner, according to the New York Post's Greg Joyce. \"First things first, getting Jazz back, and then we'll figure it out as the week unfolds, how I want to play it.\"\nPotential infield configuration against a lefty\nIf the Yankees face a tough lefty in October and aren't too keen on playing Ryan McMahon, who has a 74 wRC+, and Chisholm, they might have a choice here. They could stick with Chisholm at second and have either Jose Caballero or Anthony Volpe play third base.\nThey could also have Chisholm go back to third base and have Volpe at second. That way, they keep the better player on the field while also getting a righty at second or third.\nWith Aaron Judge out, Chisholm could boost the lineup. He's had a tough year, but a big October could make up for some regular-season woes.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e21310e4fb9834e3e304",
+    "title": "Judge likely to miss Wild Card Series with 'moderate grade' calf strain",
+    "source": "mlb.com",
+    "author": "Bryan Hoch",
+    "url": "https://www.mlb.com/news/aaron-judge-likely-to-miss-al-wild-card-series",
+    "published_iso": "2026-09-22T15:56:14+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 15:56:14 +0000",
+    "body": "NEW YORK -- Aaron Judge has a “moderate grade” right calf strain and is likely to miss at least the beginning of the Yankees’ postseason, according to manager Aaron Boone, who said the club does not plan to have their captain active for a potential American League Wild Card Series against the Red Sox.\n“We’re planning on him not being a part of that,” Boone said on Tuesday. “But we’re also at a time of the year where … obviously we’d push it a little bit if that was in play. But that’s a week away. I’m not expecting it, but I’m not ruling it out, either.”\nThe Yankees have clinched a postseason berth, but the Rays can clinch the American League East title and the No. 1 seed in the AL with a win in either game of Tuesday’s doubleheader, which would lock in a Wild Card Series appearance for New York.\nHe received a platelet-poor plasma (PPP) injection in his right calf during Monday’s off-day and will have limited activities for the next several days.\n“The next couple of days will be not much -- no running, jumping, things like that,” Boone said.\nDuring the club’s weekend series in Phoenix, Judge and Boone were vague about the severity of the injury, which Judge sustained during the club’s series last week against the Twins.\nJudge revealed the strain is in the soleus muscle of his right calf, which he said “is a little more crucial with running and hitting.”\n“I’ve dealt with strains before and kind of played through them, but this was kind of in a different spot where it made it a little bit more difficult,” Judge said.\nGenerally, a Grade 2 calf strain takes three to six weeks to recover.\n“If he’s able to play, then we’ll give him that opportunity,” Boone said.\nActivated in September without a Minor League rehab assignment, Judge played just seven games after his reinstatement, going 4-for-23 (.174) with a homer. Overall, Judge batted .241/.360/.511 with 18 homers and 41 RBIs in 66 games this season.\n“We’ve played much of the year without him, and for the most part, we’ve done a pretty good job,” Boone said. “Obviously, you always want your best player in the mix. But we understand we’ve got a job to do and an expectation to win. I think that expectation doesn’t change, with or without him.”\n\"He's on the active roster for now, but he's got to play catch and do all those things to see how available he is,\" Boone said.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Judge likely to miss Wild Card Series with 'moderate grade' calf strain",
+    "original_body": "NEW YORK -- Aaron Judge has a “moderate grade” right calf strain and is likely to miss at least the beginning of the Yankees’ postseason, according to manager Aaron Boone, who said the club does not plan to have their captain active for a potential American League Wild Card Series against the Red Sox.\n“We’re planning on him not being a part of that,” Boone said on Tuesday. “But we’re also at a time of the year where … obviously we’d push it a little bit if that was in play. But that’s a week away. I’m not expecting it, but I’m not ruling it out, either.”\nThe Yankees have clinched a postseason berth, but the Rays can clinch the American League East title and the No. 1 seed in the AL with a win in either game of Tuesday’s doubleheader, which would lock in a Wild Card Series appearance for New York.\nHe received a platelet-poor plasma (PPP) injection in his right calf during Monday’s off-day and will have limited activities for the next several days.\n“The next couple of days will be not much -- no running, jumping, things like that,” Boone said.\nDuring the club’s weekend series in Phoenix, Judge and Boone were vague about the severity of the injury, which Judge sustained during the club’s series last week against the Twins.\nJudge revealed the strain is in the soleus muscle of his right calf, which he said “is a little more crucial with running and hitting.”\n“I’ve dealt with strains before and kind of played through them, but this was kind of in a different spot where it made it a little bit more difficult,” Judge said.\nGenerally, a Grade 2 calf strain takes three to six weeks to recover.\n“If he’s able to play, then we’ll give him that opportunity,” Boone said.\nActivated in September without a Minor League rehab assignment, Judge played just seven games after his reinstatement, going 4-for-23 (.174) with a homer. Overall, Judge batted .241/.360/.511 with 18 homers and 41 RBIs in 66 games this season.\n“We’ve played much of the year without him, and for the most part, we’ve done a pretty good job,” Boone said. “Obviously, you always want your best player in the mix. But we understand we’ve got a job to do and an expectation to win. I think that expectation doesn’t change, with or without him.”\n\"He's on the active roster for now, but he's got to play catch and do all those things to see how available he is,\" Boone said.",
+    "rss_title": "Judge likely to miss Wild Card Series with 'moderate grade' calf strain",
+    "rss_body": "NEW YORK -- Aaron Judge has a “moderate grade” right calf strain and is likely to miss at least the beginning of the Yankees’ postseason, according to manager Aaron Boone, who said the club does not plan to have their captain active for a potential American League Wild Card Series against the Red Sox.\n“We’re planning on him not being a part of that,” Boone said on Tuesday. “But we’re also at a time of the year where … obviously we’d push it a little bit if that was in play. But that’s a week away. I’m not expecting it, but I’m not ruling it out, either.”\nThe Yankees have clinched a postseason berth, but the Rays can clinch the American League East title and the No. 1 seed in the AL with a win in either game of Tuesday’s doubleheader, which would lock in a Wild Card Series appearance for New York.\nHe received a platelet-poor plasma (PPP) injection in his right calf during Monday’s off-day and will have limited activities for the next several days.\n“The next couple of days will be not much -- no running, jumping, things like that,” Boone said.\nDuring the club’s weekend series in Phoenix, Judge and Boone were vague about the severity of the injury, which Judge sustained during the club’s series last week against the Twins.\nJudge revealed the strain is in the soleus muscle of his right calf, which he said “is a little more crucial with running and hitting.”\n“I’ve dealt with strains before and kind of played through them, but this was kind of in a different spot where it made it a little bit more difficult,” Judge said.\nGenerally, a Grade 2 calf strain takes three to six weeks to recover.\n“If he’s able to play, then we’ll give him that opportunity,” Boone said.\nActivated in September without a Minor League rehab assignment, Judge played just seven games after his reinstatement, going 4-for-23 (.174) with a homer. Overall, Judge batted .241/.360/.511 with 18 homers and 41 RBIs in 66 games this season.\n“We’ve played much of the year without him, and for the most part, we’ve done a pretty good job,” Boone said. “Obviously, you always want your best player in the mix. But we understand we’ve got a job to do and an expectation to win. I think that expectation doesn’t change, with or without him.”\n\"He's on the active roster for now, but he's got to play catch and do all those things to see how available he is,\" Boone said.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "59b4b1d266e1d427c9ba",
+    "title": "Judge se perdería la Serie del Comodín por distensión “moderada” en la pantorrilla",
+    "source": "MLB.com",
+    "author": "Bryan Hoch",
+    "url": "https://www.mlb.com/es/mariners/news/aaron-judge-se-perderia-la-serie-del-comodin-por-lesion-en-la-pantorrilla",
+    "published_iso": "2026-09-22T15:53:56+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 15:53:56 +0000",
+    "body": "NUEVA YORK -- Aaron Judge tiene una distensión de “grado moderado” en la pantorrilla derecha y probablemente se pierda al menos el inicio de la postemporada de los Yankees, según el manager Aaron Boone, quien dijo que el club no planea tener a su capitán activo para una posible Serie del Comodín de la Liga Americana contra los Medias Rojas.\n“Estamos planeando que no sea parte de eso”, dijo Boone el martes. “Pero también estamos en una época del año en la que... obviamente lo forzaríamos un poco si eso estuviera en juego. Pero falta una semana para eso. No lo espero, pero tampoco lo descarto”.\nLos Yankees han asegurado un pase a la postemporada, pero los Rays pueden amarrar el título del Este de la Liga Americana y el sembrado Nro. 1 de la L.A. con una victoria en cualquiera de los choques de la doble cartelera del martes, lo que obligaría a Nueva York a disputar la Serie del Comodín.\nJudge fue ingresado a la lista de lesionados de 10 días el sábado, retroactivo al 17 de septiembre.\nRecibió una inyección de plasma pobre en plaquetas en la pantorrilla derecha durante el día libre del lunes y tendrá actividades limitadas durante los próximos días.\n“El par de días siguientes no habrá mucho: nada de correr, saltar, cosas así”, indicó Boone.\nDurante la serie del club el fin de semana en Phoenix, Judge y Boone fueron vagos sobre la gravedad de la lesión, la cual Judge sufrió durante la serie de la semana pasada frente a los Mellizos.\nJudge reveló que la distensión es en el músculo sóleo de su pantorrilla derecha, el cual dijo “es un poco más crucial al correr y batear”.\n“He lidiado con distensiones antes y de alguna manera he jugado con ellas, pero esta fue en un lugar diferente donde lo hizo un poco más difícil”, comentó Judge.\nGeneralmente, una distensión de pantorrilla de Grado 2 toma de tres a seis semanas para recuperarse.\n“Si él es capaz de jugar, entonces le daremos esa oportunidad”, señaló Boone.\nJudge se perdió la mayor parte del verano con una fractura en la costilla derecha, que se cree sufrió el 26 de abril en Houston. Jugó con la lesión antes de ingresar a la lista de lesionados a principios de junio.\nActivado en septiembre sin una asignación de rehabilitación en liga menor, Judge disputó sólo siete compromisos después de ser activado, bateando de 23-4 (.174) con un jonrón. En general, Judge bateó .241/.360/.511 con 18 bambinazos y 41 carreras impulsadas en 66 partidos esta campaña.\n“Hemos jugado gran parte del año sin él, y en su mayor parte, hemos hecho un trabajo bastante bueno”, destacó Boone. “Obviamente, siempre quieres a tu mejor jugador disponible. Pero entendemos que tenemos un trabajo que hacer y una expectativa de ganar. Creo que esa expectativa no cambia, con o sin él”.\nEn otras actualizaciones de lesiones, Boone dijo que los Yankees tienen la intención de activar al infielder Jazz Chisholm Jr. entre los encuentros de la doble cartelera del martes.\nEl derecho Clarke Schmidt se sometió a estudios de imagen tras necesitar acortar su calentamiento el domingo en Phoenix debido a una molestia en su bíceps derecho.\n“Por ahora está en el roster activo, pero tiene que soltar el brazo y hacer todas esas cosas para ver qué tan disponible está”, declaró Boone.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Judge se perdería la Serie del Comodín por distensión “moderada” en la pantorrilla",
+    "original_body": "NUEVA YORK -- Aaron Judge tiene una distensión de “grado moderado” en la pantorrilla derecha y probablemente se pierda al menos el inicio de la postemporada de los Yankees, según el manager Aaron Boone, quien dijo que el club no planea tener a su capitán activo para una posible Serie del Comodín de la Liga Americana contra los Medias Rojas.\n“Estamos planeando que no sea parte de eso”, dijo Boone el martes. “Pero también estamos en una época del año en la que... obviamente lo forzaríamos un poco si eso estuviera en juego. Pero falta una semana para eso. No lo espero, pero tampoco lo descarto”.\nLos Yankees han asegurado un pase a la postemporada, pero los Rays pueden amarrar el título del Este de la Liga Americana y el sembrado Nro. 1 de la L.A. con una victoria en cualquiera de los choques de la doble cartelera del martes, lo que obligaría a Nueva York a disputar la Serie del Comodín.\nJudge fue ingresado a la lista de lesionados de 10 días el sábado, retroactivo al 17 de septiembre.\nRecibió una inyección de plasma pobre en plaquetas en la pantorrilla derecha durante el día libre del lunes y tendrá actividades limitadas durante los próximos días.\n“El par de días siguientes no habrá mucho: nada de correr, saltar, cosas así”, indicó Boone.\nDurante la serie del club el fin de semana en Phoenix, Judge y Boone fueron vagos sobre la gravedad de la lesión, la cual Judge sufrió durante la serie de la semana pasada frente a los Mellizos.\nJudge reveló que la distensión es en el músculo sóleo de su pantorrilla derecha, el cual dijo “es un poco más crucial al correr y batear”.\n“He lidiado con distensiones antes y de alguna manera he jugado con ellas, pero esta fue en un lugar diferente donde lo hizo un poco más difícil”, comentó Judge.\nGeneralmente, una distensión de pantorrilla de Grado 2 toma de tres a seis semanas para recuperarse.\n“Si él es capaz de jugar, entonces le daremos esa oportunidad”, señaló Boone.\nJudge se perdió la mayor parte del verano con una fractura en la costilla derecha, que se cree sufrió el 26 de abril en Houston. Jugó con la lesión antes de ingresar a la lista de lesionados a principios de junio.\nActivado en septiembre sin una asignación de rehabilitación en liga menor, Judge disputó sólo siete compromisos después de ser activado, bateando de 23-4 (.174) con un jonrón. En general, Judge bateó .241/.360/.511 con 18 bambinazos y 41 carreras impulsadas en 66 partidos esta campaña.\n“Hemos jugado gran parte del año sin él, y en su mayor parte, hemos hecho un trabajo bastante bueno”, destacó Boone. “Obviamente, siempre quieres a tu mejor jugador disponible. Pero entendemos que tenemos un trabajo que hacer y una expectativa de ganar. Creo que esa expectativa no cambia, con o sin él”.\nEn otras actualizaciones de lesiones, Boone dijo que los Yankees tienen la intención de activar al infielder Jazz Chisholm Jr. entre los encuentros de la doble cartelera del martes.\nEl derecho Clarke Schmidt se sometió a estudios de imagen tras necesitar acortar su calentamiento el domingo en Phoenix debido a una molestia en su bíceps derecho.\n“Por ahora está en el roster activo, pero tiene que soltar el brazo y hacer todas esas cosas para ver qué tan disponible está”, declaró Boone.",
+    "rss_title": "Judge se perdería la Serie del Comodín por distensión “moderada” en la pantorrilla",
+    "rss_body": "NUEVA YORK -- Aaron Judge tiene una distensión de “grado moderado” en la pantorrilla derecha y probablemente se pierda al menos el inicio de la postemporada de los Yankees, según el manager Aaron Boone, quien dijo que el club no planea tener a su capitán activo para una posible Serie del Comodín de la Liga Americana contra los Medias Rojas.\n“Estamos planeando que no sea parte de eso”, dijo Boone el martes. “Pero también estamos en una época del año en la que... obviamente lo forzaríamos un poco si eso estuviera en juego. Pero falta una semana para eso. No lo espero, pero tampoco lo descarto”.\nLos Yankees han asegurado un pase a la postemporada, pero los Rays pueden amarrar el título del Este de la Liga Americana y el sembrado Nro. 1 de la L.A. con una victoria en cualquiera de los choques de la doble cartelera del martes, lo que obligaría a Nueva York a disputar la Serie del Comodín.\nJudge fue ingresado a la lista de lesionados de 10 días el sábado, retroactivo al 17 de septiembre.\nRecibió una inyección de plasma pobre en plaquetas en la pantorrilla derecha durante el día libre del lunes y tendrá actividades limitadas durante los próximos días.\n“El par de días siguientes no habrá mucho: nada de correr, saltar, cosas así”, indicó Boone.\nDurante la serie del club el fin de semana en Phoenix, Judge y Boone fueron vagos sobre la gravedad de la lesión, la cual Judge sufrió durante la serie de la semana pasada frente a los Mellizos.\nJudge reveló que la distensión es en el músculo sóleo de su pantorrilla derecha, el cual dijo “es un poco más crucial al correr y batear”.\n“He lidiado con distensiones antes y de alguna manera he jugado con ellas, pero esta fue en un lugar diferente donde lo hizo un poco más difícil”, comentó Judge.\nGeneralmente, una distensión de pantorrilla de Grado 2 toma de tres a seis semanas para recuperarse.\n“Si él es capaz de jugar, entonces le daremos esa oportunidad”, señaló Boone.\nJudge se perdió la mayor parte del verano con una fractura en la costilla derecha, que se cree sufrió el 26 de abril en Houston. Jugó con la lesión antes de ingresar a la lista de lesionados a principios de junio.\nActivado en septiembre sin una asignación de rehabilitación en liga menor, Judge disputó sólo siete compromisos después de ser activado, bateando de 23-4 (.174) con un jonrón. En general, Judge bateó .241/.360/.511 con 18 bambinazos y 41 carreras impulsadas en 66 partidos esta campaña.\n“Hemos jugado gran parte del año sin él, y en su mayor parte, hemos hecho un trabajo bastante bueno”, destacó Boone. “Obviamente, siempre quieres a tu mejor jugador disponible. Pero entendemos que tenemos un trabajo que hacer y una expectativa de ganar. Creo que esa expectativa no cambia, con o sin él”.\nEn otras actualizaciones de lesiones, Boone dijo que los Yankees tienen la intención de activar al infielder Jazz Chisholm Jr. entre los encuentros de la doble cartelera del martes.\nEl derecho Clarke Schmidt se sometió a estudios de imagen tras necesitar acortar su calentamiento el domingo en Phoenix debido a una molestia en su bíceps derecho.\n“Por ahora está en el roster activo, pero tiene que soltar el brazo y hacer todas esas cosas para ver qué tan disponible está”, declaró Boone.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "5e9b1c42b630bb6ed3d1",
+    "title": "Yankees' Clarke Schmidt: Managing bicep issue",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/yankees-clarke-schmidt-managing-bicep-issue/",
+    "published_iso": "2026-09-22T15:49:41+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 15:49:41 +0000",
+    "body": "Manager Aaron Boone said Tuesday that Clarke underwent testing on his right biceps and is \"in a pretty good spot,\" Bryan Hoch of MLB.com reports.\nThe right-hander was warming up to enter Sunday's game against the Diamondbacks until he experienced some biceps soreness, per Hoch, but it appears he's avoided a serious injury. Schmidt is scheduled to play catch Tuesday to help determine his availability.",
+    "tracked_people": [
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Clarke Schmidt: Managing bicep issue",
+    "original_body": "Manager Aaron Boone said Tuesday that Clarke underwent testing on his right biceps and is \"in a pretty good spot,\" Bryan Hoch of MLB.com reports.\nThe right-hander was warming up to enter Sunday's game against the Diamondbacks until he experienced some biceps soreness, per Hoch, but it appears he's avoided a serious injury. Schmidt is scheduled to play catch Tuesday to help determine his availability.",
+    "rss_title": "Yankees' Clarke Schmidt: Managing bicep issue",
+    "rss_body": "Manager Aaron Boone said Tuesday that Clarke underwent testing on his right biceps and is \"in a pretty good spot,\" Bryan Hoch of MLB.com reports.\nThe right-hander was warming up to enter Sunday's game against the Diamondbacks until he experienced some biceps soreness, per Hoch, but it appears he's avoided a serious injury. Schmidt is scheduled to play catch Tuesday to help determine his availability.",
     "translation_status": "fallback_original"
   },
   {
