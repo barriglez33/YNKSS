@@ -1,5 +1,77 @@
 [
   {
+    "id": "11f4cd744602416d83ab",
+    "title": "Ben Rice tops Aaron Boone's preseason prediction of 39 homers, hitting 40th and then 41st",
+    "source": "Bozeman Daily Chronicle",
+    "author": "RONALD BLUM",
+    "url": "https://www.bozemandailychronicle.com/wire/sports/ben-rice-tops-aaron-boones-preseason-prediction-of-39-homers-hitting-40th-and-then-41st/article_a81c1170-2ba1-524b-996c-5fe35c61c0be.html",
+    "published_iso": "2026-09-24T10:00:06+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 10:00:06 +0000",
+    "body": "NEW YORK (AP) — Ben Rice one-upped Aaron Boone. And then he two-upped the New York Yankees manager.\nBoone predicted during spring training that Rice would finish with 39 home runs this season. Rice hit Nos. 40 and 41 in Wednesday night's 9-2 victory over the Tampa Bay Rays, tying for the American League home run lead.\nHe smiled and pointed at Boone when he returned to the dugout after driving Mason Englert's first pitch of the game into Yankee Stadium's right field second deck. Rice grinned at Boone some more after another solo homer in the fourth.\n“I think I said, `Hey, there’s 40 for you,'” Rice recalled. “I was joking with him after the 41st one, saying, `Hey thanks for inspiring me this year.' But it’s all in good fun. Back in spring when he told me that, I knew that secretly meant he was hoping I’d hit 40.”\nRice is tied for the AL home run lead with Baltimore’s Pete Alonso, the Rays’ Junior Caminero and Houston’s Yordan Alvarez. He is hitting .263 and leads the Yankees with 97 RBIs and an .899 OPS, becoming a first-time All-Star and the biggest cog in an offense missing Aaron Judge and Giancarlo Stanton for most of the season.\nBoone deliberately picked an odd total rather than a round figure.\n“I was confident he was going to have a really big year,” he said. “Probably wanted to make sure it was just south of a number, maybe to maybe let him know that.”\nRice, who had three hits and a walk, became the 13th Yankees player with a 40-home run season but just the third to reach the milestone during his first three seasons after Joe DiMaggio and Judge. Rice's plate appearances often prompt a rendition of Elton John's \"Bennie and the Jets″ from the stadium's organist, and Rice has sparked an often struggling offense with 16 go-ahead homers this year and three that have tied games.\n“One thing I always tell guys the difference between minor leaguers and big leaguers is the consistency,” Judge said. “He’s one of the best. I can look up at the clock and I know exactly where he’s going to be in the cage. You know what he’s doing in the training room, the weight room. It’s just every single day, man, this guy’s a machine.”\nA 12th-round pick in the 2021 amateur draft from Dartmouth, where he played just 30 games over three years due to the coronavirus pandemic, Rice was mostly a catcher but occasionally a first baseman in the minors. He made his big league debut in June 2024 at age 25 after Anthony Rizzo broke a forearm.\nRice hit .171 with seven homers and 23 RBIs in 50 games that year, then batted .255 with 26 homers and 65 RBIs in 138 games last year.\nWith Stanton sidelined for most of the season, the left-handed-hitting Rice has 93 games at DH this year and 52 at first.\n“It's tough to pull him off his back leg,” Yankees pitcher Gerrit Cole said. “He’s really able to stay balanced and deliver high-efficacy strikes on various pitches in all parts of the zone.”\nRice was hitting .306 through May, then batted .196 in June. An 18-for-58 (.119) slide after the All-Star break dropped his season average to .248 on Aug. 22 but he's rebounded to bat .333 (34 for 102) since.\n“Went through a lull, which is inevitable, even in a great season,” Boone said. “Had a stretch in there where it was a struggle and he was grinding but kind of battled through that and feel like the last few weeks has been on a really good run.”\nRice's potential was evident on July 6, 2024, less than a month into his big league career, when he became the first Yankees rookie with three home runs in a game and tied Lou Gehrig's Yankees rookie record of seven RBIs. Consistency took time.\n“A lot of it I always feel like is just experience-based,” Rice said. “You just see more pitching at the big league level, get exposed to guys who throw all different kinds of pitches from different angles and slots and all these things. I feel like I’ve always been a good learner in that way.”\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Lou Gehrig",
+        "role": "Legend / Hall of Famer",
+        "status": "The Iron Horse, legendary first baseman.",
+        "type": "legend",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Joe DiMaggio",
+        "role": "Legend / Hall of Famer",
+        "status": "The Yankee Clipper, holder of the 56-game hitting streak.",
+        "type": "legend",
+        "id": 35,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Ben Rice tops Aaron Boone's preseason prediction of 39 homers, hitting 40th and then 41st",
+    "original_body": "NEW YORK (AP) — Ben Rice one-upped Aaron Boone. And then he two-upped the New York Yankees manager.\nBoone predicted during spring training that Rice would finish with 39 home runs this season. Rice hit Nos. 40 and 41 in Wednesday night's 9-2 victory over the Tampa Bay Rays, tying for the American League home run lead.\nHe smiled and pointed at Boone when he returned to the dugout after driving Mason Englert's first pitch of the game into Yankee Stadium's right field second deck. Rice grinned at Boone some more after another solo homer in the fourth.\n“I think I said, `Hey, there’s 40 for you,'” Rice recalled. “I was joking with him after the 41st one, saying, `Hey thanks for inspiring me this year.' But it’s all in good fun. Back in spring when he told me that, I knew that secretly meant he was hoping I’d hit 40.”\nRice is tied for the AL home run lead with Baltimore’s Pete Alonso, the Rays’ Junior Caminero and Houston’s Yordan Alvarez. He is hitting .263 and leads the Yankees with 97 RBIs and an .899 OPS, becoming a first-time All-Star and the biggest cog in an offense missing Aaron Judge and Giancarlo Stanton for most of the season.\nBoone deliberately picked an odd total rather than a round figure.\n“I was confident he was going to have a really big year,” he said. “Probably wanted to make sure it was just south of a number, maybe to maybe let him know that.”\nRice, who had three hits and a walk, became the 13th Yankees player with a 40-home run season but just the third to reach the milestone during his first three seasons after Joe DiMaggio and Judge. Rice's plate appearances often prompt a rendition of Elton John's \"Bennie and the Jets″ from the stadium's organist, and Rice has sparked an often struggling offense with 16 go-ahead homers this year and three that have tied games.\n“One thing I always tell guys the difference between minor leaguers and big leaguers is the consistency,” Judge said. “He’s one of the best. I can look up at the clock and I know exactly where he’s going to be in the cage. You know what he’s doing in the training room, the weight room. It’s just every single day, man, this guy’s a machine.”\nA 12th-round pick in the 2021 amateur draft from Dartmouth, where he played just 30 games over three years due to the coronavirus pandemic, Rice was mostly a catcher but occasionally a first baseman in the minors. He made his big league debut in June 2024 at age 25 after Anthony Rizzo broke a forearm.\nRice hit .171 with seven homers and 23 RBIs in 50 games that year, then batted .255 with 26 homers and 65 RBIs in 138 games last year.\nWith Stanton sidelined for most of the season, the left-handed-hitting Rice has 93 games at DH this year and 52 at first.\n“It's tough to pull him off his back leg,” Yankees pitcher Gerrit Cole said. “He’s really able to stay balanced and deliver high-efficacy strikes on various pitches in all parts of the zone.”\nRice was hitting .306 through May, then batted .196 in June. An 18-for-58 (.119) slide after the All-Star break dropped his season average to .248 on Aug. 22 but he's rebounded to bat .333 (34 for 102) since.\n“Went through a lull, which is inevitable, even in a great season,” Boone said. “Had a stretch in there where it was a struggle and he was grinding but kind of battled through that and feel like the last few weeks has been on a really good run.”\nRice's potential was evident on July 6, 2024, less than a month into his big league career, when he became the first Yankees rookie with three home runs in a game and tied Lou Gehrig's Yankees rookie record of seven RBIs. Consistency took time.\n“A lot of it I always feel like is just experience-based,” Rice said. “You just see more pitching at the big league level, get exposed to guys who throw all different kinds of pitches from different angles and slots and all these things. I feel like I’ve always been a good learner in that way.”\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "rss_title": "Ben Rice tops Aaron Boone's preseason prediction of 39 homers, hitting 40th and then 41st",
+    "rss_body": "NEW YORK (AP) — Ben Rice one-upped Aaron Boone. And then he two-upped the New York Yankees manager.\nBoone predicted during spring training that Rice would finish with 39 home runs this season. Rice hit Nos. 40 and 41 in Wednesday night's 9-2 victory over the Tampa Bay Rays, tying for the American League home run lead.\nHe smiled and pointed at Boone when he returned to the dugout after driving Mason Englert's first pitch of the game into Yankee Stadium's right field second deck. Rice grinned at Boone some more after another solo homer in the fourth.\n“I think I said, `Hey, there’s 40 for you,'” Rice recalled. “I was joking with him after the 41st one, saying, `Hey thanks for inspiring me this year.' But it’s all in good fun. Back in spring when he told me that, I knew that secretly meant he was hoping I’d hit 40.”\nRice is tied for the AL home run lead with Baltimore’s Pete Alonso, the Rays’ Junior Caminero and Houston’s Yordan Alvarez. He is hitting .263 and leads the Yankees with 97 RBIs and an .899 OPS, becoming a first-time All-Star and the biggest cog in an offense missing Aaron Judge and Giancarlo Stanton for most of the season.\nBoone deliberately picked an odd total rather than a round figure.\n“I was confident he was going to have a really big year,” he said. “Probably wanted to make sure it was just south of a number, maybe to maybe let him know that.”\nRice, who had three hits and a walk, became the 13th Yankees player with a 40-home run season but just the third to reach the milestone during his first three seasons after Joe DiMaggio and Judge. Rice's plate appearances often prompt a rendition of Elton John's \"Bennie and the Jets″ from the stadium's organist, and Rice has sparked an often struggling offense with 16 go-ahead homers this year and three that have tied games.\n“One thing I always tell guys the difference between minor leaguers and big leaguers is the consistency,” Judge said. “He’s one of the best. I can look up at the clock and I know exactly where he’s going to be in the cage. You know what he’s doing in the training room, the weight room. It’s just every single day, man, this guy’s a machine.”\nA 12th-round pick in the 2021 amateur draft from Dartmouth, where he played just 30 games over three years due to the coronavirus pandemic, Rice was mostly a catcher but occasionally a first baseman in the minors. He made his big league debut in June 2024 at age 25 after Anthony Rizzo broke a forearm.\nRice hit .171 with seven homers and 23 RBIs in 50 games that year, then batted .255 with 26 homers and 65 RBIs in 138 games last year.\nWith Stanton sidelined for most of the season, the left-handed-hitting Rice has 93 games at DH this year and 52 at first.\n“It's tough to pull him off his back leg,” Yankees pitcher Gerrit Cole said. “He’s really able to stay balanced and deliver high-efficacy strikes on various pitches in all parts of the zone.”\nRice was hitting .306 through May, then batted .196 in June. An 18-for-58 (.119) slide after the All-Star break dropped his season average to .248 on Aug. 22 but he's rebounded to bat .333 (34 for 102) since.\n“Went through a lull, which is inevitable, even in a great season,” Boone said. “Had a stretch in there where it was a struggle and he was grinding but kind of battled through that and feel like the last few weeks has been on a really good run.”\nRice's potential was evident on July 6, 2024, less than a month into his big league career, when he became the first Yankees rookie with three home runs in a game and tied Lou Gehrig's Yankees rookie record of seven RBIs. Consistency took time.\n“A lot of it I always feel like is just experience-based,” Rice said. “You just see more pitching at the big league level, get exposed to guys who throw all different kinds of pitches from different angles and slots and all these things. I feel like I’ve always been a good learner in that way.”\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "577c6c65dcf74d1e8113",
     "title": "Brewers postpone Phillies’ celebration with win | Arkansas Democrat Gazette",
     "source": "arkansasonline.com",
