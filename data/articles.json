@@ -286,114 +286,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "dfddcfbeddbdc5fb313f",
-    "title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
-    "source": "Pinstripe Alley",
-    "author": "Peter Brody",
-    "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/208630/yankees-game-thread-rays-how-to-watch-doubleheader-game-one-streaming-lineups-carlos-rodon",
-    "published_iso": "2026-09-22T16:35:00+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 16:35:00 +0000",
-    "body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
-    "tracked_people": [
-      {
-        "name": "Aaron Judge",
-        "role": "Outfielder",
-        "status": "Active (Reinstated from 60-day IL)",
-        "type": "player",
-        "id": 3,
-        "batch": 1
-      },
-      {
-        "name": "Heliot Ramos",
-        "role": "Left Fielder",
-        "status": "Active",
-        "type": "player",
-        "id": 5,
-        "batch": 1
-      },
-      {
-        "name": "Spencer Jones",
-        "role": "Right Fielder",
-        "status": "Active",
-        "type": "player",
-        "id": 6,
-        "batch": 1
-      },
-      {
-        "name": "Ryan McMahon",
-        "role": "Third Baseman",
-        "status": "Active (Reinstated from 10-day IL)",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Jose Caballero",
-        "role": "Shortstop",
-        "status": "Active",
-        "type": "player",
-        "id": 10,
-        "batch": 1
-      },
-      {
-        "name": "Gerrit Cole",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 15,
-        "batch": 1
-      },
-      {
-        "name": "Max Fried",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 16,
-        "batch": 1
-      },
-      {
-        "name": "Carlos Rodón",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      },
-      {
-        "name": "Cam Schlittler",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 20,
-        "batch": 1
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "US English",
-      "United States"
-    ],
-    "discovery_sources": [
-      "Google News",
-      "GDELT"
-    ],
-    "original_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
-    "original_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
-    "rss_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
-    "rss_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "pinstripealley.com",
-        "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/208814/yankees-rays-game-thread-probable-pitchers-starting-lineups-tv-channel-how-to-watch-cole-englert",
-        "title": "New York Yankees vs. Tampa Bay Rays: Gerrit Cole vs. Mason Englert",
-        "body_characters": 2201
-      }
-    ]
-  },
-  {
     "id": "8bc2d61fea462bdea712",
     "title": "Con otros 2 HR, Rice supera el pronóstico de Boone e iguala el liderato de la L.A.",
     "source": "MLB.com",
@@ -7649,6 +7541,114 @@
     "rss_title": "Jazz Chisholm Jr.’s return creates Yankees questions at 2B with Anthony Volpe | amNewYork",
     "rss_body": "BRONX, NY — Jazz Chisholm Jr. is set to be activated from the 10-day injured list following the first game of the Yankees’ doubleheader on Tuesday against the Tampa Bay Rays.\nThe second baseman missed two weeks after spraining his thumb, and his spot was filled in admirably by Anthony Volpe — the cast-off shortstop who has enjoyed a minor renaissance, of sorts. Entering Tuesday’s action, he had hit safely in six of his 10 games since being called back up from Triple-A, adding a home run and seven RBI. Five of them came in his first game back on Sept. 10 against the Colorado Rockies.\nYankees manager Aaron Boone said that Chisholm is “in a good spot” after hitting and throwing over the past several days. How playing time will shake out remains to be seen.\n“We’ll see,” Boone said. “Obviously, Anthony’s done a good job, but looking forward to getting Jazz back as well.”\nWith the opportunity for playing time seemingly available at third base with Jose Caballero, Ryan McMahon, and Amed Rosario in the mix, Boone had said that “we’ll see” when asked about Volpe potentially moving to the hot corner. Volpe said he has yet to have those conversations with team brass.\nIt has been a down season for Chisholm, who owns a .715 OPS with 19 home runs and 55 RBI. After a 30/30 season last year, he came into the 2026 campaign hoping to make a run at 50/50.\nThat did not happen, but getting a healthy Chisholm back who could possibly recapture last year’s spark would provide a significant boost for the Yankees, who are facing the very real possibility of being without Aaron Judge for their Wild Card Series against the Boston Red Sox next week.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "dfddcfbeddbdc5fb313f",
+    "title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "source": "Pinstripe Alley",
+    "author": "Peter Brody",
+    "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/208630/yankees-game-thread-rays-how-to-watch-doubleheader-game-one-streaming-lineups-carlos-rodon",
+    "published_iso": "2026-09-22T16:35:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:35:00 +0000",
+    "body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "US English",
+      "United States"
+    ],
+    "discovery_sources": [
+      "Google News",
+      "GDELT"
+    ],
+    "original_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "original_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "rss_title": "New York Yankees vs. Tampa Bay Rays: Carlos Rodón vs. Nick Martinez",
+    "rss_body": "This four-game tilt against the Rays in the penultimate series of the season had the chance to be a blockbuster showdown to decide the division. However, the Yankees losing two out of three to the Diamondbacks removed a lot of the jeopardy from this series, New York now needing to sweep just to avoid being eliminated from the AL East title race and depending on a very unlikely collapse from Tampa in their final series of the season to keep the divisional door the slightest bit ajar. All the same, this could be a preview of a prospective ALCS showdown, so I expect both teams to come out firing. The first game of today’s doubleheader is a makeup of the rainout from May 23rd.\nCarlos Rodón finds himself in the unexpected position of being on the postseason rotation bubble. Cam Schlittler and Max Fried are seemingly locks which would pit Rodón against Gerrit Cole for that final spot if they roll out a three-man rotation. It almost comes down to a style choice at that point — Rodón walks almost three times as many batters as Cole, but surrenders about half as many home runs per nine. He’s a good choice to start a game against the Rays — in six starts against Tampa with the Yankees, Rodón has a 3.69 ERA and 31.3-percent strikeout rate in 31.2 innings. In 15 starts this season, Rodón is 6-3 with a 2.95 ERA (142 ERA+), 3.69 FIP, and 83 strikeouts in 76.1 innings.\nThe Rays have a maddening habit of transforming other teams’ castoffs into rotation stars. This season’s example is longtime journeyman Nick Martinez, who had pitched as a swingman the previous four years in San Diego and Cincinnati. Martinez owns the lowest walk rate (3.5-percent) of any qualified starter, using deception and precise command to induce soft contact. He’s technically got a six-pitch mix but usually sticks with sinker, changeup, cutter, and four-seamer. In 29 starts, Martinez is 15-4 with a 2.94 ERA (142 ERA+), 3.98 FIP, and 101 strikeouts in 171.1 innings.\nThis is more or less the Yankees’ go-to lineup for the rest of the regular season with Aaron Judge on the IL. Heliot Ramos and Spencer Jones are both going to get a lot of run out in the outfield, so it was encouraging to see them both hit home runs against the former Cy Young winner Corbin Burnes in their last game. José Caballero gets the start over Ryan McMahon at third and sounded eager to make an impact against the team that traded him to the Yankees at last year’s deadline.\nThe Rays have their three-headed slugging monster atop lineup and then stack the bottom two-thirds with speed. Junior Caminero is third in MLB with 41 home runs giving him back-to-back 40-HR seasons. Chandler Simpson is MLB’s stolen base leader with 46 and third in batting average at .309, but is the only qualified hitter in baseball without a home run this season.\nHow to watch\nLocation: Yankee Stadium - Bronx, NY\nFirst pitch: 1:05 pm ET\nTV broadcast: YES, Rays.TV\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WDAE 95.7 FM, WQBN/1300AM (TB)\nStreaming: Gotham Sports App, MLB.tv (out-of-market only)",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "pinstripealley.com",
+        "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/208814/yankees-rays-game-thread-probable-pitchers-starting-lineups-tv-channel-how-to-watch-cole-englert",
+        "title": "New York Yankees vs. Tampa Bay Rays: Gerrit Cole vs. Mason Englert",
+        "body_characters": 2201
+      }
+    ]
   },
   {
     "id": "c69e4dca960a994c5c1e",
