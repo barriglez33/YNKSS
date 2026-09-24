@@ -1,20 +1,52 @@
 [
   {
-    "id": "f9e5a163d4fe8976d405",
-    "title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
-    "source": "heavy.com",
-    "author": "Ben Stinar",
-    "url": "https://heavy.com/sports/mlb/new-york-yankees/volpe-change-amid-jazz-chisholm-jr-news/",
-    "published_iso": "2026-09-23T04:23:06+00:00",
-    "published_rfc2822": "Wed, 23 Sep 2026 04:23:06 +0000",
-    "body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
+    "id": "969aa651dbe18044e4f8",
+    "title": "Can the Yankees take down the Red Sox without Aaron Judge?",
+    "source": "amsterdamnews.com",
+    "author": "JAIME C HARRIS AmNews Sports Editor",
+    "url": "https://amsterdamnews.com/news/2026/09/24/can-the-yankees-take-down-the-red-sox-without-aaron-judge/",
+    "published_iso": "2026-09-24T21:15:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 21:15:00 +0000",
+    "body": "This was supposed to be the year the Yankees would win the franchise’s first World Series since 2009. A roster that included all-time greats Derek Jeter, Mariano Rivera and Alex Rodriguez, Hall of Famer CC Sabathia, and Series MVP Hideki Matsui, one of the best players Japan has ever produced.\nYet, as the Yankees look towards Tuesday, when they open the playoffs at home against what is virtually certain to be the Boston Red Sox, their longtime nemesis, in a best-of-three wildcard series, the prospects of them navigating an always perilous path to the World Series were reduced when Yankees manager Aaron Boone said this past Tuesday that the reigning American League MVP likely won’t play in the series due to a right calf strain.\n“We’re planning on him not being a part of that,” Boone revealed to reporters.\nJudge, who has only appeared in 66 games this season, primarily recovering from a right rib stress fracture, which caused him to sit out 84 games from May 31 to Sept. 8, is now on the 10-day injured list, placed there last Friday. The 34-year-old Judge, arguably the best player in the sport over the last decade, isn’t expected back for the divisional round if the Yankees get by the Red Sox.\nLast weekend, Boone informed the media the team didn’t have a firm estimate as to when Judge, a three-time AL MVP, three-time AL home run leader, two-time MLB RBI king and last season’s MLB batting champion, would return to the lineup.\n“I mean, I have no idea, we’re in the early stages,” expressed Boone, now in his ninth season as the Yankees manager. “We’ll just obviously treat it and see what transpires.”\nThe Yankees watched Tampa Bay clinch the AL East title on Tuesday at Yankee Stadium when they won the second game of a double-header on Tuesday 6-1. The Yankees shut out the Rays in the opener. Tampa Bay 96-61 going into the third game of the four-game series last night with the finale scheduled for 7:05 tonight. The Yankees were second in the division at 90-67 and the 84-73 Red Sox third.\nWith Judge unavailable, the Yankees offense will have to be multifaceted — both power and small ball will be required to make a deep postseason run. Designated hitter Ben Rice, who as of Wednesday had 39 home runs and 95 RBIs, both team highs, was the only Yankee with more than 20 homers and 80 runs batted in, so timely power will have to come from sources such as second baseman Jazz Chisholm Jr. (19 home runs), first baseman Paul Goldschmidt (18), and left fielder Cody Bellinger (17).\nBut it is pitching that must advance the Yankees, led by leading AL Cy Young Award candidate Cam Schlittler, who is 14-6 with a 1.94 ERA and 234 strikeouts. Schlittler is scheduled to start tonight before taking the mound next week in the wildcard series.\nBut the prevailing question is: Can the Yankees win without Judge?",
     "tracked_people": [
       {
-        "name": "Anthony Volpe",
-        "role": "Shortstop",
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
         "status": "Active",
         "type": "player",
-        "id": 9,
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
         "batch": 1
       },
       {
@@ -24,28 +56,70 @@
         "type": "player",
         "id": 28,
         "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Derek Jeter",
+        "role": "Legend / Hall of Famer",
+        "status": "The Captain, core of the late-90s/2000s dynasty.",
+        "type": "legend",
+        "id": 36,
+        "batch": 2
+      },
+      {
+        "name": "Mariano Rivera",
+        "role": "Legend / Hall of Famer",
+        "status": "Unanimous Hall of Famer, greatest closer in history.",
+        "type": "legend",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Hideki Matsui",
+        "role": "Legend / Outfielder",
+        "status": "Godzilla, 2009 World Series MVP and Japanese icon.",
+        "type": "legend",
+        "id": 38,
+        "batch": 2
+      },
+      {
+        "name": "Alex Rodriguez",
+        "role": "Legend / Third Baseman",
+        "status": "2-time MVP with NYY, key piece of the 2009 title team.",
+        "type": "legend",
+        "id": 43,
+        "batch": 2
+      },
+      {
+        "name": "CC Sabathia",
+        "role": "Legend / Starting Pitcher",
+        "status": "Workhorse ace of the 2009 championship rotation.",
+        "type": "legend",
+        "id": 44,
+        "batch": 2
       }
     ],
-    "source_languages": [],
+    "source_languages": [
+      "English"
+    ],
     "source_countries": [
-      "US English"
+      "United States"
     ],
     "discovery_sources": [
-      "Google News"
+      "GDELT"
     ],
-    "original_title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
-    "original_body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
-    "rss_title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
-    "rss_body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "heavy.com",
-        "url": "https://heavy.com/sports/mlb/new-york-yankees/volpe-decision-lineup-sept-24/",
-        "title": "Yankees Announce Anthony Volpe Decision Amid Jazz Chisholm Jr. Change",
-        "body_characters": 1153
-      }
-    ]
+    "original_title": "Can the Yankees take down the Red Sox without Aaron Judge?",
+    "original_body": "This was supposed to be the year the Yankees would win the franchise’s first World Series since 2009. A roster that included all-time greats Derek Jeter, Mariano Rivera and Alex Rodriguez, Hall of Famer CC Sabathia, and Series MVP Hideki Matsui, one of the best players Japan has ever produced.\nYet, as the Yankees look towards Tuesday, when they open the playoffs at home against what is virtually certain to be the Boston Red Sox, their longtime nemesis, in a best-of-three wildcard series, the prospects of them navigating an always perilous path to the World Series were reduced when Yankees manager Aaron Boone said this past Tuesday that the reigning American League MVP likely won’t play in the series due to a right calf strain.\n“We’re planning on him not being a part of that,” Boone revealed to reporters.\nJudge, who has only appeared in 66 games this season, primarily recovering from a right rib stress fracture, which caused him to sit out 84 games from May 31 to Sept. 8, is now on the 10-day injured list, placed there last Friday. The 34-year-old Judge, arguably the best player in the sport over the last decade, isn’t expected back for the divisional round if the Yankees get by the Red Sox.\nLast weekend, Boone informed the media the team didn’t have a firm estimate as to when Judge, a three-time AL MVP, three-time AL home run leader, two-time MLB RBI king and last season’s MLB batting champion, would return to the lineup.\n“I mean, I have no idea, we’re in the early stages,” expressed Boone, now in his ninth season as the Yankees manager. “We’ll just obviously treat it and see what transpires.”\nThe Yankees watched Tampa Bay clinch the AL East title on Tuesday at Yankee Stadium when they won the second game of a double-header on Tuesday 6-1. The Yankees shut out the Rays in the opener. Tampa Bay 96-61 going into the third game of the four-game series last night with the finale scheduled for 7:05 tonight. The Yankees were second in the division at 90-67 and the 84-73 Red Sox third.\nWith Judge unavailable, the Yankees offense will have to be multifaceted — both power and small ball will be required to make a deep postseason run. Designated hitter Ben Rice, who as of Wednesday had 39 home runs and 95 RBIs, both team highs, was the only Yankee with more than 20 homers and 80 runs batted in, so timely power will have to come from sources such as second baseman Jazz Chisholm Jr. (19 home runs), first baseman Paul Goldschmidt (18), and left fielder Cody Bellinger (17).\nBut it is pitching that must advance the Yankees, led by leading AL Cy Young Award candidate Cam Schlittler, who is 14-6 with a 1.94 ERA and 234 strikeouts. Schlittler is scheduled to start tonight before taking the mound next week in the wildcard series.\nBut the prevailing question is: Can the Yankees win without Judge?",
+    "rss_title": "Can the Yankees take down the Red Sox without Aaron Judge?",
+    "rss_body": "This was supposed to be the year the Yankees would win the franchise’s first World Series since 2009. A roster that included all-time greats Derek Jeter, Mariano Rivera and Alex Rodriguez, Hall of Famer CC Sabathia, and Series MVP Hideki Matsui, one of the best players Japan has ever produced.\nYet, as the Yankees look towards Tuesday, when they open the playoffs at home against what is virtually certain to be the Boston Red Sox, their longtime nemesis, in a best-of-three wildcard series, the prospects of them navigating an always perilous path to the World Series were reduced when Yankees manager Aaron Boone said this past Tuesday that the reigning American League MVP likely won’t play in the series due to a right calf strain.\n“We’re planning on him not being a part of that,” Boone revealed to reporters.\nJudge, who has only appeared in 66 games this season, primarily recovering from a right rib stress fracture, which caused him to sit out 84 games from May 31 to Sept. 8, is now on the 10-day injured list, placed there last Friday. The 34-year-old Judge, arguably the best player in the sport over the last decade, isn’t expected back for the divisional round if the Yankees get by the Red Sox.\nLast weekend, Boone informed the media the team didn’t have a firm estimate as to when Judge, a three-time AL MVP, three-time AL home run leader, two-time MLB RBI king and last season’s MLB batting champion, would return to the lineup.\n“I mean, I have no idea, we’re in the early stages,” expressed Boone, now in his ninth season as the Yankees manager. “We’ll just obviously treat it and see what transpires.”\nThe Yankees watched Tampa Bay clinch the AL East title on Tuesday at Yankee Stadium when they won the second game of a double-header on Tuesday 6-1. The Yankees shut out the Rays in the opener. Tampa Bay 96-61 going into the third game of the four-game series last night with the finale scheduled for 7:05 tonight. The Yankees were second in the division at 90-67 and the 84-73 Red Sox third.\nWith Judge unavailable, the Yankees offense will have to be multifaceted — both power and small ball will be required to make a deep postseason run. Designated hitter Ben Rice, who as of Wednesday had 39 home runs and 95 RBIs, both team highs, was the only Yankee with more than 20 homers and 80 runs batted in, so timely power will have to come from sources such as second baseman Jazz Chisholm Jr. (19 home runs), first baseman Paul Goldschmidt (18), and left fielder Cody Bellinger (17).\nBut it is pitching that must advance the Yankees, led by leading AL Cy Young Award candidate Cam Schlittler, who is 14-6 with a 1.94 ERA and 234 strikeouts. Schlittler is scheduled to start tonight before taking the mound next week in the wildcard series.\nBut the prevailing question is: Can the Yankees win without Judge?",
+    "translation_status": "fallback_original"
   },
   {
     "id": "f931ed4c5d569cc6851c",
@@ -213,6 +287,96 @@
     "original_body": "The Yankees will be operating without Clarke Schmidt again.\nNew York placed Schmidt back on the IL with right bicep neuritis before Thursday's game.\nBecause of the IL stint, the right-hander will not be a bullpen option for the Yanks for at least the upcoming Wild Card series.\nSchmidt had been warming up to enter Sunday afternoon's series finale against the Diamondbacks when he first started experiencing bicep soreness.\nHe underwent testing earlier this week, and the team felt he was in a \"pretty good spot.\"\nThe 30-year-old was set to play catch at Yankee Stadium on Wednesday to determine his availability, but he was unable to do so and now officially lands back on the IL.\nSchmidt made just one big league appearance in his return from Tommy John surgery, striking out two of the four batters he faced last Wednesday against the Twins.\nIn his place, Bradley Hanner has been recalled from Triple-A Scranton/Wilkes-Barre.",
     "rss_title": "Yankees' Clarke Schmidt lands on 15-day IL with right bicep neuritis",
     "rss_body": "The Yankees will be operating without Clarke Schmidt again.\nNew York placed Schmidt back on the IL with right bicep neuritis before Thursday's game.\nBecause of the IL stint, the right-hander will not be a bullpen option for the Yanks for at least the upcoming Wild Card series.\nSchmidt had been warming up to enter Sunday afternoon's series finale against the Diamondbacks when he first started experiencing bicep soreness.\nHe underwent testing earlier this week, and the team felt he was in a \"pretty good spot.\"\nThe 30-year-old was set to play catch at Yankee Stadium on Wednesday to determine his availability, but he was unable to do so and now officially lands back on the IL.\nSchmidt made just one big league appearance in his return from Tommy John surgery, striking out two of the four batters he faced last Wednesday against the Twins.\nIn his place, Bradley Hanner has been recalled from Triple-A Scranton/Wilkes-Barre.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "c791bbf9ccb5e4a9f7d4",
+    "title": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence",
+    "source": "whec.com",
+    "author": "Kiley Wren",
+    "url": "https://www.whec.com/ap-top-news/judge-hopes-to-be-ready-for-playoffs-and-stanton-could-return-for-yankees-after-5-1-2-month-absence/",
+    "published_iso": "2026-09-24T19:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 19:45:00 +0000",
+    "body": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence\nNEW YORK (AP) — Yankees slugger Aaron Judge hopes to return from a strained right calf for the playoffs next week and Giancarlo Stanton could be back after a 5 1/2-month absence.\nNew York manager Aaron Boone repeated he’s not counting on Judge to play in the AL Wild Card Series opener Tuesday. Judge, sidelined since Sept. 16, said he’s trying to do all he can to be in the lineup.\n“The Bronx is a magical place in October,” Judge said after Wednesday night’s 9-2 win over AL East champion Tampa Bay. “I don’t want to miss out on that opportunity.”\nJudge had a platelet-poor plasma injection Monday. He was sidelined by a fractured rib from May 31 to Sept. 8 and played in just seven games before the latest injury.\n“Any injection doesn’t feel too good that day, but I feel a lot better today and we’re going to keep making strides,” he said.\nA three-time AL MVP, Judge is hitting .241 with 18 homers, 41 RBIs and an .871 OPS in 66 games this season, including .174 with one homer and three RBIs since coming back from the rib injury.\n“We are going to listen to the body and see how he heals,” Boone said. “If he is in a position to do that, obviously we are going to want him. So, no, I haven’t ruled anything out, of course.”\nBoone said Tuesday he wasn’t planning on having Judge available for next week’s best-of-three series, likely against Boston.\n“Obviously as a player, you don’t want to hear that but that’s out of my control,” Judge said.\nBoone said Judge had a moderate strain.\n“Everybody’s `moderate’ is a little different,” Judge said.\nStanton, trying to return from injuries to calf muscles in both legs, faced pitchers Wednesday at Double-A Somerset along with center fielder Trent Grisham, sidelined since straining his right hamstring on Sept. 4. Both ran the bases and Stanton homered while taking six or seven at-bats.\n“Putting them on the outskirts of the conversation,” Boone, bothered by a cold, said in a raspy voice.\nFollowing the end of the seasons for Yankees farm teams, New York has minor leaguers working out at Somerset in nearby New Jersey.\nStanton hasn’t played since April 24 because of strained calf muscles in both legs after starting the season with a .256 batting average, three homers and 14 RBIs in 24 games. The 36-year-old former NL MVP had 38 homers and 100 RBIs in his first season with New York in 2018 but has missed 500 of 1,194 games since (41.9%), through the end of this regular season.\nHis other injuries included strains of his right biceps, right knee, left hamstring (three times), left quadriceps and both calf muscles along with right ankle inflammation, left Achilles tendinitis and tendon pain in both elbows.\n“You’re looking more at a pinch-hit scenario,” Boone said. “We’ll see if that’s even a realistic option.”\nStanton is owed $25 million next year in the final guaranteed season of a $325 million, 13-year contract that includes a $10 million buyout of a 2028 club option.\nLagrange could be brought up for major league debut\nCarlos Lagrange, a 23-year-old right-hander who reached 100 mph with 98 pitches at Triple-A this year, threw to batters at Somerset. He was out between June 28 and Sept. 16 because of a right capsule strain.\nLagrange was shifted to the bullpen at the start of June.\n“He’s in the conversation for something,” Boone said.\nClarke Schmidt still out\nRight-hander Clarke Schmidt, who returned Sept. 16 following Tommy John surgery in July 2025, played catch but remains sidelined by right biceps cramps. New York had hoped to use him as a reliever in the postseason.\n“Today was better than yesterday,” Boone said. “If he’s not a real viable option by tomorrow, then we’ll probably go a different way.”\nPostseason rotation\nBoone said Cam Schlitter will start Game 1 or 2 of the playoffs. Max Fried appears set to start whichever game Schlittler doesn’t, with Gerrit Cole and Carlos Rodón available for Game 3.\n“Whoever goes 1 or 2 can pitch 2 and 5 in the next series,” Boone said.\nFernando Cruz throws a bullpen\nRight-hander Fernando Cruz threw a bullpen this week and is to throw another one Thursday.\nHe hasn’t pitched in a game since Aug. 25 because of right elbow discomfort caused by a partially torn ulnar collateral ligament.\n“I’m in a really good position to be back I will say in the next couple of weeks,” Cruz said.\nHe took issue with the diagnosis of his injury.\n“I had a real good inflammation, real stiffness and irritation,” he said. “People can say it’s a partial tear, but in my heart it’s not a partial tear.”\nVolpe will see time at the hot corner\nWith second baseman Jazz Chisholm Jr. back from a sprained right thumb, Boone said Anthony Volpe will see time at third.\n“I’ll probably get him on there a time or two,” Boone said.\nVolpe entered Wednesday hitting .263 with one homer, seven RBIs and four stolen bases over 11 games since his recall from Triple-A Scranton/Wilkes-Barre. He played three games at third base for the RailRiders.\n“It didn’t feel that bad when I played there, but we’ll see,” Volpe said.\n___\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence",
+    "original_body": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence\nNEW YORK (AP) — Yankees slugger Aaron Judge hopes to return from a strained right calf for the playoffs next week and Giancarlo Stanton could be back after a 5 1/2-month absence.\nNew York manager Aaron Boone repeated he’s not counting on Judge to play in the AL Wild Card Series opener Tuesday. Judge, sidelined since Sept. 16, said he’s trying to do all he can to be in the lineup.\n“The Bronx is a magical place in October,” Judge said after Wednesday night’s 9-2 win over AL East champion Tampa Bay. “I don’t want to miss out on that opportunity.”\nJudge had a platelet-poor plasma injection Monday. He was sidelined by a fractured rib from May 31 to Sept. 8 and played in just seven games before the latest injury.\n“Any injection doesn’t feel too good that day, but I feel a lot better today and we’re going to keep making strides,” he said.\nA three-time AL MVP, Judge is hitting .241 with 18 homers, 41 RBIs and an .871 OPS in 66 games this season, including .174 with one homer and three RBIs since coming back from the rib injury.\n“We are going to listen to the body and see how he heals,” Boone said. “If he is in a position to do that, obviously we are going to want him. So, no, I haven’t ruled anything out, of course.”\nBoone said Tuesday he wasn’t planning on having Judge available for next week’s best-of-three series, likely against Boston.\n“Obviously as a player, you don’t want to hear that but that’s out of my control,” Judge said.\nBoone said Judge had a moderate strain.\n“Everybody’s `moderate’ is a little different,” Judge said.\nStanton, trying to return from injuries to calf muscles in both legs, faced pitchers Wednesday at Double-A Somerset along with center fielder Trent Grisham, sidelined since straining his right hamstring on Sept. 4. Both ran the bases and Stanton homered while taking six or seven at-bats.\n“Putting them on the outskirts of the conversation,” Boone, bothered by a cold, said in a raspy voice.\nFollowing the end of the seasons for Yankees farm teams, New York has minor leaguers working out at Somerset in nearby New Jersey.\nStanton hasn’t played since April 24 because of strained calf muscles in both legs after starting the season with a .256 batting average, three homers and 14 RBIs in 24 games. The 36-year-old former NL MVP had 38 homers and 100 RBIs in his first season with New York in 2018 but has missed 500 of 1,194 games since (41.9%), through the end of this regular season.\nHis other injuries included strains of his right biceps, right knee, left hamstring (three times), left quadriceps and both calf muscles along with right ankle inflammation, left Achilles tendinitis and tendon pain in both elbows.\n“You’re looking more at a pinch-hit scenario,” Boone said. “We’ll see if that’s even a realistic option.”\nStanton is owed $25 million next year in the final guaranteed season of a $325 million, 13-year contract that includes a $10 million buyout of a 2028 club option.\nLagrange could be brought up for major league debut\nCarlos Lagrange, a 23-year-old right-hander who reached 100 mph with 98 pitches at Triple-A this year, threw to batters at Somerset. He was out between June 28 and Sept. 16 because of a right capsule strain.\nLagrange was shifted to the bullpen at the start of June.\n“He’s in the conversation for something,” Boone said.\nClarke Schmidt still out\nRight-hander Clarke Schmidt, who returned Sept. 16 following Tommy John surgery in July 2025, played catch but remains sidelined by right biceps cramps. New York had hoped to use him as a reliever in the postseason.\n“Today was better than yesterday,” Boone said. “If he’s not a real viable option by tomorrow, then we’ll probably go a different way.”\nPostseason rotation\nBoone said Cam Schlitter will start Game 1 or 2 of the playoffs. Max Fried appears set to start whichever game Schlittler doesn’t, with Gerrit Cole and Carlos Rodón available for Game 3.\n“Whoever goes 1 or 2 can pitch 2 and 5 in the next series,” Boone said.\nFernando Cruz throws a bullpen\nRight-hander Fernando Cruz threw a bullpen this week and is to throw another one Thursday.\nHe hasn’t pitched in a game since Aug. 25 because of right elbow discomfort caused by a partially torn ulnar collateral ligament.\n“I’m in a really good position to be back I will say in the next couple of weeks,” Cruz said.\nHe took issue with the diagnosis of his injury.\n“I had a real good inflammation, real stiffness and irritation,” he said. “People can say it’s a partial tear, but in my heart it’s not a partial tear.”\nVolpe will see time at the hot corner\nWith second baseman Jazz Chisholm Jr. back from a sprained right thumb, Boone said Anthony Volpe will see time at third.\n“I’ll probably get him on there a time or two,” Boone said.\nVolpe entered Wednesday hitting .263 with one homer, seven RBIs and four stolen bases over 11 games since his recall from Triple-A Scranton/Wilkes-Barre. He played three games at third base for the RailRiders.\n“It didn’t feel that bad when I played there, but we’ll see,” Volpe said.\n___\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "rss_title": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence",
+    "rss_body": "Judge hopes to be ready for playoffs and Stanton could return for Yankees after 5 1/2-month absence\nNEW YORK (AP) — Yankees slugger Aaron Judge hopes to return from a strained right calf for the playoffs next week and Giancarlo Stanton could be back after a 5 1/2-month absence.\nNew York manager Aaron Boone repeated he’s not counting on Judge to play in the AL Wild Card Series opener Tuesday. Judge, sidelined since Sept. 16, said he’s trying to do all he can to be in the lineup.\n“The Bronx is a magical place in October,” Judge said after Wednesday night’s 9-2 win over AL East champion Tampa Bay. “I don’t want to miss out on that opportunity.”\nJudge had a platelet-poor plasma injection Monday. He was sidelined by a fractured rib from May 31 to Sept. 8 and played in just seven games before the latest injury.\n“Any injection doesn’t feel too good that day, but I feel a lot better today and we’re going to keep making strides,” he said.\nA three-time AL MVP, Judge is hitting .241 with 18 homers, 41 RBIs and an .871 OPS in 66 games this season, including .174 with one homer and three RBIs since coming back from the rib injury.\n“We are going to listen to the body and see how he heals,” Boone said. “If he is in a position to do that, obviously we are going to want him. So, no, I haven’t ruled anything out, of course.”\nBoone said Tuesday he wasn’t planning on having Judge available for next week’s best-of-three series, likely against Boston.\n“Obviously as a player, you don’t want to hear that but that’s out of my control,” Judge said.\nBoone said Judge had a moderate strain.\n“Everybody’s `moderate’ is a little different,” Judge said.\nStanton, trying to return from injuries to calf muscles in both legs, faced pitchers Wednesday at Double-A Somerset along with center fielder Trent Grisham, sidelined since straining his right hamstring on Sept. 4. Both ran the bases and Stanton homered while taking six or seven at-bats.\n“Putting them on the outskirts of the conversation,” Boone, bothered by a cold, said in a raspy voice.\nFollowing the end of the seasons for Yankees farm teams, New York has minor leaguers working out at Somerset in nearby New Jersey.\nStanton hasn’t played since April 24 because of strained calf muscles in both legs after starting the season with a .256 batting average, three homers and 14 RBIs in 24 games. The 36-year-old former NL MVP had 38 homers and 100 RBIs in his first season with New York in 2018 but has missed 500 of 1,194 games since (41.9%), through the end of this regular season.\nHis other injuries included strains of his right biceps, right knee, left hamstring (three times), left quadriceps and both calf muscles along with right ankle inflammation, left Achilles tendinitis and tendon pain in both elbows.\n“You’re looking more at a pinch-hit scenario,” Boone said. “We’ll see if that’s even a realistic option.”\nStanton is owed $25 million next year in the final guaranteed season of a $325 million, 13-year contract that includes a $10 million buyout of a 2028 club option.\nLagrange could be brought up for major league debut\nCarlos Lagrange, a 23-year-old right-hander who reached 100 mph with 98 pitches at Triple-A this year, threw to batters at Somerset. He was out between June 28 and Sept. 16 because of a right capsule strain.\nLagrange was shifted to the bullpen at the start of June.\n“He’s in the conversation for something,” Boone said.\nClarke Schmidt still out\nRight-hander Clarke Schmidt, who returned Sept. 16 following Tommy John surgery in July 2025, played catch but remains sidelined by right biceps cramps. New York had hoped to use him as a reliever in the postseason.\n“Today was better than yesterday,” Boone said. “If he’s not a real viable option by tomorrow, then we’ll probably go a different way.”\nPostseason rotation\nBoone said Cam Schlitter will start Game 1 or 2 of the playoffs. Max Fried appears set to start whichever game Schlittler doesn’t, with Gerrit Cole and Carlos Rodón available for Game 3.\n“Whoever goes 1 or 2 can pitch 2 and 5 in the next series,” Boone said.\nFernando Cruz throws a bullpen\nRight-hander Fernando Cruz threw a bullpen this week and is to throw another one Thursday.\nHe hasn’t pitched in a game since Aug. 25 because of right elbow discomfort caused by a partially torn ulnar collateral ligament.\n“I’m in a really good position to be back I will say in the next couple of weeks,” Cruz said.\nHe took issue with the diagnosis of his injury.\n“I had a real good inflammation, real stiffness and irritation,” he said. “People can say it’s a partial tear, but in my heart it’s not a partial tear.”\nVolpe will see time at the hot corner\nWith second baseman Jazz Chisholm Jr. back from a sprained right thumb, Boone said Anthony Volpe will see time at third.\n“I’ll probably get him on there a time or two,” Boone said.\nVolpe entered Wednesday hitting .263 with one homer, seven RBIs and four stolen bases over 11 games since his recall from Triple-A Scranton/Wilkes-Barre. He played three games at third base for the RailRiders.\n“It didn’t feel that bad when I played there, but we’ll see,” Volpe said.\n___\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
     "translation_status": "fallback_original"
   },
   {
@@ -6234,6 +6398,54 @@
         "url": "https://www.milenio.com/deportes/beisbol/aaron-judge-es-duda-para-el-arranque-de-playoffs-con-los-yankees",
         "title": "Aaron Judge es duda para el arranque de playoffs con los Yankees",
         "body_characters": 1731
+      }
+    ]
+  },
+  {
+    "id": "f9e5a163d4fe8976d405",
+    "title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
+    "source": "heavy.com",
+    "author": "Ben Stinar",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/volpe-change-amid-jazz-chisholm-jr-news/",
+    "published_iso": "2026-09-23T04:23:06+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 04:23:06 +0000",
+    "body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
+    "tracked_people": [
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
+    "original_body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
+    "rss_title": "Yankees Quickly Make Anthony Volpe Change Amid Jazz Chisholm Jr. News",
+    "rss_body": "On Tuesday night, the New York Yankees will play the second game of their series with the Tampa Bay Rays.\nThey won the first (on Tuesday afternoon) by a score of 2-0.\nAnthony Volpe (who started at second base) finished with three strikeouts and no hits.\nUPDATE: The Yankees lost 6-1 in the second game.\nYankees Made Volpe Change Amid Chisholm Jr. News\nAhead of the second game, the Yankees announced that Jazz Chisholm Jr. has been activated off the injured list.\nThe Yankees wrote (via X): “Prior to Game 2 of today’s doubleheader, the Yankees made the following roster moves: • Reinstated INF Jazz Chisholm Jr. (#13) from the 10-day injured list. • Optioned INF/OF Max Schuemann to the FCL Yankees.”\nThe Yankees have also announced their starting lineup.\nUnderdog MLB wrote: “Yankees Game 2 9/22 B. Rice DH C. Bellinger LF H. Ramos RF L. García Jr. 1B S. Jones CF J. Chisholm Jr. 2B G. Lombard Jr. SS A. Wells C R. McMahon 3B M. Fried SP”\nChisholm Jr. is starting at second base, while Volpe has been removed from the lineup.\nVolpe is in the middle of his fourth season with the Yankees.\nHe is currently batting .248 with 51 hits, two home runs, 26 RBIs, 24 runs and 11 stolen bases in 66 games this year.\nSocial Media Reacts To Lineup\nHere’s what people were saying:\n@arrocitodo: “lets seee what this night game lineup can dooooo”\n@_coachtrav: “I want to see Volpe at 3B some point in the next week lol”\n@GLJrEnthusiast: “This lineup with Judge in the middle of it would’ve been so special 💔”\n@grinchmeritt: “I really wish they would put Jazz at 3rd and Volpe at 2nd…just to see”\n@NYYPinstripes27: “Double the Baseball, Double the Fun! The Yanks look to start the series hot and sweep the day against the Tampa Bay Rays. Jazz Chisholm Jr. has been activated and will bat sixth tonight. Mad Max will toe the slab for the Yanks. First pitch is set for 7:05 PM ET. LET’S GO YANKS!!”\nGary Phillips: “Jazz Chisholm Jr. is hitting 6th in his return. #Yankees”",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "heavy.com",
+        "url": "https://heavy.com/sports/mlb/new-york-yankees/volpe-decision-lineup-sept-24/",
+        "title": "Yankees Announce Anthony Volpe Decision Amid Jazz Chisholm Jr. Change",
+        "body_characters": 1153
       }
     ]
   },
