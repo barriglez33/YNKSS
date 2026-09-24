@@ -1,5 +1,141 @@
 [
   {
+    "id": "a353527c918949c11cc1",
+    "title": "Projecting the Yankees' playoff bullpen trust tree behind Headrick, Blackburn, Bednar",
+    "source": "Yanks Go Yard",
+    "author": "Pat Ragazzo",
+    "url": "https://yanksgoyard.com/projecting-the-yankees-playoff-bullpen-trust-tree-behind-headrick-blackburn-bednar",
+    "published_iso": "2026-09-24T15:15:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 15:15:00 +0000",
+    "body": "The New York Yankees have three main arms in their bullpen who they can rely on during the postseason. This trio of relievers consists of closer David Bednar, Brent Headrick and Paul Blackburn, the Yankees' best relief assets all season.\nBut who can they count on in the trust tree behind these three relief pitchers? Let's try to project which bullpen arms the Yankees can lean on in the playoffs from most to least trustworthy.\nYankees' most trustworthy relievers as playoffs approach\nYankees manager Aaron Boone has Bednar, Headrick and Blackburn, who he can go to in the late innings if the team has the lead or is in a tie game. But the Yankees are going to need more than that if they're going to make a deep run.\nThis is where Will Warren will likely come in as someone that can give the Yankees some key innings in long relief in the playoffs. Warren has not allowed a run in three innings as a reliever this season, and has pitched well as of late overall (2.45 ERA in September).\nHear me out on this next one: If Tim Hill makes the postseason roster, he will step up for the Yankees. Hill has allowed just one earned run across 11.1 playoff innings for the Yankees in the last two years. Since May 31, Hill has seen his ERA balloon from 2.53 to 4.71. But he is postseason tested, which means Boone and the Yankees should be able to count on him.\nLast but not least, the sixth most trustworthy bullpen option could be newcomer John Schreiber. The right-hander has a 2.00 ERA over nine innings since joining the Yankees at the beginning of the month. Like Hill, Schreiber has postseason success, posting five scoreless relief appearances against the Yankees, ironically, in the 2024 postseason while pitching for the Kansas City Royals.\nWho the Yankees shouldn't trust in ther playoff bullpen\nNow we get to the part, where the names on this list probably should be pitching in lower leverage spots in the postseason. Fernando Cruz would've been included here, but his return is in doubt due to a partially torn UCL in his right elbow. Beyond Cruz, there is a pair of starters who are coming back from injury that likely can't be trusted at this point.\nNo. 1 is Clarke Schmidt, who just experienced biceps soreness when trying to warm up in the bullpen on Sunday. Schmidt came back from 2025 Tommy John surgery on September 16, but has been limited to one appearance, where he recorded two outs. It's hard to see how he could be high up on the trust tree in the postseason if the Yankees keep him on the playoff roster.\nThe second starter is Ryan Weathers, who had a breakout season for the Yankees this year. The expectation was that Weathers could be a solid relief option in the playoffs, but he is now unlikely to return in the regular season due to his left forearm flexor strain. It's difficult to envision Weathers coming back healthy at this point and being a trusted reliever in the biggest games of the year.\nShould the Yankees choose to go: Cam Schlittler, Max Fried, Gerrit Cole, Carlos Rodón, Bednar, Headrick, Blackburn, Warren, Hill, Schreiber, Weathers, Schmidt, that would mean there's one more spot available for a pitcher on a 13-man staff. This last slot would come down to: Luis Gil, Michael Fulmer or Ryan Yarbrough.\nWhile Gil has the most upside of the three, he can be erratic with his command at times. He also has a 6.75 ERA for his career in the postseason. Fulmer has a 4.50 ERA since joining the Yankees last month and Yarbrough is better suited to give length when the team is trailing. Whoever the Yankees decide to give the last spot to will be a low leverage option and at the bottom of the trust tree.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Luis Gil",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Brent Headrick",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Projecting the Yankees' playoff bullpen trust tree behind Headrick, Blackburn, Bednar",
+    "original_body": "The New York Yankees have three main arms in their bullpen who they can rely on during the postseason. This trio of relievers consists of closer David Bednar, Brent Headrick and Paul Blackburn, the Yankees' best relief assets all season.\nBut who can they count on in the trust tree behind these three relief pitchers? Let's try to project which bullpen arms the Yankees can lean on in the playoffs from most to least trustworthy.\nYankees' most trustworthy relievers as playoffs approach\nYankees manager Aaron Boone has Bednar, Headrick and Blackburn, who he can go to in the late innings if the team has the lead or is in a tie game. But the Yankees are going to need more than that if they're going to make a deep run.\nThis is where Will Warren will likely come in as someone that can give the Yankees some key innings in long relief in the playoffs. Warren has not allowed a run in three innings as a reliever this season, and has pitched well as of late overall (2.45 ERA in September).\nHear me out on this next one: If Tim Hill makes the postseason roster, he will step up for the Yankees. Hill has allowed just one earned run across 11.1 playoff innings for the Yankees in the last two years. Since May 31, Hill has seen his ERA balloon from 2.53 to 4.71. But he is postseason tested, which means Boone and the Yankees should be able to count on him.\nLast but not least, the sixth most trustworthy bullpen option could be newcomer John Schreiber. The right-hander has a 2.00 ERA over nine innings since joining the Yankees at the beginning of the month. Like Hill, Schreiber has postseason success, posting five scoreless relief appearances against the Yankees, ironically, in the 2024 postseason while pitching for the Kansas City Royals.\nWho the Yankees shouldn't trust in ther playoff bullpen\nNow we get to the part, where the names on this list probably should be pitching in lower leverage spots in the postseason. Fernando Cruz would've been included here, but his return is in doubt due to a partially torn UCL in his right elbow. Beyond Cruz, there is a pair of starters who are coming back from injury that likely can't be trusted at this point.\nNo. 1 is Clarke Schmidt, who just experienced biceps soreness when trying to warm up in the bullpen on Sunday. Schmidt came back from 2025 Tommy John surgery on September 16, but has been limited to one appearance, where he recorded two outs. It's hard to see how he could be high up on the trust tree in the postseason if the Yankees keep him on the playoff roster.\nThe second starter is Ryan Weathers, who had a breakout season for the Yankees this year. The expectation was that Weathers could be a solid relief option in the playoffs, but he is now unlikely to return in the regular season due to his left forearm flexor strain. It's difficult to envision Weathers coming back healthy at this point and being a trusted reliever in the biggest games of the year.\nShould the Yankees choose to go: Cam Schlittler, Max Fried, Gerrit Cole, Carlos Rodón, Bednar, Headrick, Blackburn, Warren, Hill, Schreiber, Weathers, Schmidt, that would mean there's one more spot available for a pitcher on a 13-man staff. This last slot would come down to: Luis Gil, Michael Fulmer or Ryan Yarbrough.\nWhile Gil has the most upside of the three, he can be erratic with his command at times. He also has a 6.75 ERA for his career in the postseason. Fulmer has a 4.50 ERA since joining the Yankees last month and Yarbrough is better suited to give length when the team is trailing. Whoever the Yankees decide to give the last spot to will be a low leverage option and at the bottom of the trust tree.",
+    "rss_title": "Projecting the Yankees' playoff bullpen trust tree behind Headrick, Blackburn, Bednar",
+    "rss_body": "The New York Yankees have three main arms in their bullpen who they can rely on during the postseason. This trio of relievers consists of closer David Bednar, Brent Headrick and Paul Blackburn, the Yankees' best relief assets all season.\nBut who can they count on in the trust tree behind these three relief pitchers? Let's try to project which bullpen arms the Yankees can lean on in the playoffs from most to least trustworthy.\nYankees' most trustworthy relievers as playoffs approach\nYankees manager Aaron Boone has Bednar, Headrick and Blackburn, who he can go to in the late innings if the team has the lead or is in a tie game. But the Yankees are going to need more than that if they're going to make a deep run.\nThis is where Will Warren will likely come in as someone that can give the Yankees some key innings in long relief in the playoffs. Warren has not allowed a run in three innings as a reliever this season, and has pitched well as of late overall (2.45 ERA in September).\nHear me out on this next one: If Tim Hill makes the postseason roster, he will step up for the Yankees. Hill has allowed just one earned run across 11.1 playoff innings for the Yankees in the last two years. Since May 31, Hill has seen his ERA balloon from 2.53 to 4.71. But he is postseason tested, which means Boone and the Yankees should be able to count on him.\nLast but not least, the sixth most trustworthy bullpen option could be newcomer John Schreiber. The right-hander has a 2.00 ERA over nine innings since joining the Yankees at the beginning of the month. Like Hill, Schreiber has postseason success, posting five scoreless relief appearances against the Yankees, ironically, in the 2024 postseason while pitching for the Kansas City Royals.\nWho the Yankees shouldn't trust in ther playoff bullpen\nNow we get to the part, where the names on this list probably should be pitching in lower leverage spots in the postseason. Fernando Cruz would've been included here, but his return is in doubt due to a partially torn UCL in his right elbow. Beyond Cruz, there is a pair of starters who are coming back from injury that likely can't be trusted at this point.\nNo. 1 is Clarke Schmidt, who just experienced biceps soreness when trying to warm up in the bullpen on Sunday. Schmidt came back from 2025 Tommy John surgery on September 16, but has been limited to one appearance, where he recorded two outs. It's hard to see how he could be high up on the trust tree in the postseason if the Yankees keep him on the playoff roster.\nThe second starter is Ryan Weathers, who had a breakout season for the Yankees this year. The expectation was that Weathers could be a solid relief option in the playoffs, but he is now unlikely to return in the regular season due to his left forearm flexor strain. It's difficult to envision Weathers coming back healthy at this point and being a trusted reliever in the biggest games of the year.\nShould the Yankees choose to go: Cam Schlittler, Max Fried, Gerrit Cole, Carlos Rodón, Bednar, Headrick, Blackburn, Warren, Hill, Schreiber, Weathers, Schmidt, that would mean there's one more spot available for a pitcher on a 13-man staff. This last slot would come down to: Luis Gil, Michael Fulmer or Ryan Yarbrough.\nWhile Gil has the most upside of the three, he can be erratic with his command at times. He also has a 6.75 ERA for his career in the postseason. Fulmer has a 4.50 ERA since joining the Yankees last month and Yarbrough is better suited to give length when the team is trailing. Whoever the Yankees decide to give the last spot to will be a low leverage option and at the bottom of the trust tree.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "69172350286da12748c9",
     "title": "Ben Rice joins list of Yankee legends featuring Babe Ruth, Lou Gehrig & Joe DiMaggio",
     "source": "The Big Lead",
@@ -77,6 +213,152 @@
     "original_body": "The MLB season has seen Ben Rice etch his name alongside some of the greatest players in New York Yankees history.\nThe 27-year-old slugger reached the 40-home run mark Wednesday during a 9-2 victory over the Tampa Bay Rays, putting him in an exclusive group of Yankees who have hit at least 40 home runs in a season at age 27 or younger.\nThat list features legendary names including Babe Ruth, Lou Gehrig and Mickey Mantle, all of whom accomplished the feat twice. Joe DiMaggio, Roger Maris, Aaron Judge and Juan Soto are also members of the group.\nMORE: Blue Jays & Mariners make MLB history in worst way\nRice powers his way into Yankees history\nRice did not stop at one home run Wednesday, launching two against the Rays to reach 41 for the season. Through 151 games, he is batting .263 with 41 home runs and 97 RBI.\nHis power has been a major part of an impressive season, and reaching 40 home runs places Rice in company with some of the most celebrated sluggers to ever wear the Yankees uniform.\nWhile Rice has already secured his place in the team’s statistical history, the Yankees are now preparing for the postseason.\nYankees prepare for the postseason\nNew York has clinched the American League’s top Wild Card position, holding a 10-game advantage over the Chicago White Sox, who occupy the final Wild Card spot. However, the Yankees will not be able to catch Tampa Bay for the AL East title.\nThe Yankees enter the final stretch of the regular season five games behind the Rays with only four games remaining. That leaves New York focused on preparing for the postseason rather than chasing the division crown.\nThe Yankees will send ace Cam Schlittler to the mound Thursday for the series finale against Tampa Bay. They will then close out the regular season with a three-game series against the Baltimore Orioles over the weekend.\nFor Rice, the final games offer an opportunity to build on a milestone season. At just 27 years old, his 40-home run campaign has already placed him alongside an extraordinary collection of Yankees legends, giving him a notable piece of franchise history heading into the postseason.",
     "rss_title": "Ben Rice joins list of Yankee legends featuring Babe Ruth, Lou Gehrig & Joe DiMaggio",
     "rss_body": "The MLB season has seen Ben Rice etch his name alongside some of the greatest players in New York Yankees history.\nThe 27-year-old slugger reached the 40-home run mark Wednesday during a 9-2 victory over the Tampa Bay Rays, putting him in an exclusive group of Yankees who have hit at least 40 home runs in a season at age 27 or younger.\nThat list features legendary names including Babe Ruth, Lou Gehrig and Mickey Mantle, all of whom accomplished the feat twice. Joe DiMaggio, Roger Maris, Aaron Judge and Juan Soto are also members of the group.\nMORE: Blue Jays & Mariners make MLB history in worst way\nRice powers his way into Yankees history\nRice did not stop at one home run Wednesday, launching two against the Rays to reach 41 for the season. Through 151 games, he is batting .263 with 41 home runs and 97 RBI.\nHis power has been a major part of an impressive season, and reaching 40 home runs places Rice in company with some of the most celebrated sluggers to ever wear the Yankees uniform.\nWhile Rice has already secured his place in the team’s statistical history, the Yankees are now preparing for the postseason.\nYankees prepare for the postseason\nNew York has clinched the American League’s top Wild Card position, holding a 10-game advantage over the Chicago White Sox, who occupy the final Wild Card spot. However, the Yankees will not be able to catch Tampa Bay for the AL East title.\nThe Yankees enter the final stretch of the regular season five games behind the Rays with only four games remaining. That leaves New York focused on preparing for the postseason rather than chasing the division crown.\nThe Yankees will send ace Cam Schlittler to the mound Thursday for the series finale against Tampa Bay. They will then close out the regular season with a three-game series against the Baltimore Orioles over the weekend.\nFor Rice, the final games offer an opportunity to build on a milestone season. At just 27 years old, his 40-home run campaign has already placed him alongside an extraordinary collection of Yankees legends, giving him a notable piece of franchise history heading into the postseason.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "7bec6a4b94ef25b9274c",
+    "title": "Knicks Superfans Wanted for a Paid Commercial in New York",
+    "source": "cnynews.com",
+    "author": "Jess Buono",
+    "url": "https://cnynews.com/ixp/706/p/ny-knick-fans-needed-commerical/",
+    "published_iso": "2026-09-24T14:30:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 14:30:00 +0000",
+    "body": "Knicks Superfans Wanted for a Paid Commercial in New York\nRemember When The New York Knicks Won the NBA Finals?\nNew York sports fans are having a tough go at it this fall.\nThe New York Mets are struggling to say the least. An Aaron Judge injury could affect the New York Yankees in the playoff season.\nAfter beating the Dallas Cowboys at home, during the 1st game of the season, the New York Giants were dealt a devastating blow. QB1 Jaxson Dart is out for the season.\nIn times like these we like to dive back into happier times, like when the New York Knick won the NBA Finals beating the San Antonio Spurs back in June of 2026.\nWho could forget Jalen Brunson and the boys coming back from behind every game to take the championship in 5 games?\nI still dream about OG tipping the ball in during Game 4. Incredible run.\nAt least we have the Knicks (and the Bills if you're into that).\nWith that being said, New York Knick fans...you're needed!\nNew York Knick Fans Needed for Paid Commercial\nAre you a New York Knick super fan? If so, you're needed!\nHouse of Talent put out a casting call looking for a very specific fan group. They write on their website \"Seeking massive Knicks Superfans in New York City for a paid commercial for a tech brand.\"\nThere is no previous acting experience needed and they add:\nWe're looking for friends, families, firefighters, nurses, and people engaged with & servicing their community.\nIt's a paid gig too! Those picked to be in the commercial will be paid $750 for 10 hours. Pretty sweet deal if you ask me.\nIf You Want to Be in the Knicks Commercial Here's What To Do\nSo you want to be in the commercial? Here's what you need to do.\nFill out the application on their website knicksfans.castingcrane.com. The applications must be in by September 25th, 2026.\nCallbacks will be on Zoom on September 30th.\nYou also must be available for a fitting on October 5th, and filming on October 6th and 7th.\nAccording to the website, the commercial will be used for the following:\nAll Media (including industry events such as Meta Connect, Cannes, CES, AdWeek etc. and any events attended by or sponsored by advertisers, etc).\nLet us know if you get the job and we'll keep an eye out for ya!\nPHOTOS: Welcome Home, Champs! Knicks Arrive at Westchester County Airport\nGallery Credit: Jess\nHollywood on The Hudson: 40 Places You Might Spot A Celeb in the Hudson Valley\nAmazon Christmas Movie Starts Filming at Poughkeepsie Galleria\nGallery Credit: Jess",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Knicks Superfans Wanted for a Paid Commercial in New York",
+    "original_body": "Knicks Superfans Wanted for a Paid Commercial in New York\nRemember When The New York Knicks Won the NBA Finals?\nNew York sports fans are having a tough go at it this fall.\nThe New York Mets are struggling to say the least. An Aaron Judge injury could affect the New York Yankees in the playoff season.\nAfter beating the Dallas Cowboys at home, during the 1st game of the season, the New York Giants were dealt a devastating blow. QB1 Jaxson Dart is out for the season.\nIn times like these we like to dive back into happier times, like when the New York Knick won the NBA Finals beating the San Antonio Spurs back in June of 2026.\nWho could forget Jalen Brunson and the boys coming back from behind every game to take the championship in 5 games?\nI still dream about OG tipping the ball in during Game 4. Incredible run.\nAt least we have the Knicks (and the Bills if you're into that).\nWith that being said, New York Knick fans...you're needed!\nNew York Knick Fans Needed for Paid Commercial\nAre you a New York Knick super fan? If so, you're needed!\nHouse of Talent put out a casting call looking for a very specific fan group. They write on their website \"Seeking massive Knicks Superfans in New York City for a paid commercial for a tech brand.\"\nThere is no previous acting experience needed and they add:\nWe're looking for friends, families, firefighters, nurses, and people engaged with & servicing their community.\nIt's a paid gig too! Those picked to be in the commercial will be paid $750 for 10 hours. Pretty sweet deal if you ask me.\nIf You Want to Be in the Knicks Commercial Here's What To Do\nSo you want to be in the commercial? Here's what you need to do.\nFill out the application on their website knicksfans.castingcrane.com. The applications must be in by September 25th, 2026.\nCallbacks will be on Zoom on September 30th.\nYou also must be available for a fitting on October 5th, and filming on October 6th and 7th.\nAccording to the website, the commercial will be used for the following:\nAll Media (including industry events such as Meta Connect, Cannes, CES, AdWeek etc. and any events attended by or sponsored by advertisers, etc).\nLet us know if you get the job and we'll keep an eye out for ya!\nPHOTOS: Welcome Home, Champs! Knicks Arrive at Westchester County Airport\nGallery Credit: Jess\nHollywood on The Hudson: 40 Places You Might Spot A Celeb in the Hudson Valley\nAmazon Christmas Movie Starts Filming at Poughkeepsie Galleria\nGallery Credit: Jess",
+    "rss_title": "Knicks Superfans Wanted for a Paid Commercial in New York",
+    "rss_body": "Knicks Superfans Wanted for a Paid Commercial in New York\nRemember When The New York Knicks Won the NBA Finals?\nNew York sports fans are having a tough go at it this fall.\nThe New York Mets are struggling to say the least. An Aaron Judge injury could affect the New York Yankees in the playoff season.\nAfter beating the Dallas Cowboys at home, during the 1st game of the season, the New York Giants were dealt a devastating blow. QB1 Jaxson Dart is out for the season.\nIn times like these we like to dive back into happier times, like when the New York Knick won the NBA Finals beating the San Antonio Spurs back in June of 2026.\nWho could forget Jalen Brunson and the boys coming back from behind every game to take the championship in 5 games?\nI still dream about OG tipping the ball in during Game 4. Incredible run.\nAt least we have the Knicks (and the Bills if you're into that).\nWith that being said, New York Knick fans...you're needed!\nNew York Knick Fans Needed for Paid Commercial\nAre you a New York Knick super fan? If so, you're needed!\nHouse of Talent put out a casting call looking for a very specific fan group. They write on their website \"Seeking massive Knicks Superfans in New York City for a paid commercial for a tech brand.\"\nThere is no previous acting experience needed and they add:\nWe're looking for friends, families, firefighters, nurses, and people engaged with & servicing their community.\nIt's a paid gig too! Those picked to be in the commercial will be paid $750 for 10 hours. Pretty sweet deal if you ask me.\nIf You Want to Be in the Knicks Commercial Here's What To Do\nSo you want to be in the commercial? Here's what you need to do.\nFill out the application on their website knicksfans.castingcrane.com. The applications must be in by September 25th, 2026.\nCallbacks will be on Zoom on September 30th.\nYou also must be available for a fitting on October 5th, and filming on October 6th and 7th.\nAccording to the website, the commercial will be used for the following:\nAll Media (including industry events such as Meta Connect, Cannes, CES, AdWeek etc. and any events attended by or sponsored by advertisers, etc).\nLet us know if you get the job and we'll keep an eye out for ya!\nPHOTOS: Welcome Home, Champs! Knicks Arrive at Westchester County Airport\nGallery Credit: Jess\nHollywood on The Hudson: 40 Places You Might Spot A Celeb in the Hudson Valley\nAmazon Christmas Movie Starts Filming at Poughkeepsie Galleria\nGallery Credit: Jess",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b884902cfc387dfab37a",
+    "title": "Yankees’ Austin Wells gets engaged to girlfriend in stunning beach scene: ‘Best off day’",
+    "source": "New York Post",
+    "author": "Justin Terranova",
+    "url": "https://nypost.com/2026/09/24/sports/yankees-austin-wells-gets-engaged-to-girlfriend-in-stunning-beach-scene/",
+    "published_iso": "2026-09-24T14:22:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 14:22:00 +0000",
+    "body": "It’s been an exciting September for Austin Wells off the field — and the Yankees hope there will be a thrilling October on it to match.\nThe Yankees catcher got engaged to girlfriend Caroline Nielson earlier this month, according to photos she shared of the proposal on Instagram.\nNielson posted Wednesday photos of a touching beach scene with Wells down on one knee before the couple embraces.\nThe “forever and ever” caption suggests that the proposal took place Sept. 3 — an off day for the Yankees between series in California against the Angels and Padres.\nThey also included a photo of their daughter, Lucy, as part of the joyous moment.\nSeveral significant others of Yankees teammates were quick to toast the couple in the comments section.\n“My heart!!!!! Let’s get these two married!!! 🥹🥹🥹♥️♥️♥️♥️” wrote Ava O’Connor, who is dating outfielder Spencer Jones.\n“The best off day in the history of off days,” wrote Carlos Rodon’s wife, Ashley.\n“SCREAMING CRYING,” wrote Ben Rice’s girlfriend, Sara Falkson.\nIt is unclear when the couple first started dating. They announced that Nielson was expecting a child last November in one of the first public signs of a relationship.\nBefore the big day, Wells has an important postseason in front of him.\nThe 27-year-old catcher has somewhat rebounded from a miserable start to the season, pushing his average up to .185 after dipping down to .150 in July.\nWells, who is respected by the Yankees for his skills behind the plate, will likely be a mainstay in the lineup during the postseason.\nShop Yankees Merch\nThat will begin next week when the Yankees in all likelihood will take on the Red Sox in a best-of-three wild card series in The Bronx.\nWells did have perhaps his biggest moment in pinstripes when the rivals met last season in the same round, driving home the game-winning run with an eighth-inning single in Game 2.\nThe Yankees evened the series that night and went on to win Game 3 the following evening.\nNow, Wells and the Yankees will look for an even deeper postseason run with Nielson no doubt cheering him on from the stands.",
+    "tracked_people": [
+      {
+        "name": "Austin Wells",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees’ Austin Wells gets engaged to girlfriend in stunning beach scene: ‘Best off day’",
+    "original_body": "It’s been an exciting September for Austin Wells off the field — and the Yankees hope there will be a thrilling October on it to match.\nThe Yankees catcher got engaged to girlfriend Caroline Nielson earlier this month, according to photos she shared of the proposal on Instagram.\nNielson posted Wednesday photos of a touching beach scene with Wells down on one knee before the couple embraces.\nThe “forever and ever” caption suggests that the proposal took place Sept. 3 — an off day for the Yankees between series in California against the Angels and Padres.\nThey also included a photo of their daughter, Lucy, as part of the joyous moment.\nSeveral significant others of Yankees teammates were quick to toast the couple in the comments section.\n“My heart!!!!! Let’s get these two married!!! 🥹🥹🥹♥️♥️♥️♥️” wrote Ava O’Connor, who is dating outfielder Spencer Jones.\n“The best off day in the history of off days,” wrote Carlos Rodon’s wife, Ashley.\n“SCREAMING CRYING,” wrote Ben Rice’s girlfriend, Sara Falkson.\nIt is unclear when the couple first started dating. They announced that Nielson was expecting a child last November in one of the first public signs of a relationship.\nBefore the big day, Wells has an important postseason in front of him.\nThe 27-year-old catcher has somewhat rebounded from a miserable start to the season, pushing his average up to .185 after dipping down to .150 in July.\nWells, who is respected by the Yankees for his skills behind the plate, will likely be a mainstay in the lineup during the postseason.\nShop Yankees Merch\nThat will begin next week when the Yankees in all likelihood will take on the Red Sox in a best-of-three wild card series in The Bronx.\nWells did have perhaps his biggest moment in pinstripes when the rivals met last season in the same round, driving home the game-winning run with an eighth-inning single in Game 2.\nThe Yankees evened the series that night and went on to win Game 3 the following evening.\nNow, Wells and the Yankees will look for an even deeper postseason run with Nielson no doubt cheering him on from the stands.",
+    "rss_title": "Yankees’ Austin Wells gets engaged to girlfriend in stunning beach scene: ‘Best off day’",
+    "rss_body": "It’s been an exciting September for Austin Wells off the field — and the Yankees hope there will be a thrilling October on it to match.\nThe Yankees catcher got engaged to girlfriend Caroline Nielson earlier this month, according to photos she shared of the proposal on Instagram.\nNielson posted Wednesday photos of a touching beach scene with Wells down on one knee before the couple embraces.\nThe “forever and ever” caption suggests that the proposal took place Sept. 3 — an off day for the Yankees between series in California against the Angels and Padres.\nThey also included a photo of their daughter, Lucy, as part of the joyous moment.\nSeveral significant others of Yankees teammates were quick to toast the couple in the comments section.\n“My heart!!!!! Let’s get these two married!!! 🥹🥹🥹♥️♥️♥️♥️” wrote Ava O’Connor, who is dating outfielder Spencer Jones.\n“The best off day in the history of off days,” wrote Carlos Rodon’s wife, Ashley.\n“SCREAMING CRYING,” wrote Ben Rice’s girlfriend, Sara Falkson.\nIt is unclear when the couple first started dating. They announced that Nielson was expecting a child last November in one of the first public signs of a relationship.\nBefore the big day, Wells has an important postseason in front of him.\nThe 27-year-old catcher has somewhat rebounded from a miserable start to the season, pushing his average up to .185 after dipping down to .150 in July.\nWells, who is respected by the Yankees for his skills behind the plate, will likely be a mainstay in the lineup during the postseason.\nShop Yankees Merch\nThat will begin next week when the Yankees in all likelihood will take on the Red Sox in a best-of-three wild card series in The Bronx.\nWells did have perhaps his biggest moment in pinstripes when the rivals met last season in the same round, driving home the game-winning run with an eighth-inning single in Game 2.\nThe Yankees evened the series that night and went on to win Game 3 the following evening.\nNow, Wells and the Yankees will look for an even deeper postseason run with Nielson no doubt cheering him on from the stands.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "22e9e889e3a1bbb7093e",
+    "title": "Ben Rice hopes to add to homer total as Yankees battle Rays",
+    "source": "Field Level Media",
+    "author": "",
+    "url": "https://fieldlevelmedia.com/mlb/ben-rice-hopes-to-add-to-homer-total-as-yankees-battle-rays/",
+    "published_iso": "2026-09-24T14:10:50+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 14:10:50 +0000",
+    "body": "Aaron Judge said he wants to return for next week’s wild-card series. Until he does come back, the slugger and the rest of the New York Yankees will be curious to see if slugger Ben Rice can homer again.\nWith four games remaining, Rice is among seven MLB players with at least 40 home runs, and he will attempt to continue his late-season surge Thursday night when New York hosts the Tampa Bay Rays, the American League East champion.\nThe Yankees (91-67) are assured of hosting the wild-card series and probably will face the Boston Red Sox for the second straight year. New York might be without Judge, who is dealing with a strained right calf after playing in seven games following being out with a fractured right rib.\nOn Monday, manager Aaron Boone described Judge’s strain as moderate and indicated he was not necessarily expecting the three-time American League MVP to be available. After the Yankees improved to 50-42 in games Judge has missed with Wednesday’s 9-2 rout of the Rays, the eight-time All-Star expressed confidence in his ability to return by next week.\n“My goal is to come back as soon as I can,” Judge said. “If you ask me if I’m going to be back, I’m gonna tell you, yeah, I’m doing everything I can every single day I show up here to get back and be ready to go.”\nJudge expressed confidence in his return after watching Rice hit a pair of solo homers on Wednesday, giving him 41 home runs in his second full season. Rice had three hits and a walk and is batting .349 with five homers in his past 12 games and .333 with seven homers and 17 RBIs in his past 27.\nFor the season, he is batting .263 with 97 RBIs after finishing with 26 homers, 65 RBIs and a .255 batting average last year.\n“Each year, he’s gotten better,” Judge said of the 27-year-old. “Each month he’s gotten better. Even through bad slumps, he’s just making the reads and making the changes he needs to get back to his normal self. So it’s been fun to watch. He’s a complete player.”\nRice is hitting .381 against the Rays (96-62), who clinched the AL East with a 6-1 win over the Yankees on Tuesday night. After clinching, the Rays on Wednesday sat Yandy Diaz, who had a pair of two-run singles in the clincher.\nJunior Caminero will be in the lineup to keep his streak of playing each game going but likely will be replaced after a few at-bats. Caminero took two at-bats and was lifted for a pinch hitter in the sixth.\n“I just want to see good health and some guys freshened up,” Tampa Bay manager Kevin Cash said. “It’s been a long season. They’ve played really hard to get to this point. Let’s find a way to continue to get our work in, and I know and trust that whoever’s on that field, they’re going to do everything they can to win games.”\nWhoever is in the lineup for the Rays will face right-hander Cam Schlittler (14-6, 1.94 ERA), who will make his final regular-season start before likely starting Game 1 of the wild-card series.\nSince lasting 4 1/3 innings in an 8-2 loss to the Los Angeles Dodgers on July 19, Schlittler is 5-0 with a 1.46 ERA in his past 11 starts. The Yankees fell to 20-12 in his starts on Saturday when he allowed one earned run on three hits in six innings in a no-decision during a 5-3 loss at Arizona.\nSchlittler is 1-2 with a 2.63 ERA in four career starts against the Rays.\nLeft-hander Ian Seymour (9-7, 4.38 ERA) originally was slated to start Wednesday but had his start pushed back a day to give Freddy Peralta extra rest to face Philadelphia on Friday.\nSeymour is 0-1 with a 5.79 ERA in three starts this month, including Friday’s 4-2 loss to Boston when he allowed four runs on seven hits in five innings. One of his best starts this season occurred July 7 in Tampa Bay when he struck out 12 in 5 1/3 innings during a 6-4 win over the Yankees.\n-Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Ben Rice hopes to add to homer total as Yankees battle Rays",
+    "original_body": "Aaron Judge said he wants to return for next week’s wild-card series. Until he does come back, the slugger and the rest of the New York Yankees will be curious to see if slugger Ben Rice can homer again.\nWith four games remaining, Rice is among seven MLB players with at least 40 home runs, and he will attempt to continue his late-season surge Thursday night when New York hosts the Tampa Bay Rays, the American League East champion.\nThe Yankees (91-67) are assured of hosting the wild-card series and probably will face the Boston Red Sox for the second straight year. New York might be without Judge, who is dealing with a strained right calf after playing in seven games following being out with a fractured right rib.\nOn Monday, manager Aaron Boone described Judge’s strain as moderate and indicated he was not necessarily expecting the three-time American League MVP to be available. After the Yankees improved to 50-42 in games Judge has missed with Wednesday’s 9-2 rout of the Rays, the eight-time All-Star expressed confidence in his ability to return by next week.\n“My goal is to come back as soon as I can,” Judge said. “If you ask me if I’m going to be back, I’m gonna tell you, yeah, I’m doing everything I can every single day I show up here to get back and be ready to go.”\nJudge expressed confidence in his return after watching Rice hit a pair of solo homers on Wednesday, giving him 41 home runs in his second full season. Rice had three hits and a walk and is batting .349 with five homers in his past 12 games and .333 with seven homers and 17 RBIs in his past 27.\nFor the season, he is batting .263 with 97 RBIs after finishing with 26 homers, 65 RBIs and a .255 batting average last year.\n“Each year, he’s gotten better,” Judge said of the 27-year-old. “Each month he’s gotten better. Even through bad slumps, he’s just making the reads and making the changes he needs to get back to his normal self. So it’s been fun to watch. He’s a complete player.”\nRice is hitting .381 against the Rays (96-62), who clinched the AL East with a 6-1 win over the Yankees on Tuesday night. After clinching, the Rays on Wednesday sat Yandy Diaz, who had a pair of two-run singles in the clincher.\nJunior Caminero will be in the lineup to keep his streak of playing each game going but likely will be replaced after a few at-bats. Caminero took two at-bats and was lifted for a pinch hitter in the sixth.\n“I just want to see good health and some guys freshened up,” Tampa Bay manager Kevin Cash said. “It’s been a long season. They’ve played really hard to get to this point. Let’s find a way to continue to get our work in, and I know and trust that whoever’s on that field, they’re going to do everything they can to win games.”\nWhoever is in the lineup for the Rays will face right-hander Cam Schlittler (14-6, 1.94 ERA), who will make his final regular-season start before likely starting Game 1 of the wild-card series.\nSince lasting 4 1/3 innings in an 8-2 loss to the Los Angeles Dodgers on July 19, Schlittler is 5-0 with a 1.46 ERA in his past 11 starts. The Yankees fell to 20-12 in his starts on Saturday when he allowed one earned run on three hits in six innings in a no-decision during a 5-3 loss at Arizona.\nSchlittler is 1-2 with a 2.63 ERA in four career starts against the Rays.\nLeft-hander Ian Seymour (9-7, 4.38 ERA) originally was slated to start Wednesday but had his start pushed back a day to give Freddy Peralta extra rest to face Philadelphia on Friday.\nSeymour is 0-1 with a 5.79 ERA in three starts this month, including Friday’s 4-2 loss to Boston when he allowed four runs on seven hits in five innings. One of his best starts this season occurred July 7 in Tampa Bay when he struck out 12 in 5 1/3 innings during a 6-4 win over the Yankees.\n-Field Level Media",
+    "rss_title": "Ben Rice hopes to add to homer total as Yankees battle Rays",
+    "rss_body": "Aaron Judge said he wants to return for next week’s wild-card series. Until he does come back, the slugger and the rest of the New York Yankees will be curious to see if slugger Ben Rice can homer again.\nWith four games remaining, Rice is among seven MLB players with at least 40 home runs, and he will attempt to continue his late-season surge Thursday night when New York hosts the Tampa Bay Rays, the American League East champion.\nThe Yankees (91-67) are assured of hosting the wild-card series and probably will face the Boston Red Sox for the second straight year. New York might be without Judge, who is dealing with a strained right calf after playing in seven games following being out with a fractured right rib.\nOn Monday, manager Aaron Boone described Judge’s strain as moderate and indicated he was not necessarily expecting the three-time American League MVP to be available. After the Yankees improved to 50-42 in games Judge has missed with Wednesday’s 9-2 rout of the Rays, the eight-time All-Star expressed confidence in his ability to return by next week.\n“My goal is to come back as soon as I can,” Judge said. “If you ask me if I’m going to be back, I’m gonna tell you, yeah, I’m doing everything I can every single day I show up here to get back and be ready to go.”\nJudge expressed confidence in his return after watching Rice hit a pair of solo homers on Wednesday, giving him 41 home runs in his second full season. Rice had three hits and a walk and is batting .349 with five homers in his past 12 games and .333 with seven homers and 17 RBIs in his past 27.\nFor the season, he is batting .263 with 97 RBIs after finishing with 26 homers, 65 RBIs and a .255 batting average last year.\n“Each year, he’s gotten better,” Judge said of the 27-year-old. “Each month he’s gotten better. Even through bad slumps, he’s just making the reads and making the changes he needs to get back to his normal self. So it’s been fun to watch. He’s a complete player.”\nRice is hitting .381 against the Rays (96-62), who clinched the AL East with a 6-1 win over the Yankees on Tuesday night. After clinching, the Rays on Wednesday sat Yandy Diaz, who had a pair of two-run singles in the clincher.\nJunior Caminero will be in the lineup to keep his streak of playing each game going but likely will be replaced after a few at-bats. Caminero took two at-bats and was lifted for a pinch hitter in the sixth.\n“I just want to see good health and some guys freshened up,” Tampa Bay manager Kevin Cash said. “It’s been a long season. They’ve played really hard to get to this point. Let’s find a way to continue to get our work in, and I know and trust that whoever’s on that field, they’re going to do everything they can to win games.”\nWhoever is in the lineup for the Rays will face right-hander Cam Schlittler (14-6, 1.94 ERA), who will make his final regular-season start before likely starting Game 1 of the wild-card series.\nSince lasting 4 1/3 innings in an 8-2 loss to the Los Angeles Dodgers on July 19, Schlittler is 5-0 with a 1.46 ERA in his past 11 starts. The Yankees fell to 20-12 in his starts on Saturday when he allowed one earned run on three hits in six innings in a no-decision during a 5-3 loss at Arizona.\nSchlittler is 1-2 with a 2.63 ERA in four career starts against the Rays.\nLeft-hander Ian Seymour (9-7, 4.38 ERA) originally was slated to start Wednesday but had his start pushed back a day to give Freddy Peralta extra rest to face Philadelphia on Friday.\nSeymour is 0-1 with a 5.79 ERA in three starts this month, including Friday’s 4-2 loss to Boston when he allowed four runs on seven hits in five innings. One of his best starts this season occurred July 7 in Tampa Bay when he struck out 12 in 5 1/3 innings during a 6-4 win over the Yankees.\n-Field Level Media",
     "translation_status": "fallback_original"
   },
   {
