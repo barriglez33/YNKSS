@@ -1,5 +1,165 @@
 [
   {
+    "id": "7c60df6d13b46d19bcda",
+    "title": "Ben Rice reaches three times in win over Orioles",
+    "source": "NBC Sports",
+    "author": "David Shovein; Ben Rice",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/ben-rice-reaches-three-times-in-win-over-orioles",
+    "published_iso": "2026-09-26T02:44:43+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 02:44:43 +0000",
+    "body": "Ben Rice went 2-for-3 with a double, walk and a run scored as the Yankees topped the Orioles in the nightcap of Friday’s doubleheader.\n            \n                Rice led off the home half of the first inning with a walk, but was cut down attempting to steal second base. He doubled in the seventh inning and ultimately came around to score on an RBI single by Luis Garcia Jr. With his two-hit night, the 27-year-old slugger is now hitting .264/.363/.534 with a whopping 41 homers and 97 RBI in 667 plate appearances on the season.",
+    "tracked_people": [
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Ben Rice reaches three times in win over Orioles",
+    "original_body": "Ben Rice went 2-for-3 with a double, walk and a run scored as the Yankees topped the Orioles in the nightcap of Friday’s doubleheader.\n            \n                Rice led off the home half of the first inning with a walk, but was cut down attempting to steal second base. He doubled in the seventh inning and ultimately came around to score on an RBI single by Luis Garcia Jr. With his two-hit night, the 27-year-old slugger is now hitting .264/.363/.534 with a whopping 41 homers and 97 RBI in 667 plate appearances on the season.",
+    "rss_title": "Ben Rice reaches three times in win over Orioles",
+    "rss_body": "Ben Rice went 2-for-3 with a double, walk and a run scored as the Yankees topped the Orioles in the nightcap of Friday’s doubleheader.\n            \n                Rice led off the home half of the first inning with a walk, but was cut down attempting to steal second base. He doubled in the seventh inning and ultimately came around to score on an RBI single by Luis Garcia Jr. With his two-hit night, the 27-year-old slugger is now hitting .264/.363/.534 with a whopping 41 homers and 97 RBI in 667 plate appearances on the season.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "1caff4036fb2ad5e6cc9",
+    "title": "Warren dominates out of 'pen in possible preview of playoff role",
+    "source": "mlb.com",
+    "author": "Bryan Hoch",
+    "url": "https://www.mlb.com/news/will-warren-helps-yankees-beat-orioles-in-doubleheader-nightcap",
+    "published_iso": "2026-09-26T02:05:46+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 02:05:46 +0000",
+    "body": "NEW YORK – The Yankees have a couple of days left on the schedule, but the ones that will determine how this season is judged won’t happen until next week. Everything that transpires between now and then is simply preparation for the American League Wild Card Series.\nWith their upcoming Wild Card matchup against the Red Sox officially locked in, the Yankees crossed off another 18 innings of regular-season action on Friday, securing a split of a single-admission doubleheader with a 6-3 victory over the Orioles at Yankee Stadium.\nBoston’s victory over the Cubs in Game 1 of their doubleheader secured the No. 5 seed and confirmed a matchup with the Yankees, who claimed the No. 4 seed. It will be an exact rematch of last year’s AL Wild Card Series, which the Yankees won in three games.\n“I’d much rather have it here. I want it in the Bronx,” Yankees manager Aaron Boone said. “I want it with our fans. I think there’s certainly that advantage.”\nBouncing back after they followed CC Sabathia’s Monument Park enshrinement with a 10-2 loss, Ryan McMahon, Spencer Jones, Anthony Volpe, Heliot Ramos and Luis García Jr. all drove in runs for the Yankees, who logged an encouraging 3 2/3-inning relief outing from Will Warren.\nThe Yankees have yet to announce who will start Tuesday’s AL Wild Card Game against the Red Sox, with pitching coach Matt Blake saying that they are weighing Max Fried on extra rest against AL Cy Young Award frontrunner Cam Schlittler, who would be on normal rest for the opener.\nBut with Gerrit Cole and Carlos Rodón also in line as potential playoff starters, Warren is slated to transition to a bullpen role in October. Not surprisingly, Warren’s stuff played up out of the bullpen, including a four-seam fastball that averaged 94.5 mph – 0.8 mph more than his season average. Warren permitted three hits without a walk, striking out seven.\nMcMahon opened the scoring with a fifth-inning RBI double off Orioles starter Brandon Young, who worked five frames. Jones touched Josh Walker for a sixth-inning RBI single, and Volpe found the seats for a two-run ground-rule double facing Anthony Nunez later that inning.\nRamos and García each had an RBI single in the seventh.",
+    "tracked_people": [
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "CC Sabathia",
+        "role": "Legend / Starting Pitcher",
+        "status": "Workhorse ace of the 2009 championship rotation.",
+        "type": "legend",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Warren dominates out of 'pen in possible preview of playoff role",
+    "original_body": "NEW YORK – The Yankees have a couple of days left on the schedule, but the ones that will determine how this season is judged won’t happen until next week. Everything that transpires between now and then is simply preparation for the American League Wild Card Series.\nWith their upcoming Wild Card matchup against the Red Sox officially locked in, the Yankees crossed off another 18 innings of regular-season action on Friday, securing a split of a single-admission doubleheader with a 6-3 victory over the Orioles at Yankee Stadium.\nBoston’s victory over the Cubs in Game 1 of their doubleheader secured the No. 5 seed and confirmed a matchup with the Yankees, who claimed the No. 4 seed. It will be an exact rematch of last year’s AL Wild Card Series, which the Yankees won in three games.\n“I’d much rather have it here. I want it in the Bronx,” Yankees manager Aaron Boone said. “I want it with our fans. I think there’s certainly that advantage.”\nBouncing back after they followed CC Sabathia’s Monument Park enshrinement with a 10-2 loss, Ryan McMahon, Spencer Jones, Anthony Volpe, Heliot Ramos and Luis García Jr. all drove in runs for the Yankees, who logged an encouraging 3 2/3-inning relief outing from Will Warren.\nThe Yankees have yet to announce who will start Tuesday’s AL Wild Card Game against the Red Sox, with pitching coach Matt Blake saying that they are weighing Max Fried on extra rest against AL Cy Young Award frontrunner Cam Schlittler, who would be on normal rest for the opener.\nBut with Gerrit Cole and Carlos Rodón also in line as potential playoff starters, Warren is slated to transition to a bullpen role in October. Not surprisingly, Warren’s stuff played up out of the bullpen, including a four-seam fastball that averaged 94.5 mph – 0.8 mph more than his season average. Warren permitted three hits without a walk, striking out seven.\nMcMahon opened the scoring with a fifth-inning RBI double off Orioles starter Brandon Young, who worked five frames. Jones touched Josh Walker for a sixth-inning RBI single, and Volpe found the seats for a two-run ground-rule double facing Anthony Nunez later that inning.\nRamos and García each had an RBI single in the seventh.",
+    "rss_title": "Warren dominates out of 'pen in possible preview of playoff role",
+    "rss_body": "NEW YORK – The Yankees have a couple of days left on the schedule, but the ones that will determine how this season is judged won’t happen until next week. Everything that transpires between now and then is simply preparation for the American League Wild Card Series.\nWith their upcoming Wild Card matchup against the Red Sox officially locked in, the Yankees crossed off another 18 innings of regular-season action on Friday, securing a split of a single-admission doubleheader with a 6-3 victory over the Orioles at Yankee Stadium.\nBoston’s victory over the Cubs in Game 1 of their doubleheader secured the No. 5 seed and confirmed a matchup with the Yankees, who claimed the No. 4 seed. It will be an exact rematch of last year’s AL Wild Card Series, which the Yankees won in three games.\n“I’d much rather have it here. I want it in the Bronx,” Yankees manager Aaron Boone said. “I want it with our fans. I think there’s certainly that advantage.”\nBouncing back after they followed CC Sabathia’s Monument Park enshrinement with a 10-2 loss, Ryan McMahon, Spencer Jones, Anthony Volpe, Heliot Ramos and Luis García Jr. all drove in runs for the Yankees, who logged an encouraging 3 2/3-inning relief outing from Will Warren.\nThe Yankees have yet to announce who will start Tuesday’s AL Wild Card Game against the Red Sox, with pitching coach Matt Blake saying that they are weighing Max Fried on extra rest against AL Cy Young Award frontrunner Cam Schlittler, who would be on normal rest for the opener.\nBut with Gerrit Cole and Carlos Rodón also in line as potential playoff starters, Warren is slated to transition to a bullpen role in October. Not surprisingly, Warren’s stuff played up out of the bullpen, including a four-seam fastball that averaged 94.5 mph – 0.8 mph more than his season average. Warren permitted three hits without a walk, striking out seven.\nMcMahon opened the scoring with a fifth-inning RBI double off Orioles starter Brandon Young, who worked five frames. Jones touched Josh Walker for a sixth-inning RBI single, and Volpe found the seats for a two-run ground-rule double facing Anthony Nunez later that inning.\nRamos and García each had an RBI single in the seventh.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "78000ddf8779d7cd2ed8",
     "title": "Yankees retiran el número 52 de CC Sabathia y lo honran en Monument Park",
     "source": "Independent en Español",
