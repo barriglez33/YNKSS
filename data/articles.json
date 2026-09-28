@@ -1,5 +1,383 @@
 [
   {
+    "id": "e14f6a555e709a48d2de",
+    "title": "Yankees September Approval Poll: Brian Cashman",
+    "source": "Yahoo Sports",
+    "author": "Estevão Maximo",
+    "url": "https://sports.yahoo.com/articles/yankees-september-approval-poll-brian-170000646.html",
+    "published_iso": "2026-09-28T17:00:00+00:00",
+    "published_rfc2822": "Mon, 28 Sep 2026 17:00:00 +0000",
+    "body": "The thing about chasing an object is that if it matches your speed, there is really nothing you can do. The New York Yankees learned this hard lesson down the stretch when any goals they had of running down the Rays to at least make it a competitive fight down the stretch fell flat — not because the Yankees underwhelmed in the final month of the season. In fact, one could hardly ask for more out of this team given the obstacles it had to face as the Rays left nothing to chance. Despite winning 15 of 23 games in September, the Yankees couldn't gain a game on the Rays, who won 16 of 24 to wrap up their season.\nWhat looked like the likeliest scenario for quite some time now, given the state of the other two divisions in the American League, has come to pass. The Yankees, who are the second-best team in the AL, will have to go through the most difficult of schedules to make it out of their league for the second time in the past three seasons. A three-game Wild Card round against the feisty Boston Red Sox and all the potential pitfalls a short series can bring await—one with a feeling of déjà vu, happening for the second straight season. Then, if they make it out, it's a date with the Rays while the AL Central and AL West clubs battle it out on the inferior side of the bracket.\nIt hasn't been the smoothest ride to get to this point, and based on how Brian Cashman has polled all year long, it's safe to say expectations were not met — even if there are obvious caveats beyond his control as to why the Yankees are exactly where they are. Early in the season, when Cashman polled at 41 percent, the Yankees were battling with the Rays for the AL East title — but if you polled most fans, you would've been hard-pressed to find many who bought the Rays as a 99-win team. Frankly, there are probably those who, even now, don't buy them at that level even now, but that's an entirely separate conversation to have in the analysis of the gap between these two clubs, particularly at full strength. Cashman's approval rating nosedived as did the Yankees' chances of winning this division, partially due to questionable moves but overwhelmingly due to absences that all the money in the world couldn't plan for.\nFor three months between June and August, the Yankees put up a wRC+ below league average, clearly struggling in the absence of the best hitter in the sport. The deadline acquisition of Luis Garcia Jr. in particular gave the offense a boost as he delivered an .842 OPS in August — even that wasn't enough to take the team's line over 100, coming in with a 96 wRC+ for the month.\nIn September, though, the offense came through with a 104 wRC+ that may not seem like much, but with this team's rotation, it's how you go about winning 15 of 23 games. All of this after starting off the month with the bad news of yet another Trent Grisham hamstring injury, this one keeping him out for the rest of the regular season. Spencer Jones continues to defy the laws of what can be described as sensible production coming with obscene strikeout rates, with a 110 wRC+ on the month despite a strikeout rate above 38 percent.\nWhile Aaron Judge's brief return before getting injured again helps, this September improvement boils down primarily to the work of Ben Rice, who, after a disappointing summer — given the high bar he set for himself — came alive in a big way. Still, if you're wondering about the changes in impact from Rice with and without a fully stocked lineup, the Yankees first baseman delivered 21 RBI with seven homers in 24 games in May. The same Rice then hit six homers in 22 games this past month and only drove in 11. Those 11 RBI did not lead the team, with the distinction left to George Lombard Jr., who drove in 16 with five homers, providing more power than he had in the previous month. Back to the deadline acquisitions, though, as Garcia cooled off, Heliot Ramos finally showed up, proving a worthy presence in the lineup, specifically against left-handed pitchers.\nIt was business as usual for this ultra-talented staff, with Cam Schlittler wrapping up a likely Cy Young campaign with yet another sub-2.00 ERA month. Carlos Rodón was nearly as dominant as Schlittler, with both kind of showing up Max Fried, who had a solid September, and, lastly, Will Warren impressing; the only one who had more than his fair share of issues was Gerrit Cole. But looking forward to the Wild Card round in which he'll start the third game, if needed, Cole impressed in his final regular-season start against the Rays.\nAbout the Wild Card round, the Yankees already announced their starters versus Boston, with Schlittler going in game 1, followed by Fried and lastly Cole. While Boston hasn't officially announced their starters, expectations are that Sonny Gray, the AL leader in wins this season with 18, will take the ball for Game 1 and likely be followed by left-hander Payton Tolle.\nWhen it comes to transactions, not a lot stood out. With a plethora of utility options, the Yankees chose to designate Oswaldo Cabrera for assignment when they had to open up a 40-man spot for Clarke Schmidt. Cabrera was picked up by the Reds and was one of two players to leave the Yankees this month, alongside righty Chase Hampton — picked up by the Nats (and recently discarded) after being DFA'd early in the month. Hampton didn't appear in the bigs for the Yankees.\nIt's a simple yet loaded question whether you approve of Cashman's job in September, depending on how much emphasis you want to give to certain merits and demerits in how the Yankees have been managed this season. In many ways, the déjà vu doesn't come strictly from a playoff series against the Red Sox. It's more so from yet another second-place finish in the AL East against a team widely regarded as inferior to the Yankees before the start of the season.\nSo with the regular season officially over and the playoffs immediately ahead, do you approve of Brian Cashman? As always, there's a lot to factor into a \"yes\" or a \"no,\" and you might feel like your answer is more of a soft \"yes\" or \"no\" than a stamp of approval or a sharp rebuke. However, the binary question is the best way to get a direct read on fans' thoughts.\nVote in the poll below and let us know! We'll revisit the results at the end of October.\nNote: This is the same poll that is currently appearing on the Feed, so if you've voted there, that should already be counted.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees September Approval Poll: Brian Cashman",
+    "original_body": "The thing about chasing an object is that if it matches your speed, there is really nothing you can do. The New York Yankees learned this hard lesson down the stretch when any goals they had of running down the Rays to at least make it a competitive fight down the stretch fell flat — not because the Yankees underwhelmed in the final month of the season. In fact, one could hardly ask for more out of this team given the obstacles it had to face as the Rays left nothing to chance. Despite winning 15 of 23 games in September, the Yankees couldn't gain a game on the Rays, who won 16 of 24 to wrap up their season.\nWhat looked like the likeliest scenario for quite some time now, given the state of the other two divisions in the American League, has come to pass. The Yankees, who are the second-best team in the AL, will have to go through the most difficult of schedules to make it out of their league for the second time in the past three seasons. A three-game Wild Card round against the feisty Boston Red Sox and all the potential pitfalls a short series can bring await—one with a feeling of déjà vu, happening for the second straight season. Then, if they make it out, it's a date with the Rays while the AL Central and AL West clubs battle it out on the inferior side of the bracket.\nIt hasn't been the smoothest ride to get to this point, and based on how Brian Cashman has polled all year long, it's safe to say expectations were not met — even if there are obvious caveats beyond his control as to why the Yankees are exactly where they are. Early in the season, when Cashman polled at 41 percent, the Yankees were battling with the Rays for the AL East title — but if you polled most fans, you would've been hard-pressed to find many who bought the Rays as a 99-win team. Frankly, there are probably those who, even now, don't buy them at that level even now, but that's an entirely separate conversation to have in the analysis of the gap between these two clubs, particularly at full strength. Cashman's approval rating nosedived as did the Yankees' chances of winning this division, partially due to questionable moves but overwhelmingly due to absences that all the money in the world couldn't plan for.\nFor three months between June and August, the Yankees put up a wRC+ below league average, clearly struggling in the absence of the best hitter in the sport. The deadline acquisition of Luis Garcia Jr. in particular gave the offense a boost as he delivered an .842 OPS in August — even that wasn't enough to take the team's line over 100, coming in with a 96 wRC+ for the month.\nIn September, though, the offense came through with a 104 wRC+ that may not seem like much, but with this team's rotation, it's how you go about winning 15 of 23 games. All of this after starting off the month with the bad news of yet another Trent Grisham hamstring injury, this one keeping him out for the rest of the regular season. Spencer Jones continues to defy the laws of what can be described as sensible production coming with obscene strikeout rates, with a 110 wRC+ on the month despite a strikeout rate above 38 percent.\nWhile Aaron Judge's brief return before getting injured again helps, this September improvement boils down primarily to the work of Ben Rice, who, after a disappointing summer — given the high bar he set for himself — came alive in a big way. Still, if you're wondering about the changes in impact from Rice with and without a fully stocked lineup, the Yankees first baseman delivered 21 RBI with seven homers in 24 games in May. The same Rice then hit six homers in 22 games this past month and only drove in 11. Those 11 RBI did not lead the team, with the distinction left to George Lombard Jr., who drove in 16 with five homers, providing more power than he had in the previous month. Back to the deadline acquisitions, though, as Garcia cooled off, Heliot Ramos finally showed up, proving a worthy presence in the lineup, specifically against left-handed pitchers.\nIt was business as usual for this ultra-talented staff, with Cam Schlittler wrapping up a likely Cy Young campaign with yet another sub-2.00 ERA month. Carlos Rodón was nearly as dominant as Schlittler, with both kind of showing up Max Fried, who had a solid September, and, lastly, Will Warren impressing; the only one who had more than his fair share of issues was Gerrit Cole. But looking forward to the Wild Card round in which he'll start the third game, if needed, Cole impressed in his final regular-season start against the Rays.\nAbout the Wild Card round, the Yankees already announced their starters versus Boston, with Schlittler going in game 1, followed by Fried and lastly Cole. While Boston hasn't officially announced their starters, expectations are that Sonny Gray, the AL leader in wins this season with 18, will take the ball for Game 1 and likely be followed by left-hander Payton Tolle.\nWhen it comes to transactions, not a lot stood out. With a plethora of utility options, the Yankees chose to designate Oswaldo Cabrera for assignment when they had to open up a 40-man spot for Clarke Schmidt. Cabrera was picked up by the Reds and was one of two players to leave the Yankees this month, alongside righty Chase Hampton — picked up by the Nats (and recently discarded) after being DFA'd early in the month. Hampton didn't appear in the bigs for the Yankees.\nIt's a simple yet loaded question whether you approve of Cashman's job in September, depending on how much emphasis you want to give to certain merits and demerits in how the Yankees have been managed this season. In many ways, the déjà vu doesn't come strictly from a playoff series against the Red Sox. It's more so from yet another second-place finish in the AL East against a team widely regarded as inferior to the Yankees before the start of the season.\nSo with the regular season officially over and the playoffs immediately ahead, do you approve of Brian Cashman? As always, there's a lot to factor into a \"yes\" or a \"no,\" and you might feel like your answer is more of a soft \"yes\" or \"no\" than a stamp of approval or a sharp rebuke. However, the binary question is the best way to get a direct read on fans' thoughts.\nVote in the poll below and let us know! We'll revisit the results at the end of October.\nNote: This is the same poll that is currently appearing on the Feed, so if you've voted there, that should already be counted.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "rss_title": "Yankees September Approval Poll: Brian Cashman",
+    "rss_body": "The thing about chasing an object is that if it matches your speed, there is really nothing you can do. The New York Yankees learned this hard lesson down the stretch when any goals they had of running down the Rays to at least make it a competitive fight down the stretch fell flat — not because the Yankees underwhelmed in the final month of the season. In fact, one could hardly ask for more out of this team given the obstacles it had to face as the Rays left nothing to chance. Despite winning 15 of 23 games in September, the Yankees couldn't gain a game on the Rays, who won 16 of 24 to wrap up their season.\nWhat looked like the likeliest scenario for quite some time now, given the state of the other two divisions in the American League, has come to pass. The Yankees, who are the second-best team in the AL, will have to go through the most difficult of schedules to make it out of their league for the second time in the past three seasons. A three-game Wild Card round against the feisty Boston Red Sox and all the potential pitfalls a short series can bring await—one with a feeling of déjà vu, happening for the second straight season. Then, if they make it out, it's a date with the Rays while the AL Central and AL West clubs battle it out on the inferior side of the bracket.\nIt hasn't been the smoothest ride to get to this point, and based on how Brian Cashman has polled all year long, it's safe to say expectations were not met — even if there are obvious caveats beyond his control as to why the Yankees are exactly where they are. Early in the season, when Cashman polled at 41 percent, the Yankees were battling with the Rays for the AL East title — but if you polled most fans, you would've been hard-pressed to find many who bought the Rays as a 99-win team. Frankly, there are probably those who, even now, don't buy them at that level even now, but that's an entirely separate conversation to have in the analysis of the gap between these two clubs, particularly at full strength. Cashman's approval rating nosedived as did the Yankees' chances of winning this division, partially due to questionable moves but overwhelmingly due to absences that all the money in the world couldn't plan for.\nFor three months between June and August, the Yankees put up a wRC+ below league average, clearly struggling in the absence of the best hitter in the sport. The deadline acquisition of Luis Garcia Jr. in particular gave the offense a boost as he delivered an .842 OPS in August — even that wasn't enough to take the team's line over 100, coming in with a 96 wRC+ for the month.\nIn September, though, the offense came through with a 104 wRC+ that may not seem like much, but with this team's rotation, it's how you go about winning 15 of 23 games. All of this after starting off the month with the bad news of yet another Trent Grisham hamstring injury, this one keeping him out for the rest of the regular season. Spencer Jones continues to defy the laws of what can be described as sensible production coming with obscene strikeout rates, with a 110 wRC+ on the month despite a strikeout rate above 38 percent.\nWhile Aaron Judge's brief return before getting injured again helps, this September improvement boils down primarily to the work of Ben Rice, who, after a disappointing summer — given the high bar he set for himself — came alive in a big way. Still, if you're wondering about the changes in impact from Rice with and without a fully stocked lineup, the Yankees first baseman delivered 21 RBI with seven homers in 24 games in May. The same Rice then hit six homers in 22 games this past month and only drove in 11. Those 11 RBI did not lead the team, with the distinction left to George Lombard Jr., who drove in 16 with five homers, providing more power than he had in the previous month. Back to the deadline acquisitions, though, as Garcia cooled off, Heliot Ramos finally showed up, proving a worthy presence in the lineup, specifically against left-handed pitchers.\nIt was business as usual for this ultra-talented staff, with Cam Schlittler wrapping up a likely Cy Young campaign with yet another sub-2.00 ERA month. Carlos Rodón was nearly as dominant as Schlittler, with both kind of showing up Max Fried, who had a solid September, and, lastly, Will Warren impressing; the only one who had more than his fair share of issues was Gerrit Cole. But looking forward to the Wild Card round in which he'll start the third game, if needed, Cole impressed in his final regular-season start against the Rays.\nAbout the Wild Card round, the Yankees already announced their starters versus Boston, with Schlittler going in game 1, followed by Fried and lastly Cole. While Boston hasn't officially announced their starters, expectations are that Sonny Gray, the AL leader in wins this season with 18, will take the ball for Game 1 and likely be followed by left-hander Payton Tolle.\nWhen it comes to transactions, not a lot stood out. With a plethora of utility options, the Yankees chose to designate Oswaldo Cabrera for assignment when they had to open up a 40-man spot for Clarke Schmidt. Cabrera was picked up by the Reds and was one of two players to leave the Yankees this month, alongside righty Chase Hampton — picked up by the Nats (and recently discarded) after being DFA'd early in the month. Hampton didn't appear in the bigs for the Yankees.\nIt's a simple yet loaded question whether you approve of Cashman's job in September, depending on how much emphasis you want to give to certain merits and demerits in how the Yankees have been managed this season. In many ways, the déjà vu doesn't come strictly from a playoff series against the Red Sox. It's more so from yet another second-place finish in the AL East against a team widely regarded as inferior to the Yankees before the start of the season.\nSo with the regular season officially over and the playoffs immediately ahead, do you approve of Brian Cashman? As always, there's a lot to factor into a \"yes\" or a \"no,\" and you might feel like your answer is more of a soft \"yes\" or \"no\" than a stamp of approval or a sharp rebuke. However, the binary question is the best way to get a direct read on fans' thoughts.\nVote in the poll below and let us know! We'll revisit the results at the end of October.\nNote: This is the same poll that is currently appearing on the Feed, so if you've voted there, that should already be counted.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d2d4374ad3e80da1d478",
+    "title": "Predicting the Yankees' Wild Card Series playoff roster as chaotic decisions hang in the balance",
+    "source": "yanksgoyard.com",
+    "author": "Adam Weinrib",
+    "url": "https://yanksgoyard.com/predicting-the-yankees-wild-card-series-playoff-roster-as-chaotic-decisions-hang-in-the-balance",
+    "published_iso": "2026-09-28T16:15:00+00:00",
+    "published_rfc2822": "Mon, 28 Sep 2026 16:15:00 +0000",
+    "body": "The New York Yankees' season has left them with a unique playoff roster-building challenge that may not make it to the next CBA. How do you load up a roster aimed at taking advantage of the Boston Red Sox's weaknesses (left-handed pitching, especially if they're without Willson Contreras) without using too many pitchers? How do you avoid wasting roster spots that could've been nabbed by some of the game's biggest offensive stars?\nThis isn't what I believe the Yankees should do. It's what I believe they will do. This is all to say I've been potentially hooked and swindled by some of their pre-series bluster, but ... I really do believe they believe, like Seal once said, they're never gonna survive unless they get a little crazy,\nAaron Boone has said that the Yankees will not carry 12 pitchers in the opening round, and may not even carry 11. So, for the sake of the exercise, how do we get to a 26-man roster with only 10 pitchers?\nProjecting a Yankees playoff roster with only 10 pitchers for the Wild Card Series vs. Red Sox\nYankees Rotation: Cam Schlittler, Max Fried, Gerrit Cole\nThe Yankees did it. They kept things close to the vest, then went with their strongest starter in first position.\nWhen I believed they were about to choose Fried for Game 1, I wrote an extended monologue justifying the choice, calling it \"not quite as silly a gambit as Deivi Garcia/JA Happ\". After all, strong hints were wafting from the Yankees' clubhouse that they intended to stay on turn and start Max Fried, he of the 1.93 career ERA against the Red Sox and 11 2/3 innings with a single earned run allowed against them this year, so I had to justify it. The fact that they were reticent to go to Schlittler on anything less than a day's extra rest hinted to me that they had some workload concerns, and were trying to sell the choice in a different way. Carlos Rodón probably should get a start, but, again ... good problems. Lot of talent. He'll be available to caddy.\nCole in a potential win-or-go-home game scares me, but the Yankees don't have a single bad option here. Thankfully, they came to their senses to start things off and didn't play with their food. Fried still looks like a pretty excellent Game 2 choice for all the reasons mentioned above.\nYankees Bullpen (again, we're trying to get by with only seven names): Carlos Rodón, Will Warren, Brent Headrick, Paul Blackburn, David Bednar, John Schreiber, Tim Hill\nClarke Schmidt was a core option until the season's final week; he'll end the year with less than one inning pitched in his frenzied comeback bid. Aaron Boone said that, while Ryan Weathers hit 96 in his latest live bullpen session, he might not be an option for this round. He then waffled on that Sunday. We'll take him at his initial word in this projection.\nThere isn't much debate here, given our limitations, besides, \"Is Rodón worth carrying?\" and, \"Michael Fulmer vs. Tim Hill vs. Ryan Yarbrough\". If the Yankees add an 11th pitcher, our guess is Fulmer for a righty look. Hill could be left out for Yarbrough. It's very much on the table.\nYankees Lineup and Bench: Austin Wells, Ali Sanchez, Ben Rice, Paul Goldschmidt, Jazz Chisholm Jr., George Lombard Jr., Jose Caballero, Spencer Jones, Cody Bellinger, Heliot Ramos, Luis Garcia Jr., Trent Grisham, Anthony Volpe, Ryan McMahon, Giancarlo Stanton, Aaron Judge\nOverloaded? Absolutely. But when you need a home run in the later innings, and both Stanton and Judge tell you they're available, who are you leaving off? Would you rather have Judge active and simmering behind the scenes, or Michael Fulmer? Ryan McMahon may very well have been the final addition here, but he's also likely to start Game 2, after all that consternation, with Fried on the bump.\nStanton and Judge have made projecting a realistic roster somewhat impossible. Both could arrive on Tuesday begging for an at-bat or two. Judge could arrive and claim he's fully healthy, ready to start in right. The Yankees have opted for theatricality plenty this season, whether it be Fried returning out of the shadows against Pittsburgh or Cole staying in for Max Muncy. This would be another example.\nOr it might be all bluster, and Fulmer and Yarbs can take the bump instead of the modern-day Mantle and Maris. And what if Grisham's not ready? This leaves Amed Rosario on the outside looking in. He, too, could realistically start Game 1 against Payton Tolle.\nFor the first time in quite a while, the Yankees have plenty up for grabs when the roster graphic drops. This is our estimation in which they push the limits of health and viability, but they hold the cards, and they've pledged to get weird. So we did, too.",
+    "tracked_people": [
+      {
+        "name": "Austin Wells",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Ali Sánchez",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "role": "Starting Pitcher",
+        "status": "Active (Reinstated from 60-day IL today)",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Brent Headrick",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Predicting the Yankees' Wild Card Series playoff roster as chaotic decisions hang in the balance",
+    "original_body": "The New York Yankees' season has left them with a unique playoff roster-building challenge that may not make it to the next CBA. How do you load up a roster aimed at taking advantage of the Boston Red Sox's weaknesses (left-handed pitching, especially if they're without Willson Contreras) without using too many pitchers? How do you avoid wasting roster spots that could've been nabbed by some of the game's biggest offensive stars?\nThis isn't what I believe the Yankees should do. It's what I believe they will do. This is all to say I've been potentially hooked and swindled by some of their pre-series bluster, but ... I really do believe they believe, like Seal once said, they're never gonna survive unless they get a little crazy,\nAaron Boone has said that the Yankees will not carry 12 pitchers in the opening round, and may not even carry 11. So, for the sake of the exercise, how do we get to a 26-man roster with only 10 pitchers?\nProjecting a Yankees playoff roster with only 10 pitchers for the Wild Card Series vs. Red Sox\nYankees Rotation: Cam Schlittler, Max Fried, Gerrit Cole\nThe Yankees did it. They kept things close to the vest, then went with their strongest starter in first position.\nWhen I believed they were about to choose Fried for Game 1, I wrote an extended monologue justifying the choice, calling it \"not quite as silly a gambit as Deivi Garcia/JA Happ\". After all, strong hints were wafting from the Yankees' clubhouse that they intended to stay on turn and start Max Fried, he of the 1.93 career ERA against the Red Sox and 11 2/3 innings with a single earned run allowed against them this year, so I had to justify it. The fact that they were reticent to go to Schlittler on anything less than a day's extra rest hinted to me that they had some workload concerns, and were trying to sell the choice in a different way. Carlos Rodón probably should get a start, but, again ... good problems. Lot of talent. He'll be available to caddy.\nCole in a potential win-or-go-home game scares me, but the Yankees don't have a single bad option here. Thankfully, they came to their senses to start things off and didn't play with their food. Fried still looks like a pretty excellent Game 2 choice for all the reasons mentioned above.\nYankees Bullpen (again, we're trying to get by with only seven names): Carlos Rodón, Will Warren, Brent Headrick, Paul Blackburn, David Bednar, John Schreiber, Tim Hill\nClarke Schmidt was a core option until the season's final week; he'll end the year with less than one inning pitched in his frenzied comeback bid. Aaron Boone said that, while Ryan Weathers hit 96 in his latest live bullpen session, he might not be an option for this round. He then waffled on that Sunday. We'll take him at his initial word in this projection.\nThere isn't much debate here, given our limitations, besides, \"Is Rodón worth carrying?\" and, \"Michael Fulmer vs. Tim Hill vs. Ryan Yarbrough\". If the Yankees add an 11th pitcher, our guess is Fulmer for a righty look. Hill could be left out for Yarbrough. It's very much on the table.\nYankees Lineup and Bench: Austin Wells, Ali Sanchez, Ben Rice, Paul Goldschmidt, Jazz Chisholm Jr., George Lombard Jr., Jose Caballero, Spencer Jones, Cody Bellinger, Heliot Ramos, Luis Garcia Jr., Trent Grisham, Anthony Volpe, Ryan McMahon, Giancarlo Stanton, Aaron Judge\nOverloaded? Absolutely. But when you need a home run in the later innings, and both Stanton and Judge tell you they're available, who are you leaving off? Would you rather have Judge active and simmering behind the scenes, or Michael Fulmer? Ryan McMahon may very well have been the final addition here, but he's also likely to start Game 2, after all that consternation, with Fried on the bump.\nStanton and Judge have made projecting a realistic roster somewhat impossible. Both could arrive on Tuesday begging for an at-bat or two. Judge could arrive and claim he's fully healthy, ready to start in right. The Yankees have opted for theatricality plenty this season, whether it be Fried returning out of the shadows against Pittsburgh or Cole staying in for Max Muncy. This would be another example.\nOr it might be all bluster, and Fulmer and Yarbs can take the bump instead of the modern-day Mantle and Maris. And what if Grisham's not ready? This leaves Amed Rosario on the outside looking in. He, too, could realistically start Game 1 against Payton Tolle.\nFor the first time in quite a while, the Yankees have plenty up for grabs when the roster graphic drops. This is our estimation in which they push the limits of health and viability, but they hold the cards, and they've pledged to get weird. So we did, too.",
+    "rss_title": "Predicting the Yankees' Wild Card Series playoff roster as chaotic decisions hang in the balance",
+    "rss_body": "The New York Yankees' season has left them with a unique playoff roster-building challenge that may not make it to the next CBA. How do you load up a roster aimed at taking advantage of the Boston Red Sox's weaknesses (left-handed pitching, especially if they're without Willson Contreras) without using too many pitchers? How do you avoid wasting roster spots that could've been nabbed by some of the game's biggest offensive stars?\nThis isn't what I believe the Yankees should do. It's what I believe they will do. This is all to say I've been potentially hooked and swindled by some of their pre-series bluster, but ... I really do believe they believe, like Seal once said, they're never gonna survive unless they get a little crazy,\nAaron Boone has said that the Yankees will not carry 12 pitchers in the opening round, and may not even carry 11. So, for the sake of the exercise, how do we get to a 26-man roster with only 10 pitchers?\nProjecting a Yankees playoff roster with only 10 pitchers for the Wild Card Series vs. Red Sox\nYankees Rotation: Cam Schlittler, Max Fried, Gerrit Cole\nThe Yankees did it. They kept things close to the vest, then went with their strongest starter in first position.\nWhen I believed they were about to choose Fried for Game 1, I wrote an extended monologue justifying the choice, calling it \"not quite as silly a gambit as Deivi Garcia/JA Happ\". After all, strong hints were wafting from the Yankees' clubhouse that they intended to stay on turn and start Max Fried, he of the 1.93 career ERA against the Red Sox and 11 2/3 innings with a single earned run allowed against them this year, so I had to justify it. The fact that they were reticent to go to Schlittler on anything less than a day's extra rest hinted to me that they had some workload concerns, and were trying to sell the choice in a different way. Carlos Rodón probably should get a start, but, again ... good problems. Lot of talent. He'll be available to caddy.\nCole in a potential win-or-go-home game scares me, but the Yankees don't have a single bad option here. Thankfully, they came to their senses to start things off and didn't play with their food. Fried still looks like a pretty excellent Game 2 choice for all the reasons mentioned above.\nYankees Bullpen (again, we're trying to get by with only seven names): Carlos Rodón, Will Warren, Brent Headrick, Paul Blackburn, David Bednar, John Schreiber, Tim Hill\nClarke Schmidt was a core option until the season's final week; he'll end the year with less than one inning pitched in his frenzied comeback bid. Aaron Boone said that, while Ryan Weathers hit 96 in his latest live bullpen session, he might not be an option for this round. He then waffled on that Sunday. We'll take him at his initial word in this projection.\nThere isn't much debate here, given our limitations, besides, \"Is Rodón worth carrying?\" and, \"Michael Fulmer vs. Tim Hill vs. Ryan Yarbrough\". If the Yankees add an 11th pitcher, our guess is Fulmer for a righty look. Hill could be left out for Yarbrough. It's very much on the table.\nYankees Lineup and Bench: Austin Wells, Ali Sanchez, Ben Rice, Paul Goldschmidt, Jazz Chisholm Jr., George Lombard Jr., Jose Caballero, Spencer Jones, Cody Bellinger, Heliot Ramos, Luis Garcia Jr., Trent Grisham, Anthony Volpe, Ryan McMahon, Giancarlo Stanton, Aaron Judge\nOverloaded? Absolutely. But when you need a home run in the later innings, and both Stanton and Judge tell you they're available, who are you leaving off? Would you rather have Judge active and simmering behind the scenes, or Michael Fulmer? Ryan McMahon may very well have been the final addition here, but he's also likely to start Game 2, after all that consternation, with Fried on the bump.\nStanton and Judge have made projecting a realistic roster somewhat impossible. Both could arrive on Tuesday begging for an at-bat or two. Judge could arrive and claim he's fully healthy, ready to start in right. The Yankees have opted for theatricality plenty this season, whether it be Fried returning out of the shadows against Pittsburgh or Cole staying in for Max Muncy. This would be another example.\nOr it might be all bluster, and Fulmer and Yarbs can take the bump instead of the modern-day Mantle and Maris. And what if Grisham's not ready? This leaves Amed Rosario on the outside looking in. He, too, could realistically start Game 1 against Payton Tolle.\nFor the first time in quite a while, the Yankees have plenty up for grabs when the roster graphic drops. This is our estimation in which they push the limits of health and viability, but they hold the cards, and they've pledged to get weird. So we did, too.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "d442ce39c985326abe3f",
     "title": "Stat leaders: Pete Crow-Armstrong, Jacob Misiorowski deliver seasons to remember",
     "source": "thescore1260.com",
