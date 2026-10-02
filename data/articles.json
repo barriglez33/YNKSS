@@ -1,5 +1,701 @@
 [
   {
+    "id": "b2530a2a9a429b4943b3",
+    "title": "Yankees to give Carlos Rodón ALDS start",
+    "source": "NBC Sports",
+    "author": "Matthew Pouliot; Carlos Rodón",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-02/yankees-to-give-carlos-rodon-alds-start",
+    "published_iso": "2026-10-02T18:28:35+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 18:28:35 +0000",
+    "body": "Yankees manager Aaron Boone said Carlos Rodón will start either Game 3 or 4 against the Rays.\n            \n                Interesting. Because of the extra off day built into the ALDS schedule, teams only need three starters. The Yankees, though, seem set to use four anyway. They could then pick between Gerrit Cole on six days’ rest or Cam Schlittler on four days’ rest in a potential Game 5.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees to give Carlos Rodón ALDS start",
+    "original_body": "Yankees manager Aaron Boone said Carlos Rodón will start either Game 3 or 4 against the Rays.\n            \n                Interesting. Because of the extra off day built into the ALDS schedule, teams only need three starters. The Yankees, though, seem set to use four anyway. They could then pick between Gerrit Cole on six days’ rest or Cam Schlittler on four days’ rest in a potential Game 5.",
+    "rss_title": "Yankees to give Carlos Rodón ALDS start",
+    "rss_body": "Yankees manager Aaron Boone said Carlos Rodón will start either Game 3 or 4 against the Rays.\n            \n                Interesting. Because of the extra off day built into the ALDS schedule, teams only need three starters. The Yankees, though, seem set to use four anyway. They could then pick between Gerrit Cole on six days’ rest or Cam Schlittler on four days’ rest in a potential Game 5.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d79a728725496bb11342",
+    "title": "Yankees' Carlos Rodon: Will be part of ALDS rotation",
+    "source": "cbssports.com",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/yankees-carlos-rodon-will-be-part-of-alds-rotation/",
+    "published_iso": "2026-10-02T18:23:50+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 18:23:50 +0000",
+    "body": "Yankees manager Aaron Boone said Friday that Rodon will start either Game 3 or a potential Game 4 of the ALDS versus the Rays, Chris Kirschner of The Athletic reports.\nIt's possible Rodon is needed in relief in Game 1 or 2, but if he's not he'll take the ball in Game 3 or a potential Game 4. Rodon's final regular-season start was against the Rays, and he dazzled with eight strikeouts across eight shutout innings. The Yankees are turning to Gerrit Cole in Game 1 and Cam Schlittler in Game 2.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Carlos Rodon: Will be part of ALDS rotation",
+    "original_body": "Yankees manager Aaron Boone said Friday that Rodon will start either Game 3 or a potential Game 4 of the ALDS versus the Rays, Chris Kirschner of The Athletic reports.\nIt's possible Rodon is needed in relief in Game 1 or 2, but if he's not he'll take the ball in Game 3 or a potential Game 4. Rodon's final regular-season start was against the Rays, and he dazzled with eight strikeouts across eight shutout innings. The Yankees are turning to Gerrit Cole in Game 1 and Cam Schlittler in Game 2.",
+    "rss_title": "Yankees' Carlos Rodon: Will be part of ALDS rotation",
+    "rss_body": "Yankees manager Aaron Boone said Friday that Rodon will start either Game 3 or a potential Game 4 of the ALDS versus the Rays, Chris Kirschner of The Athletic reports.\nIt's possible Rodon is needed in relief in Game 1 or 2, but if he's not he'll take the ball in Game 3 or a potential Game 4. Rodon's final regular-season start was against the Rays, and he dazzled with eight strikeouts across eight shutout innings. The Yankees are turning to Gerrit Cole in Game 1 and Cam Schlittler in Game 2.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "93f1e3d43ec1eac3c7f7",
+    "title": "New York Yankees Announce Aaron Judge Update Before ALDS vs. Rays",
+    "source": "heavy.com",
+    "author": "Jackson Kruse",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/announce-aaron-judge-update-alds-rays/",
+    "published_iso": "2026-10-02T18:14:13+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 18:14:13 +0000",
+    "body": "The New York Yankees will play the Tampa Bay Rays in the American League Division Series.\nGame 1 of the series will begin at 6:30 p.m. EDT on Friday at Tropicana Field.\nThe Yankees were without star outfielder Aaron Judge in the American League Wild Card Series due to a calf strain.\nDespite Judge’s absence, the Yankees swept the Boston Red Sox 2-0 in the Wild Card Series. New York outscored Boston 18-2.\nBefore the ALDS, Yankees manager Aaron Boone announced an update on Judge.\nNew York Yankees’ Aaron Boone Announces Aaron Judge News Before ALDS vs. Rays\nAaron Boone gives an update on Aaron Judge’s status for the ALDS: “We’ll see. He’ll be working out today, hit again live yesterday.”\nBoone is not sure if Judge has run the bases but knows that Judge has started running\nLooking at Aaron Judge\nThe Yankees placed Judge on the injured list on Sept. 19 with a right calf strain.\nJudge missed most of the season with a right rib stress fracture, landing him on the IL on June 2. New York activated him on Sept. 7.\nBefore being placed on the IL in June, Judge hit .248/.375/.533 with 17 home runs and 38 RBI over 59 games this season.\nJudge struggled after returning from the IL in Sept., hitting just .190/.227/.333 with one home run and three RBI over six games before landing on the IL again.\nSince making his MLB debut in 2016, Judge has slashed 291/.410/.610 with 386 home runs and 871 RBI.\nJudge has won three AL MVP Awards throughout his career.\nLooking at the Yankees-Rays ALDS\nHere is the Yankees-Rays ALDS schedule:\n- Game 1: 6:30 p.m. EDT on Saturday, Oct. 3, @ Tropicana Field\n- Game 2: 8:00 p.m. EDT on Monday, Oct. 5, @ Tropicana Field\n- Game 3: 8:00 p.m. EDT on Wednesday, Oct. 7, @ Yankee Stadium\n- Game 4 (if necessary): 8:00 p.m. EDT on Thursday, Oct. 8, @ Yankee Stadium\n- Game 5 (if necessary): 8:00 p.m. EDT on Saturday, Oct. 10, @ Tropicana Field\nAll of the games will be available to watch on TBS and HBO Max.\nThe winner of the Yankees-Rays series will play the winner of the ALDS between the Chicago White Sox and Cleveland Guardians in the American League Championship Series.\nThe Rays finished the season with the best record in the American League at 98-64.\nThe Yankees ended the regular season 4 1/2 games behind the Rays for first place in the division.\nThe Rays won seven of 13 games against the Yankees this season. However, the Yankees won three of four games in their last series with the Rays.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees Announce Aaron Judge Update Before ALDS vs. Rays",
+    "original_body": "The New York Yankees will play the Tampa Bay Rays in the American League Division Series.\nGame 1 of the series will begin at 6:30 p.m. EDT on Friday at Tropicana Field.\nThe Yankees were without star outfielder Aaron Judge in the American League Wild Card Series due to a calf strain.\nDespite Judge’s absence, the Yankees swept the Boston Red Sox 2-0 in the Wild Card Series. New York outscored Boston 18-2.\nBefore the ALDS, Yankees manager Aaron Boone announced an update on Judge.\nNew York Yankees’ Aaron Boone Announces Aaron Judge News Before ALDS vs. Rays\nAaron Boone gives an update on Aaron Judge’s status for the ALDS: “We’ll see. He’ll be working out today, hit again live yesterday.”\nBoone is not sure if Judge has run the bases but knows that Judge has started running\nLooking at Aaron Judge\nThe Yankees placed Judge on the injured list on Sept. 19 with a right calf strain.\nJudge missed most of the season with a right rib stress fracture, landing him on the IL on June 2. New York activated him on Sept. 7.\nBefore being placed on the IL in June, Judge hit .248/.375/.533 with 17 home runs and 38 RBI over 59 games this season.\nJudge struggled after returning from the IL in Sept., hitting just .190/.227/.333 with one home run and three RBI over six games before landing on the IL again.\nSince making his MLB debut in 2016, Judge has slashed 291/.410/.610 with 386 home runs and 871 RBI.\nJudge has won three AL MVP Awards throughout his career.\nLooking at the Yankees-Rays ALDS\nHere is the Yankees-Rays ALDS schedule:\n- Game 1: 6:30 p.m. EDT on Saturday, Oct. 3, @ Tropicana Field\n- Game 2: 8:00 p.m. EDT on Monday, Oct. 5, @ Tropicana Field\n- Game 3: 8:00 p.m. EDT on Wednesday, Oct. 7, @ Yankee Stadium\n- Game 4 (if necessary): 8:00 p.m. EDT on Thursday, Oct. 8, @ Yankee Stadium\n- Game 5 (if necessary): 8:00 p.m. EDT on Saturday, Oct. 10, @ Tropicana Field\nAll of the games will be available to watch on TBS and HBO Max.\nThe winner of the Yankees-Rays series will play the winner of the ALDS between the Chicago White Sox and Cleveland Guardians in the American League Championship Series.\nThe Rays finished the season with the best record in the American League at 98-64.\nThe Yankees ended the regular season 4 1/2 games behind the Rays for first place in the division.\nThe Rays won seven of 13 games against the Yankees this season. However, the Yankees won three of four games in their last series with the Rays.",
+    "rss_title": "New York Yankees Announce Aaron Judge Update Before ALDS vs. Rays",
+    "rss_body": "The New York Yankees will play the Tampa Bay Rays in the American League Division Series.\nGame 1 of the series will begin at 6:30 p.m. EDT on Friday at Tropicana Field.\nThe Yankees were without star outfielder Aaron Judge in the American League Wild Card Series due to a calf strain.\nDespite Judge’s absence, the Yankees swept the Boston Red Sox 2-0 in the Wild Card Series. New York outscored Boston 18-2.\nBefore the ALDS, Yankees manager Aaron Boone announced an update on Judge.\nNew York Yankees’ Aaron Boone Announces Aaron Judge News Before ALDS vs. Rays\nAaron Boone gives an update on Aaron Judge’s status for the ALDS: “We’ll see. He’ll be working out today, hit again live yesterday.”\nBoone is not sure if Judge has run the bases but knows that Judge has started running\nLooking at Aaron Judge\nThe Yankees placed Judge on the injured list on Sept. 19 with a right calf strain.\nJudge missed most of the season with a right rib stress fracture, landing him on the IL on June 2. New York activated him on Sept. 7.\nBefore being placed on the IL in June, Judge hit .248/.375/.533 with 17 home runs and 38 RBI over 59 games this season.\nJudge struggled after returning from the IL in Sept., hitting just .190/.227/.333 with one home run and three RBI over six games before landing on the IL again.\nSince making his MLB debut in 2016, Judge has slashed 291/.410/.610 with 386 home runs and 871 RBI.\nJudge has won three AL MVP Awards throughout his career.\nLooking at the Yankees-Rays ALDS\nHere is the Yankees-Rays ALDS schedule:\n- Game 1: 6:30 p.m. EDT on Saturday, Oct. 3, @ Tropicana Field\n- Game 2: 8:00 p.m. EDT on Monday, Oct. 5, @ Tropicana Field\n- Game 3: 8:00 p.m. EDT on Wednesday, Oct. 7, @ Yankee Stadium\n- Game 4 (if necessary): 8:00 p.m. EDT on Thursday, Oct. 8, @ Yankee Stadium\n- Game 5 (if necessary): 8:00 p.m. EDT on Saturday, Oct. 10, @ Tropicana Field\nAll of the games will be available to watch on TBS and HBO Max.\nThe winner of the Yankees-Rays series will play the winner of the ALDS between the Chicago White Sox and Cleveland Guardians in the American League Championship Series.\nThe Rays finished the season with the best record in the American League at 98-64.\nThe Yankees ended the regular season 4 1/2 games behind the Rays for first place in the division.\nThe Rays won seven of 13 games against the Yankees this season. However, the Yankees won three of four games in their last series with the Rays.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "38f73e851f4bf6a044fa",
+    "title": "Gerrit Cole to start Game 1 against Rays",
+    "source": "NBC Sports",
+    "author": "Matthew Pouliot; Gerrit Cole",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-02/gerrit-cole-to-start-game-1-against-rays",
+    "published_iso": "2026-10-02T18:08:39+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 18:08:39 +0000",
+    "body": "The Yankees confirmed that Gerrit Cole would start Game 1 of the ALDS against the Rays on Saturday.\n            \n                Cole would have started Game 3 against the Red Sox. He figures to be followed by Cam Schlittler and Max Fried against the Rays. There is an extra day off in the ALDS, so the Yankees will probably use just the three starters, putting Carlos Rodón in the bullpen again.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Gerrit Cole to start Game 1 against Rays",
+    "original_body": "The Yankees confirmed that Gerrit Cole would start Game 1 of the ALDS against the Rays on Saturday.\n            \n                Cole would have started Game 3 against the Red Sox. He figures to be followed by Cam Schlittler and Max Fried against the Rays. There is an extra day off in the ALDS, so the Yankees will probably use just the three starters, putting Carlos Rodón in the bullpen again.",
+    "rss_title": "Gerrit Cole to start Game 1 against Rays",
+    "rss_body": "The Yankees confirmed that Gerrit Cole would start Game 1 of the ALDS against the Rays on Saturday.\n            \n                Cole would have started Game 3 against the Red Sox. He figures to be followed by Cam Schlittler and Max Fried against the Rays. There is an extra day off in the ALDS, so the Yankees will probably use just the three starters, putting Carlos Rodón in the bullpen again.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "955a1cd29e81c107d8e5",
+    "title": "5 Reasons Why the Yankees Shouldn't Keep Aaron Judge off the ALDS Roster",
+    "source": "Sports Illustrated",
+    "author": "Joseph Randazzo; Unknown",
+    "url": "https://www.si.com/mlb/yankees/onsi/5-reasons-why-the-yankees-shouldn-t-keep-aaron-judge-off-the-alds-roster-01m3yb3h0d8x",
+    "published_iso": "2026-10-02T18:00:02+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 18:00:02 +0000",
+    "body": "The New York Yankees may have blown the doors off the Boston Red Sox without Aaron Judge, but that doesn't mean that they don't need their captain. For anyone who watched this team all year—or even the past few years—the best version of this team has Judge in the lineup.\nWho knows what would've happened to the division this year if Judge were healthy, or, in the case of the 2023 season, their postseason chances if Dodger Stadium hadn't taken him out. The Texas Rangers won the World Series by coming out of the American League, but the Yankees took a series from them without Judge that summer.\nHeading into the division series against Tampa Bay, the Yankees should activate him if he's healthy enough to play. Here are five reasons why.\nLineup protection\nThe Yankees' lineup outscored the Red Sox 18-2 in two games. It's hard to find a bigger mismatch in the postseason than that with the remaining teams.\nAs great as Ben Rice performed, imagine a world where a pitcher is staring at who is coming up, and the part of the lineup he has to navigate is Judge, Rice, and Cody Bellinger. They'll be extra careful and may be forced to pitch to these guys because, as Bellinger proved in Game 2, if you put runners on in front of him, he has a shot at taking a pitcher deep.\nStill a homer threat even if he struggles\nJudge struggled throughout the 2024 postseason. However, one of the memorable home runs during that series came off him, taking Emmanuel Clase deep. The Yankees still lost that game, but it showed that as long as Judge is in that lineup, he can change the complexion of any game.\nAt that point, Clase was one of baseball's best closers. Judge still sent a triple-digit pitch into the seats.\nFlexibility proved to be a little overrated in the Wild Card Series\nAaron Boone mixed and matched his roster a bit in the Wild Card Series, but not everyone performed despite the run parade. Amed Rosario and Heliot Ramos, specifically, provided next to nothing. Ramos is essentially Judge's replacement on the roster when the Yankees face lefties, and the southpaw Payton Tolle overpowered him in Game 1.\nJudge may not have fared much better than Ramos, but there's a difference between a bench bat and a three-time MVP. Pitchers are looking at that matchup a little differently.\nThe best defensive roster has Judge in right field\nJudge has a calf strain, and playing on it could be detrimental. But if a doctor says he's healthy enough to get out there, he should be in right field. With Judge in the outfield, that opens up the DH slot so Ben Rice and Luis Garcia Jr. can play at the same time. The best Yankee lineup has those three in there at the same time.\nNo \"what ifs\"\nThe 2026 season has been one big \"What if?\" What if the Yankees were healthy? What if the rotation didn't deal with as many IL stints as it did? What if Judge stayed on the field?\nThere's no remedying what happened in the regular season, but if Judge is healthy and can go up against the Rays, the Yankees can put a lot of those questions to rest — especially if they beat Tampa with Judge's help.\nAnyone who thought the Yankees would have won the AL East if Judge had stayed on the field would be somewhat redeemed. Granted, the stakes are a little higher than what happens between April and September.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "5 Reasons Why the Yankees Shouldn't Keep Aaron Judge off the ALDS Roster",
+    "original_body": "The New York Yankees may have blown the doors off the Boston Red Sox without Aaron Judge, but that doesn't mean that they don't need their captain. For anyone who watched this team all year—or even the past few years—the best version of this team has Judge in the lineup.\nWho knows what would've happened to the division this year if Judge were healthy, or, in the case of the 2023 season, their postseason chances if Dodger Stadium hadn't taken him out. The Texas Rangers won the World Series by coming out of the American League, but the Yankees took a series from them without Judge that summer.\nHeading into the division series against Tampa Bay, the Yankees should activate him if he's healthy enough to play. Here are five reasons why.\nLineup protection\nThe Yankees' lineup outscored the Red Sox 18-2 in two games. It's hard to find a bigger mismatch in the postseason than that with the remaining teams.\nAs great as Ben Rice performed, imagine a world where a pitcher is staring at who is coming up, and the part of the lineup he has to navigate is Judge, Rice, and Cody Bellinger. They'll be extra careful and may be forced to pitch to these guys because, as Bellinger proved in Game 2, if you put runners on in front of him, he has a shot at taking a pitcher deep.\nStill a homer threat even if he struggles\nJudge struggled throughout the 2024 postseason. However, one of the memorable home runs during that series came off him, taking Emmanuel Clase deep. The Yankees still lost that game, but it showed that as long as Judge is in that lineup, he can change the complexion of any game.\nAt that point, Clase was one of baseball's best closers. Judge still sent a triple-digit pitch into the seats.\nFlexibility proved to be a little overrated in the Wild Card Series\nAaron Boone mixed and matched his roster a bit in the Wild Card Series, but not everyone performed despite the run parade. Amed Rosario and Heliot Ramos, specifically, provided next to nothing. Ramos is essentially Judge's replacement on the roster when the Yankees face lefties, and the southpaw Payton Tolle overpowered him in Game 1.\nJudge may not have fared much better than Ramos, but there's a difference between a bench bat and a three-time MVP. Pitchers are looking at that matchup a little differently.\nThe best defensive roster has Judge in right field\nJudge has a calf strain, and playing on it could be detrimental. But if a doctor says he's healthy enough to get out there, he should be in right field. With Judge in the outfield, that opens up the DH slot so Ben Rice and Luis Garcia Jr. can play at the same time. The best Yankee lineup has those three in there at the same time.\nNo \"what ifs\"\nThe 2026 season has been one big \"What if?\" What if the Yankees were healthy? What if the rotation didn't deal with as many IL stints as it did? What if Judge stayed on the field?\nThere's no remedying what happened in the regular season, but if Judge is healthy and can go up against the Rays, the Yankees can put a lot of those questions to rest — especially if they beat Tampa with Judge's help.\nAnyone who thought the Yankees would have won the AL East if Judge had stayed on the field would be somewhat redeemed. Granted, the stakes are a little higher than what happens between April and September.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "rss_title": "5 Reasons Why the Yankees Shouldn't Keep Aaron Judge off the ALDS Roster",
+    "rss_body": "The New York Yankees may have blown the doors off the Boston Red Sox without Aaron Judge, but that doesn't mean that they don't need their captain. For anyone who watched this team all year—or even the past few years—the best version of this team has Judge in the lineup.\nWho knows what would've happened to the division this year if Judge were healthy, or, in the case of the 2023 season, their postseason chances if Dodger Stadium hadn't taken him out. The Texas Rangers won the World Series by coming out of the American League, but the Yankees took a series from them without Judge that summer.\nHeading into the division series against Tampa Bay, the Yankees should activate him if he's healthy enough to play. Here are five reasons why.\nLineup protection\nThe Yankees' lineup outscored the Red Sox 18-2 in two games. It's hard to find a bigger mismatch in the postseason than that with the remaining teams.\nAs great as Ben Rice performed, imagine a world where a pitcher is staring at who is coming up, and the part of the lineup he has to navigate is Judge, Rice, and Cody Bellinger. They'll be extra careful and may be forced to pitch to these guys because, as Bellinger proved in Game 2, if you put runners on in front of him, he has a shot at taking a pitcher deep.\nStill a homer threat even if he struggles\nJudge struggled throughout the 2024 postseason. However, one of the memorable home runs during that series came off him, taking Emmanuel Clase deep. The Yankees still lost that game, but it showed that as long as Judge is in that lineup, he can change the complexion of any game.\nAt that point, Clase was one of baseball's best closers. Judge still sent a triple-digit pitch into the seats.\nFlexibility proved to be a little overrated in the Wild Card Series\nAaron Boone mixed and matched his roster a bit in the Wild Card Series, but not everyone performed despite the run parade. Amed Rosario and Heliot Ramos, specifically, provided next to nothing. Ramos is essentially Judge's replacement on the roster when the Yankees face lefties, and the southpaw Payton Tolle overpowered him in Game 1.\nJudge may not have fared much better than Ramos, but there's a difference between a bench bat and a three-time MVP. Pitchers are looking at that matchup a little differently.\nThe best defensive roster has Judge in right field\nJudge has a calf strain, and playing on it could be detrimental. But if a doctor says he's healthy enough to get out there, he should be in right field. With Judge in the outfield, that opens up the DH slot so Ben Rice and Luis Garcia Jr. can play at the same time. The best Yankee lineup has those three in there at the same time.\nNo \"what ifs\"\nThe 2026 season has been one big \"What if?\" What if the Yankees were healthy? What if the rotation didn't deal with as many IL stints as it did? What if Judge stayed on the field?\nThere's no remedying what happened in the regular season, but if Judge is healthy and can go up against the Rays, the Yankees can put a lot of those questions to rest — especially if they beat Tampa with Judge's help.\nAnyone who thought the Yankees would have won the AL East if Judge had stayed on the field would be somewhat redeemed. Granted, the stakes are a little higher than what happens between April and September.\nJoe Randazzo is a reference librarian who lives on Long Island. When he’s not behind a desk offering assistance to his patrons, he writes about the Yankees for Yankees On SI. Follow him as @YankeeLibrarian on X and Instagram.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "73c2e2111b018d2140a0",
+    "title": "New York Yankees Star Spencer Jones Sends Out 11-Word Post",
+    "source": "heavy.com",
+    "author": "Ben Stinar",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/jones-sends-out-11-word-post-before-rays-series/",
+    "published_iso": "2026-10-02T17:57:30+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:57:30 +0000",
+    "body": "On Friday, the New York Yankees have the day off ahead of their ALDS series with the Tampa Bay Rays on Saturday in Florida.\nThe Yankees are coming off a sweep over the Boston Red Sox (at home) in the AL Wild Card Series.\nBob Nightengale of USA Today wrote (on Wednesday): “The New York Yankees sweep the Boston Red Sox out of the Bronx in humiliating fashion. They outscored the Red Sox 18-2 in the wild-card series. They are off to Tampa Bay for a best-of-five AL Division Series beginning Saturday”\nYankees Star Spencer Jones Sends Out 11-Word Post\nAhead of their series with the Rays, rookie Spencer Jones sent out a post to Instagram that had over 20,000 likes in less than 24 hours.\nJones wrote: “The boys are cooking… Let’s get this bird in the air!”\nComments On Jones’ Post\nSpencer Jones #78 of the New York Yankees looks on against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nHere’s what people were saying in the comments:\nNew York Yankees: “Just a chill bird 🦅”\n@everythingnyyankees: “So tuff 🦅”\n@avaaoconnor: “My goat 💙🔥🐐🗽”\nSpencer Jones #78 of the New York Yankees reacts after a single against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nBrendan Beck: “The Standard”\n@twinstripe_reporters: “Love watching you play!!!💪🏻💪🏻💪🏻💪🏻💪🏻”\n@brendank87: “Big boy! Keep crushing kid”\nSpencer Jones #78 of the New York Yankees steps to the plate in his first major league at bat in the second inning against the Milwaukee Brewers at American Family Field on May 08, 2026 in Milwaukee, Wisconsin.\nCC Sabathia, JC Escarra, Ali Sanchez, BJ Murray, Ryan Weathers, Luke Pettitte and Carlos Lagrange were among the people to like his post.\nLooking At Jones\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe won’t turn 26 until next season (May 14).\nThrough his first 86 regular season games, Jones is batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases.",
+    "tracked_people": [
+      {
+        "name": "Ali Sánchez",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "CC Sabathia",
+        "role": "Legend / Starting Pitcher",
+        "status": "Workhorse ace of the 2009 championship rotation.",
+        "type": "legend",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees Star Spencer Jones Sends Out 11-Word Post",
+    "original_body": "On Friday, the New York Yankees have the day off ahead of their ALDS series with the Tampa Bay Rays on Saturday in Florida.\nThe Yankees are coming off a sweep over the Boston Red Sox (at home) in the AL Wild Card Series.\nBob Nightengale of USA Today wrote (on Wednesday): “The New York Yankees sweep the Boston Red Sox out of the Bronx in humiliating fashion. They outscored the Red Sox 18-2 in the wild-card series. They are off to Tampa Bay for a best-of-five AL Division Series beginning Saturday”\nYankees Star Spencer Jones Sends Out 11-Word Post\nAhead of their series with the Rays, rookie Spencer Jones sent out a post to Instagram that had over 20,000 likes in less than 24 hours.\nJones wrote: “The boys are cooking… Let’s get this bird in the air!”\nComments On Jones’ Post\nSpencer Jones #78 of the New York Yankees looks on against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nHere’s what people were saying in the comments:\nNew York Yankees: “Just a chill bird 🦅”\n@everythingnyyankees: “So tuff 🦅”\n@avaaoconnor: “My goat 💙🔥🐐🗽”\nSpencer Jones #78 of the New York Yankees reacts after a single against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nBrendan Beck: “The Standard”\n@twinstripe_reporters: “Love watching you play!!!💪🏻💪🏻💪🏻💪🏻💪🏻”\n@brendank87: “Big boy! Keep crushing kid”\nSpencer Jones #78 of the New York Yankees steps to the plate in his first major league at bat in the second inning against the Milwaukee Brewers at American Family Field on May 08, 2026 in Milwaukee, Wisconsin.\nCC Sabathia, JC Escarra, Ali Sanchez, BJ Murray, Ryan Weathers, Luke Pettitte and Carlos Lagrange were among the people to like his post.\nLooking At Jones\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe won’t turn 26 until next season (May 14).\nThrough his first 86 regular season games, Jones is batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases.",
+    "rss_title": "New York Yankees Star Spencer Jones Sends Out 11-Word Post",
+    "rss_body": "On Friday, the New York Yankees have the day off ahead of their ALDS series with the Tampa Bay Rays on Saturday in Florida.\nThe Yankees are coming off a sweep over the Boston Red Sox (at home) in the AL Wild Card Series.\nBob Nightengale of USA Today wrote (on Wednesday): “The New York Yankees sweep the Boston Red Sox out of the Bronx in humiliating fashion. They outscored the Red Sox 18-2 in the wild-card series. They are off to Tampa Bay for a best-of-five AL Division Series beginning Saturday”\nYankees Star Spencer Jones Sends Out 11-Word Post\nAhead of their series with the Rays, rookie Spencer Jones sent out a post to Instagram that had over 20,000 likes in less than 24 hours.\nJones wrote: “The boys are cooking… Let’s get this bird in the air!”\nComments On Jones’ Post\nSpencer Jones #78 of the New York Yankees looks on against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nHere’s what people were saying in the comments:\nNew York Yankees: “Just a chill bird 🦅”\n@everythingnyyankees: “So tuff 🦅”\n@avaaoconnor: “My goat 💙🔥🐐🗽”\nSpencer Jones #78 of the New York Yankees reacts after a single against the Boston Red Sox during the fourth inning in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nBrendan Beck: “The Standard”\n@twinstripe_reporters: “Love watching you play!!!💪🏻💪🏻💪🏻💪🏻💪🏻”\n@brendank87: “Big boy! Keep crushing kid”\nSpencer Jones #78 of the New York Yankees steps to the plate in his first major league at bat in the second inning against the Milwaukee Brewers at American Family Field on May 08, 2026 in Milwaukee, Wisconsin.\nCC Sabathia, JC Escarra, Ali Sanchez, BJ Murray, Ryan Weathers, Luke Pettitte and Carlos Lagrange were among the people to like his post.\nLooking At Jones\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe won’t turn 26 until next season (May 14).\nThrough his first 86 regular season games, Jones is batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "5bc68fadd9586c06d828",
+    "title": "Why Cam Schlittler’s 8-word truth bomb will have Yankees fans feeling confident for Rays series",
+    "source": "Yahoo Sports",
+    "author": "Gerard Angelo Samillano; ClutchPoints",
+    "url": "https://sports.yahoo.com/articles/why-cam-schlittler-8-word-175701147.html",
+    "published_iso": "2026-10-02T17:57:01+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:57:01 +0000",
+    "body": "Why Cam Schlittler's 8-word truth bomb will have Yankees fans feeling confident for Rays series appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nIs this finally the year the New York Yankees get it together? For years, the Bronx has seen their baseball team make it to the postseason, only to falter in the biggest moments. This year, New York is once again one of the top teams left, despite being a Wild Card team.\nThe Yankees are up against a truly formidable foe in the first-seeded Tampa Bay Rays. There's a lot of concern about whether this veteran team can go toe-to-toe with their resurgent division rivals. However, ace Cam Schlittler isn't worried about his team in the slightest. Why? Well, here's what the star has to say.\n\"We're on a roll at the right time,\" Schlittler said, per Gary Phillips.\nWatch sports LIVE with fuboTV (free trial)\nAaron Boone further expanded on that point, saying, \"I like the balance of our club right now. Again, we played great baseball in a lot of ways here, obviously anchored by our two great starters that got us off on a great foot. But a lot of really good things happened with this group. We get a chance to keep it going.\"\nThe Yankees are coming off a comfortable dismantling of the Boston Red Sox in the Wild Card round. Schlitter got the start in Game 1, and the ace pitcher immediately showed why he's earned his spot as the postseason opening starter. Schlittler pitches 6 1/3 innings of no-run ball, allowing just two hits while striking out ten batters. The Yankees bullpen finished the job, holding Boston scoreless as their hitting unit scored nine runs.\nMax Fried got the ball in Game 2, and he was also incredible for New York. In six innings, the Yankees star allowed just one hit while striking out six. New York cruised to a comfortable 9-2 win to secure their spot in the Wild Card round. They now look to keep that momentum against a well-rested Rays team.",
+    "tracked_people": [
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Why Cam Schlittler’s 8-word truth bomb will have Yankees fans feeling confident for Rays series",
+    "original_body": "Why Cam Schlittler's 8-word truth bomb will have Yankees fans feeling confident for Rays series appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nIs this finally the year the New York Yankees get it together? For years, the Bronx has seen their baseball team make it to the postseason, only to falter in the biggest moments. This year, New York is once again one of the top teams left, despite being a Wild Card team.\nThe Yankees are up against a truly formidable foe in the first-seeded Tampa Bay Rays. There's a lot of concern about whether this veteran team can go toe-to-toe with their resurgent division rivals. However, ace Cam Schlittler isn't worried about his team in the slightest. Why? Well, here's what the star has to say.\n\"We're on a roll at the right time,\" Schlittler said, per Gary Phillips.\nWatch sports LIVE with fuboTV (free trial)\nAaron Boone further expanded on that point, saying, \"I like the balance of our club right now. Again, we played great baseball in a lot of ways here, obviously anchored by our two great starters that got us off on a great foot. But a lot of really good things happened with this group. We get a chance to keep it going.\"\nThe Yankees are coming off a comfortable dismantling of the Boston Red Sox in the Wild Card round. Schlitter got the start in Game 1, and the ace pitcher immediately showed why he's earned his spot as the postseason opening starter. Schlittler pitches 6 1/3 innings of no-run ball, allowing just two hits while striking out ten batters. The Yankees bullpen finished the job, holding Boston scoreless as their hitting unit scored nine runs.\nMax Fried got the ball in Game 2, and he was also incredible for New York. In six innings, the Yankees star allowed just one hit while striking out six. New York cruised to a comfortable 9-2 win to secure their spot in the Wild Card round. They now look to keep that momentum against a well-rested Rays team.",
+    "rss_title": "Why Cam Schlittler’s 8-word truth bomb will have Yankees fans feeling confident for Rays series",
+    "rss_body": "Why Cam Schlittler's 8-word truth bomb will have Yankees fans feeling confident for Rays series appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nIs this finally the year the New York Yankees get it together? For years, the Bronx has seen their baseball team make it to the postseason, only to falter in the biggest moments. This year, New York is once again one of the top teams left, despite being a Wild Card team.\nThe Yankees are up against a truly formidable foe in the first-seeded Tampa Bay Rays. There's a lot of concern about whether this veteran team can go toe-to-toe with their resurgent division rivals. However, ace Cam Schlittler isn't worried about his team in the slightest. Why? Well, here's what the star has to say.\n\"We're on a roll at the right time,\" Schlittler said, per Gary Phillips.\nWatch sports LIVE with fuboTV (free trial)\nAaron Boone further expanded on that point, saying, \"I like the balance of our club right now. Again, we played great baseball in a lot of ways here, obviously anchored by our two great starters that got us off on a great foot. But a lot of really good things happened with this group. We get a chance to keep it going.\"\nThe Yankees are coming off a comfortable dismantling of the Boston Red Sox in the Wild Card round. Schlitter got the start in Game 1, and the ace pitcher immediately showed why he's earned his spot as the postseason opening starter. Schlittler pitches 6 1/3 innings of no-run ball, allowing just two hits while striking out ten batters. The Yankees bullpen finished the job, holding Boston scoreless as their hitting unit scored nine runs.\nMax Fried got the ball in Game 2, and he was also incredible for New York. In six innings, the Yankees star allowed just one hit while striking out six. New York cruised to a comfortable 9-2 win to secure their spot in the Wild Card round. They now look to keep that momentum against a well-rested Rays team.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "56944f78b48225b4e8a3",
+    "title": "Yankees' Aaron Judge: Status for ALDS up in the air",
+    "source": "cbssports.com",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/yankees-aaron-judge-status-for-alds-up-in-the-air/",
+    "published_iso": "2026-10-02T17:54:22+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:54:22 +0000",
+    "body": "Judge's (calf) availability for the ALDS against the Rays \"remains up in the air,\" Jeff Passan of ESPN.com reports.\nJudge suffered a moderate right calf strain a little more than two weeks ago. He's gone through workouts this week, but Judge will need to show he can run the bases without issue before receiving clearance to be on the ALDS roster. Complicating matters is that if Judge is limited to designated hitter, Ben Rice would have to play first base and push Luis Garcia out of the lineup.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Aaron Judge: Status for ALDS up in the air",
+    "original_body": "Judge's (calf) availability for the ALDS against the Rays \"remains up in the air,\" Jeff Passan of ESPN.com reports.\nJudge suffered a moderate right calf strain a little more than two weeks ago. He's gone through workouts this week, but Judge will need to show he can run the bases without issue before receiving clearance to be on the ALDS roster. Complicating matters is that if Judge is limited to designated hitter, Ben Rice would have to play first base and push Luis Garcia out of the lineup.",
+    "rss_title": "Yankees' Aaron Judge: Status for ALDS up in the air",
+    "rss_body": "Judge's (calf) availability for the ALDS against the Rays \"remains up in the air,\" Jeff Passan of ESPN.com reports.\nJudge suffered a moderate right calf strain a little more than two weeks ago. He's gone through workouts this week, but Judge will need to show he can run the bases without issue before receiving clearance to be on the ALDS roster. Complicating matters is that if Judge is limited to designated hitter, Ben Rice would have to play first base and push Luis Garcia out of the lineup.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "6582d40a58107e925e4c",
+    "title": "Yankees sending Gerrit Cole to the mound vs. Rays' Drew Rasmussen in Game 1 of AL Division Series",
+    "source": "The Tribune-Democrat",
+    "author": "ROB MAADDI The Associated Press",
+    "url": "https://www.tribdem.com/sports/yankees-sending-gerrit-cole-to-the-mound-vs-rays-drew-rasmussen-in-game-1-of/article_17463e48-6337-5e27-bc3c-437791ca8415.html",
+    "published_iso": "2026-10-02T17:23:00+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:23:00 +0000",
+    "body": "Gerrit Cole will start for the New York Yankees against Drew Rasmussen and the Tampa Bay Rays in Saturday night's AL Division Series opener.\nCole was set to start Game 3 of the Wild Card Series against Boston on Thursday but the Yankees swept their division rival. The 36-year-old right-hander, a six-time All-Star, was 10-9 with a 3.61 ERA in 22 starts this season after recovering from Tommy John surgery that caused him to miss the 2025 season.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees sending Gerrit Cole to the mound vs. Rays' Drew Rasmussen in Game 1 of AL Division Series",
+    "original_body": "Gerrit Cole will start for the New York Yankees against Drew Rasmussen and the Tampa Bay Rays in Saturday night's AL Division Series opener.\nCole was set to start Game 3 of the Wild Card Series against Boston on Thursday but the Yankees swept their division rival. The 36-year-old right-hander, a six-time All-Star, was 10-9 with a 3.61 ERA in 22 starts this season after recovering from Tommy John surgery that caused him to miss the 2025 season.",
+    "rss_title": "Yankees sending Gerrit Cole to the mound vs. Rays' Drew Rasmussen in Game 1 of AL Division Series",
+    "rss_body": "Gerrit Cole will start for the New York Yankees against Drew Rasmussen and the Tampa Bay Rays in Saturday night's AL Division Series opener.\nCole was set to start Game 3 of the Wild Card Series against Boston on Thursday but the Yankees swept their division rival. The 36-year-old right-hander, a six-time All-Star, was 10-9 with a 3.61 ERA in 22 starts this season after recovering from Tommy John surgery that caused him to miss the 2025 season.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8739fb2e90da004309bd",
+    "title": "Yankees’ Aaron Judge reveals early injury status for ALDS against Rays",
+    "source": "Yahoo",
+    "author": "Jon Conahan",
+    "url": "https://ca.sports.yahoo.com/news/yankees-aaron-judge-reveals-early-171530437.html",
+    "published_iso": "2026-10-02T17:15:30+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:15:30 +0000",
+    "body": "Yankees' Aaron Judge reveals early injury status for ALDS against Rays originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\nThe New York Yankees did exactly what they had to do on both sides of the baseball against the Boston Red Sox in the American League Wild Card series.\nAs the Yankees prepare for the ALDS against the Tampa Bay Rays, there's reason to believe this roster will be even better than it was during the Wild Card.\nAs of now, it remains uncertain what the Yankees want to do with Aaron Judge, or whether he can even play, but there's hope around the fan base that he might come back.\nSpeaking to reporters while celebrating his team advancing, Judge said that he feels good, but he doesn't have an answer as to whether he's eventually playing.\n\"We just finished the Wild Card,\" Judge said in the middle of a clubhouse celebration, per NJ.com. \"We'll get into that as we get close. I got nothing for you yet, but I have an opportunity to get ready. That's what I've been doing every day.\"\n\"I'm feeling good,\" he said.\nGetting Judge back has to be the biggest priority for the Yankees over this postseason.\nWhile the Yankees played very well against the Red Sox and there was a lot to like, things are only going to get more difficult.\nNot having the best hitter in Major League Baseball doesn't help, and the Yankees will have to work around it if he's not ready to go.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees’ Aaron Judge reveals early injury status for ALDS against Rays",
+    "original_body": "Yankees' Aaron Judge reveals early injury status for ALDS against Rays originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\nThe New York Yankees did exactly what they had to do on both sides of the baseball against the Boston Red Sox in the American League Wild Card series.\nAs the Yankees prepare for the ALDS against the Tampa Bay Rays, there's reason to believe this roster will be even better than it was during the Wild Card.\nAs of now, it remains uncertain what the Yankees want to do with Aaron Judge, or whether he can even play, but there's hope around the fan base that he might come back.\nSpeaking to reporters while celebrating his team advancing, Judge said that he feels good, but he doesn't have an answer as to whether he's eventually playing.\n\"We just finished the Wild Card,\" Judge said in the middle of a clubhouse celebration, per NJ.com. \"We'll get into that as we get close. I got nothing for you yet, but I have an opportunity to get ready. That's what I've been doing every day.\"\n\"I'm feeling good,\" he said.\nGetting Judge back has to be the biggest priority for the Yankees over this postseason.\nWhile the Yankees played very well against the Red Sox and there was a lot to like, things are only going to get more difficult.\nNot having the best hitter in Major League Baseball doesn't help, and the Yankees will have to work around it if he's not ready to go.",
+    "rss_title": "Yankees’ Aaron Judge reveals early injury status for ALDS against Rays",
+    "rss_body": "Yankees' Aaron Judge reveals early injury status for ALDS against Rays originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\nThe New York Yankees did exactly what they had to do on both sides of the baseball against the Boston Red Sox in the American League Wild Card series.\nAs the Yankees prepare for the ALDS against the Tampa Bay Rays, there's reason to believe this roster will be even better than it was during the Wild Card.\nAs of now, it remains uncertain what the Yankees want to do with Aaron Judge, or whether he can even play, but there's hope around the fan base that he might come back.\nSpeaking to reporters while celebrating his team advancing, Judge said that he feels good, but he doesn't have an answer as to whether he's eventually playing.\n\"We just finished the Wild Card,\" Judge said in the middle of a clubhouse celebration, per NJ.com. \"We'll get into that as we get close. I got nothing for you yet, but I have an opportunity to get ready. That's what I've been doing every day.\"\n\"I'm feeling good,\" he said.\nGetting Judge back has to be the biggest priority for the Yankees over this postseason.\nWhile the Yankees played very well against the Red Sox and there was a lot to like, things are only going to get more difficult.\nNot having the best hitter in Major League Baseball doesn't help, and the Yankees will have to work around it if he's not ready to go.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "51580c14457ddebb4cbd",
+    "title": "Yankees news: Aaron Judge says quiet part out loud about Rays",
+    "source": "Yahoo Sports",
+    "author": "Zachary Draves; ClutchPoints",
+    "url": "https://sports.yahoo.com/articles/yankees-news-aaron-judge-says-165633368.html",
+    "published_iso": "2026-10-02T16:56:33+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 16:56:33 +0000",
+    "body": "Yankees news: Aaron Judge says quiet part out loud about Rays appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nThe New York Yankees are riding high after defeating the Boston Red Sox in the AL Wild Card series on Thursday. Now they will face their other division rival, the Tampa Bay Rays, in the ALDS beginning on Saturday, Oct. 3, at Tropicana Field.\nGoing into the series, Aaron Judge was highly complimentary of the Rays, per Gary Phillips of The New York Daily News. Essentially, Judge said that the Rays are a complete team, but that the Yankees are ready to take them on.\n\"They got everything,\" Judge said. \"We're up for the task.\"\nWatch sports LIVE with fuboTV (free trial)\nThe Rays have a vast array of assets working in their favor. They won the AL East Division with a 98-64 record. They also went 55-26 at home and defeated the Yankees 7-6 throughout the season.\nThe Rays also have power at the plate with Junior Caminero, who hit 42 home runs. They have consistency at the plate in Yandy Díaz, who led the AL in hits with 180. Additionally, Chandler Simpson is a reliable presence on the base paths.\nNevertheless, the Yankees have a lot going for them. They dominated the Red Sox with 9-0 and 9-2 victories in the Wild Card series. Plus, their staff ace Cam Schlittler is on a roll after pitching 6 1/3 scoreless innings against Boston. Their bullpen, led by Carlos Rodón, is also pretty top-notch.\nThe Yankees also lead the AL with a 3.24 ERA.\nMeanwhile, Judge was left off the roster for the Wild Card series because of a recent calf strain. His status for the ALDS remains unknown.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees news: Aaron Judge says quiet part out loud about Rays",
+    "original_body": "Yankees news: Aaron Judge says quiet part out loud about Rays appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nThe New York Yankees are riding high after defeating the Boston Red Sox in the AL Wild Card series on Thursday. Now they will face their other division rival, the Tampa Bay Rays, in the ALDS beginning on Saturday, Oct. 3, at Tropicana Field.\nGoing into the series, Aaron Judge was highly complimentary of the Rays, per Gary Phillips of The New York Daily News. Essentially, Judge said that the Rays are a complete team, but that the Yankees are ready to take them on.\n\"They got everything,\" Judge said. \"We're up for the task.\"\nWatch sports LIVE with fuboTV (free trial)\nThe Rays have a vast array of assets working in their favor. They won the AL East Division with a 98-64 record. They also went 55-26 at home and defeated the Yankees 7-6 throughout the season.\nThe Rays also have power at the plate with Junior Caminero, who hit 42 home runs. They have consistency at the plate in Yandy Díaz, who led the AL in hits with 180. Additionally, Chandler Simpson is a reliable presence on the base paths.\nNevertheless, the Yankees have a lot going for them. They dominated the Red Sox with 9-0 and 9-2 victories in the Wild Card series. Plus, their staff ace Cam Schlittler is on a roll after pitching 6 1/3 scoreless innings against Boston. Their bullpen, led by Carlos Rodón, is also pretty top-notch.\nThe Yankees also lead the AL with a 3.24 ERA.\nMeanwhile, Judge was left off the roster for the Wild Card series because of a recent calf strain. His status for the ALDS remains unknown.",
+    "rss_title": "Yankees news: Aaron Judge says quiet part out loud about Rays",
+    "rss_body": "Yankees news: Aaron Judge says quiet part out loud about Rays appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nThe New York Yankees are riding high after defeating the Boston Red Sox in the AL Wild Card series on Thursday. Now they will face their other division rival, the Tampa Bay Rays, in the ALDS beginning on Saturday, Oct. 3, at Tropicana Field.\nGoing into the series, Aaron Judge was highly complimentary of the Rays, per Gary Phillips of The New York Daily News. Essentially, Judge said that the Rays are a complete team, but that the Yankees are ready to take them on.\n\"They got everything,\" Judge said. \"We're up for the task.\"\nWatch sports LIVE with fuboTV (free trial)\nThe Rays have a vast array of assets working in their favor. They won the AL East Division with a 98-64 record. They also went 55-26 at home and defeated the Yankees 7-6 throughout the season.\nThe Rays also have power at the plate with Junior Caminero, who hit 42 home runs. They have consistency at the plate in Yandy Díaz, who led the AL in hits with 180. Additionally, Chandler Simpson is a reliable presence on the base paths.\nNevertheless, the Yankees have a lot going for them. They dominated the Red Sox with 9-0 and 9-2 victories in the Wild Card series. Plus, their staff ace Cam Schlittler is on a roll after pitching 6 1/3 scoreless innings against Boston. Their bullpen, led by Carlos Rodón, is also pretty top-notch.\nThe Yankees also lead the AL with a 3.24 ERA.\nMeanwhile, Judge was left off the roster for the Wild Card series because of a recent calf strain. His status for the ALDS remains unknown.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ab3deca170f2c7e8c525",
+    "title": "Gerrit Cole abrirá el Juego 1 de la SDLA por los Yankees",
+    "source": "MLB.com",
+    "author": "Jared Greenspan",
+    "url": "https://www.mlb.com/es/news/gerrit-cole-abrira-el-juego-1-de-la-sdla-por-los-yankees",
+    "published_iso": "2026-10-02T16:41:15+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 16:41:15 +0000",
+    "body": "El veterano derecho Gerrit Cole abrirá el Juego 1 de la Serie Divisional de la Liga Americana por los Yankees contra los Rays el sábado en el Tropicana Field, anunció el club en la mañana del viernes.\nCole estaba programado para abrir el Juego 3 de la Serie del Comodín de la L.A. contra los Medias Rojas, pero Nueva York despachó a Boston mediante una barrida de dos juegos.\nEl lanzador de 36 años dejó marca de 10-9 con efectividad de 3.61 en 22 aperturas esta temporada, luego de perderse todo el año pasado debido a una cirugía Tommy John. Cole registró 131 ponches en 127 entradas lanzadas tras hacer su debut de temporada en el Yankee Stadium el 22 de mayo.\nEsta será la 23ra presentación en postemporada en la carrera de Cole -- todas como abridor -- y su primera desde el Juego 5 de la Serie Mundial del 2024, cuando permitió cinco carreras sucias en 6.2 episodios en una derrota que puso fin a la serie. Ha dejado un promedio de carreras limpias de 2.93 en 12 aperturas de playoffs de por vida con los Yankees.\nCole se enfrentará al derecho de los Rays, Drew Rasmussen, un dos veces convocado al Juego de Estrellas cuya efectividad de 2.67 fue la séptima más baja entre los lanzadores abridores calificados en el 2026.\nCole realizó tres aperturas esta campaña contra Tampa Bay, permitiendo tres carreras o menos en las tres salidas. Posee efectividad de 3.33 en 23 aperturas de por vida frente a los Rays, su mayor cantidad contra cualquier equipo. Cole también se ha medido a Tampa Bay cuatro veces en la postemporada, incluyendo dos en la SDLA del 2020.",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Gerrit Cole abrirá el Juego 1 de la SDLA por los Yankees",
+    "original_body": "El veterano derecho Gerrit Cole abrirá el Juego 1 de la Serie Divisional de la Liga Americana por los Yankees contra los Rays el sábado en el Tropicana Field, anunció el club en la mañana del viernes.\nCole estaba programado para abrir el Juego 3 de la Serie del Comodín de la L.A. contra los Medias Rojas, pero Nueva York despachó a Boston mediante una barrida de dos juegos.\nEl lanzador de 36 años dejó marca de 10-9 con efectividad de 3.61 en 22 aperturas esta temporada, luego de perderse todo el año pasado debido a una cirugía Tommy John. Cole registró 131 ponches en 127 entradas lanzadas tras hacer su debut de temporada en el Yankee Stadium el 22 de mayo.\nEsta será la 23ra presentación en postemporada en la carrera de Cole -- todas como abridor -- y su primera desde el Juego 5 de la Serie Mundial del 2024, cuando permitió cinco carreras sucias en 6.2 episodios en una derrota que puso fin a la serie. Ha dejado un promedio de carreras limpias de 2.93 en 12 aperturas de playoffs de por vida con los Yankees.\nCole se enfrentará al derecho de los Rays, Drew Rasmussen, un dos veces convocado al Juego de Estrellas cuya efectividad de 2.67 fue la séptima más baja entre los lanzadores abridores calificados en el 2026.\nCole realizó tres aperturas esta campaña contra Tampa Bay, permitiendo tres carreras o menos en las tres salidas. Posee efectividad de 3.33 en 23 aperturas de por vida frente a los Rays, su mayor cantidad contra cualquier equipo. Cole también se ha medido a Tampa Bay cuatro veces en la postemporada, incluyendo dos en la SDLA del 2020.",
+    "rss_title": "Gerrit Cole abrirá el Juego 1 de la SDLA por los Yankees",
+    "rss_body": "El veterano derecho Gerrit Cole abrirá el Juego 1 de la Serie Divisional de la Liga Americana por los Yankees contra los Rays el sábado en el Tropicana Field, anunció el club en la mañana del viernes.\nCole estaba programado para abrir el Juego 3 de la Serie del Comodín de la L.A. contra los Medias Rojas, pero Nueva York despachó a Boston mediante una barrida de dos juegos.\nEl lanzador de 36 años dejó marca de 10-9 con efectividad de 3.61 en 22 aperturas esta temporada, luego de perderse todo el año pasado debido a una cirugía Tommy John. Cole registró 131 ponches en 127 entradas lanzadas tras hacer su debut de temporada en el Yankee Stadium el 22 de mayo.\nEsta será la 23ra presentación en postemporada en la carrera de Cole -- todas como abridor -- y su primera desde el Juego 5 de la Serie Mundial del 2024, cuando permitió cinco carreras sucias en 6.2 episodios en una derrota que puso fin a la serie. Ha dejado un promedio de carreras limpias de 2.93 en 12 aperturas de playoffs de por vida con los Yankees.\nCole se enfrentará al derecho de los Rays, Drew Rasmussen, un dos veces convocado al Juego de Estrellas cuya efectividad de 2.67 fue la séptima más baja entre los lanzadores abridores calificados en el 2026.\nCole realizó tres aperturas esta campaña contra Tampa Bay, permitiendo tres carreras o menos en las tres salidas. Posee efectividad de 3.33 en 23 aperturas de por vida frente a los Rays, su mayor cantidad contra cualquier equipo. Cole también se ha medido a Tampa Bay cuatro veces en la postemporada, incluyendo dos en la SDLA del 2020.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "3b9ccd5b3455d8145875",
+    "title": "MLB: Yankees anuncian que Gerrit Cole abrirá el primer partido de la Serie Divisional",
+    "source": "RPCTV",
+    "author": "",
+    "url": "https://www.rpctv.com/mlb/beisbol/mlb-yankees-anuncian-que-gerrit-cole-abrira-el-primer-partido-la-serie-divisional-n6093810",
+    "published_iso": "2026-10-02T16:32:00+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 16:32:00 +0000",
+    "body": "El veterano lanzador diestro Gerrit Cole abrirá el primer partido de la Serie Divisional de la Liga Americana para los Yankees de New York contra los Rays el sábado en el Tropicana Field, según anunció la organización de MLB por la mañana.\nEsta será la vigésimo tercera aparición de Cole en postemporada (todas como abridor) y la primera desde el quinto partido de la Serie Mundial de 2024 , cuando permitió cinco carreras no merecidas en 6 2/3 entradas en la derrota que puso fin a la serie. Tiene una efectividad de 2.93 en 12 aperturas de playoffs con los Yankees.\nlisto para choque en Serie Divisional de la MLB\nCole se enfrentará al lanzador derecho de los Rays, Drew Rasmussen, dos veces All-Star, cuya efectividad de 2.67 ocupó el séptimo lugar más bajo entre los lanzadores abridores calificados en 2026.\nCole ha sido titular en tres ocasiones esta temporada contra Tampa Bay, permitiendo tres carreras o menos en cada una de ellas. Tiene una efectividad de 3.33 en 23 aperturas de por vida contra los Rays, la mayor cantidad contra cualquier equipo. Cole también se ha enfrentado a Tampa Bay cuatro veces en la postemporada, incluyendo dos veces en la Serie Divisional de la Liga Americana de 2020.\nFUENTE: MLB",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "MLB: Yankees anuncian que Gerrit Cole abrirá el primer partido de la Serie Divisional",
+    "original_body": "El veterano lanzador diestro Gerrit Cole abrirá el primer partido de la Serie Divisional de la Liga Americana para los Yankees de New York contra los Rays el sábado en el Tropicana Field, según anunció la organización de MLB por la mañana.\nEsta será la vigésimo tercera aparición de Cole en postemporada (todas como abridor) y la primera desde el quinto partido de la Serie Mundial de 2024 , cuando permitió cinco carreras no merecidas en 6 2/3 entradas en la derrota que puso fin a la serie. Tiene una efectividad de 2.93 en 12 aperturas de playoffs con los Yankees.\nlisto para choque en Serie Divisional de la MLB\nCole se enfrentará al lanzador derecho de los Rays, Drew Rasmussen, dos veces All-Star, cuya efectividad de 2.67 ocupó el séptimo lugar más bajo entre los lanzadores abridores calificados en 2026.\nCole ha sido titular en tres ocasiones esta temporada contra Tampa Bay, permitiendo tres carreras o menos en cada una de ellas. Tiene una efectividad de 3.33 en 23 aperturas de por vida contra los Rays, la mayor cantidad contra cualquier equipo. Cole también se ha enfrentado a Tampa Bay cuatro veces en la postemporada, incluyendo dos veces en la Serie Divisional de la Liga Americana de 2020.\nFUENTE: MLB",
+    "rss_title": "MLB: Yankees anuncian que Gerrit Cole abrirá el primer partido de la Serie Divisional",
+    "rss_body": "El veterano lanzador diestro Gerrit Cole abrirá el primer partido de la Serie Divisional de la Liga Americana para los Yankees de New York contra los Rays el sábado en el Tropicana Field, según anunció la organización de MLB por la mañana.\nEsta será la vigésimo tercera aparición de Cole en postemporada (todas como abridor) y la primera desde el quinto partido de la Serie Mundial de 2024 , cuando permitió cinco carreras no merecidas en 6 2/3 entradas en la derrota que puso fin a la serie. Tiene una efectividad de 2.93 en 12 aperturas de playoffs con los Yankees.\nlisto para choque en Serie Divisional de la MLB\nCole se enfrentará al lanzador derecho de los Rays, Drew Rasmussen, dos veces All-Star, cuya efectividad de 2.67 ocupó el séptimo lugar más bajo entre los lanzadores abridores calificados en 2026.\nCole ha sido titular en tres ocasiones esta temporada contra Tampa Bay, permitiendo tres carreras o menos en cada una de ellas. Tiene una efectividad de 3.33 en 23 aperturas de por vida contra los Rays, la mayor cantidad contra cualquier equipo. Cole también se ha enfrentado a Tampa Bay cuatro veces en la postemporada, incluyendo dos veces en la Serie Divisional de la Liga Americana de 2020.\nFUENTE: MLB",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8f84bc6551debdd9097d",
+    "title": "Yankees Banking on Track Record By Turning to Gerrit Cole In Game 1 of ALDS",
+    "source": "Yahoo",
+    "author": "Ben Watanabe",
+    "url": "https://es-us.noticias.yahoo.com/deportes/yankees-banking-on-track-record-162754484.html",
+    "published_iso": "2026-10-02T16:27:54+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 16:27:54 +0000",
+    "body": "Through all the hand-wringing over the lineup and injury status of Aaron Judge all season, the fact of the matter was that the New York Yankees possess an embarrassment of riches in their starting rotation. It ultimately might be what delivers them another World Series.\nSo the fact that the Yankees could turn to arguably their fourth-best starting pitcher for Game 1 of their American League Division Series against the Tampa Bay Rays, and only prompt minor debate among observers about the move, is another sign of how stacked the team is on the mound.\nGerrit Cole will start Game 1, the Yankees announced Friday morning, going with the safe choice to open the series. The Rays will counter with All-Star right-hander Drew Rasmussen.\nCole comes into Saturday's game with plenty of rest. He was scheduled to start Game 3 on Thursday against the Boston Red Sox in the AL Wild Card Series, but that game turned out not to be necessary. The 36-year-old last pitched more than a week ago, giving up two runs in 5 2/3 innings against these same Rays on Sept. 23.\nCarlos Rodon also has plenty of rest, however, and even ace Cam Schlittler should be relatively fresh, having not pitched since Game 1 against the Red Sox on Tuesday. Rodon, Schlittler and Max Fried all have better numbers this season than Cole, who missed all of last season after undergoing Tommy John surgery. But Cole has the name and the track record.\nCole has started 12 playoff games in his Yankees career, with a 2.93 ERA. He's started 22 playoff games in total with a 2.77 ERA and 1.020 WHIP that reveal how misleading his 7-8 career postseason record is.\nGoing solely by this season, the Yankees might have better options. But Cole has the longest resume of success, and on Saturday, he'll have the ball.\nMore MLB: Knicks Star Makes Crazy Comment Involving God, Cam Schlittler",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Banking on Track Record By Turning to Gerrit Cole In Game 1 of ALDS",
+    "original_body": "Through all the hand-wringing over the lineup and injury status of Aaron Judge all season, the fact of the matter was that the New York Yankees possess an embarrassment of riches in their starting rotation. It ultimately might be what delivers them another World Series.\nSo the fact that the Yankees could turn to arguably their fourth-best starting pitcher for Game 1 of their American League Division Series against the Tampa Bay Rays, and only prompt minor debate among observers about the move, is another sign of how stacked the team is on the mound.\nGerrit Cole will start Game 1, the Yankees announced Friday morning, going with the safe choice to open the series. The Rays will counter with All-Star right-hander Drew Rasmussen.\nCole comes into Saturday's game with plenty of rest. He was scheduled to start Game 3 on Thursday against the Boston Red Sox in the AL Wild Card Series, but that game turned out not to be necessary. The 36-year-old last pitched more than a week ago, giving up two runs in 5 2/3 innings against these same Rays on Sept. 23.\nCarlos Rodon also has plenty of rest, however, and even ace Cam Schlittler should be relatively fresh, having not pitched since Game 1 against the Red Sox on Tuesday. Rodon, Schlittler and Max Fried all have better numbers this season than Cole, who missed all of last season after undergoing Tommy John surgery. But Cole has the name and the track record.\nCole has started 12 playoff games in his Yankees career, with a 2.93 ERA. He's started 22 playoff games in total with a 2.77 ERA and 1.020 WHIP that reveal how misleading his 7-8 career postseason record is.\nGoing solely by this season, the Yankees might have better options. But Cole has the longest resume of success, and on Saturday, he'll have the ball.\nMore MLB: Knicks Star Makes Crazy Comment Involving God, Cam Schlittler",
+    "rss_title": "Yankees Banking on Track Record By Turning to Gerrit Cole In Game 1 of ALDS",
+    "rss_body": "Through all the hand-wringing over the lineup and injury status of Aaron Judge all season, the fact of the matter was that the New York Yankees possess an embarrassment of riches in their starting rotation. It ultimately might be what delivers them another World Series.\nSo the fact that the Yankees could turn to arguably their fourth-best starting pitcher for Game 1 of their American League Division Series against the Tampa Bay Rays, and only prompt minor debate among observers about the move, is another sign of how stacked the team is on the mound.\nGerrit Cole will start Game 1, the Yankees announced Friday morning, going with the safe choice to open the series. The Rays will counter with All-Star right-hander Drew Rasmussen.\nCole comes into Saturday's game with plenty of rest. He was scheduled to start Game 3 on Thursday against the Boston Red Sox in the AL Wild Card Series, but that game turned out not to be necessary. The 36-year-old last pitched more than a week ago, giving up two runs in 5 2/3 innings against these same Rays on Sept. 23.\nCarlos Rodon also has plenty of rest, however, and even ace Cam Schlittler should be relatively fresh, having not pitched since Game 1 against the Red Sox on Tuesday. Rodon, Schlittler and Max Fried all have better numbers this season than Cole, who missed all of last season after undergoing Tommy John surgery. But Cole has the name and the track record.\nCole has started 12 playoff games in his Yankees career, with a 2.93 ERA. He's started 22 playoff games in total with a 2.77 ERA and 1.020 WHIP that reveal how misleading his 7-8 career postseason record is.\nGoing solely by this season, the Yankees might have better options. But Cole has the longest resume of success, and on Saturday, he'll have the ball.\nMore MLB: Knicks Star Makes Crazy Comment Involving God, Cam Schlittler",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e27952a1d544844f2808",
+    "title": "Yankees envían a Gerrit Cole al montículo ante Drew Rasmussen de Rays al abrir serie divisional",
+    "source": "clarin.com",
+    "author": "Agencia AP",
+    "url": "https://www.clarin.com/estados-unidos/yankees-envian-a-gerrit-cole-al-monticulo-ante-drew-rasmussen-de-rays-al-abrir-serie-divisional_0_Djdmb3SJpF.html",
+    "published_iso": "2026-10-02T16:20:04+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 16:20:04 +0000",
+    "body": "Gerrit Cole abrirá por los Yankees de Nueva York contra Drew Rasmussen y los Rays de Tampa en el primer juego de la serie divisional de la Liga Americana la noche del sábado.\nCole estaba previsto para abrir el tercer partido de la serie de comodines contra Boston el jueves, pero los Yankees barrieron a su rival de división. El derecho de 36 años, seis veces All-Star, terminó 10-9 con una efectividad de 3.61 en 22 aperturas esta temporada tras recuperarse de una cirugía Tommy John que lo obligó a perderse la temporada 2025.\nRasmussen terminó 16-5 con una efectividad de 2.67 para los Rays y fue seleccionado al Juego de Estrellas por segunda temporada consecutiva. El derecho de 31 años se sometió dos veces en la universidad a cirugías por un ligamento desgarrado en el codo y necesitó un procedimiento de refuerzo interno en julio de 2023 que lo obligó a perderse más de un año.\nTiene marca de 5-2 con una efectividad de 1.81 en 10 aperturas y una aparición como relevista contra los Yankees, con 70 ponches en 59 innings y dos tercios.\nTampa Bay lideró la Liga Americana con 98 victorias, lo que le valió un pase directo y la ventaja de local en el renovado Tropicana Field. Tuvieron que disputar sus juegos como locales de 2025 al otro lado de la bahía, en Tampa, en el Steinbrenner Field, la sede de los entrenamientos de primavera de los Yankees, tras los daños sufridos por el Trop a causa del huracán Milton el 9 de octubre de 2024.\nLos Rays no han ganado una serie de postemporada desde 2020, cuando perdieron la Serie Mundial ante los Los Angeles Dodgers. Vencieron a los Yankees 3-2 en la Serie Divisional y conquistaron el segundo banderín de la franquicia.\nSobre la firma\nNewsletter Clarín",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees envían a Gerrit Cole al montículo ante Drew Rasmussen de Rays al abrir serie divisional",
+    "original_body": "Gerrit Cole abrirá por los Yankees de Nueva York contra Drew Rasmussen y los Rays de Tampa en el primer juego de la serie divisional de la Liga Americana la noche del sábado.\nCole estaba previsto para abrir el tercer partido de la serie de comodines contra Boston el jueves, pero los Yankees barrieron a su rival de división. El derecho de 36 años, seis veces All-Star, terminó 10-9 con una efectividad de 3.61 en 22 aperturas esta temporada tras recuperarse de una cirugía Tommy John que lo obligó a perderse la temporada 2025.\nRasmussen terminó 16-5 con una efectividad de 2.67 para los Rays y fue seleccionado al Juego de Estrellas por segunda temporada consecutiva. El derecho de 31 años se sometió dos veces en la universidad a cirugías por un ligamento desgarrado en el codo y necesitó un procedimiento de refuerzo interno en julio de 2023 que lo obligó a perderse más de un año.\nTiene marca de 5-2 con una efectividad de 1.81 en 10 aperturas y una aparición como relevista contra los Yankees, con 70 ponches en 59 innings y dos tercios.\nTampa Bay lideró la Liga Americana con 98 victorias, lo que le valió un pase directo y la ventaja de local en el renovado Tropicana Field. Tuvieron que disputar sus juegos como locales de 2025 al otro lado de la bahía, en Tampa, en el Steinbrenner Field, la sede de los entrenamientos de primavera de los Yankees, tras los daños sufridos por el Trop a causa del huracán Milton el 9 de octubre de 2024.\nLos Rays no han ganado una serie de postemporada desde 2020, cuando perdieron la Serie Mundial ante los Los Angeles Dodgers. Vencieron a los Yankees 3-2 en la Serie Divisional y conquistaron el segundo banderín de la franquicia.\nSobre la firma\nNewsletter Clarín",
+    "rss_title": "Yankees envían a Gerrit Cole al montículo ante Drew Rasmussen de Rays al abrir serie divisional",
+    "rss_body": "Gerrit Cole abrirá por los Yankees de Nueva York contra Drew Rasmussen y los Rays de Tampa en el primer juego de la serie divisional de la Liga Americana la noche del sábado.\nCole estaba previsto para abrir el tercer partido de la serie de comodines contra Boston el jueves, pero los Yankees barrieron a su rival de división. El derecho de 36 años, seis veces All-Star, terminó 10-9 con una efectividad de 3.61 en 22 aperturas esta temporada tras recuperarse de una cirugía Tommy John que lo obligó a perderse la temporada 2025.\nRasmussen terminó 16-5 con una efectividad de 2.67 para los Rays y fue seleccionado al Juego de Estrellas por segunda temporada consecutiva. El derecho de 31 años se sometió dos veces en la universidad a cirugías por un ligamento desgarrado en el codo y necesitó un procedimiento de refuerzo interno en julio de 2023 que lo obligó a perderse más de un año.\nTiene marca de 5-2 con una efectividad de 1.81 en 10 aperturas y una aparición como relevista contra los Yankees, con 70 ponches en 59 innings y dos tercios.\nTampa Bay lideró la Liga Americana con 98 victorias, lo que le valió un pase directo y la ventaja de local en el renovado Tropicana Field. Tuvieron que disputar sus juegos como locales de 2025 al otro lado de la bahía, en Tampa, en el Steinbrenner Field, la sede de los entrenamientos de primavera de los Yankees, tras los daños sufridos por el Trop a causa del huracán Milton el 9 de octubre de 2024.\nLos Rays no han ganado una serie de postemporada desde 2020, cuando perdieron la Serie Mundial ante los Los Angeles Dodgers. Vencieron a los Yankees 3-2 en la Serie Divisional y conquistaron el segundo banderín de la franquicia.\nSobre la firma\nNewsletter Clarín",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "f064b282bbc5c32da2cc",
     "title": "An open letter to Yankees fans who wanted Brian Cashman and Aaron Boone gone | Klapisch",
     "source": "Yahoo Sports",
