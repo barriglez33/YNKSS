@@ -1,5 +1,149 @@
 [
   {
+    "id": "f064b282bbc5c32da2cc",
+    "title": "An open letter to Yankees fans who wanted Brian Cashman and Aaron Boone gone | Klapisch",
+    "source": "Yahoo Sports",
+    "author": "Bob Klapisch",
+    "url": "https://sports.yahoo.com/articles/open-letter-yankees-fans-wanted-115912853.html",
+    "published_iso": "2026-10-02T11:59:12+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 11:59:12 +0000",
+    "body": "ST. PETERSBURG, Fla. — This is an open letter to anyone who's railed against Brian Cashman and Aaron Boone over the years. That's a huge swath of Yankees fans – maybe all of them. So let's call this a mass mailing.\nThe Yankees are a step closer to the World Series for two reasons. The first was the Red Sox's glaring deficits. Scoring just two runs in 18 innings, they just weren't good enough to hang with the Yankees. If the Wild Card Series were replayed 10 times, the Yankees would likely win nine.\nThe second reason is why we're here today. Although this isn't the greatest Yankees roster of the last 20 years, it is remarkably well-constructed and well-managed. That's another way of saying Cashman and Boone have done their jobs well. They deserve credit for that.\nThe question is whether the critics will ever reconsider. I have my doubts. The folks who've been demanding Cashman's and Boone's firing for almost a decade aren't exactly open to reasonable dialogue. They're dug in so deep that one of them, who just happens to be an old college buddy, insisted, \"Anyone could've beaten the Red Sox. That's how much they sucked.\"\nMy friend isn't entirely wrong — at least about Boston's non-existent offense. It's hard to believe this was the same team that went on a 14-game winning streak this summer.\nBut to suggest that any manager with Cam Schlittler as their ace and Ben Rice hitting lasers could've taken down the Sox is flat-out wrong. That's like saying all managers are the same. Their only job is to fill out the lineup card and talk to the TV cameras after the game.\nNot quite.\nManagers have personality traits that can enhance the roster's potential. Joe Torre, laid-back in a streetwise sort of way, was the perfect candidate to replace the hyper-involved Buck Showalter. Torre was never loud, but still tough enough to absorb late owner George Steinbrenner's manic behavior.\nWhen Torre's enthusiasm for managing waned by 2006, Joe Girardi — ultra-prepared, obsessed with process — represented the pendulum swinging in the other direction. And when the next generation of Yankees decided Girardi was just too uptight and disconnected from the clubhouse, Boone won over Cashman because he was smart, calm and relatable.\nI realize fans no longer care about Boone's personality. Not even his .582 winning percentage — second only to the Dodgers' Dave Roberts among active managers — gets the credit it deserves. What matters are championships. Boone has none since he replaced Girardi in 2018. In the Bronx, that's 0-for-forever.\nThat doesn't mean Boone is a bad manager. He checks so many other boxes that have kept the Yankees competitive. The players like Boone, but more importantly, they trust his instincts. In fact, Boone had a terrific series against Boston, embarrassing Chad Tracy, his counterpart in the other dugout.\nBoone didn't make any significant mistakes against the Sox. His most important decision of the series came in Game 1.\nAfter allowing Schlittler to throw 117 pitches, Boone summoned Paul Blackburn in the seventh inning to protect a 2-0 lead. Facing Ceddanne Rafaela with the tying run at the plate, Blackburn induced an inning-ending double play. The Yankees went on to score seven runs in the next two innings.\nTracy, on the other hand, made two decisions that doomed Boston. In both games, he pulled his starter in the fifth inning with two outs and the Sox trailing 1-0 — first Payton Tolle, then Sonny Gray. The Yankees promptly destroyed reliever Erik Miller on both occasions.\nSeveral Sox players, including Gray and Willson Contreras, have since second-guessed Tracy's strategy and the team's overall direction.\nYou don't hear that kind of anti-Boone sniping in the Yankees' clubhouse. Even Boone's handling of Aaron Judge's irritation at being left off the Wild Card roster showed finesse. Boone demonstrated he was in control without making a show of pulling rank.\nOne former Yankee texted me the other day about the back-and-forth between Boone and Judge. He believes the episode showed how much Boone has grown on the job.\n\"All (Boone) said was, 'We don't expect Judge to be back,'\" the former Yankee said. \"That's Boone's way of telling the rest of the players, 'It's time for you to step up. Don't sit here waiting for Judge to rescue you.' It was a positive message.\"\nOf course, it takes the right kind of players to understand that. The Yankees are a stable group. Even Jose Caballero, who came to the Yankees with the reputation of being a rogue element, has fallen into line.\nThat's where Cashman comes in. He made one right call after another in assembling this 93-win roster. The bullpen is airtight; the gamble on trading for closer David Bednar has worked to perfection. The GM made the smart move by promoting George Lombard Jr. this summer instead of waiting until September or 2027. And the rotation, finally healthy, is the Yankees' best since 2009.\nMORE BY BOB KLAPISCH\nAll it took was one more piece — Max Fried. His signing in free agency in 2025 had Cashman's fingerprints all over it.\nBeat the Rays, and the Yankees are back in the AL Championship Series. Win there, and they're back in the World Series for the second time in three years. At that point, those haters just might admit Cashman and Boone had something to do with it.\nI'm such a nice guy that I'll give my friend a chance to admit he was wrong all along.\nRead the original article on NJ.com. Add NJ.com as a Preferred Source by clicking here.",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "An open letter to Yankees fans who wanted Brian Cashman and Aaron Boone gone | Klapisch",
+    "original_body": "ST. PETERSBURG, Fla. — This is an open letter to anyone who's railed against Brian Cashman and Aaron Boone over the years. That's a huge swath of Yankees fans – maybe all of them. So let's call this a mass mailing.\nThe Yankees are a step closer to the World Series for two reasons. The first was the Red Sox's glaring deficits. Scoring just two runs in 18 innings, they just weren't good enough to hang with the Yankees. If the Wild Card Series were replayed 10 times, the Yankees would likely win nine.\nThe second reason is why we're here today. Although this isn't the greatest Yankees roster of the last 20 years, it is remarkably well-constructed and well-managed. That's another way of saying Cashman and Boone have done their jobs well. They deserve credit for that.\nThe question is whether the critics will ever reconsider. I have my doubts. The folks who've been demanding Cashman's and Boone's firing for almost a decade aren't exactly open to reasonable dialogue. They're dug in so deep that one of them, who just happens to be an old college buddy, insisted, \"Anyone could've beaten the Red Sox. That's how much they sucked.\"\nMy friend isn't entirely wrong — at least about Boston's non-existent offense. It's hard to believe this was the same team that went on a 14-game winning streak this summer.\nBut to suggest that any manager with Cam Schlittler as their ace and Ben Rice hitting lasers could've taken down the Sox is flat-out wrong. That's like saying all managers are the same. Their only job is to fill out the lineup card and talk to the TV cameras after the game.\nNot quite.\nManagers have personality traits that can enhance the roster's potential. Joe Torre, laid-back in a streetwise sort of way, was the perfect candidate to replace the hyper-involved Buck Showalter. Torre was never loud, but still tough enough to absorb late owner George Steinbrenner's manic behavior.\nWhen Torre's enthusiasm for managing waned by 2006, Joe Girardi — ultra-prepared, obsessed with process — represented the pendulum swinging in the other direction. And when the next generation of Yankees decided Girardi was just too uptight and disconnected from the clubhouse, Boone won over Cashman because he was smart, calm and relatable.\nI realize fans no longer care about Boone's personality. Not even his .582 winning percentage — second only to the Dodgers' Dave Roberts among active managers — gets the credit it deserves. What matters are championships. Boone has none since he replaced Girardi in 2018. In the Bronx, that's 0-for-forever.\nThat doesn't mean Boone is a bad manager. He checks so many other boxes that have kept the Yankees competitive. The players like Boone, but more importantly, they trust his instincts. In fact, Boone had a terrific series against Boston, embarrassing Chad Tracy, his counterpart in the other dugout.\nBoone didn't make any significant mistakes against the Sox. His most important decision of the series came in Game 1.\nAfter allowing Schlittler to throw 117 pitches, Boone summoned Paul Blackburn in the seventh inning to protect a 2-0 lead. Facing Ceddanne Rafaela with the tying run at the plate, Blackburn induced an inning-ending double play. The Yankees went on to score seven runs in the next two innings.\nTracy, on the other hand, made two decisions that doomed Boston. In both games, he pulled his starter in the fifth inning with two outs and the Sox trailing 1-0 — first Payton Tolle, then Sonny Gray. The Yankees promptly destroyed reliever Erik Miller on both occasions.\nSeveral Sox players, including Gray and Willson Contreras, have since second-guessed Tracy's strategy and the team's overall direction.\nYou don't hear that kind of anti-Boone sniping in the Yankees' clubhouse. Even Boone's handling of Aaron Judge's irritation at being left off the Wild Card roster showed finesse. Boone demonstrated he was in control without making a show of pulling rank.\nOne former Yankee texted me the other day about the back-and-forth between Boone and Judge. He believes the episode showed how much Boone has grown on the job.\n\"All (Boone) said was, 'We don't expect Judge to be back,'\" the former Yankee said. \"That's Boone's way of telling the rest of the players, 'It's time for you to step up. Don't sit here waiting for Judge to rescue you.' It was a positive message.\"\nOf course, it takes the right kind of players to understand that. The Yankees are a stable group. Even Jose Caballero, who came to the Yankees with the reputation of being a rogue element, has fallen into line.\nThat's where Cashman comes in. He made one right call after another in assembling this 93-win roster. The bullpen is airtight; the gamble on trading for closer David Bednar has worked to perfection. The GM made the smart move by promoting George Lombard Jr. this summer instead of waiting until September or 2027. And the rotation, finally healthy, is the Yankees' best since 2009.\nMORE BY BOB KLAPISCH\nAll it took was one more piece — Max Fried. His signing in free agency in 2025 had Cashman's fingerprints all over it.\nBeat the Rays, and the Yankees are back in the AL Championship Series. Win there, and they're back in the World Series for the second time in three years. At that point, those haters just might admit Cashman and Boone had something to do with it.\nI'm such a nice guy that I'll give my friend a chance to admit he was wrong all along.\nRead the original article on NJ.com. Add NJ.com as a Preferred Source by clicking here.",
+    "rss_title": "An open letter to Yankees fans who wanted Brian Cashman and Aaron Boone gone | Klapisch",
+    "rss_body": "ST. PETERSBURG, Fla. — This is an open letter to anyone who's railed against Brian Cashman and Aaron Boone over the years. That's a huge swath of Yankees fans – maybe all of them. So let's call this a mass mailing.\nThe Yankees are a step closer to the World Series for two reasons. The first was the Red Sox's glaring deficits. Scoring just two runs in 18 innings, they just weren't good enough to hang with the Yankees. If the Wild Card Series were replayed 10 times, the Yankees would likely win nine.\nThe second reason is why we're here today. Although this isn't the greatest Yankees roster of the last 20 years, it is remarkably well-constructed and well-managed. That's another way of saying Cashman and Boone have done their jobs well. They deserve credit for that.\nThe question is whether the critics will ever reconsider. I have my doubts. The folks who've been demanding Cashman's and Boone's firing for almost a decade aren't exactly open to reasonable dialogue. They're dug in so deep that one of them, who just happens to be an old college buddy, insisted, \"Anyone could've beaten the Red Sox. That's how much they sucked.\"\nMy friend isn't entirely wrong — at least about Boston's non-existent offense. It's hard to believe this was the same team that went on a 14-game winning streak this summer.\nBut to suggest that any manager with Cam Schlittler as their ace and Ben Rice hitting lasers could've taken down the Sox is flat-out wrong. That's like saying all managers are the same. Their only job is to fill out the lineup card and talk to the TV cameras after the game.\nNot quite.\nManagers have personality traits that can enhance the roster's potential. Joe Torre, laid-back in a streetwise sort of way, was the perfect candidate to replace the hyper-involved Buck Showalter. Torre was never loud, but still tough enough to absorb late owner George Steinbrenner's manic behavior.\nWhen Torre's enthusiasm for managing waned by 2006, Joe Girardi — ultra-prepared, obsessed with process — represented the pendulum swinging in the other direction. And when the next generation of Yankees decided Girardi was just too uptight and disconnected from the clubhouse, Boone won over Cashman because he was smart, calm and relatable.\nI realize fans no longer care about Boone's personality. Not even his .582 winning percentage — second only to the Dodgers' Dave Roberts among active managers — gets the credit it deserves. What matters are championships. Boone has none since he replaced Girardi in 2018. In the Bronx, that's 0-for-forever.\nThat doesn't mean Boone is a bad manager. He checks so many other boxes that have kept the Yankees competitive. The players like Boone, but more importantly, they trust his instincts. In fact, Boone had a terrific series against Boston, embarrassing Chad Tracy, his counterpart in the other dugout.\nBoone didn't make any significant mistakes against the Sox. His most important decision of the series came in Game 1.\nAfter allowing Schlittler to throw 117 pitches, Boone summoned Paul Blackburn in the seventh inning to protect a 2-0 lead. Facing Ceddanne Rafaela with the tying run at the plate, Blackburn induced an inning-ending double play. The Yankees went on to score seven runs in the next two innings.\nTracy, on the other hand, made two decisions that doomed Boston. In both games, he pulled his starter in the fifth inning with two outs and the Sox trailing 1-0 — first Payton Tolle, then Sonny Gray. The Yankees promptly destroyed reliever Erik Miller on both occasions.\nSeveral Sox players, including Gray and Willson Contreras, have since second-guessed Tracy's strategy and the team's overall direction.\nYou don't hear that kind of anti-Boone sniping in the Yankees' clubhouse. Even Boone's handling of Aaron Judge's irritation at being left off the Wild Card roster showed finesse. Boone demonstrated he was in control without making a show of pulling rank.\nOne former Yankee texted me the other day about the back-and-forth between Boone and Judge. He believes the episode showed how much Boone has grown on the job.\n\"All (Boone) said was, 'We don't expect Judge to be back,'\" the former Yankee said. \"That's Boone's way of telling the rest of the players, 'It's time for you to step up. Don't sit here waiting for Judge to rescue you.' It was a positive message.\"\nOf course, it takes the right kind of players to understand that. The Yankees are a stable group. Even Jose Caballero, who came to the Yankees with the reputation of being a rogue element, has fallen into line.\nThat's where Cashman comes in. He made one right call after another in assembling this 93-win roster. The bullpen is airtight; the gamble on trading for closer David Bednar has worked to perfection. The GM made the smart move by promoting George Lombard Jr. this summer instead of waiting until September or 2027. And the rotation, finally healthy, is the Yankees' best since 2009.\nMORE BY BOB KLAPISCH\nAll it took was one more piece — Max Fried. His signing in free agency in 2025 had Cashman's fingerprints all over it.\nBeat the Rays, and the Yankees are back in the AL Championship Series. Win there, and they're back in the World Series for the second time in three years. At that point, those haters just might admit Cashman and Boone had something to do with it.\nI'm such a nice guy that I'll give my friend a chance to admit he was wrong all along.\nRead the original article on NJ.com. Add NJ.com as a Preferred Source by clicking here.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "21d2ac10e9f23ee7f030",
+    "title": "Yankees' Mariano Rivera Playoff Record Looks Unbreakable",
+    "source": "heavy.com",
+    "author": "Billy Heyen",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/yankees-mariano-rivera-playoff-record-looks-unbreakable/",
+    "published_iso": "2026-10-02T11:57:29+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 11:57:29 +0000",
+    "body": "The New York Yankees remain alive in the MLB playoffs and will begin the ALDS on Saturday against the Tampa Bay Rays.\nThere’s at least one thing that the Yanks don’t have, something that no team in the league has, that the Yankees could once claim to have: the greatest closer of all time.\nMariano Rivera is retired now, just a fan of the game rather than the guy coming out of the bullpen to slam the door shut.\nOccasionally, though, Rivera stats will make their way onto social media and start trending. They’ll remind baseball fans just how good Rivera once was.\nIt’s worth appreciating, even now, because the postseason is the time of year when managers get super aggressive with their relief pitchers.\nWith other guys, it doesn’t always work.\nWith Rivera, it nearly always did.\nMariano Rivera Trending Record\nOne particular record of Rivera’s was shared recently on X (formerly Twitter) and proves just how remarkable he was in the postseason during a dominant era of Yankees baseball.\nThe stat was for “most postseason saves getting more than 3 outs.”\nRivera had 31 of them.\nThe next-closest pitcher had seven — that being Goose Gossage.\nFour different guys had six such saves: Rollie Fingers, Dennis Eckersley, Kenley Jansen and Aroldis Chapman.\nIf you add up those five guys, they add up to the same amount of multi-inning saves that Rivera had all by himself.\nMost Postseason Saves Getting More Than 3 Outs:\n31 Mariano Rivera 😲\n30\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n9\n8\n7 Rich Gossage\n6 Rollie Fingers, Dennis Eckersley, Kenley Jansen, Aroldis Chapman\n5 Tug McGraw, Jason Motte pic.twitter.com/LI7Ms0KSbJ\n— Codify (@CodifyBaseball) October 1, 2026\nThat way of sharing it that Codify Baseball used in that post really drives the point home.\nHow would anyone catch Rivera in this? It’s a bit of a niche stat, but it’s also about reliability and dominance. The Yankees could turn to ‘Mo’ and he would slam the door shut, no matter how early they had to bring him into the ballgame.\nHow It Applies This Season\nOne example stands out above the rest already this season.\nIn Game 1 of the NL Wild Card Series between the Phillies and Braves, Philadelphia manager Don Mattingly brought his closer Jhoan Duran in to begin the seventh inning.\nThat did coincide with the top of Atlanta’s order, so Mattingly may not have planned on a three-inning save, but that’s certainly one possibility it set up for.\nDuran never got to pitch the ninth, though. In the eighth, he gave up a go-ahead three-run homer to Austin Riley, and the Phillies went from leading to a loss. They dropped Game 3 two days later to be eliminated.\nIt just proved that not all relievers are capable of such multi-inning reliability as the kind Rivera brought to the table.\nRivera failed occasionally, yes, with nothing more painful than Game 7 of the 2001 World Series.\nBut the Yankees also won championships that they wouldn’t have won without Rivera. He was, and remains, one of one.",
+    "tracked_people": [
+      {
+        "name": "Mariano Rivera",
+        "role": "Legend / Hall of Famer",
+        "status": "Unanimous Hall of Famer, greatest closer in history.",
+        "type": "legend",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Don Mattingly",
+        "role": "Legend / First Baseman",
+        "status": "Donnie Baseball, beloved 1980s captain and MVP.",
+        "type": "legend",
+        "id": 40,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Mariano Rivera Playoff Record Looks Unbreakable",
+    "original_body": "The New York Yankees remain alive in the MLB playoffs and will begin the ALDS on Saturday against the Tampa Bay Rays.\nThere’s at least one thing that the Yanks don’t have, something that no team in the league has, that the Yankees could once claim to have: the greatest closer of all time.\nMariano Rivera is retired now, just a fan of the game rather than the guy coming out of the bullpen to slam the door shut.\nOccasionally, though, Rivera stats will make their way onto social media and start trending. They’ll remind baseball fans just how good Rivera once was.\nIt’s worth appreciating, even now, because the postseason is the time of year when managers get super aggressive with their relief pitchers.\nWith other guys, it doesn’t always work.\nWith Rivera, it nearly always did.\nMariano Rivera Trending Record\nOne particular record of Rivera’s was shared recently on X (formerly Twitter) and proves just how remarkable he was in the postseason during a dominant era of Yankees baseball.\nThe stat was for “most postseason saves getting more than 3 outs.”\nRivera had 31 of them.\nThe next-closest pitcher had seven — that being Goose Gossage.\nFour different guys had six such saves: Rollie Fingers, Dennis Eckersley, Kenley Jansen and Aroldis Chapman.\nIf you add up those five guys, they add up to the same amount of multi-inning saves that Rivera had all by himself.\nMost Postseason Saves Getting More Than 3 Outs:\n31 Mariano Rivera 😲\n30\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n9\n8\n7 Rich Gossage\n6 Rollie Fingers, Dennis Eckersley, Kenley Jansen, Aroldis Chapman\n5 Tug McGraw, Jason Motte pic.twitter.com/LI7Ms0KSbJ\n— Codify (@CodifyBaseball) October 1, 2026\nThat way of sharing it that Codify Baseball used in that post really drives the point home.\nHow would anyone catch Rivera in this? It’s a bit of a niche stat, but it’s also about reliability and dominance. The Yankees could turn to ‘Mo’ and he would slam the door shut, no matter how early they had to bring him into the ballgame.\nHow It Applies This Season\nOne example stands out above the rest already this season.\nIn Game 1 of the NL Wild Card Series between the Phillies and Braves, Philadelphia manager Don Mattingly brought his closer Jhoan Duran in to begin the seventh inning.\nThat did coincide with the top of Atlanta’s order, so Mattingly may not have planned on a three-inning save, but that’s certainly one possibility it set up for.\nDuran never got to pitch the ninth, though. In the eighth, he gave up a go-ahead three-run homer to Austin Riley, and the Phillies went from leading to a loss. They dropped Game 3 two days later to be eliminated.\nIt just proved that not all relievers are capable of such multi-inning reliability as the kind Rivera brought to the table.\nRivera failed occasionally, yes, with nothing more painful than Game 7 of the 2001 World Series.\nBut the Yankees also won championships that they wouldn’t have won without Rivera. He was, and remains, one of one.",
+    "rss_title": "Yankees' Mariano Rivera Playoff Record Looks Unbreakable",
+    "rss_body": "The New York Yankees remain alive in the MLB playoffs and will begin the ALDS on Saturday against the Tampa Bay Rays.\nThere’s at least one thing that the Yanks don’t have, something that no team in the league has, that the Yankees could once claim to have: the greatest closer of all time.\nMariano Rivera is retired now, just a fan of the game rather than the guy coming out of the bullpen to slam the door shut.\nOccasionally, though, Rivera stats will make their way onto social media and start trending. They’ll remind baseball fans just how good Rivera once was.\nIt’s worth appreciating, even now, because the postseason is the time of year when managers get super aggressive with their relief pitchers.\nWith other guys, it doesn’t always work.\nWith Rivera, it nearly always did.\nMariano Rivera Trending Record\nOne particular record of Rivera’s was shared recently on X (formerly Twitter) and proves just how remarkable he was in the postseason during a dominant era of Yankees baseball.\nThe stat was for “most postseason saves getting more than 3 outs.”\nRivera had 31 of them.\nThe next-closest pitcher had seven — that being Goose Gossage.\nFour different guys had six such saves: Rollie Fingers, Dennis Eckersley, Kenley Jansen and Aroldis Chapman.\nIf you add up those five guys, they add up to the same amount of multi-inning saves that Rivera had all by himself.\nMost Postseason Saves Getting More Than 3 Outs:\n31 Mariano Rivera 😲\n30\n29\n28\n27\n26\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n9\n8\n7 Rich Gossage\n6 Rollie Fingers, Dennis Eckersley, Kenley Jansen, Aroldis Chapman\n5 Tug McGraw, Jason Motte pic.twitter.com/LI7Ms0KSbJ\n— Codify (@CodifyBaseball) October 1, 2026\nThat way of sharing it that Codify Baseball used in that post really drives the point home.\nHow would anyone catch Rivera in this? It’s a bit of a niche stat, but it’s also about reliability and dominance. The Yankees could turn to ‘Mo’ and he would slam the door shut, no matter how early they had to bring him into the ballgame.\nHow It Applies This Season\nOne example stands out above the rest already this season.\nIn Game 1 of the NL Wild Card Series between the Phillies and Braves, Philadelphia manager Don Mattingly brought his closer Jhoan Duran in to begin the seventh inning.\nThat did coincide with the top of Atlanta’s order, so Mattingly may not have planned on a three-inning save, but that’s certainly one possibility it set up for.\nDuran never got to pitch the ninth, though. In the eighth, he gave up a go-ahead three-run homer to Austin Riley, and the Phillies went from leading to a loss. They dropped Game 3 two days later to be eliminated.\nIt just proved that not all relievers are capable of such multi-inning reliability as the kind Rivera brought to the table.\nRivera failed occasionally, yes, with nothing more painful than Game 7 of the 2001 World Series.\nBut the Yankees also won championships that they wouldn’t have won without Rivera. He was, and remains, one of one.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "aa95aa4607b2671b51bb",
     "title": "New York Yankees Star Aaron Judge Makes Bold Cody Bellinger Statement",
     "source": "heavy.com",
