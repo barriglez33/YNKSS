@@ -1,5 +1,69 @@
 [
   {
+    "id": "eeacc3c34c798855e02b",
+    "title": "Yankees news: Boone considering changes to the lineup",
+    "source": "Yahoo Sports",
+    "author": "Madison Pavich",
+    "url": "https://sports.yahoo.com/articles/yankees-news-boone-considering-changes-090000844.html",
+    "published_iso": "2026-10-07T09:00:00+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 09:00:00 +0000",
+    "body": "NY Daily News | James O'Connell: The Yankees ran out the same exact lineup in Games 1 and 2 of their ALDS matchup against the Rays, but aside from Ben Rice and his pair of home runs no one else is really contributing. As the series shifts over to New York for Game 3 tonight, manager Aaron Boone was amenable to some lineup tinkering though he wouldn't get into specifics of who could find their way in and who would get sent to the bench. Some of the more likely candidates to sit include those who both haven't found their way into a hit yet and also fumbled the ball around in their atrocious Game 2 showing, such as Ryan McMahon and Jazz Chisholm Jr.\nNY Post | Mark W. Sanchez: Max Fried is lined up to start tonight on the mound in Game 3, but there was the potential for that to not be the case. Fried's partner is due to give birth in the coming days and there was the possibility that Fried would have to miss this start, but the lefty confirmed that he will be there for the team adding that he's \"got a really supportive family that understands that this is my job.\" Fried's focus is leaving it all on the line for his team as the Yankees face elimination, and hopefully that dedication pays off for him.\nMLB.com | Matthew Leach: So the Yankees are down in an 0-2 hole, but is there any hope of a comeback? There's a few reasons to believe in a turnaround, namely that they largely beat themselves in Game 2 and have an elite pitching staff that could lock down opposing bats so long as the defense stops putzing the ball around. Getting out of Tropicana Field is also a big plus, and even though a potential Game 5 would see them return to that house of horrors, they've got to win the first two before worrying about that.\nMLB.com | Mike Lupica: The Yankees are certainly not strangers to reverse sweeping in an ALDS, as Lupica takes us through the history of the team's ability to flip the script. Unfortunately, that history all lies in the recent past as Aaron Boone's squads have largely been unable to answer back after getting punched in the face in a series — let's see if they can change that narrative this time around.\nThe Big Lead | J.P. Hoornstra: Sadly, we end our notes with the passing of 'Sudden' Sam McDowell, who died on Monday. McDowell was a six-time All-Star throughout his 15-year MLB career, and he played for the Yankees at the tail end of his career for the 1973-74 seasons. From all of us here at Pinstripe Alley, we send our condolences to Sam's family and friends.",
+    "tracked_people": [
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees news: Boone considering changes to the lineup",
+    "original_body": "NY Daily News | James O'Connell: The Yankees ran out the same exact lineup in Games 1 and 2 of their ALDS matchup against the Rays, but aside from Ben Rice and his pair of home runs no one else is really contributing. As the series shifts over to New York for Game 3 tonight, manager Aaron Boone was amenable to some lineup tinkering though he wouldn't get into specifics of who could find their way in and who would get sent to the bench. Some of the more likely candidates to sit include those who both haven't found their way into a hit yet and also fumbled the ball around in their atrocious Game 2 showing, such as Ryan McMahon and Jazz Chisholm Jr.\nNY Post | Mark W. Sanchez: Max Fried is lined up to start tonight on the mound in Game 3, but there was the potential for that to not be the case. Fried's partner is due to give birth in the coming days and there was the possibility that Fried would have to miss this start, but the lefty confirmed that he will be there for the team adding that he's \"got a really supportive family that understands that this is my job.\" Fried's focus is leaving it all on the line for his team as the Yankees face elimination, and hopefully that dedication pays off for him.\nMLB.com | Matthew Leach: So the Yankees are down in an 0-2 hole, but is there any hope of a comeback? There's a few reasons to believe in a turnaround, namely that they largely beat themselves in Game 2 and have an elite pitching staff that could lock down opposing bats so long as the defense stops putzing the ball around. Getting out of Tropicana Field is also a big plus, and even though a potential Game 5 would see them return to that house of horrors, they've got to win the first two before worrying about that.\nMLB.com | Mike Lupica: The Yankees are certainly not strangers to reverse sweeping in an ALDS, as Lupica takes us through the history of the team's ability to flip the script. Unfortunately, that history all lies in the recent past as Aaron Boone's squads have largely been unable to answer back after getting punched in the face in a series — let's see if they can change that narrative this time around.\nThe Big Lead | J.P. Hoornstra: Sadly, we end our notes with the passing of 'Sudden' Sam McDowell, who died on Monday. McDowell was a six-time All-Star throughout his 15-year MLB career, and he played for the Yankees at the tail end of his career for the 1973-74 seasons. From all of us here at Pinstripe Alley, we send our condolences to Sam's family and friends.",
+    "rss_title": "Yankees news: Boone considering changes to the lineup",
+    "rss_body": "NY Daily News | James O'Connell: The Yankees ran out the same exact lineup in Games 1 and 2 of their ALDS matchup against the Rays, but aside from Ben Rice and his pair of home runs no one else is really contributing. As the series shifts over to New York for Game 3 tonight, manager Aaron Boone was amenable to some lineup tinkering though he wouldn't get into specifics of who could find their way in and who would get sent to the bench. Some of the more likely candidates to sit include those who both haven't found their way into a hit yet and also fumbled the ball around in their atrocious Game 2 showing, such as Ryan McMahon and Jazz Chisholm Jr.\nNY Post | Mark W. Sanchez: Max Fried is lined up to start tonight on the mound in Game 3, but there was the potential for that to not be the case. Fried's partner is due to give birth in the coming days and there was the possibility that Fried would have to miss this start, but the lefty confirmed that he will be there for the team adding that he's \"got a really supportive family that understands that this is my job.\" Fried's focus is leaving it all on the line for his team as the Yankees face elimination, and hopefully that dedication pays off for him.\nMLB.com | Matthew Leach: So the Yankees are down in an 0-2 hole, but is there any hope of a comeback? There's a few reasons to believe in a turnaround, namely that they largely beat themselves in Game 2 and have an elite pitching staff that could lock down opposing bats so long as the defense stops putzing the ball around. Getting out of Tropicana Field is also a big plus, and even though a potential Game 5 would see them return to that house of horrors, they've got to win the first two before worrying about that.\nMLB.com | Mike Lupica: The Yankees are certainly not strangers to reverse sweeping in an ALDS, as Lupica takes us through the history of the team's ability to flip the script. Unfortunately, that history all lies in the recent past as Aaron Boone's squads have largely been unable to answer back after getting punched in the face in a series — let's see if they can change that narrative this time around.\nThe Big Lead | J.P. Hoornstra: Sadly, we end our notes with the passing of 'Sudden' Sam McDowell, who died on Monday. McDowell was a six-time All-Star throughout his 15-year MLB career, and he played for the Yankees at the tail end of his career for the 1973-74 seasons. From all of us here at Pinstripe Alley, we send our condolences to Sam's family and friends.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "71817f488f624fadc61f",
     "title": "Rookie moments beginning to pile up for Yankees’ George Lombard Jr., Spencer Jones",
     "source": "New York Post",
