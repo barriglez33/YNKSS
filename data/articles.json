@@ -1,5 +1,442 @@
 [
   {
+    "id": "c0556d68401a4f59a77c",
+    "title": "Los Yankees son eliminados por los Rays y José Caballero cierra su cuarta temporada en las Grandes Ligas con \"14 cuadrangulares\"",
+    "source": "Infobae",
+    "author": "Henry Heredia",
+    "url": "https://www.infobae.com/panama/2026/10/09/los-yankees-son-eliminados-por-los-rays-y-jose-caballero-cierra-su-cuarta-temporada-en-las-grandes-ligas-con-14-cuadrangulares/",
+    "published_iso": "2026-10-09T01:18:34+00:00",
+    "published_rfc2822": "Fri, 09 Oct 2026 01:18:34 +0000",
+    "body": "Los Yankees de Nueva York, con el panameño José Caballero como titular, quedaron eliminados de la postemporada tras perder 4-3 ante los Rays de Tampa Bay en el tercer juego de la Serie Divisional de la Liga Americana. La derrota en el Yankee Stadium selló la barrida 3-0 del conjunto de Florida y puso fin a las aspiraciones de campeonato de la franquicia del Bronx.\nLa eliminación extendió la espera de Nueva York por una Serie Mundial, torneo que no conquista desde 2009. El equipo había llegado a la Serie Divisional luego de superar a los Medias Rojas de Boston en la ronda de Comodines, pero su ofensiva dejó corredores en posición anotadora en momentos decisivos durante los tres partidos ante Tampa Bay.\nCaballero ocupó el noveno puesto de la alineación y no conectó imparables en dos turnos al bate. El jugador de Las Tablas se ponchó sin tirarle en la cuarta entrada frente al abridor Nicholas Martínez.\nEl panameño defendió la tercera base hasta la séptima entrada. En la parte baja de ese episodio, los Yankees lo reemplazaron ofensivamente por el bateador zurdo Jazz Chisholm Jr., en busca de mayor poder.\nLa interferencia que anuló el empate neoyorquino\nEl momento decisivo llegó en la sexta entrada, cuando Tampa Bay ganaba 4-2. Anthony Volpe conectó una pelota de 109 metros (357 pies) hacia el jardín izquierdo, en el límite entre el terreno y las gradas, y un aficionado la atrapó por encima del muro.\nLa jugada fue celebrada inicialmente como un cuadrangular que igualaba el marcador. Sin embargo, los Rays protestaron y la revisión de los árbitros determinó que el espectador había extendido las manos sobre el campo de juego, por lo que se declaró interferencia y se anuló el vuelacercas.\nGeorge Lombard Jr. pudo anotar para reducir la diferencia a 4-3, pero Volpe debió permanecer en segunda base. Los Yankees no lograron empatar el encuentro y Tampa Bay completó la barrida.\nLos 14 cuadrangulares de Caballero en la campaña\nLa eliminación cerró la cuarta temporada de Caballero en el béisbol estadounidense. Durante la fase regular conectó 14 cuadrangulares, su cifra más alta en las Grandes Ligas desde que llegó a la organización neoyorquina en julio de 2025, mediante un traspaso desde los Rays.\nEl movimiento convirtió al pelotero santeño en el primer panameño en vestir el uniforme de los Yankees desde el retiro del lanzador Mariano Rivera en 2013. En su recorrido también sobresale el liderato de bases robadas de la Liga Americana que alcanzó durante la campaña de 2024.\nLa jornada dejó fuera de competencia a otros dos equipos. Los Angeles Dodgers eliminaron a los Atlanta Braves en cuatro partidos, mientras que los Milwaukee Brewers superaron a los San Diego Padres también en cuatro juegos.\nAaron Judge no participó en la postemporada por un tirón en la pantorrilla derecha, mientras que Giancarlo Stanton se fue de 2-0 como emergente contra los Rays y recibió dos ponches. El manager Aaron Boone admitió que el equipo debe ser más completo en ofensiva, defensa y pitcheo.\n“El final es terrible”, dijo Boone. “En este momento del año, un solo equipo va a ir a casa contento”. También señaló: “Al fin y al cabo, no hicimos los swings de lugar en esta serie para avanzar. Al final, no fue suficiente”.",
+    "article_date": "2026-10-09",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Mariano Rivera",
+        "role": "Legend / Hall of Famer",
+        "status": "Unanimous Hall of Famer, greatest closer in history.",
+        "type": "legend",
+        "id": 37,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Los Yankees son eliminados por los Rays y José Caballero cierra su cuarta temporada en las Grandes Ligas con \"14 cuadrangulares\"",
+    "original_body": "Los Yankees de Nueva York, con el panameño José Caballero como titular, quedaron eliminados de la postemporada tras perder 4-3 ante los Rays de Tampa Bay en el tercer juego de la Serie Divisional de la Liga Americana. La derrota en el Yankee Stadium selló la barrida 3-0 del conjunto de Florida y puso fin a las aspiraciones de campeonato de la franquicia del Bronx.\nLa eliminación extendió la espera de Nueva York por una Serie Mundial, torneo que no conquista desde 2009. El equipo había llegado a la Serie Divisional luego de superar a los Medias Rojas de Boston en la ronda de Comodines, pero su ofensiva dejó corredores en posición anotadora en momentos decisivos durante los tres partidos ante Tampa Bay.\nCaballero ocupó el noveno puesto de la alineación y no conectó imparables en dos turnos al bate. El jugador de Las Tablas se ponchó sin tirarle en la cuarta entrada frente al abridor Nicholas Martínez.\nEl panameño defendió la tercera base hasta la séptima entrada. En la parte baja de ese episodio, los Yankees lo reemplazaron ofensivamente por el bateador zurdo Jazz Chisholm Jr., en busca de mayor poder.\nLa interferencia que anuló el empate neoyorquino\nEl momento decisivo llegó en la sexta entrada, cuando Tampa Bay ganaba 4-2. Anthony Volpe conectó una pelota de 109 metros (357 pies) hacia el jardín izquierdo, en el límite entre el terreno y las gradas, y un aficionado la atrapó por encima del muro.\nLa jugada fue celebrada inicialmente como un cuadrangular que igualaba el marcador. Sin embargo, los Rays protestaron y la revisión de los árbitros determinó que el espectador había extendido las manos sobre el campo de juego, por lo que se declaró interferencia y se anuló el vuelacercas.\nGeorge Lombard Jr. pudo anotar para reducir la diferencia a 4-3, pero Volpe debió permanecer en segunda base. Los Yankees no lograron empatar el encuentro y Tampa Bay completó la barrida.\nLos 14 cuadrangulares de Caballero en la campaña\nLa eliminación cerró la cuarta temporada de Caballero en el béisbol estadounidense. Durante la fase regular conectó 14 cuadrangulares, su cifra más alta en las Grandes Ligas desde que llegó a la organización neoyorquina en julio de 2025, mediante un traspaso desde los Rays.\nEl movimiento convirtió al pelotero santeño en el primer panameño en vestir el uniforme de los Yankees desde el retiro del lanzador Mariano Rivera en 2013. En su recorrido también sobresale el liderato de bases robadas de la Liga Americana que alcanzó durante la campaña de 2024.\nLa jornada dejó fuera de competencia a otros dos equipos. Los Angeles Dodgers eliminaron a los Atlanta Braves en cuatro partidos, mientras que los Milwaukee Brewers superaron a los San Diego Padres también en cuatro juegos.\nAaron Judge no participó en la postemporada por un tirón en la pantorrilla derecha, mientras que Giancarlo Stanton se fue de 2-0 como emergente contra los Rays y recibió dos ponches. El manager Aaron Boone admitió que el equipo debe ser más completo en ofensiva, defensa y pitcheo.\n“El final es terrible”, dijo Boone. “En este momento del año, un solo equipo va a ir a casa contento”. También señaló: “Al fin y al cabo, no hicimos los swings de lugar en esta serie para avanzar. Al final, no fue suficiente”.",
+    "rss_title": "Los Yankees son eliminados por los Rays y José Caballero cierra su cuarta temporada en las Grandes Ligas con \"14 cuadrangulares\"",
+    "rss_body": "Los Yankees de Nueva York, con el panameño José Caballero como titular, quedaron eliminados de la postemporada tras perder 4-3 ante los Rays de Tampa Bay en el tercer juego de la Serie Divisional de la Liga Americana. La derrota en el Yankee Stadium selló la barrida 3-0 del conjunto de Florida y puso fin a las aspiraciones de campeonato de la franquicia del Bronx.\nLa eliminación extendió la espera de Nueva York por una Serie Mundial, torneo que no conquista desde 2009. El equipo había llegado a la Serie Divisional luego de superar a los Medias Rojas de Boston en la ronda de Comodines, pero su ofensiva dejó corredores en posición anotadora en momentos decisivos durante los tres partidos ante Tampa Bay.\nCaballero ocupó el noveno puesto de la alineación y no conectó imparables en dos turnos al bate. El jugador de Las Tablas se ponchó sin tirarle en la cuarta entrada frente al abridor Nicholas Martínez.\nEl panameño defendió la tercera base hasta la séptima entrada. En la parte baja de ese episodio, los Yankees lo reemplazaron ofensivamente por el bateador zurdo Jazz Chisholm Jr., en busca de mayor poder.\nLa interferencia que anuló el empate neoyorquino\nEl momento decisivo llegó en la sexta entrada, cuando Tampa Bay ganaba 4-2. Anthony Volpe conectó una pelota de 109 metros (357 pies) hacia el jardín izquierdo, en el límite entre el terreno y las gradas, y un aficionado la atrapó por encima del muro.\nLa jugada fue celebrada inicialmente como un cuadrangular que igualaba el marcador. Sin embargo, los Rays protestaron y la revisión de los árbitros determinó que el espectador había extendido las manos sobre el campo de juego, por lo que se declaró interferencia y se anuló el vuelacercas.\nGeorge Lombard Jr. pudo anotar para reducir la diferencia a 4-3, pero Volpe debió permanecer en segunda base. Los Yankees no lograron empatar el encuentro y Tampa Bay completó la barrida.\nLos 14 cuadrangulares de Caballero en la campaña\nLa eliminación cerró la cuarta temporada de Caballero en el béisbol estadounidense. Durante la fase regular conectó 14 cuadrangulares, su cifra más alta en las Grandes Ligas desde que llegó a la organización neoyorquina en julio de 2025, mediante un traspaso desde los Rays.\nEl movimiento convirtió al pelotero santeño en el primer panameño en vestir el uniforme de los Yankees desde el retiro del lanzador Mariano Rivera en 2013. En su recorrido también sobresale el liderato de bases robadas de la Liga Americana que alcanzó durante la campaña de 2024.\nLa jornada dejó fuera de competencia a otros dos equipos. Los Angeles Dodgers eliminaron a los Atlanta Braves en cuatro partidos, mientras que los Milwaukee Brewers superaron a los San Diego Padres también en cuatro juegos.\nAaron Judge no participó en la postemporada por un tirón en la pantorrilla derecha, mientras que Giancarlo Stanton se fue de 2-0 como emergente contra los Rays y recibió dos ponches. El manager Aaron Boone admitió que el equipo debe ser más completo en ofensiva, defensa y pitcheo.\n“El final es terrible”, dijo Boone. “En este momento del año, un solo equipo va a ir a casa contento”. También señaló: “Al fin y al cabo, no hicimos los swings de lugar en esta serie para avanzar. Al final, no fue suficiente”.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8b5d6fd61fdcd6f51cd3",
+    "title": "Yankees cierran su 17ma temporada seguida sin título. ¿Cómo habría reaccionado Steinbrenner?",
+    "source": "Independent en Español",
+    "author": "Ronald Blum",
+    "url": "https://www.independentespanol.com/deportes/yankees-cierran-su-17ma-temporada-seguida-sin-titulo-como-habria-reaccionado-steinbrenner-b3063853.html",
+    "published_iso": "2026-10-09T01:11:00+00:00",
+    "published_rfc2822": "Fri, 09 Oct 2026 01:11:00 +0000",
+    "body": "Si viviera, George Steinbrenner estaría despidiendo gente.\nLos Yankees de Nueva York fracasaron por 17ª temporada consecutiva en su intento de ganar un título de la Serie Mundial y vieron a un rival celebrar en su parque en octubre por tercer año seguido.\nSteinbrenner, su tempestuoso propietario controlador de 1973 a 2008, se enfurecía por fracasos mucho menos frecuentes.\n“Hay un estándar para ganar un campeonato. Es blanco y negro. No hay zona gris\", reconoció el capitán de los Yankees, Aaron Judge, el miércoles por la noche, después de que Tampa Bay completó una barrida de tres juegos en la serie divisional de la Liga Americana sobre Nueva York. \"Esto se relaciona con todos los días que te presentas a trabajar; cada cosita que haces es: ¿estás trabajando hacia un campeonato o no?”.\nNueva York ocupaba el cuarto lugar de las Grandes Ligas en carreras, el 13º en promedio de bateo y el segundo en OPS hasta el 31 de mayo, su último juego antes de que Judge ingresara a la lista de lesionados por una fractura de costilla. Del 1 de junio hasta el final de la temporada, los Yankees fueron 24tos en carreras, 29nos en promedio de bateo y 27mos en OPS. Judge regresó para siete juegos del 8 al 16 de septiembre, bateando para .174 con tres carreras impulsadas antes de que una distensión en la pantorrilla terminara su campaña.\nDespués de batear para .382 con 18 carreras en una barrida de dos juegos sobre Boston en la serie de comodines, los Yankees tuvieron un promedio de .130 y fueron superados 10-5 por Tampa Bay, con una alineación sin colmillo y sin el tres veces Jugador Más Valioso de la Liga Americana.\n“Miren, se trata de Aaron Judge, el mejor pelotero del mundo\", indicó el mánager Aaron Boone. \"Y es una ausencia enorme, enorme”.\nDiez jugadores podrían quedar libres\nEl cerrador de los Yankees David Bednar, el segunda base Jazz Chisholm Jr., el jardinero central Trent Grisham y el primera base Paul Goldschmidt podrían convertirse en agentes libres antes de la próxima temporada, junto con el infielder dominicano Amed Rosario, los zurdos Tim Hill y Ryan Yarbrough, y los derechos Paul Blackburn, John Schreiber y Michael Fulmer.\n“Aquí es donde quiero estar. Me encanta ser un Yankee. Crecí como fanático de los Yankees; desde las Bahamas, veía a Derek Jeter y a esos tipos todos los días\", relató Chisholm. \"Fue un gran momento ser un Yankee. Me encantó mi tiempo con los Yankees”.\nChisholm se enteró de que iría a la banca para el tercer juego contra los Rays, reemplazado por Anthony Volpe, cuando vio la tarjeta de la alineación.\n“Siempre prefiero una conversación”, comentó.\nEl liderazgo parece estable\nBrian Cashman completó su 29ª temporada como gerente general, al finalizar un contrato de cuatro años. En febrero de 1998, cuando asumió el cargo, marcó el 15º cambio de gerente general desde que Steinbrenner compró los Yankees en enero de 1973.\nBoone terminó su novena temporada como mánager y le queda una campaña de una extensión de contrato por dos años acordada en febrero de 2025. Ha llevado a Nueva York a un récord de 790-565 en temporada regular y a tres primeros lugares en el Este de la Liga Americana, pero con una marca de 27-30 en playoffs.\n“Sí, por supuesto”, respondió cuando le preguntaron si quería regresar para 2027. “Eso es para otro día”.\nJudge pediría que se invierta dinero\nNueva York abrió la temporada con la tercera nómina más alta de las Grandes Ligas, 303 millones de dólares, y los Yankees atrajeron a poco menos de 3,3 millones de aficionados en 80 compromisos, cuarto en las mayores detrás de los Dodgers de Los Ángeles, San Diego y Toronto.\nJudge espera que Hal Steinbrenner, sucesor de su padre, indique a Cashman que sea activo en la búsqueda de un plantel de primer nivel.\n“Somos los Yankees. Siento que deberían ir con todo y hacer lo que tengan que hacer y encontrar —si tenemos huecos, si se trata de encontrar a ciertos jugadores o personal, lo que necesitemos, hay que salir y conseguirlo\", consideró Judge. \"Por eso volví a firmar aquí para jugar con los Yankees: para pelear por un campeonato todos los años y apostar todo. Eso es lo que hago antes de cada campaña: prepararme para darle a este equipo y a esta ciudad todo lo que tengo, así que espero que ellos hagan lo mismo”.\nSchlittler, un punto positivo\nEl derecho de 25 años Cam Schlittler probablemente ganará el Premio Cy Young de la Liga Americana después de terminar 14-6 con la mejor efectividad del Joven Circuito, 1,95, y 239 ponches en 193 2/3 entradas.\n“No cumplimos con las expectativas de los aficionados y de esta organización”, reconoció. \"Hay un cierto estándar de lo que significa ser un Yankee y no lo cumplimos”.\n_____\nDeportes AP: https://apnews.com/hub/deportes",
+    "article_date": "2026-10-09",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      },
+      {
+        "name": "Derek Jeter",
+        "role": "Legend / Hall of Famer",
+        "status": "The Captain, core of the late-90s/2000s dynasty.",
+        "type": "legend",
+        "id": 36,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees cierran su 17ma temporada seguida sin título. ¿Cómo habría reaccionado Steinbrenner?",
+    "original_body": "Si viviera, George Steinbrenner estaría despidiendo gente.\nLos Yankees de Nueva York fracasaron por 17ª temporada consecutiva en su intento de ganar un título de la Serie Mundial y vieron a un rival celebrar en su parque en octubre por tercer año seguido.\nSteinbrenner, su tempestuoso propietario controlador de 1973 a 2008, se enfurecía por fracasos mucho menos frecuentes.\n“Hay un estándar para ganar un campeonato. Es blanco y negro. No hay zona gris\", reconoció el capitán de los Yankees, Aaron Judge, el miércoles por la noche, después de que Tampa Bay completó una barrida de tres juegos en la serie divisional de la Liga Americana sobre Nueva York. \"Esto se relaciona con todos los días que te presentas a trabajar; cada cosita que haces es: ¿estás trabajando hacia un campeonato o no?”.\nNueva York ocupaba el cuarto lugar de las Grandes Ligas en carreras, el 13º en promedio de bateo y el segundo en OPS hasta el 31 de mayo, su último juego antes de que Judge ingresara a la lista de lesionados por una fractura de costilla. Del 1 de junio hasta el final de la temporada, los Yankees fueron 24tos en carreras, 29nos en promedio de bateo y 27mos en OPS. Judge regresó para siete juegos del 8 al 16 de septiembre, bateando para .174 con tres carreras impulsadas antes de que una distensión en la pantorrilla terminara su campaña.\nDespués de batear para .382 con 18 carreras en una barrida de dos juegos sobre Boston en la serie de comodines, los Yankees tuvieron un promedio de .130 y fueron superados 10-5 por Tampa Bay, con una alineación sin colmillo y sin el tres veces Jugador Más Valioso de la Liga Americana.\n“Miren, se trata de Aaron Judge, el mejor pelotero del mundo\", indicó el mánager Aaron Boone. \"Y es una ausencia enorme, enorme”.\nDiez jugadores podrían quedar libres\nEl cerrador de los Yankees David Bednar, el segunda base Jazz Chisholm Jr., el jardinero central Trent Grisham y el primera base Paul Goldschmidt podrían convertirse en agentes libres antes de la próxima temporada, junto con el infielder dominicano Amed Rosario, los zurdos Tim Hill y Ryan Yarbrough, y los derechos Paul Blackburn, John Schreiber y Michael Fulmer.\n“Aquí es donde quiero estar. Me encanta ser un Yankee. Crecí como fanático de los Yankees; desde las Bahamas, veía a Derek Jeter y a esos tipos todos los días\", relató Chisholm. \"Fue un gran momento ser un Yankee. Me encantó mi tiempo con los Yankees”.\nChisholm se enteró de que iría a la banca para el tercer juego contra los Rays, reemplazado por Anthony Volpe, cuando vio la tarjeta de la alineación.\n“Siempre prefiero una conversación”, comentó.\nEl liderazgo parece estable\nBrian Cashman completó su 29ª temporada como gerente general, al finalizar un contrato de cuatro años. En febrero de 1998, cuando asumió el cargo, marcó el 15º cambio de gerente general desde que Steinbrenner compró los Yankees en enero de 1973.\nBoone terminó su novena temporada como mánager y le queda una campaña de una extensión de contrato por dos años acordada en febrero de 2025. Ha llevado a Nueva York a un récord de 790-565 en temporada regular y a tres primeros lugares en el Este de la Liga Americana, pero con una marca de 27-30 en playoffs.\n“Sí, por supuesto”, respondió cuando le preguntaron si quería regresar para 2027. “Eso es para otro día”.\nJudge pediría que se invierta dinero\nNueva York abrió la temporada con la tercera nómina más alta de las Grandes Ligas, 303 millones de dólares, y los Yankees atrajeron a poco menos de 3,3 millones de aficionados en 80 compromisos, cuarto en las mayores detrás de los Dodgers de Los Ángeles, San Diego y Toronto.\nJudge espera que Hal Steinbrenner, sucesor de su padre, indique a Cashman que sea activo en la búsqueda de un plantel de primer nivel.\n“Somos los Yankees. Siento que deberían ir con todo y hacer lo que tengan que hacer y encontrar —si tenemos huecos, si se trata de encontrar a ciertos jugadores o personal, lo que necesitemos, hay que salir y conseguirlo\", consideró Judge. \"Por eso volví a firmar aquí para jugar con los Yankees: para pelear por un campeonato todos los años y apostar todo. Eso es lo que hago antes de cada campaña: prepararme para darle a este equipo y a esta ciudad todo lo que tengo, así que espero que ellos hagan lo mismo”.\nSchlittler, un punto positivo\nEl derecho de 25 años Cam Schlittler probablemente ganará el Premio Cy Young de la Liga Americana después de terminar 14-6 con la mejor efectividad del Joven Circuito, 1,95, y 239 ponches en 193 2/3 entradas.\n“No cumplimos con las expectativas de los aficionados y de esta organización”, reconoció. \"Hay un cierto estándar de lo que significa ser un Yankee y no lo cumplimos”.\n_____\nDeportes AP: https://apnews.com/hub/deportes",
+    "rss_title": "Yankees cierran su 17ma temporada seguida sin título. ¿Cómo habría reaccionado Steinbrenner?",
+    "rss_body": "Si viviera, George Steinbrenner estaría despidiendo gente.\nLos Yankees de Nueva York fracasaron por 17ª temporada consecutiva en su intento de ganar un título de la Serie Mundial y vieron a un rival celebrar en su parque en octubre por tercer año seguido.\nSteinbrenner, su tempestuoso propietario controlador de 1973 a 2008, se enfurecía por fracasos mucho menos frecuentes.\n“Hay un estándar para ganar un campeonato. Es blanco y negro. No hay zona gris\", reconoció el capitán de los Yankees, Aaron Judge, el miércoles por la noche, después de que Tampa Bay completó una barrida de tres juegos en la serie divisional de la Liga Americana sobre Nueva York. \"Esto se relaciona con todos los días que te presentas a trabajar; cada cosita que haces es: ¿estás trabajando hacia un campeonato o no?”.\nNueva York ocupaba el cuarto lugar de las Grandes Ligas en carreras, el 13º en promedio de bateo y el segundo en OPS hasta el 31 de mayo, su último juego antes de que Judge ingresara a la lista de lesionados por una fractura de costilla. Del 1 de junio hasta el final de la temporada, los Yankees fueron 24tos en carreras, 29nos en promedio de bateo y 27mos en OPS. Judge regresó para siete juegos del 8 al 16 de septiembre, bateando para .174 con tres carreras impulsadas antes de que una distensión en la pantorrilla terminara su campaña.\nDespués de batear para .382 con 18 carreras en una barrida de dos juegos sobre Boston en la serie de comodines, los Yankees tuvieron un promedio de .130 y fueron superados 10-5 por Tampa Bay, con una alineación sin colmillo y sin el tres veces Jugador Más Valioso de la Liga Americana.\n“Miren, se trata de Aaron Judge, el mejor pelotero del mundo\", indicó el mánager Aaron Boone. \"Y es una ausencia enorme, enorme”.\nDiez jugadores podrían quedar libres\nEl cerrador de los Yankees David Bednar, el segunda base Jazz Chisholm Jr., el jardinero central Trent Grisham y el primera base Paul Goldschmidt podrían convertirse en agentes libres antes de la próxima temporada, junto con el infielder dominicano Amed Rosario, los zurdos Tim Hill y Ryan Yarbrough, y los derechos Paul Blackburn, John Schreiber y Michael Fulmer.\n“Aquí es donde quiero estar. Me encanta ser un Yankee. Crecí como fanático de los Yankees; desde las Bahamas, veía a Derek Jeter y a esos tipos todos los días\", relató Chisholm. \"Fue un gran momento ser un Yankee. Me encantó mi tiempo con los Yankees”.\nChisholm se enteró de que iría a la banca para el tercer juego contra los Rays, reemplazado por Anthony Volpe, cuando vio la tarjeta de la alineación.\n“Siempre prefiero una conversación”, comentó.\nEl liderazgo parece estable\nBrian Cashman completó su 29ª temporada como gerente general, al finalizar un contrato de cuatro años. En febrero de 1998, cuando asumió el cargo, marcó el 15º cambio de gerente general desde que Steinbrenner compró los Yankees en enero de 1973.\nBoone terminó su novena temporada como mánager y le queda una campaña de una extensión de contrato por dos años acordada en febrero de 2025. Ha llevado a Nueva York a un récord de 790-565 en temporada regular y a tres primeros lugares en el Este de la Liga Americana, pero con una marca de 27-30 en playoffs.\n“Sí, por supuesto”, respondió cuando le preguntaron si quería regresar para 2027. “Eso es para otro día”.\nJudge pediría que se invierta dinero\nNueva York abrió la temporada con la tercera nómina más alta de las Grandes Ligas, 303 millones de dólares, y los Yankees atrajeron a poco menos de 3,3 millones de aficionados en 80 compromisos, cuarto en las mayores detrás de los Dodgers de Los Ángeles, San Diego y Toronto.\nJudge espera que Hal Steinbrenner, sucesor de su padre, indique a Cashman que sea activo en la búsqueda de un plantel de primer nivel.\n“Somos los Yankees. Siento que deberían ir con todo y hacer lo que tengan que hacer y encontrar —si tenemos huecos, si se trata de encontrar a ciertos jugadores o personal, lo que necesitemos, hay que salir y conseguirlo\", consideró Judge. \"Por eso volví a firmar aquí para jugar con los Yankees: para pelear por un campeonato todos los años y apostar todo. Eso es lo que hago antes de cada campaña: prepararme para darle a este equipo y a esta ciudad todo lo que tengo, así que espero que ellos hagan lo mismo”.\nSchlittler, un punto positivo\nEl derecho de 25 años Cam Schlittler probablemente ganará el Premio Cy Young de la Liga Americana después de terminar 14-6 con la mejor efectividad del Joven Circuito, 1,95, y 239 ponches en 193 2/3 entradas.\n“No cumplimos con las expectativas de los aficionados y de esta organización”, reconoció. \"Hay un cierto estándar de lo que significa ser un Yankee y no lo cumplimos”.\n_____\nDeportes AP: https://apnews.com/hub/deportes",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e878c6fb5925631f441b",
+    "title": "New York Yankees Star Aaron Judge Makes Bold Spencer Jones Statement",
+    "source": "Heavy.com",
+    "author": "Ben Stinar",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/judge-makes-bold-jones-statement-oct/",
+    "published_iso": "2026-10-09T00:48:00+00:00",
+    "published_rfc2822": "Fri, 09 Oct 2026 00:48:00 +0000",
+    "body": "On Wednesday, the New York Yankees had their season come to an end when they got swept by the Tampa Bay Rays in the Bronx.\nThey lost the game by a score of 4-3.\nRookie Spencer Jones finished the game with one hit, one RBI, one run and two walks.\nJudge Makes Jones Statement\nAfter the game, three-time MVP Aaron Judge was asked about Jones when he met with the media (h/t YES Network).\nReporter: “What do you think guys like Spencer Jones and George Lombard take from this experience?”\nJudge: “First off, it was an incredible year. Both those guys had. I know especially Spence, coming up a couple times, get sent back down, come up, get a little bit better, sent back down, and then he comes up. And just seeing him continue to grow; every single opportunity he got was really special and fun to see. He’s going to be an incredible player for us for many years. And same with Georgie. Come up and get thrown right into the fire, starting shortstop, and enter the league like he did was impressive. But watching both those guys, the way they work, the way they prepare, they’re going to have a bright future here. And getting their feet wet in the postseason a little bit, I think it’s only going to help their growth. Just playing in front of these atmospheres, playing here in Yankee Stadium, a Yankees-Red Sox in the postseason. All those little things are going to add up to them having some great seasons for us.”\nLooking At Jones\nSpencer Jones #78 of the New York Yankees warms up before the game against the Boston Red Sox in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe finished the 2026 regular season batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases in 86 games.\nJorge Castillo of ESPN wrote (during Wednesday’s game): “Spencer Jones vs. left-handed pitchers between the regular season and playoffs: .377/.424/.639/1.064, 3 HR, 5 2B, 14 RBI.”",
+    "article_date": "2026-10-08",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees Star Aaron Judge Makes Bold Spencer Jones Statement",
+    "original_body": "On Wednesday, the New York Yankees had their season come to an end when they got swept by the Tampa Bay Rays in the Bronx.\nThey lost the game by a score of 4-3.\nRookie Spencer Jones finished the game with one hit, one RBI, one run and two walks.\nJudge Makes Jones Statement\nAfter the game, three-time MVP Aaron Judge was asked about Jones when he met with the media (h/t YES Network).\nReporter: “What do you think guys like Spencer Jones and George Lombard take from this experience?”\nJudge: “First off, it was an incredible year. Both those guys had. I know especially Spence, coming up a couple times, get sent back down, come up, get a little bit better, sent back down, and then he comes up. And just seeing him continue to grow; every single opportunity he got was really special and fun to see. He’s going to be an incredible player for us for many years. And same with Georgie. Come up and get thrown right into the fire, starting shortstop, and enter the league like he did was impressive. But watching both those guys, the way they work, the way they prepare, they’re going to have a bright future here. And getting their feet wet in the postseason a little bit, I think it’s only going to help their growth. Just playing in front of these atmospheres, playing here in Yankee Stadium, a Yankees-Red Sox in the postseason. All those little things are going to add up to them having some great seasons for us.”\nLooking At Jones\nSpencer Jones #78 of the New York Yankees warms up before the game against the Boston Red Sox in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe finished the 2026 regular season batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases in 86 games.\nJorge Castillo of ESPN wrote (during Wednesday’s game): “Spencer Jones vs. left-handed pitchers between the regular season and playoffs: .377/.424/.639/1.064, 3 HR, 5 2B, 14 RBI.”",
+    "rss_title": "New York Yankees Star Aaron Judge Makes Bold Spencer Jones Statement",
+    "rss_body": "On Wednesday, the New York Yankees had their season come to an end when they got swept by the Tampa Bay Rays in the Bronx.\nThey lost the game by a score of 4-3.\nRookie Spencer Jones finished the game with one hit, one RBI, one run and two walks.\nJudge Makes Jones Statement\nAfter the game, three-time MVP Aaron Judge was asked about Jones when he met with the media (h/t YES Network).\nReporter: “What do you think guys like Spencer Jones and George Lombard take from this experience?”\nJudge: “First off, it was an incredible year. Both those guys had. I know especially Spence, coming up a couple times, get sent back down, come up, get a little bit better, sent back down, and then he comes up. And just seeing him continue to grow; every single opportunity he got was really special and fun to see. He’s going to be an incredible player for us for many years. And same with Georgie. Come up and get thrown right into the fire, starting shortstop, and enter the league like he did was impressive. But watching both those guys, the way they work, the way they prepare, they’re going to have a bright future here. And getting their feet wet in the postseason a little bit, I think it’s only going to help their growth. Just playing in front of these atmospheres, playing here in Yankee Stadium, a Yankees-Red Sox in the postseason. All those little things are going to add up to them having some great seasons for us.”\nLooking At Jones\nSpencer Jones #78 of the New York Yankees warms up before the game against the Boston Red Sox in game two of the American League Wild Card Series at Yankee Stadium on September 30, 2026 in the Bronx borough of New York City.\nJones was picked in the 1st round of the 2022 MLB Draft out of Vanderbilt.\nHe finished the 2026 regular season batting .245 with 64 hits, 11 home runs, 40 RBIs, 36 runs and 10 stolen bases in 86 games.\nJorge Castillo of ESPN wrote (during Wednesday’s game): “Spencer Jones vs. left-handed pitchers between the regular season and playoffs: .377/.424/.639/1.064, 3 HR, 5 2B, 14 RBI.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "168745a35a6c3c9e13d8",
+    "title": "Benched New York Yankees Star Still Owed $16 Million Next Season",
+    "source": "Heavy.com",
+    "author": "Ben Stinar",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/ryan-still-owed-16-million-next-season/",
+    "published_iso": "2026-10-09T00:48:00+00:00",
+    "published_rfc2822": "Fri, 09 Oct 2026 00:48:00 +0000",
+    "body": "On Wednesday, the New York Yankees got swept by the Tampa Bay Rays in the ALDS (at home).\nThey lost the final game by a score of 4-3.\nBrendan Kuty of The Athletic wrote: “For the third year in a row, the opponents are celebrating knocking the Yankees out of the playoffs on the field at Yankee Stadium. A sweep — of all things — at the hands of the Rays in the ALDS. Yankees lose, 4-3, in Game 3 What a disappointing end for the Yankees.”\nBenched New York Yankees Star Owed $16 Million\nOne player who did not play in Wednesday’s game was Ryan McMahon.\nThe 2024 All-Star has had a tough year.\nHe finished the regular season batting .213 with 70 hits, 11 home runs, 41 RBIs, 33 runs and three stolen bases in 124 games.\nRyan McMahon #19 of the New York Yankees runs onto the field during player introductions before game one of the American League Division Series against the Tampa Bay Rays at Tropicana Field on October 03, 2026 in St Petersburg, Florida.\nAfter getting benched for all of Game 3, it’s worth pointing out that McMahon has one year left on his contract that will pay him $16 million for the 2027 season (h/t Spotrac).\nHe is still on the same deal that the Colorado Rockies gave him.\nESPN’s Jeff Passan wrote (on March 21, 2022): “Versatile infielder Ryan McMahon and the Colorado Rockies are in agreement on a six-year, $70 million contract extension, sources familiar with deal tell ESPN. McMahon, 27, took a leap forward defensively in 2021 and has enough thunder in his bat for Colorado to commit long-term.”\nMcMahon had been traded to New York (via the Rockies) in 2025.\nMLB.com wrote (on July 25, 2025): “Colorado Rockies traded 3B Ryan McMahon to New York Yankees for RHP Josh Grosz and LHP Griffin Herring.”\nSo far, it’s fair to say that acquiring McMahon has been a failed trade.\nHe has been unable to have the same success he had in Colorado.\nLooking At The Yankees\nThe Yankees have been unable to win a World Series title since the 2009 season when they had legends such as Mariano Rivera, Derek Jeter, Alex Rodriguez and CC Sabathia.\nThey last reached the World Series during the 2024 season when they lost to the Los Angeles Dodgers.",
+    "article_date": "2026-10-08",
+    "tracked_people": [
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Derek Jeter",
+        "role": "Legend / Hall of Famer",
+        "status": "The Captain, core of the late-90s/2000s dynasty.",
+        "type": "legend",
+        "id": 36,
+        "batch": 2
+      },
+      {
+        "name": "Mariano Rivera",
+        "role": "Legend / Hall of Famer",
+        "status": "Unanimous Hall of Famer, greatest closer in history.",
+        "type": "legend",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Alex Rodriguez",
+        "role": "Legend / Third Baseman",
+        "status": "2-time MVP with NYY, key piece of the 2009 title team.",
+        "type": "legend",
+        "id": 43,
+        "batch": 2
+      },
+      {
+        "name": "CC Sabathia",
+        "role": "Legend / Starting Pitcher",
+        "status": "Workhorse ace of the 2009 championship rotation.",
+        "type": "legend",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Benched New York Yankees Star Still Owed $16 Million Next Season",
+    "original_body": "On Wednesday, the New York Yankees got swept by the Tampa Bay Rays in the ALDS (at home).\nThey lost the final game by a score of 4-3.\nBrendan Kuty of The Athletic wrote: “For the third year in a row, the opponents are celebrating knocking the Yankees out of the playoffs on the field at Yankee Stadium. A sweep — of all things — at the hands of the Rays in the ALDS. Yankees lose, 4-3, in Game 3 What a disappointing end for the Yankees.”\nBenched New York Yankees Star Owed $16 Million\nOne player who did not play in Wednesday’s game was Ryan McMahon.\nThe 2024 All-Star has had a tough year.\nHe finished the regular season batting .213 with 70 hits, 11 home runs, 41 RBIs, 33 runs and three stolen bases in 124 games.\nRyan McMahon #19 of the New York Yankees runs onto the field during player introductions before game one of the American League Division Series against the Tampa Bay Rays at Tropicana Field on October 03, 2026 in St Petersburg, Florida.\nAfter getting benched for all of Game 3, it’s worth pointing out that McMahon has one year left on his contract that will pay him $16 million for the 2027 season (h/t Spotrac).\nHe is still on the same deal that the Colorado Rockies gave him.\nESPN’s Jeff Passan wrote (on March 21, 2022): “Versatile infielder Ryan McMahon and the Colorado Rockies are in agreement on a six-year, $70 million contract extension, sources familiar with deal tell ESPN. McMahon, 27, took a leap forward defensively in 2021 and has enough thunder in his bat for Colorado to commit long-term.”\nMcMahon had been traded to New York (via the Rockies) in 2025.\nMLB.com wrote (on July 25, 2025): “Colorado Rockies traded 3B Ryan McMahon to New York Yankees for RHP Josh Grosz and LHP Griffin Herring.”\nSo far, it’s fair to say that acquiring McMahon has been a failed trade.\nHe has been unable to have the same success he had in Colorado.\nLooking At The Yankees\nThe Yankees have been unable to win a World Series title since the 2009 season when they had legends such as Mariano Rivera, Derek Jeter, Alex Rodriguez and CC Sabathia.\nThey last reached the World Series during the 2024 season when they lost to the Los Angeles Dodgers.",
+    "rss_title": "Benched New York Yankees Star Still Owed $16 Million Next Season",
+    "rss_body": "On Wednesday, the New York Yankees got swept by the Tampa Bay Rays in the ALDS (at home).\nThey lost the final game by a score of 4-3.\nBrendan Kuty of The Athletic wrote: “For the third year in a row, the opponents are celebrating knocking the Yankees out of the playoffs on the field at Yankee Stadium. A sweep — of all things — at the hands of the Rays in the ALDS. Yankees lose, 4-3, in Game 3 What a disappointing end for the Yankees.”\nBenched New York Yankees Star Owed $16 Million\nOne player who did not play in Wednesday’s game was Ryan McMahon.\nThe 2024 All-Star has had a tough year.\nHe finished the regular season batting .213 with 70 hits, 11 home runs, 41 RBIs, 33 runs and three stolen bases in 124 games.\nRyan McMahon #19 of the New York Yankees runs onto the field during player introductions before game one of the American League Division Series against the Tampa Bay Rays at Tropicana Field on October 03, 2026 in St Petersburg, Florida.\nAfter getting benched for all of Game 3, it’s worth pointing out that McMahon has one year left on his contract that will pay him $16 million for the 2027 season (h/t Spotrac).\nHe is still on the same deal that the Colorado Rockies gave him.\nESPN’s Jeff Passan wrote (on March 21, 2022): “Versatile infielder Ryan McMahon and the Colorado Rockies are in agreement on a six-year, $70 million contract extension, sources familiar with deal tell ESPN. McMahon, 27, took a leap forward defensively in 2021 and has enough thunder in his bat for Colorado to commit long-term.”\nMcMahon had been traded to New York (via the Rockies) in 2025.\nMLB.com wrote (on July 25, 2025): “Colorado Rockies traded 3B Ryan McMahon to New York Yankees for RHP Josh Grosz and LHP Griffin Herring.”\nSo far, it’s fair to say that acquiring McMahon has been a failed trade.\nHe has been unable to have the same success he had in Colorado.\nLooking At The Yankees\nThe Yankees have been unable to win a World Series title since the 2009 season when they had legends such as Mariano Rivera, Derek Jeter, Alex Rodriguez and CC Sabathia.\nThey last reached the World Series during the 2024 season when they lost to the Los Angeles Dodgers.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d1fc0e428ff36773156b",
+    "title": "George Lombard Jr. could be silver lining for this dreadful Yankees’ end",
+    "source": "New York Post",
+    "author": "Mark W Sanchez",
+    "url": "https://nypost.com/2026/10/08/sports/george-lombard-jr-could-be-silver-lining-for-this-dreadful-yankees-feeling/",
+    "published_iso": "2026-10-09T00:36:00+00:00",
+    "published_rfc2822": "Fri, 09 Oct 2026 00:36:00 +0000",
+    "body": "Several minutes after both the predictable and unthinkable — another team celebrating on the Yankees’ home turf, this time the Rays after sweeping through the ALDS — three Yankees lingered on the top step of the dugout. They stared. They absorbed. They stored what will be used as fuel.\nPaul Blackburn peeled off the railing and began making his way to the clubhouse. Soon after, Aaron Judge followed.\n\t\t\n\t\t\n\t\t\n\t\t\t\t\n\t\t\tAccess the Yankees beat like never before\t\t\n\t\t\t\nJoin Post Sports+ for exciting subscriber-only features, including real-time texting with Greg Joyce about the inside buzz on the Yankees.\nTry it free\nAnd finally, the last Yankee to force himself from watching the revolting sight was the youngest: George Lombard Jr.\n“I’m going to have to learn from it and keep this feeling with it and use that in the work next year,” Lombard said after the Yankees were eliminated Wednesday night in The Bronx. “… It sucks. It hurts. There’s a lot of things that go into it, but yeah, it’s definitely a feeling that you don’t want to feel after your last game.\n“It’s definitely going to be on my mind a lot.”\nThe Yankees will not fondly remember 2026, when Judge and Giancarlo Stanton missed much of the season, their replacements did not adequately replace them and yet another campaign ended in disappointment, but it is at least possible it will be recalled as the year Lombard earned his shot.\nA year that started in Double-A Somerset, where Lombard did not even last a month, ended as the everyday, playoff shortstop for the Yankees.\nHe showed flashes of brilliance defensively, and his fourth-inning highlight — in which he charged a chopper that had leaped over Max Fried, barehanded and slung a throw to cut down Junior Caminero — might have been remembered if the game finished differently. He also showed that he is 21 years old, both with his six-game error streak and in being part of the Game 2 defensive meltdown.\nOffensively, he performed better than expected. The Yankees would welcome further steps, but a prospect known more for his glove and headiness hit .237 with a .699 OPS in his first 42 games before holding his own in October.\nLombard’s first playoff run, albeit brief, finished at 6-for-18 (.333) with six singles and four strikeouts. On Wednesday, he was a bright spot in stroking a hard-hit single, adding another on a slow roller to third and later walking, using an automated ball-strike system challenge — which has been a strength of his — to earn the trip to first.\n“It was definitely a good experience for the first year,” said Lombard, who replaced Anthony Volpe and José Caballero at shortstop in early August. “I’m going to take everything with me because it’s not the way we want to end going forward.”\nThere is little known about the Yankees’ 2027 infield. Can they really bring back Ryan McMahon, who is owed $16 million for next season, made a costly error in Game 2, was benched in Game 3 and simply did not hit enough this season?\nIs Jazz Chisholm Jr., who also was benched for the elimination game, a goner as a free agent? Are the Yankees serious about Luis García Jr. possibly getting work at second base, which would open first for Ben Rice? Is Paul Goldschmidt, who wants to keep playing, still an option as a lefty-killer at first? Where do Volpe and Caballero fit?\nThe best bet among the group is that Lombard, a 2023 first-round pick whose first taste of major league life included more promise than problems, will be back at shortstop.\nAnd motivated.\n“Definitely a lot to take from it,” said Lombard, who was particularly upset about Judge, Stanton and Goldschmidt coming up short of a title. “It just sucks to go out like this.”",
+    "article_date": "2026-10-08",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "George Lombard Jr.",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Ben Rice",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "George Lombard Jr. could be silver lining for this dreadful Yankees’ end",
+    "original_body": "Several minutes after both the predictable and unthinkable — another team celebrating on the Yankees’ home turf, this time the Rays after sweeping through the ALDS — three Yankees lingered on the top step of the dugout. They stared. They absorbed. They stored what will be used as fuel.\nPaul Blackburn peeled off the railing and began making his way to the clubhouse. Soon after, Aaron Judge followed.\n\t\t\n\t\t\n\t\t\n\t\t\t\t\n\t\t\tAccess the Yankees beat like never before\t\t\n\t\t\t\nJoin Post Sports+ for exciting subscriber-only features, including real-time texting with Greg Joyce about the inside buzz on the Yankees.\nTry it free\nAnd finally, the last Yankee to force himself from watching the revolting sight was the youngest: George Lombard Jr.\n“I’m going to have to learn from it and keep this feeling with it and use that in the work next year,” Lombard said after the Yankees were eliminated Wednesday night in The Bronx. “… It sucks. It hurts. There’s a lot of things that go into it, but yeah, it’s definitely a feeling that you don’t want to feel after your last game.\n“It’s definitely going to be on my mind a lot.”\nThe Yankees will not fondly remember 2026, when Judge and Giancarlo Stanton missed much of the season, their replacements did not adequately replace them and yet another campaign ended in disappointment, but it is at least possible it will be recalled as the year Lombard earned his shot.\nA year that started in Double-A Somerset, where Lombard did not even last a month, ended as the everyday, playoff shortstop for the Yankees.\nHe showed flashes of brilliance defensively, and his fourth-inning highlight — in which he charged a chopper that had leaped over Max Fried, barehanded and slung a throw to cut down Junior Caminero — might have been remembered if the game finished differently. He also showed that he is 21 years old, both with his six-game error streak and in being part of the Game 2 defensive meltdown.\nOffensively, he performed better than expected. The Yankees would welcome further steps, but a prospect known more for his glove and headiness hit .237 with a .699 OPS in his first 42 games before holding his own in October.\nLombard’s first playoff run, albeit brief, finished at 6-for-18 (.333) with six singles and four strikeouts. On Wednesday, he was a bright spot in stroking a hard-hit single, adding another on a slow roller to third and later walking, using an automated ball-strike system challenge — which has been a strength of his — to earn the trip to first.\n“It was definitely a good experience for the first year,” said Lombard, who replaced Anthony Volpe and José Caballero at shortstop in early August. “I’m going to take everything with me because it’s not the way we want to end going forward.”\nThere is little known about the Yankees’ 2027 infield. Can they really bring back Ryan McMahon, who is owed $16 million for next season, made a costly error in Game 2, was benched in Game 3 and simply did not hit enough this season?\nIs Jazz Chisholm Jr., who also was benched for the elimination game, a goner as a free agent? Are the Yankees serious about Luis García Jr. possibly getting work at second base, which would open first for Ben Rice? Is Paul Goldschmidt, who wants to keep playing, still an option as a lefty-killer at first? Where do Volpe and Caballero fit?\nThe best bet among the group is that Lombard, a 2023 first-round pick whose first taste of major league life included more promise than problems, will be back at shortstop.\nAnd motivated.\n“Definitely a lot to take from it,” said Lombard, who was particularly upset about Judge, Stanton and Goldschmidt coming up short of a title. “It just sucks to go out like this.”",
+    "rss_title": "George Lombard Jr. could be silver lining for this dreadful Yankees’ end",
+    "rss_body": "Several minutes after both the predictable and unthinkable — another team celebrating on the Yankees’ home turf, this time the Rays after sweeping through the ALDS — three Yankees lingered on the top step of the dugout. They stared. They absorbed. They stored what will be used as fuel.\nPaul Blackburn peeled off the railing and began making his way to the clubhouse. Soon after, Aaron Judge followed.\n\t\t\n\t\t\n\t\t\n\t\t\t\t\n\t\t\tAccess the Yankees beat like never before\t\t\n\t\t\t\nJoin Post Sports+ for exciting subscriber-only features, including real-time texting with Greg Joyce about the inside buzz on the Yankees.\nTry it free\nAnd finally, the last Yankee to force himself from watching the revolting sight was the youngest: George Lombard Jr.\n“I’m going to have to learn from it and keep this feeling with it and use that in the work next year,” Lombard said after the Yankees were eliminated Wednesday night in The Bronx. “… It sucks. It hurts. There’s a lot of things that go into it, but yeah, it’s definitely a feeling that you don’t want to feel after your last game.\n“It’s definitely going to be on my mind a lot.”\nThe Yankees will not fondly remember 2026, when Judge and Giancarlo Stanton missed much of the season, their replacements did not adequately replace them and yet another campaign ended in disappointment, but it is at least possible it will be recalled as the year Lombard earned his shot.\nA year that started in Double-A Somerset, where Lombard did not even last a month, ended as the everyday, playoff shortstop for the Yankees.\nHe showed flashes of brilliance defensively, and his fourth-inning highlight — in which he charged a chopper that had leaped over Max Fried, barehanded and slung a throw to cut down Junior Caminero — might have been remembered if the game finished differently. He also showed that he is 21 years old, both with his six-game error streak and in being part of the Game 2 defensive meltdown.\nOffensively, he performed better than expected. The Yankees would welcome further steps, but a prospect known more for his glove and headiness hit .237 with a .699 OPS in his first 42 games before holding his own in October.\nLombard’s first playoff run, albeit brief, finished at 6-for-18 (.333) with six singles and four strikeouts. On Wednesday, he was a bright spot in stroking a hard-hit single, adding another on a slow roller to third and later walking, using an automated ball-strike system challenge — which has been a strength of his — to earn the trip to first.\n“It was definitely a good experience for the first year,” said Lombard, who replaced Anthony Volpe and José Caballero at shortstop in early August. “I’m going to take everything with me because it’s not the way we want to end going forward.”\nThere is little known about the Yankees’ 2027 infield. Can they really bring back Ryan McMahon, who is owed $16 million for next season, made a costly error in Game 2, was benched in Game 3 and simply did not hit enough this season?\nIs Jazz Chisholm Jr., who also was benched for the elimination game, a goner as a free agent? Are the Yankees serious about Luis García Jr. possibly getting work at second base, which would open first for Ben Rice? Is Paul Goldschmidt, who wants to keep playing, still an option as a lefty-killer at first? Where do Volpe and Caballero fit?\nThe best bet among the group is that Lombard, a 2023 first-round pick whose first taste of major league life included more promise than problems, will be back at shortstop.\nAnd motivated.\n“Definitely a lot to take from it,” said Lombard, who was particularly upset about Judge, Stanton and Goldschmidt coming up short of a title. “It just sucks to go out like this.”",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "175608877d38096335a8",
     "title": "Alex Rodriguez implores Yankees to shake things up: ‘Something has to change’",
     "source": "New York Post",
