@@ -1,5 +1,233 @@
 [
   {
+    "id": "f64ad6ae799990a7dff6",
+    "title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
+    "source": "New York Daily News",
+    "author": "Gary Phillips",
+    "url": "https://www.nydailynews.com/2026/10/21/hal-steinbrenner-responds-to-aaron-judges-insinuation-yankees-havent-been-all-in-enough-we-did-that-this-year/",
+    "published_iso": "2026-10-21T21:49:02+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 21:49:02 +0000",
+    "body": "Shortly after the Yankees were swept by the Rays in the ALDS, Aaron Judge was asked how owner Hal Steinbrenner and general manager Brian Cashman should react to the team’s latest postseason failure.\n“We’re the Yankees,” said the back-to-back MVP, who was sidelined for the playoffs by a calf strain. “I feel like they should go all in and do what they need to do. If we got holes, it’s finding certain players or personnel, whatever we need, you gotta go out there and get it. That’s why I signed back here to play with the Yankees, to fight for a championship every single year. We go all in. That’s what I do every offseason: get ready to give this team and the city everything I got. So I expect them to do the same.”\nThe captain’s response demanded a follow-up: does Judge feel the organization has gone all in enough during his 11-year, championship-less tenure?\n“It’s tough to say,” Judge, 34, said after a long pause. “I want to trade for everybody and sign everybody every single year, but I know that’s not realistic. So they give us a winning team every single year, but that’s not good enough here in New York. We’re the Yankees. You gotta go out there and expect championships and go all in every year, so I’m excited to see what they do.”\nOn Wednesday, Steinbrenner addressed Judge’s pointed comments while conducting an autopsy of the Yankees’ shortcomings via Zoom. The owner said that he did not watch Judge’s full postgame interview after Game 3 of the ALDS, but a few of the slugger’s quotes were brought to his attention.\nHis reaction?\n“Was I upset about it? No,” said Steinbrenner, who has a close relationship with Judge. “If I was a player, I would have expectations that my ownership group would do everything in their power every offseason to field a team that could win a championship. There’s nothing wrong with expectations. We did that this year. We had the highest payroll in the history of the organization. We got to a point later in the [last] offseason where we still felt we weren’t good enough, so we went out and signed [Cody] Bellinger to a huge contract. Glad we did. He’s a good player, so I definitely think we went all in this season. I definitely think we had a team that was every bit capable of winning a championship. No, it did not work out.\n“And by the way, I have expectations of my players. I expect them to obey the rules, to work hard, to listen to their coaches and the trainers and the strength guys. Expectations are a good thing. Any relationship in life is a two-way street, and part of that is having expectations of each other. So no, I wasn’t bothered by it at all.”\nAs Steinbrenner alluded to, he financed a franchise record competitive balance tax payroll, projected to be $341.8 million, in 2026. That ranked third in baseball behind the Mets ($359.4 million) and Dodgers ($432.8 million), per Cot’s Contracts.\nJudge, meanwhile, didn’t specify what he wanted the Yankees to do differently — or what he wants them to do going forward — after Game 3. He did, however, seem to take a shot at the Yankees’ so-called “run it back” approach — they retained a largely similar roster after getting bounced in the 2025 ALDS — despite endorsing the tactic in spring training and at the end of last year.\n“The toughest thing is each year, besides us, every other team gets better,” Judge said. “Every other team’s adding new players, getting new coaches, new philosophies, things they can do to improve their team. So it’s not like, ‘Hey, we’re just going to run it back and we’ll be in the postseason.’”\nWhile Judge didn’t vocalize his vision to reporters, Steinbrenner said that he and the right fielder had a “great conversation” on Tuesday that covered “a number of subjects.” The early offseason chats between owner and superstar have become an annual tradition, just like the Yankees’ premature playoff exits.\nWhile Steinbrenner didn’t detail their most recent talk, he did say, “We’ve got some decisions that need to be made right after the World Series is over, essentially, and then some we have more time on. And [Judge is] going to be a part of all that. So, yeah, that’s the deal.”\nSteinbrenner, speaking for himself, did take exception to the Yankees’ inconsistent offense this season, which he called “detrimental.” Of course, Judge’s injuries played a part in the lackluster performance, as he missed 99 days with a fractured rib and then the playoffs with his calf strain. But Steinbrenner believes the Yankees had enough talent to cover for Judge’s absences — Bellinger, Trent Grisham and Giancarlo Stanton also missed significant time — and so the club is going to look at potential changes to its coaching staff and hitting philosophies.\nSome lineup turnover is also expected with Grisham and Jazz Chisholm Jr. headed for free agency.\n“As a whole, they were very inconsistent when it came to run scoring,” Steinbrenner said, “and they were inconsistent for long periods of time.”\nAs for Judge’s injuries, those also became a point of contention between the player and the organization this year.\nHe repeatedly pushed to skip a rehab assignment when he returned from his rib injury and got his wish, but he only lasted seven games before suffering a moderate calf strain. Judge then seemed to take issue when Aaron Boone revealed the severity of his strain, and he said he wanted to make what would have been an expedited return for the Wild Card Series and ALDS.\nJudge was left off both rosters. On Wednesday, Cashman said that there were no regrets on the Yankees’ end, as “he just wasn’t physically able to post for us” due to the calf strain.\nCashman, also on Wednesday’s Zoom, added that Judge underwent an end-of-season physical and that his rib “came out fine.” Judge has a follow-up scheduled with a specialist, Dr. Gregory Pearl, but the Yankees believe he’s in a strong spot health-wise.\n“As of right now, we feel like we’re in a good place,” Cashman said, “and he can take advantage of the rest of the winter and be ready to go when spring training starts.”",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
+    "original_body": "Shortly after the Yankees were swept by the Rays in the ALDS, Aaron Judge was asked how owner Hal Steinbrenner and general manager Brian Cashman should react to the team’s latest postseason failure.\n“We’re the Yankees,” said the back-to-back MVP, who was sidelined for the playoffs by a calf strain. “I feel like they should go all in and do what they need to do. If we got holes, it’s finding certain players or personnel, whatever we need, you gotta go out there and get it. That’s why I signed back here to play with the Yankees, to fight for a championship every single year. We go all in. That’s what I do every offseason: get ready to give this team and the city everything I got. So I expect them to do the same.”\nThe captain’s response demanded a follow-up: does Judge feel the organization has gone all in enough during his 11-year, championship-less tenure?\n“It’s tough to say,” Judge, 34, said after a long pause. “I want to trade for everybody and sign everybody every single year, but I know that’s not realistic. So they give us a winning team every single year, but that’s not good enough here in New York. We’re the Yankees. You gotta go out there and expect championships and go all in every year, so I’m excited to see what they do.”\nOn Wednesday, Steinbrenner addressed Judge’s pointed comments while conducting an autopsy of the Yankees’ shortcomings via Zoom. The owner said that he did not watch Judge’s full postgame interview after Game 3 of the ALDS, but a few of the slugger’s quotes were brought to his attention.\nHis reaction?\n“Was I upset about it? No,” said Steinbrenner, who has a close relationship with Judge. “If I was a player, I would have expectations that my ownership group would do everything in their power every offseason to field a team that could win a championship. There’s nothing wrong with expectations. We did that this year. We had the highest payroll in the history of the organization. We got to a point later in the [last] offseason where we still felt we weren’t good enough, so we went out and signed [Cody] Bellinger to a huge contract. Glad we did. He’s a good player, so I definitely think we went all in this season. I definitely think we had a team that was every bit capable of winning a championship. No, it did not work out.\n“And by the way, I have expectations of my players. I expect them to obey the rules, to work hard, to listen to their coaches and the trainers and the strength guys. Expectations are a good thing. Any relationship in life is a two-way street, and part of that is having expectations of each other. So no, I wasn’t bothered by it at all.”\nAs Steinbrenner alluded to, he financed a franchise record competitive balance tax payroll, projected to be $341.8 million, in 2026. That ranked third in baseball behind the Mets ($359.4 million) and Dodgers ($432.8 million), per Cot’s Contracts.\nJudge, meanwhile, didn’t specify what he wanted the Yankees to do differently — or what he wants them to do going forward — after Game 3. He did, however, seem to take a shot at the Yankees’ so-called “run it back” approach — they retained a largely similar roster after getting bounced in the 2025 ALDS — despite endorsing the tactic in spring training and at the end of last year.\n“The toughest thing is each year, besides us, every other team gets better,” Judge said. “Every other team’s adding new players, getting new coaches, new philosophies, things they can do to improve their team. So it’s not like, ‘Hey, we’re just going to run it back and we’ll be in the postseason.’”\nWhile Judge didn’t vocalize his vision to reporters, Steinbrenner said that he and the right fielder had a “great conversation” on Tuesday that covered “a number of subjects.” The early offseason chats between owner and superstar have become an annual tradition, just like the Yankees’ premature playoff exits.\nWhile Steinbrenner didn’t detail their most recent talk, he did say, “We’ve got some decisions that need to be made right after the World Series is over, essentially, and then some we have more time on. And [Judge is] going to be a part of all that. So, yeah, that’s the deal.”\nSteinbrenner, speaking for himself, did take exception to the Yankees’ inconsistent offense this season, which he called “detrimental.” Of course, Judge’s injuries played a part in the lackluster performance, as he missed 99 days with a fractured rib and then the playoffs with his calf strain. But Steinbrenner believes the Yankees had enough talent to cover for Judge’s absences — Bellinger, Trent Grisham and Giancarlo Stanton also missed significant time — and so the club is going to look at potential changes to its coaching staff and hitting philosophies.\nSome lineup turnover is also expected with Grisham and Jazz Chisholm Jr. headed for free agency.\n“As a whole, they were very inconsistent when it came to run scoring,” Steinbrenner said, “and they were inconsistent for long periods of time.”\nAs for Judge’s injuries, those also became a point of contention between the player and the organization this year.\nHe repeatedly pushed to skip a rehab assignment when he returned from his rib injury and got his wish, but he only lasted seven games before suffering a moderate calf strain. Judge then seemed to take issue when Aaron Boone revealed the severity of his strain, and he said he wanted to make what would have been an expedited return for the Wild Card Series and ALDS.\nJudge was left off both rosters. On Wednesday, Cashman said that there were no regrets on the Yankees’ end, as “he just wasn’t physically able to post for us” due to the calf strain.\nCashman, also on Wednesday’s Zoom, added that Judge underwent an end-of-season physical and that his rib “came out fine.” Judge has a follow-up scheduled with a specialist, Dr. Gregory Pearl, but the Yankees believe he’s in a strong spot health-wise.\n“As of right now, we feel like we’re in a good place,” Cashman said, “and he can take advantage of the rest of the winter and be ready to go when spring training starts.”",
+    "rss_title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
+    "rss_body": "Shortly after the Yankees were swept by the Rays in the ALDS, Aaron Judge was asked how owner Hal Steinbrenner and general manager Brian Cashman should react to the team’s latest postseason failure.\n“We’re the Yankees,” said the back-to-back MVP, who was sidelined for the playoffs by a calf strain. “I feel like they should go all in and do what they need to do. If we got holes, it’s finding certain players or personnel, whatever we need, you gotta go out there and get it. That’s why I signed back here to play with the Yankees, to fight for a championship every single year. We go all in. That’s what I do every offseason: get ready to give this team and the city everything I got. So I expect them to do the same.”\nThe captain’s response demanded a follow-up: does Judge feel the organization has gone all in enough during his 11-year, championship-less tenure?\n“It’s tough to say,” Judge, 34, said after a long pause. “I want to trade for everybody and sign everybody every single year, but I know that’s not realistic. So they give us a winning team every single year, but that’s not good enough here in New York. We’re the Yankees. You gotta go out there and expect championships and go all in every year, so I’m excited to see what they do.”\nOn Wednesday, Steinbrenner addressed Judge’s pointed comments while conducting an autopsy of the Yankees’ shortcomings via Zoom. The owner said that he did not watch Judge’s full postgame interview after Game 3 of the ALDS, but a few of the slugger’s quotes were brought to his attention.\nHis reaction?\n“Was I upset about it? No,” said Steinbrenner, who has a close relationship with Judge. “If I was a player, I would have expectations that my ownership group would do everything in their power every offseason to field a team that could win a championship. There’s nothing wrong with expectations. We did that this year. We had the highest payroll in the history of the organization. We got to a point later in the [last] offseason where we still felt we weren’t good enough, so we went out and signed [Cody] Bellinger to a huge contract. Glad we did. He’s a good player, so I definitely think we went all in this season. I definitely think we had a team that was every bit capable of winning a championship. No, it did not work out.\n“And by the way, I have expectations of my players. I expect them to obey the rules, to work hard, to listen to their coaches and the trainers and the strength guys. Expectations are a good thing. Any relationship in life is a two-way street, and part of that is having expectations of each other. So no, I wasn’t bothered by it at all.”\nAs Steinbrenner alluded to, he financed a franchise record competitive balance tax payroll, projected to be $341.8 million, in 2026. That ranked third in baseball behind the Mets ($359.4 million) and Dodgers ($432.8 million), per Cot’s Contracts.\nJudge, meanwhile, didn’t specify what he wanted the Yankees to do differently — or what he wants them to do going forward — after Game 3. He did, however, seem to take a shot at the Yankees’ so-called “run it back” approach — they retained a largely similar roster after getting bounced in the 2025 ALDS — despite endorsing the tactic in spring training and at the end of last year.\n“The toughest thing is each year, besides us, every other team gets better,” Judge said. “Every other team’s adding new players, getting new coaches, new philosophies, things they can do to improve their team. So it’s not like, ‘Hey, we’re just going to run it back and we’ll be in the postseason.’”\nWhile Judge didn’t vocalize his vision to reporters, Steinbrenner said that he and the right fielder had a “great conversation” on Tuesday that covered “a number of subjects.” The early offseason chats between owner and superstar have become an annual tradition, just like the Yankees’ premature playoff exits.\nWhile Steinbrenner didn’t detail their most recent talk, he did say, “We’ve got some decisions that need to be made right after the World Series is over, essentially, and then some we have more time on. And [Judge is] going to be a part of all that. So, yeah, that’s the deal.”\nSteinbrenner, speaking for himself, did take exception to the Yankees’ inconsistent offense this season, which he called “detrimental.” Of course, Judge’s injuries played a part in the lackluster performance, as he missed 99 days with a fractured rib and then the playoffs with his calf strain. But Steinbrenner believes the Yankees had enough talent to cover for Judge’s absences — Bellinger, Trent Grisham and Giancarlo Stanton also missed significant time — and so the club is going to look at potential changes to its coaching staff and hitting philosophies.\nSome lineup turnover is also expected with Grisham and Jazz Chisholm Jr. headed for free agency.\n“As a whole, they were very inconsistent when it came to run scoring,” Steinbrenner said, “and they were inconsistent for long periods of time.”\nAs for Judge’s injuries, those also became a point of contention between the player and the organization this year.\nHe repeatedly pushed to skip a rehab assignment when he returned from his rib injury and got his wish, but he only lasted seven games before suffering a moderate calf strain. Judge then seemed to take issue when Aaron Boone revealed the severity of his strain, and he said he wanted to make what would have been an expedited return for the Wild Card Series and ALDS.\nJudge was left off both rosters. On Wednesday, Cashman said that there were no regrets on the Yankees’ end, as “he just wasn’t physically able to post for us” due to the calf strain.\nCashman, also on Wednesday’s Zoom, added that Judge underwent an end-of-season physical and that his rib “came out fine.” Judge has a follow-up scheduled with a specialist, Dr. Gregory Pearl, but the Yankees believe he’s in a strong spot health-wise.\n“As of right now, we feel like we’re in a good place,” Cashman said, “and he can take advantage of the rest of the winter and be ready to go when spring training starts.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "310fe48e68b49128eee9",
+    "title": "Yankees Should Target 3 Free Agent Catchers To Pair With Austin Wells",
+    "source": "Heavy.com",
+    "author": "Maria Aldrich",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/target-3-free-agent-catchers-austin-wells/",
+    "published_iso": "2026-10-21T21:16:49+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 21:16:49 +0000",
+    "body": "The New York Yankees continue to stand behind Austin Wells, who sputtered endlessly at the plate early on in his 2026 campaign.\nAccording to Joel Sherman of the New York Post, the organization isn’t planning to part ways with Wells.\nHowever, that doesn’t mean they won’t be looking for added insurance.\nBearing this in mind, here are three free agents the Yankees could target.\nYankees Should Target 3 Key Free Agent Catchers\nRyan Jeffers\nThis one shouldn’t come as a surprise — Ryan Jeffers has been floating in rumors for quite some time.\nThe 29-year-old Minnesota Twins catcher just wrapped up his seventh season in the major leagues.\nHis entire career has been spent with the Twins after they selected him with the No. 59 pick in the second round of the 2018 MLB draft. He made his debut in August 2020.\nDuring Jeffers’ 2026 campaign, he slashed .256/.353/.461 with a career-high .814 OPS and 14 homers through 92 games.\nAlong the way, he posted 19 doubles, two triples and 56 RBIs.\nNow an impending free agent, he’s considered one of the top catchers on the market after displaying productivity over the years.\nIt’s worth noting that he faced a drop in numbers after returning to the lineup. As for Wells, he improved as the season went by, not the other way around.\nOf course, there’s still a chance Jeffers will remain in Minnesota as their homegrown player, but given New York’s situation, exploring the opportunity is worth it.\nWilliam Contreras\nIf the Yankees were to land 28-year-old William Contreras, they’d be in good hands.\nThe Milwaukee Brewers‘ catcher is gearing up for his World Series appearance this year.\nIn the postseason alone, he’s hitting .367/.457/.700 with a 1.157 OPS and three homers through eight games.\nLooking at his regular season stat sheet, he slashed .270/.341/.417 with a .758 OPS and 18 homers through 147 games.\nWells’ defensive stats aren’t New York’s top concern — his offensive numbers are.\nThis is where having Contreras on board helps. His All-Star title backs him up.\nBut to land him, the Yankees will need to knock out their competition.\nGary Sánchez\nPicking on Milwaukee again, 33-year-old Gary Sánchez is also approaching free agency.\nWith two Brewers catchers on the market as soon as the postseason concludes, New York has a glaring opportunity to bolster its roster with a catcher fresh out of the World Series.\nSánchez holds a few years over Contreras. He has 12 years under his belt, while Contreras has only seven.\nAdding to the temptation, Sánchez is already familiar with New York’s organization.\nHe spent seven seasons with the Yankees after making his debut in October 2015.\nOnce March 2022 rolled around, they traded him to the Twins alongside Gio Urshela.\nIn return, New York received Josh Donaldson, Isiah Kiner-Falefa and Ben Rortvedt.\nHaving a recent World Series competitor combined with prior New York experience certainly wouldn’t hurt the ballclub.\nBottom line, the Yankees need to supplement Wells.\nAs always, their hot stove season is expected to be chaotic as they navigate free agency.",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Austin Wells",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Should Target 3 Free Agent Catchers To Pair With Austin Wells",
+    "original_body": "The New York Yankees continue to stand behind Austin Wells, who sputtered endlessly at the plate early on in his 2026 campaign.\nAccording to Joel Sherman of the New York Post, the organization isn’t planning to part ways with Wells.\nHowever, that doesn’t mean they won’t be looking for added insurance.\nBearing this in mind, here are three free agents the Yankees could target.\nYankees Should Target 3 Key Free Agent Catchers\nRyan Jeffers\nThis one shouldn’t come as a surprise — Ryan Jeffers has been floating in rumors for quite some time.\nThe 29-year-old Minnesota Twins catcher just wrapped up his seventh season in the major leagues.\nHis entire career has been spent with the Twins after they selected him with the No. 59 pick in the second round of the 2018 MLB draft. He made his debut in August 2020.\nDuring Jeffers’ 2026 campaign, he slashed .256/.353/.461 with a career-high .814 OPS and 14 homers through 92 games.\nAlong the way, he posted 19 doubles, two triples and 56 RBIs.\nNow an impending free agent, he’s considered one of the top catchers on the market after displaying productivity over the years.\nIt’s worth noting that he faced a drop in numbers after returning to the lineup. As for Wells, he improved as the season went by, not the other way around.\nOf course, there’s still a chance Jeffers will remain in Minnesota as their homegrown player, but given New York’s situation, exploring the opportunity is worth it.\nWilliam Contreras\nIf the Yankees were to land 28-year-old William Contreras, they’d be in good hands.\nThe Milwaukee Brewers‘ catcher is gearing up for his World Series appearance this year.\nIn the postseason alone, he’s hitting .367/.457/.700 with a 1.157 OPS and three homers through eight games.\nLooking at his regular season stat sheet, he slashed .270/.341/.417 with a .758 OPS and 18 homers through 147 games.\nWells’ defensive stats aren’t New York’s top concern — his offensive numbers are.\nThis is where having Contreras on board helps. His All-Star title backs him up.\nBut to land him, the Yankees will need to knock out their competition.\nGary Sánchez\nPicking on Milwaukee again, 33-year-old Gary Sánchez is also approaching free agency.\nWith two Brewers catchers on the market as soon as the postseason concludes, New York has a glaring opportunity to bolster its roster with a catcher fresh out of the World Series.\nSánchez holds a few years over Contreras. He has 12 years under his belt, while Contreras has only seven.\nAdding to the temptation, Sánchez is already familiar with New York’s organization.\nHe spent seven seasons with the Yankees after making his debut in October 2015.\nOnce March 2022 rolled around, they traded him to the Twins alongside Gio Urshela.\nIn return, New York received Josh Donaldson, Isiah Kiner-Falefa and Ben Rortvedt.\nHaving a recent World Series competitor combined with prior New York experience certainly wouldn’t hurt the ballclub.\nBottom line, the Yankees need to supplement Wells.\nAs always, their hot stove season is expected to be chaotic as they navigate free agency.",
+    "rss_title": "Yankees Should Target 3 Free Agent Catchers To Pair With Austin Wells",
+    "rss_body": "The New York Yankees continue to stand behind Austin Wells, who sputtered endlessly at the plate early on in his 2026 campaign.\nAccording to Joel Sherman of the New York Post, the organization isn’t planning to part ways with Wells.\nHowever, that doesn’t mean they won’t be looking for added insurance.\nBearing this in mind, here are three free agents the Yankees could target.\nYankees Should Target 3 Key Free Agent Catchers\nRyan Jeffers\nThis one shouldn’t come as a surprise — Ryan Jeffers has been floating in rumors for quite some time.\nThe 29-year-old Minnesota Twins catcher just wrapped up his seventh season in the major leagues.\nHis entire career has been spent with the Twins after they selected him with the No. 59 pick in the second round of the 2018 MLB draft. He made his debut in August 2020.\nDuring Jeffers’ 2026 campaign, he slashed .256/.353/.461 with a career-high .814 OPS and 14 homers through 92 games.\nAlong the way, he posted 19 doubles, two triples and 56 RBIs.\nNow an impending free agent, he’s considered one of the top catchers on the market after displaying productivity over the years.\nIt’s worth noting that he faced a drop in numbers after returning to the lineup. As for Wells, he improved as the season went by, not the other way around.\nOf course, there’s still a chance Jeffers will remain in Minnesota as their homegrown player, but given New York’s situation, exploring the opportunity is worth it.\nWilliam Contreras\nIf the Yankees were to land 28-year-old William Contreras, they’d be in good hands.\nThe Milwaukee Brewers‘ catcher is gearing up for his World Series appearance this year.\nIn the postseason alone, he’s hitting .367/.457/.700 with a 1.157 OPS and three homers through eight games.\nLooking at his regular season stat sheet, he slashed .270/.341/.417 with a .758 OPS and 18 homers through 147 games.\nWells’ defensive stats aren’t New York’s top concern — his offensive numbers are.\nThis is where having Contreras on board helps. His All-Star title backs him up.\nBut to land him, the Yankees will need to knock out their competition.\nGary Sánchez\nPicking on Milwaukee again, 33-year-old Gary Sánchez is also approaching free agency.\nWith two Brewers catchers on the market as soon as the postseason concludes, New York has a glaring opportunity to bolster its roster with a catcher fresh out of the World Series.\nSánchez holds a few years over Contreras. He has 12 years under his belt, while Contreras has only seven.\nAdding to the temptation, Sánchez is already familiar with New York’s organization.\nHe spent seven seasons with the Yankees after making his debut in October 2015.\nOnce March 2022 rolled around, they traded him to the Twins alongside Gio Urshela.\nIn return, New York received Josh Donaldson, Isiah Kiner-Falefa and Ben Rortvedt.\nHaving a recent World Series competitor combined with prior New York experience certainly wouldn’t hurt the ballclub.\nBottom line, the Yankees need to supplement Wells.\nAs always, their hot stove season is expected to be chaotic as they navigate free agency.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "7be72480684d886f22e8",
+    "title": "Aaron Judge's front office statement should influence Yankees' offseason | Sporting News",
+    "source": "Sporting News",
+    "author": "Conor Liguori",
+    "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/aaron-judges-statement-should-influence-yankees-offseason/dfb12c123e6c5d0e8e8f4082",
+    "published_iso": "2026-10-21T20:56:50+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 20:56:50 +0000",
+    "body": "Aaron Judge made his opinion clear after the New York Yankees were swept by the Tampa Bay Rays in the ALDS.\n\"We're the Yankees. I feel we should go all-in and do what they need to do,\" Judge said. \"If we got holes, if it's finding certain players or personnel, whatever we need, you got to go out there and get it. That's why I signed back here, to play with the Yankees, is to fight for a championship and go all in.\"\nJudge clearly wants the Yankees' front office -- mostly owner Hal Steinbrenner and general manager Brian Cashman-- to go \"all-in\" and make significant moves this winter.\nA possible lockout may alter New York's plans. Without a salary cap, the Yankees are usually one of the top spending organizations in the Majors.\nThat might not be enough to appease Judge. Perhaps the Yankees are making the wrong decisions when it comes to roster construction.\nSpending money is great, but it won't matter if the players on the field don't make sense as a unit.\n\"Externally, the Yankees have a great one-two punch in their starting rotation with Cam Schlittler and Max Fried, but adding another ace wouldn't hurt,\" Bleacher Report's Kerry Miller wrote. \"Also, adding a right-handed corner infielder to pair with Luis Garcia Jr. and Ryan McMahon would make a lot of sense.\"\nOf course, the Yankees have major decisions to make with impending free agents, including Jazz Chisholm Jr. and David Bednar. How will they handle the rest of Giancarlo Stanton's contract?\nAlmost 35, the clock is ticking for Judge to win a World Series before his career comes to an end.\nNow more than ever, the Yankees must be aggressive in their pursuit of top free agents and make smart decisions in the trade market.",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Aaron Judge's front office statement should influence Yankees' offseason | Sporting News",
+    "original_body": "Aaron Judge made his opinion clear after the New York Yankees were swept by the Tampa Bay Rays in the ALDS.\n\"We're the Yankees. I feel we should go all-in and do what they need to do,\" Judge said. \"If we got holes, if it's finding certain players or personnel, whatever we need, you got to go out there and get it. That's why I signed back here, to play with the Yankees, is to fight for a championship and go all in.\"\nJudge clearly wants the Yankees' front office -- mostly owner Hal Steinbrenner and general manager Brian Cashman-- to go \"all-in\" and make significant moves this winter.\nA possible lockout may alter New York's plans. Without a salary cap, the Yankees are usually one of the top spending organizations in the Majors.\nThat might not be enough to appease Judge. Perhaps the Yankees are making the wrong decisions when it comes to roster construction.\nSpending money is great, but it won't matter if the players on the field don't make sense as a unit.\n\"Externally, the Yankees have a great one-two punch in their starting rotation with Cam Schlittler and Max Fried, but adding another ace wouldn't hurt,\" Bleacher Report's Kerry Miller wrote. \"Also, adding a right-handed corner infielder to pair with Luis Garcia Jr. and Ryan McMahon would make a lot of sense.\"\nOf course, the Yankees have major decisions to make with impending free agents, including Jazz Chisholm Jr. and David Bednar. How will they handle the rest of Giancarlo Stanton's contract?\nAlmost 35, the clock is ticking for Judge to win a World Series before his career comes to an end.\nNow more than ever, the Yankees must be aggressive in their pursuit of top free agents and make smart decisions in the trade market.",
+    "rss_title": "Aaron Judge's front office statement should influence Yankees' offseason | Sporting News",
+    "rss_body": "Aaron Judge made his opinion clear after the New York Yankees were swept by the Tampa Bay Rays in the ALDS.\n\"We're the Yankees. I feel we should go all-in and do what they need to do,\" Judge said. \"If we got holes, if it's finding certain players or personnel, whatever we need, you got to go out there and get it. That's why I signed back here, to play with the Yankees, is to fight for a championship and go all in.\"\nJudge clearly wants the Yankees' front office -- mostly owner Hal Steinbrenner and general manager Brian Cashman-- to go \"all-in\" and make significant moves this winter.\nA possible lockout may alter New York's plans. Without a salary cap, the Yankees are usually one of the top spending organizations in the Majors.\nThat might not be enough to appease Judge. Perhaps the Yankees are making the wrong decisions when it comes to roster construction.\nSpending money is great, but it won't matter if the players on the field don't make sense as a unit.\n\"Externally, the Yankees have a great one-two punch in their starting rotation with Cam Schlittler and Max Fried, but adding another ace wouldn't hurt,\" Bleacher Report's Kerry Miller wrote. \"Also, adding a right-handed corner infielder to pair with Luis Garcia Jr. and Ryan McMahon would make a lot of sense.\"\nOf course, the Yankees have major decisions to make with impending free agents, including Jazz Chisholm Jr. and David Bednar. How will they handle the rest of Giancarlo Stanton's contract?\nAlmost 35, the clock is ticking for Judge to win a World Series before his career comes to an end.\nNow more than ever, the Yankees must be aggressive in their pursuit of top free agents and make smart decisions in the trade market.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d87ea175269b54340fa3",
+    "title": "Judge (rib) will meet with doctor, surgery unlikely",
+    "source": "NBC Sports",
+    "author": "Eric Samulski; Aaron Judge",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-21/judge-rib-will-meet-with-doctor-surgery-unlikely",
+    "published_iso": "2026-10-21T20:48:10+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 20:48:10 +0000",
+    "body": "Yankees general manager Brian Cashman said that “Aaron Judge has a follow-up coming with Dr. Gregory Pearl regarding his rib.”\n            \n                In the same press conference, Yankees manager Aaron Boone said that he doesn’t anticipate offseason surgery for any Yankees player, which would include Judge. Cashman added that “We feel like we’re in a good place. He can take advantage of the rest of the winter and be ready to go when Spring Training starts.” While it does seem like Judge will be healthy heading into 2027, the bigger question is whether or not the Yankees will utilize the DH spot to take some stress off his body during the season and help him remain healthy for the full season as he gets older.",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Judge (rib) will meet with doctor, surgery unlikely",
+    "original_body": "Yankees general manager Brian Cashman said that “Aaron Judge has a follow-up coming with Dr. Gregory Pearl regarding his rib.”\n            \n                In the same press conference, Yankees manager Aaron Boone said that he doesn’t anticipate offseason surgery for any Yankees player, which would include Judge. Cashman added that “We feel like we’re in a good place. He can take advantage of the rest of the winter and be ready to go when Spring Training starts.” While it does seem like Judge will be healthy heading into 2027, the bigger question is whether or not the Yankees will utilize the DH spot to take some stress off his body during the season and help him remain healthy for the full season as he gets older.",
+    "rss_title": "Judge (rib) will meet with doctor, surgery unlikely",
+    "rss_body": "Yankees general manager Brian Cashman said that “Aaron Judge has a follow-up coming with Dr. Gregory Pearl regarding his rib.”\n            \n                In the same press conference, Yankees manager Aaron Boone said that he doesn’t anticipate offseason surgery for any Yankees player, which would include Judge. Cashman added that “We feel like we’re in a good place. He can take advantage of the rest of the winter and be ready to go when Spring Training starts.” While it does seem like Judge will be healthy heading into 2027, the bigger question is whether or not the Yankees will utilize the DH spot to take some stress off his body during the season and help him remain healthy for the full season as he gets older.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "22f3eea94420138d00b9",
     "title": "Aaron Boone hoping Yankees will ‘bully’ their way to 2027 World Series",
     "source": "Yahoo Sports",
