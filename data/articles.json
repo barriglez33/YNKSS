@@ -1,5 +1,127 @@
 [
   {
+    "id": "686b2971d1a6c9e56319",
+    "title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
+    "source": "KTVN",
+    "author": "RONALD BLUM",
+    "url": "https://www.2news.com/sports/steinbrenner-blames-yankees-players-for-lack-of-world-series-title-defends-boone-and-cashman/article_c71ca33b-23d5-53a3-b705-8ab525ecb5df.html",
+    "published_iso": "2026-10-21T23:08:09+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 23:08:09 +0000",
+    "body": "Yankees owner Hal Steinbrenner blamed New York's players for the team's failure to win the World Series and defended manager Aaron Boone and general manager Brian Cashman, who is getting a new contract as he enters his 30th season in charge of baseball operations.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”\nNew York has gone 17 seasons without a World Series title. That matches the Yankees' longest drought since winning their first championship in 1923, a gap between titles in 1978 and ’96.\n“If we don’t win a championship while I’m here, I’m sure that will be a frontline story of it all and how people think of me and how a fanbase reacts,” Boone said. \"I understand that.”\nSteinbrenner spoke alongside Cashman during a joint Zoom news conference from team's spring training ballpark in Tampa, Florida, and Boone followed with a video news conference from Yankee Stadium.\nNew York went 93-68 and finished second in the AL East to Tampa Bay. After sweeping Boston 2-0 in an AL Wild Card Series, the Yankees were swept 3-0 by the Rays in a Division Series.\n“In the end, the majority of the responsibility — I’ll say it for the fifth time — in my mind, my opinion, lies with the position players and the inability to score on a consistent basis throughout the course of the entire season for the most part,” Steinbrenner said. “Not on the shoulders of Aaron Boone does the blame lie.”\nCaptain Aaron Judge was limited to 66 games and hit .241 with 18 homers and 41 RBIs. The three-time AL MVP was sidelined from June 1 through Sept. 7 by a fractured rib, returned for seven games, then had a season-ending calf injury.\nGiancarlo Stanton's regular season ended with a calf injury on April 24.\n“Look, losing Stanton and losing Judge for 80-plus percent of the season in the offense’s defense was not part of the plan and it certainly had an effect,\" Steinbrenner said. “We just have to figure out how much of it was that.”\nHe doesn't feel a need to publicly pressure players in the manner of his father, George Steinbrenner.\n“I'm not convinced that with this team, in this day and age, that that’s as big of a motivator as you think it is,” Hal Steinbrenner said. “Twenty, 25 years ago, different generation, just a different scenario.”\nBoone heads into last season of contract\nBoone finished his ninth season as manager and has one season left on a two-year contract extension agreed to in February 2025. The 53-year-old former third baseman has led New York to a 790-565 regular-season record and three first-place finishes in the AL East but a 27-30 postseason mark.\n\"At the end of the day, we haven’t won a championship with me at the helm,\" he said. \"Ultimately that’s what has to happen to satisfy certainly myself — that's why I'm doing this — but to answer those questions ultimately.”\nSteinbrenner and the Yankees front office evaluated Boone after the season-ending loss.\n\"We had a weeklong conversation about Aaron Boone and was he part of the problem this year, and I don’t believe he was. I think he had a good year managing-wise,\" Steinbrenner said. “But, yes, I would consider, of course, moving on from Aaron Boone if I thought he was a huge part of a problem.”\nBoone defended not calling out players publicly for mistakes.\n“I know I get accused sometimes of being too positive in the media and I would say if you watch my post(game) conferences this year, there were a lot of days where I was talking about our struggles. But does that mean I’m calling individuals out in a public way?” Boone said. \"There is probably a time and place for that, but generally speaking to me that’s not leadership. That’s me giving red meat to people that want to be upset with somebody.”\nCashman will stay on as GM\nCashman, who turns 60 in July, said he and the team have agreed to a new contract and are working on minor details. He became general manager in February 1998 and is the most senior head of baseball operations in the major leagues — San Diego’s A.J. Preller, hired in August 2014, is second.\nWhen Cashman took over from Bob Watson in 1998, it was the 15th change at GM since George Steinbrenner bought the Yankees in January 1973. Cashman has been the only GM under Hal Steinbrenner, who succeeded his father as controlling owner in November 2008.\nNew York has won four World Series, seven AL pennants and 15 AL East titles since Cashman became GM. He had been working under a four-year contract announced in December 2022.\n“Cash is great every season,” Steinbrenner said. “The roster he put together, the team that we rolled out of spring training with was as good as any in baseball in my opinion. We had a lot of bumps and bruises along the way, but the team was fantastic and it was a world championship-caliber team.”\nFinancing with affiliat\ne of Apollo Global Management\nYankee Global Enterprises, the team's parent company, announced a $2.6 billion financing agreement in August with Apollo Sports Capital, an affiliate of Apollo Global Management. The deal included debt and equity.\n“It is not a precursor to fully selling the team,” Steinbrenner said. “The whole goal of the Apollo deal was to bring in capital into the company that would be there for us, to give us more financial stability for years and years to come, including the years when I’m out of here and the third generation is running the team.”",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
+    "original_body": "Yankees owner Hal Steinbrenner blamed New York's players for the team's failure to win the World Series and defended manager Aaron Boone and general manager Brian Cashman, who is getting a new contract as he enters his 30th season in charge of baseball operations.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”\nNew York has gone 17 seasons without a World Series title. That matches the Yankees' longest drought since winning their first championship in 1923, a gap between titles in 1978 and ’96.\n“If we don’t win a championship while I’m here, I’m sure that will be a frontline story of it all and how people think of me and how a fanbase reacts,” Boone said. \"I understand that.”\nSteinbrenner spoke alongside Cashman during a joint Zoom news conference from team's spring training ballpark in Tampa, Florida, and Boone followed with a video news conference from Yankee Stadium.\nNew York went 93-68 and finished second in the AL East to Tampa Bay. After sweeping Boston 2-0 in an AL Wild Card Series, the Yankees were swept 3-0 by the Rays in a Division Series.\n“In the end, the majority of the responsibility — I’ll say it for the fifth time — in my mind, my opinion, lies with the position players and the inability to score on a consistent basis throughout the course of the entire season for the most part,” Steinbrenner said. “Not on the shoulders of Aaron Boone does the blame lie.”\nCaptain Aaron Judge was limited to 66 games and hit .241 with 18 homers and 41 RBIs. The three-time AL MVP was sidelined from June 1 through Sept. 7 by a fractured rib, returned for seven games, then had a season-ending calf injury.\nGiancarlo Stanton's regular season ended with a calf injury on April 24.\n“Look, losing Stanton and losing Judge for 80-plus percent of the season in the offense’s defense was not part of the plan and it certainly had an effect,\" Steinbrenner said. “We just have to figure out how much of it was that.”\nHe doesn't feel a need to publicly pressure players in the manner of his father, George Steinbrenner.\n“I'm not convinced that with this team, in this day and age, that that’s as big of a motivator as you think it is,” Hal Steinbrenner said. “Twenty, 25 years ago, different generation, just a different scenario.”\nBoone heads into last season of contract\nBoone finished his ninth season as manager and has one season left on a two-year contract extension agreed to in February 2025. The 53-year-old former third baseman has led New York to a 790-565 regular-season record and three first-place finishes in the AL East but a 27-30 postseason mark.\n\"At the end of the day, we haven’t won a championship with me at the helm,\" he said. \"Ultimately that’s what has to happen to satisfy certainly myself — that's why I'm doing this — but to answer those questions ultimately.”\nSteinbrenner and the Yankees front office evaluated Boone after the season-ending loss.\n\"We had a weeklong conversation about Aaron Boone and was he part of the problem this year, and I don’t believe he was. I think he had a good year managing-wise,\" Steinbrenner said. “But, yes, I would consider, of course, moving on from Aaron Boone if I thought he was a huge part of a problem.”\nBoone defended not calling out players publicly for mistakes.\n“I know I get accused sometimes of being too positive in the media and I would say if you watch my post(game) conferences this year, there were a lot of days where I was talking about our struggles. But does that mean I’m calling individuals out in a public way?” Boone said. \"There is probably a time and place for that, but generally speaking to me that’s not leadership. That’s me giving red meat to people that want to be upset with somebody.”\nCashman will stay on as GM\nCashman, who turns 60 in July, said he and the team have agreed to a new contract and are working on minor details. He became general manager in February 1998 and is the most senior head of baseball operations in the major leagues — San Diego’s A.J. Preller, hired in August 2014, is second.\nWhen Cashman took over from Bob Watson in 1998, it was the 15th change at GM since George Steinbrenner bought the Yankees in January 1973. Cashman has been the only GM under Hal Steinbrenner, who succeeded his father as controlling owner in November 2008.\nNew York has won four World Series, seven AL pennants and 15 AL East titles since Cashman became GM. He had been working under a four-year contract announced in December 2022.\n“Cash is great every season,” Steinbrenner said. “The roster he put together, the team that we rolled out of spring training with was as good as any in baseball in my opinion. We had a lot of bumps and bruises along the way, but the team was fantastic and it was a world championship-caliber team.”\nFinancing with affiliat\ne of Apollo Global Management\nYankee Global Enterprises, the team's parent company, announced a $2.6 billion financing agreement in August with Apollo Sports Capital, an affiliate of Apollo Global Management. The deal included debt and equity.\n“It is not a precursor to fully selling the team,” Steinbrenner said. “The whole goal of the Apollo deal was to bring in capital into the company that would be there for us, to give us more financial stability for years and years to come, including the years when I’m out of here and the third generation is running the team.”",
+    "rss_title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
+    "rss_body": "Yankees owner Hal Steinbrenner blamed New York's players for the team's failure to win the World Series and defended manager Aaron Boone and general manager Brian Cashman, who is getting a new contract as he enters his 30th season in charge of baseball operations.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”\nNew York has gone 17 seasons without a World Series title. That matches the Yankees' longest drought since winning their first championship in 1923, a gap between titles in 1978 and ’96.\n“If we don’t win a championship while I’m here, I’m sure that will be a frontline story of it all and how people think of me and how a fanbase reacts,” Boone said. \"I understand that.”\nSteinbrenner spoke alongside Cashman during a joint Zoom news conference from team's spring training ballpark in Tampa, Florida, and Boone followed with a video news conference from Yankee Stadium.\nNew York went 93-68 and finished second in the AL East to Tampa Bay. After sweeping Boston 2-0 in an AL Wild Card Series, the Yankees were swept 3-0 by the Rays in a Division Series.\n“In the end, the majority of the responsibility — I’ll say it for the fifth time — in my mind, my opinion, lies with the position players and the inability to score on a consistent basis throughout the course of the entire season for the most part,” Steinbrenner said. “Not on the shoulders of Aaron Boone does the blame lie.”\nCaptain Aaron Judge was limited to 66 games and hit .241 with 18 homers and 41 RBIs. The three-time AL MVP was sidelined from June 1 through Sept. 7 by a fractured rib, returned for seven games, then had a season-ending calf injury.\nGiancarlo Stanton's regular season ended with a calf injury on April 24.\n“Look, losing Stanton and losing Judge for 80-plus percent of the season in the offense’s defense was not part of the plan and it certainly had an effect,\" Steinbrenner said. “We just have to figure out how much of it was that.”\nHe doesn't feel a need to publicly pressure players in the manner of his father, George Steinbrenner.\n“I'm not convinced that with this team, in this day and age, that that’s as big of a motivator as you think it is,” Hal Steinbrenner said. “Twenty, 25 years ago, different generation, just a different scenario.”\nBoone heads into last season of contract\nBoone finished his ninth season as manager and has one season left on a two-year contract extension agreed to in February 2025. The 53-year-old former third baseman has led New York to a 790-565 regular-season record and three first-place finishes in the AL East but a 27-30 postseason mark.\n\"At the end of the day, we haven’t won a championship with me at the helm,\" he said. \"Ultimately that’s what has to happen to satisfy certainly myself — that's why I'm doing this — but to answer those questions ultimately.”\nSteinbrenner and the Yankees front office evaluated Boone after the season-ending loss.\n\"We had a weeklong conversation about Aaron Boone and was he part of the problem this year, and I don’t believe he was. I think he had a good year managing-wise,\" Steinbrenner said. “But, yes, I would consider, of course, moving on from Aaron Boone if I thought he was a huge part of a problem.”\nBoone defended not calling out players publicly for mistakes.\n“I know I get accused sometimes of being too positive in the media and I would say if you watch my post(game) conferences this year, there were a lot of days where I was talking about our struggles. But does that mean I’m calling individuals out in a public way?” Boone said. \"There is probably a time and place for that, but generally speaking to me that’s not leadership. That’s me giving red meat to people that want to be upset with somebody.”\nCashman will stay on as GM\nCashman, who turns 60 in July, said he and the team have agreed to a new contract and are working on minor details. He became general manager in February 1998 and is the most senior head of baseball operations in the major leagues — San Diego’s A.J. Preller, hired in August 2014, is second.\nWhen Cashman took over from Bob Watson in 1998, it was the 15th change at GM since George Steinbrenner bought the Yankees in January 1973. Cashman has been the only GM under Hal Steinbrenner, who succeeded his father as controlling owner in November 2008.\nNew York has won four World Series, seven AL pennants and 15 AL East titles since Cashman became GM. He had been working under a four-year contract announced in December 2022.\n“Cash is great every season,” Steinbrenner said. “The roster he put together, the team that we rolled out of spring training with was as good as any in baseball in my opinion. We had a lot of bumps and bruises along the way, but the team was fantastic and it was a world championship-caliber team.”\nFinancing with affiliat\ne of Apollo Global Management\nYankee Global Enterprises, the team's parent company, announced a $2.6 billion financing agreement in August with Apollo Sports Capital, an affiliate of Apollo Global Management. The deal included debt and equity.\n“It is not a precursor to fully selling the team,” Steinbrenner said. “The whole goal of the Apollo deal was to bring in capital into the company that would be there for us, to give us more financial stability for years and years to come, including the years when I’m out of here and the third generation is running the team.”",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Oskaloosa Herald",
+        "url": "https://www.oskaloosa.com/sports/national_sports/steinbrenner-blames-yankees-players-for-lack-of-world-series-title-defends-boone-and-cashman/article_44c21b05-8079-54db-95b8-22f07037d27b.html",
+        "title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
+        "body_characters": 409
+      }
+    ]
+  },
+  {
+    "id": "1e692bcc49e62fa20f9b",
+    "title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
+    "source": "News Radio 1200 WOAI",
+    "author": "",
+    "url": "http://www.woai.com/content/2026-10-21-yankees-gm-brian-cashman-signs-new-contract/",
+    "published_iso": "2026-10-21T16:52:00+00:00",
+    "published_rfc2822": "Wed, 21 Oct 2026 16:52:00 +0000",
+    "body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
+    "article_date": "2026-10-21",
+    "tracked_people": [
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
+    "original_body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
+    "rss_title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
+    "rss_body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "1075 The River",
+        "url": "https://1075theriver.iheart.com/content/2026-10-21-yankees-gm-brian-cashman-signs-new-contract/",
+        "title": "Yankees GM Brian Cashman Signs New Contract | 1075 The River",
+        "body_characters": 1481
+      }
+    ]
+  },
+  {
     "id": "f64ad6ae799990a7dff6",
     "title": "Hal Steinbrenner responds to Aaron Judge’s insinuation Yankees haven’t been ‘all in’ enough: ‘We did that this year’",
     "source": "New York Daily News",
@@ -261,47 +383,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "6103b5551fe2aaad49db",
-    "title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
-    "source": "Oskaloosa Herald",
-    "author": "Chris O'Meara",
-    "url": "https://www.oskaloosa.com/sports/national_sports/steinbrenner-blames-yankees-players-for-lack-of-world-series-title-defends-boone-and-cashman/article_44c21b05-8079-54db-95b8-22f07037d27b.html",
-    "published_iso": "2026-10-21T17:20:30+00:00",
-    "published_rfc2822": "Wed, 21 Oct 2026 17:20:30 +0000",
-    "body": "NEW YORK (AP) — Yankees owner Hal Steinbrenner defended manager Aaron Boone and general manager Brian Cashman following New York's failure to win the World Series and blamed the players for the lack of success.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”",
-    "article_date": "2026-10-21",
-    "tracked_people": [
-      {
-        "name": "Aaron Boone",
-        "role": "Head Coach",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 30,
-        "batch": 2
-      },
-      {
-        "name": "Brian Cashman",
-        "role": "Senior VP & General Manager",
-        "status": "Front Office",
-        "type": "staff",
-        "id": 31,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
-    "original_body": "NEW YORK (AP) — Yankees owner Hal Steinbrenner defended manager Aaron Boone and general manager Brian Cashman following New York's failure to win the World Series and blamed the players for the lack of success.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”",
-    "rss_title": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman",
-    "rss_body": "NEW YORK (AP) — Yankees owner Hal Steinbrenner defended manager Aaron Boone and general manager Brian Cashman following New York's failure to win the World Series and blamed the players for the lack of success.\n“I thought Boone managed a good season, especially with the pitching staff,\" Steinbrenner said Wednesday. \"The bottom line is the players didn’t live up to their end of the bargain in the playoffs.”",
-    "translation_status": "fallback_original"
-  },
-  {
     "id": "02aa66b8d54076f1d9c0",
     "title": "Aaron Boone deserves 10th season with Yankees",
     "source": "yardbarker.com",
@@ -446,63 +527,6 @@
     "original_body": "NEW YORK -- Aaron Boone will be back for a 10th season as manager of the New York Yankees.\nThat’s a good thing because he is coming off his best season as the field boss. One could say that Boone deserves American League Manager of the Year votes. Why? The 2026 Yankees dealt with a lot of injuries and still won 93 games before succumbing to the Tampa Bay Rays in the American League Division Series.\nThis is what Boone had to deal with in 2026: Eighteen players made a total of 24 appearances on the injured list. It started with right fielder Aaron Judge, who missed 93 games because of a fractured right rib and right calf strain. Let’s not forget Giancarlo Stanton missing 135 games with calf injuries.\nWhile Cam Schlittler was a steady presence on the mound, four of the Yankee starters – Gerrit Cole, Max Fried, Carlos Rodon and Clark Schmidt spent time on the IL.\nWith his veterans out of commission for a lengthy period or not producing, Boone relied on much younger players besides Schlittler. It turned out that Ben Rice was New York’s best hitter, hitting a career-high 41 home runs, while shortstop George Lombard Jr. and outfielder Spencer Jones saw significant playing time after the All-Star Break.\nAnthony Volpe seemed more comfortable at second and third base than he did at shortstop. Volpe even went 17-for-51 (.333) with runners in scoring position. Right-hander Will Warren, who spent most of the season in the rotation, was second behind Schlittler in victories (11).\nBoone lucked out with relievers Brent Headrick, Paul Blackburn, John Schreiber and Ryan Yarbrough, who saw a lot of action before closer David Bednar saw the ninth inning. Blackburn was arguably Boone’s best reliever, winning seven games with a 1.59 ERA in 62 games.\nDuring his tenure with the Yankees, Boone has won 790 games, guided the team to the postseason eight of the last nine seasons and went to the World Series in 2024, only to lose to the Dodgers in five games.\nPrior to ‘26, Boone received plenty of criticism because the team never won a World Series title under his watch and relied heavily on analytics. This year, the team was flawed. There were times when small ball had to be in play because the Yankees ranked 26th in the major leagues in hitting and sixth in strikeouts.\nNew York was near the middle of the pack in defensive runs saved. But it was defense that hurt the Yankees in the ALDS. Who can forget the three errors they committed in the first inning of Game 2, a contest they lost 5-2 and that put them in a 2-0 hole in the series.\n\"Look, obviously we dealt with a lot of adversity throughout the year … from the injury front, but guys stepped up all year, and we were able to win a lot of games and give ourselves an opportunity and then just came up short,\" Boone said after the Yankees were eliminated from postseason play.\nAll quotations obtained firsthand unless otherwise noted.\nMore must-reads:\nGet the latest news and rumors, customized to your favorite sports and teams. Emailed daily. Always free!",
     "rss_title": "Aaron Boone deserves 10th season with Yankees",
     "rss_body": "NEW YORK -- Aaron Boone will be back for a 10th season as manager of the New York Yankees.\nThat’s a good thing because he is coming off his best season as the field boss. One could say that Boone deserves American League Manager of the Year votes. Why? The 2026 Yankees dealt with a lot of injuries and still won 93 games before succumbing to the Tampa Bay Rays in the American League Division Series.\nThis is what Boone had to deal with in 2026: Eighteen players made a total of 24 appearances on the injured list. It started with right fielder Aaron Judge, who missed 93 games because of a fractured right rib and right calf strain. Let’s not forget Giancarlo Stanton missing 135 games with calf injuries.\nWhile Cam Schlittler was a steady presence on the mound, four of the Yankee starters – Gerrit Cole, Max Fried, Carlos Rodon and Clark Schmidt spent time on the IL.\nWith his veterans out of commission for a lengthy period or not producing, Boone relied on much younger players besides Schlittler. It turned out that Ben Rice was New York’s best hitter, hitting a career-high 41 home runs, while shortstop George Lombard Jr. and outfielder Spencer Jones saw significant playing time after the All-Star Break.\nAnthony Volpe seemed more comfortable at second and third base than he did at shortstop. Volpe even went 17-for-51 (.333) with runners in scoring position. Right-hander Will Warren, who spent most of the season in the rotation, was second behind Schlittler in victories (11).\nBoone lucked out with relievers Brent Headrick, Paul Blackburn, John Schreiber and Ryan Yarbrough, who saw a lot of action before closer David Bednar saw the ninth inning. Blackburn was arguably Boone’s best reliever, winning seven games with a 1.59 ERA in 62 games.\nDuring his tenure with the Yankees, Boone has won 790 games, guided the team to the postseason eight of the last nine seasons and went to the World Series in 2024, only to lose to the Dodgers in five games.\nPrior to ‘26, Boone received plenty of criticism because the team never won a World Series title under his watch and relied heavily on analytics. This year, the team was flawed. There were times when small ball had to be in play because the Yankees ranked 26th in the major leagues in hitting and sixth in strikeouts.\nNew York was near the middle of the pack in defensive runs saved. But it was defense that hurt the Yankees in the ALDS. Who can forget the three errors they committed in the first inning of Game 2, a contest they lost 5-2 and that put them in a 2-0 hole in the series.\n\"Look, obviously we dealt with a lot of adversity throughout the year … from the injury front, but guys stepped up all year, and we were able to win a lot of games and give ourselves an opportunity and then just came up short,\" Boone said after the Yankees were eliminated from postseason play.\nAll quotations obtained firsthand unless otherwise noted.\nMore must-reads:\nGet the latest news and rumors, customized to your favorite sports and teams. Emailed daily. Always free!",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "1e692bcc49e62fa20f9b",
-    "title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
-    "source": "News Radio 1200 WOAI",
-    "author": "",
-    "url": "http://www.woai.com/content/2026-10-21-yankees-gm-brian-cashman-signs-new-contract/",
-    "published_iso": "2026-10-21T16:52:00+00:00",
-    "published_rfc2822": "Wed, 21 Oct 2026 16:52:00 +0000",
-    "body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
-    "article_date": "2026-10-21",
-    "tracked_people": [
-      {
-        "name": "Cody Bellinger",
-        "role": "Left Fielder",
-        "status": "Active",
-        "type": "player",
-        "id": 4,
-        "batch": 1
-      },
-      {
-        "name": "Ryan McMahon",
-        "role": "Third Baseman",
-        "status": "Active (Reinstated from 10-day IL)",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Aaron Boone",
-        "role": "Head Coach",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 30,
-        "batch": 2
-      },
-      {
-        "name": "Brian Cashman",
-        "role": "Senior VP & General Manager",
-        "status": "Front Office",
-        "type": "staff",
-        "id": 31,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
-    "original_body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
-    "rss_title": "Yankees GM Brian Cashman Signs New Contract | News Radio 1200 WOAI",
-    "rss_body": "Brian Cashman will continue his tenure as the New York Yankees' general manager after agreeing to a new contract. The 59-year-old has been with the team for 29 seasons, during which the Yankees have won four World Series titles and 15 American League East titles. However, the team has not claimed a world title since 2009 and was recently swept out of the AL Division Series by the Tampa Bay Rays.\nDespite the team's recent struggles, Cashman remains a central figure in the Yankees' management. According to Yahoo Sports, fans have expressed frustration over the team's performance, particularly after an embarrassing ALDS loss to the Toronto Blue Jays last October. Critics have pointed to Cashman's limited roster changes during the offseason, including the acquisition of Ryan Weathers and the re-signing of Cody Bellinger, as insufficient to address the team's issues.\nThe Yankees face several pressing questions, including decisions about Aaron Boone's future as manager and how to handle players like Giancarlo Stanton and Ryan McMahon. The Sporting News reports that McMahon, who has struggled offensively, may be traded, with the Yankees potentially covering part of his salary to facilitate a deal.\nAs the Yankees look to the future, Cashman will need to navigate these challenges and make strategic decisions to strengthen the team. His ability to find value in trades and manage the roster will be crucial as the Yankees aim to return to the top of the baseball world.",
     "translation_status": "fallback_original"
   },
   {
