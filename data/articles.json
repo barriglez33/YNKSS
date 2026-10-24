@@ -1,5 +1,88 @@
 [
   {
+    "id": "136ac326f7c7c8dcef91",
+    "title": "Report: Yankees running it back with pitching coach Matt Blake",
+    "source": "ktop1490.com",
+    "author": "",
+    "url": "https://www.ktop1490.com/2026/10/24/report-yankees-running-it-back-with-pitching-coach-matt-blake/",
+    "published_iso": "2026-10-24T21:00:00+00:00",
+    "published_rfc2822": "Sat, 24 Oct 2026 21:00:00 +0000",
+    "body": "It was not a banner year for the New York Yankees, but the organization appears prepared to stay with the same coaching group for 2027. In their latest move, the Yankees have agreed to sign pitching coach Matt Blake to a three-year contract extension, according to the New York Post.\nBlake’s extension comes on the heels of the Yankees retaining manager Aaron Boone and general manager Brian Cashman. New York had the American League’s highest payroll ($310 million) last season, but did not make it past the AL Division Series for the second year in a row.\nThe Yankees’ 2026 season ended in disappointment, as New York (93-68) finished 4-1/2 games behind the Tampa Bay Rays in the AL East and then were swept in the playoffs by the Rays.\nBlake, for his part, seemed to hold up his end of the bargain, overseeing a staff that included Cy Young contender Cam Schlittler (14-6, 1.95 ERA) and an effective return from Gerrit Cole (10-9, 3.61). Will Warren gave the group a third 10-game winner (11-6, 3.92), but Max Fried (5-5, 2.80) and Carlos Rodon (7-3, 2.67) missed large chunks of the season due to injury.\nThe Yankees finished first in the majors with a 3.23 team ERA under the 41-year-old Blake, who has been the team’s pitching coach since the 2020 season.",
+    "article_date": "2026-10-24",
+    "tracked_people": [
+      {
+        "name": "Gerrit Cole",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Max Fried",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Carlos Rodón",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Will Warren",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Report: Yankees running it back with pitching coach Matt Blake",
+    "original_body": "It was not a banner year for the New York Yankees, but the organization appears prepared to stay with the same coaching group for 2027. In their latest move, the Yankees have agreed to sign pitching coach Matt Blake to a three-year contract extension, according to the New York Post.\nBlake’s extension comes on the heels of the Yankees retaining manager Aaron Boone and general manager Brian Cashman. New York had the American League’s highest payroll ($310 million) last season, but did not make it past the AL Division Series for the second year in a row.\nThe Yankees’ 2026 season ended in disappointment, as New York (93-68) finished 4-1/2 games behind the Tampa Bay Rays in the AL East and then were swept in the playoffs by the Rays.\nBlake, for his part, seemed to hold up his end of the bargain, overseeing a staff that included Cy Young contender Cam Schlittler (14-6, 1.95 ERA) and an effective return from Gerrit Cole (10-9, 3.61). Will Warren gave the group a third 10-game winner (11-6, 3.92), but Max Fried (5-5, 2.80) and Carlos Rodon (7-3, 2.67) missed large chunks of the season due to injury.\nThe Yankees finished first in the majors with a 3.23 team ERA under the 41-year-old Blake, who has been the team’s pitching coach since the 2020 season.",
+    "rss_title": "Report: Yankees running it back with pitching coach Matt Blake",
+    "rss_body": "It was not a banner year for the New York Yankees, but the organization appears prepared to stay with the same coaching group for 2027. In their latest move, the Yankees have agreed to sign pitching coach Matt Blake to a three-year contract extension, according to the New York Post.\nBlake’s extension comes on the heels of the Yankees retaining manager Aaron Boone and general manager Brian Cashman. New York had the American League’s highest payroll ($310 million) last season, but did not make it past the AL Division Series for the second year in a row.\nThe Yankees’ 2026 season ended in disappointment, as New York (93-68) finished 4-1/2 games behind the Tampa Bay Rays in the AL East and then were swept in the playoffs by the Rays.\nBlake, for his part, seemed to hold up his end of the bargain, overseeing a staff that included Cy Young contender Cam Schlittler (14-6, 1.95 ERA) and an effective return from Gerrit Cole (10-9, 3.61). Will Warren gave the group a third 10-game winner (11-6, 3.92), but Max Fried (5-5, 2.80) and Carlos Rodon (7-3, 2.67) missed large chunks of the season due to injury.\nThe Yankees finished first in the majors with a 3.23 team ERA under the 41-year-old Blake, who has been the team’s pitching coach since the 2020 season.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "9c3c64c6bb0d53274931",
     "title": "Yankees icon Hideki Matsui is heading home to run Yomiuri",
     "source": "Empire Sports Media",
