@@ -1,5 +1,355 @@
 [
   {
+    "id": "be4fed93827c0abb0d6a",
+    "title": "Yankees 2027: cómo pesan las ofertas calificadas en su próximo plantel - UNANIMO Deportes",
+    "source": "UNANIMO Deportes",
+    "author": "Camilo Manrique",
+    "url": "https://unanimodeportes.com/mlb/yankees-2027-como-pesan-las-ofertas-calificadas-en-su-proximo-plantel/",
+    "published_iso": "2026-11-03T22:40:17+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 22:40:17 +0000",
+    "body": "Los Yankees presentaron una oferta calificada a David Bednar, pero no a Jazz Chisholm Jr., en dos decisiones que empiezan a definir su invierno. El mecanismo permite retener a un agente libre por una temporada a un salario establecido o recibir compensación si rechaza y firma con otra organización. Para Nueva York, afecta tanto al plantel inmediato como al talento que podrá incorporar después.\nLa prioridad deportiva detrás de Bednar resulta clara: terminó 2026 con 35 salvamentos y efectividad de 2.47. Su continuidad resolvería el puesto de cerrador en un bullpen que también tiene como agentes libres a Paul Blackburn, Tim Hill, Ryan Yarbrough, Michael Fulmer y John Schreiber. Perderlo añadiría otra necesidad a una reconstrucción que ya exige varios movimientos.\n- LEER MÁS: Yankees 2027: los cambios de liderazgo que plantea Jorge Posada\n- LEER MÁS: ¡Los White Sox fichan talento de los campeones Brewers para 2027!\nCómo afectan las ofertas calificadas al plantel de los Yankees\nSi Bednar acepta, regresaría para 2027 por un año y US$23,15 millones. Eso daría certeza sobre quién lanzará la novena entrada, pero también comprometería una cantidad importante del presupuesto en un solo relevista. La oferta representa una decisión real de inversión: el club debe estar preparado para asumir ese salario si el jugador elige quedarse.\nSi la rechaza y firma un contrato de Grandes Ligas con otro equipo antes del siguiente draft, los Yankees recibirían, con las reglas vigentes, una selección después de la cuarta ronda del draft de 2027, debido a su condición de pagadores del impuesto de balance competitivo. Esa compensación aporta una oportunidad de sumar talento futuro, pero no resuelve el reemplazo del cerrador para la próxima temporada.\nVer esta publicación en Instagram\nCon Chisholm, Nueva York evitó quedar comprometido con ese salario si hubiera aceptado la oferta, a cambio de perder la posibilidad de compensación por su salida. El segunda base bateó .231, con 19 jonrones y 41 robos, en 2026. Anthony Volpe, José Caballero y Luis García Jr. aparecen entre las alternativas internas para la posición, aunque también sigue abierta la posibilidad de negociar un regreso de Jazz.\nEl mecanismo también encarece las incorporaciones. Por su condición fiscal, si los Yankees contratan a un agente libre de otra organización que haya rechazado una oferta calificada, perderían sus selecciones disponibles segunda y quinta más altas, además de US$1 millón de su bolsa de bonos internacionales. Por eso, al comparar refuerzos deben valorar el salario y las oportunidades de captar prospectos que sacrificarían.\nSuscríbete al Newsletter de Unanimo y recibe gratis las últimas noticias. Dale click aquí\nCuándo decide Bednar y qué cambia con Trent Grisham\nBednar tiene hasta el martes 17 de noviembre, a las 4:00 p. m. ET, para aceptar o rechazar. Durante ese plazo puede explorar el mercado y negociar con los Yankees. Rechazar la oferta tampoco impediría acordar después un contrato de varios años con Nueva York: esa decisión mantiene abierta su agencia libre y no equivale a una despedida.\nTrent Grisham representa una situación distinta: aceptó la oferta del invierno anterior para jugar en 2026 y no puede recibir otra, porque cada pelotero solo es elegible una vez en su carrera. Ahora vuelve al mercado sin esa compensación asociada. Su situación deja al jardín central entre las posiciones por resolver, junto con la segunda base y el bullpen, mientras los Yankees deciden cuánto invertir para conservar piezas y cuánto destinar a reemplazarlas.\nTabla de posiciones de la MLBConsulta las posiciones y los resultados actualizados.",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees 2027: cómo pesan las ofertas calificadas en su próximo plantel - UNANIMO Deportes",
+    "original_body": "Los Yankees presentaron una oferta calificada a David Bednar, pero no a Jazz Chisholm Jr., en dos decisiones que empiezan a definir su invierno. El mecanismo permite retener a un agente libre por una temporada a un salario establecido o recibir compensación si rechaza y firma con otra organización. Para Nueva York, afecta tanto al plantel inmediato como al talento que podrá incorporar después.\nLa prioridad deportiva detrás de Bednar resulta clara: terminó 2026 con 35 salvamentos y efectividad de 2.47. Su continuidad resolvería el puesto de cerrador en un bullpen que también tiene como agentes libres a Paul Blackburn, Tim Hill, Ryan Yarbrough, Michael Fulmer y John Schreiber. Perderlo añadiría otra necesidad a una reconstrucción que ya exige varios movimientos.\n- LEER MÁS: Yankees 2027: los cambios de liderazgo que plantea Jorge Posada\n- LEER MÁS: ¡Los White Sox fichan talento de los campeones Brewers para 2027!\nCómo afectan las ofertas calificadas al plantel de los Yankees\nSi Bednar acepta, regresaría para 2027 por un año y US$23,15 millones. Eso daría certeza sobre quién lanzará la novena entrada, pero también comprometería una cantidad importante del presupuesto en un solo relevista. La oferta representa una decisión real de inversión: el club debe estar preparado para asumir ese salario si el jugador elige quedarse.\nSi la rechaza y firma un contrato de Grandes Ligas con otro equipo antes del siguiente draft, los Yankees recibirían, con las reglas vigentes, una selección después de la cuarta ronda del draft de 2027, debido a su condición de pagadores del impuesto de balance competitivo. Esa compensación aporta una oportunidad de sumar talento futuro, pero no resuelve el reemplazo del cerrador para la próxima temporada.\nVer esta publicación en Instagram\nCon Chisholm, Nueva York evitó quedar comprometido con ese salario si hubiera aceptado la oferta, a cambio de perder la posibilidad de compensación por su salida. El segunda base bateó .231, con 19 jonrones y 41 robos, en 2026. Anthony Volpe, José Caballero y Luis García Jr. aparecen entre las alternativas internas para la posición, aunque también sigue abierta la posibilidad de negociar un regreso de Jazz.\nEl mecanismo también encarece las incorporaciones. Por su condición fiscal, si los Yankees contratan a un agente libre de otra organización que haya rechazado una oferta calificada, perderían sus selecciones disponibles segunda y quinta más altas, además de US$1 millón de su bolsa de bonos internacionales. Por eso, al comparar refuerzos deben valorar el salario y las oportunidades de captar prospectos que sacrificarían.\nSuscríbete al Newsletter de Unanimo y recibe gratis las últimas noticias. Dale click aquí\nCuándo decide Bednar y qué cambia con Trent Grisham\nBednar tiene hasta el martes 17 de noviembre, a las 4:00 p. m. ET, para aceptar o rechazar. Durante ese plazo puede explorar el mercado y negociar con los Yankees. Rechazar la oferta tampoco impediría acordar después un contrato de varios años con Nueva York: esa decisión mantiene abierta su agencia libre y no equivale a una despedida.\nTrent Grisham representa una situación distinta: aceptó la oferta del invierno anterior para jugar en 2026 y no puede recibir otra, porque cada pelotero solo es elegible una vez en su carrera. Ahora vuelve al mercado sin esa compensación asociada. Su situación deja al jardín central entre las posiciones por resolver, junto con la segunda base y el bullpen, mientras los Yankees deciden cuánto invertir para conservar piezas y cuánto destinar a reemplazarlas.\nTabla de posiciones de la MLBConsulta las posiciones y los resultados actualizados.",
+    "rss_title": "Yankees 2027: cómo pesan las ofertas calificadas en su próximo plantel - UNANIMO Deportes",
+    "rss_body": "Los Yankees presentaron una oferta calificada a David Bednar, pero no a Jazz Chisholm Jr., en dos decisiones que empiezan a definir su invierno. El mecanismo permite retener a un agente libre por una temporada a un salario establecido o recibir compensación si rechaza y firma con otra organización. Para Nueva York, afecta tanto al plantel inmediato como al talento que podrá incorporar después.\nLa prioridad deportiva detrás de Bednar resulta clara: terminó 2026 con 35 salvamentos y efectividad de 2.47. Su continuidad resolvería el puesto de cerrador en un bullpen que también tiene como agentes libres a Paul Blackburn, Tim Hill, Ryan Yarbrough, Michael Fulmer y John Schreiber. Perderlo añadiría otra necesidad a una reconstrucción que ya exige varios movimientos.\n- LEER MÁS: Yankees 2027: los cambios de liderazgo que plantea Jorge Posada\n- LEER MÁS: ¡Los White Sox fichan talento de los campeones Brewers para 2027!\nCómo afectan las ofertas calificadas al plantel de los Yankees\nSi Bednar acepta, regresaría para 2027 por un año y US$23,15 millones. Eso daría certeza sobre quién lanzará la novena entrada, pero también comprometería una cantidad importante del presupuesto en un solo relevista. La oferta representa una decisión real de inversión: el club debe estar preparado para asumir ese salario si el jugador elige quedarse.\nSi la rechaza y firma un contrato de Grandes Ligas con otro equipo antes del siguiente draft, los Yankees recibirían, con las reglas vigentes, una selección después de la cuarta ronda del draft de 2027, debido a su condición de pagadores del impuesto de balance competitivo. Esa compensación aporta una oportunidad de sumar talento futuro, pero no resuelve el reemplazo del cerrador para la próxima temporada.\nVer esta publicación en Instagram\nCon Chisholm, Nueva York evitó quedar comprometido con ese salario si hubiera aceptado la oferta, a cambio de perder la posibilidad de compensación por su salida. El segunda base bateó .231, con 19 jonrones y 41 robos, en 2026. Anthony Volpe, José Caballero y Luis García Jr. aparecen entre las alternativas internas para la posición, aunque también sigue abierta la posibilidad de negociar un regreso de Jazz.\nEl mecanismo también encarece las incorporaciones. Por su condición fiscal, si los Yankees contratan a un agente libre de otra organización que haya rechazado una oferta calificada, perderían sus selecciones disponibles segunda y quinta más altas, además de US$1 millón de su bolsa de bonos internacionales. Por eso, al comparar refuerzos deben valorar el salario y las oportunidades de captar prospectos que sacrificarían.\nSuscríbete al Newsletter de Unanimo y recibe gratis las últimas noticias. Dale click aquí\nCuándo decide Bednar y qué cambia con Trent Grisham\nBednar tiene hasta el martes 17 de noviembre, a las 4:00 p. m. ET, para aceptar o rechazar. Durante ese plazo puede explorar el mercado y negociar con los Yankees. Rechazar la oferta tampoco impediría acordar después un contrato de varios años con Nueva York: esa decisión mantiene abierta su agencia libre y no equivale a una despedida.\nTrent Grisham representa una situación distinta: aceptó la oferta del invierno anterior para jugar en 2026 y no puede recibir otra, porque cada pelotero solo es elegible una vez en su carrera. Ahora vuelve al mercado sin esa compensación asociada. Su situación deja al jardín central entre las posiciones por resolver, junto con la segunda base y el bullpen, mientras los Yankees deciden cuánto invertir para conservar piezas y cuánto destinar a reemplazarlas.\nTabla de posiciones de la MLBConsulta las posiciones y los resultados actualizados.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ba000f8203982e16ce28",
+    "title": "Brewers manager Pat Murphy says he called Yankees GM Brian Cashman to 'explain' profane comment after World Series",
+    "source": "Yahoo Sports",
+    "author": "Jack Baer",
+    "url": "https://sports.yahoo.com/mlb/article/brewers-manager-pat-murphy-says-he-called-yankees-gm-brian-cashman-to-explain-profane-comment-after-world-series-223815670.html",
+    "published_iso": "2026-11-03T22:38:15+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 22:38:15 +0000",
+    "body": "Milwaukee Brewers manager Pat Murphy appears to have one thing he regrets after a World Series-winning October.\nThe baseball veteran drew significant attention following the Brewers' five-game win in the 2026 Fall Classic after a camera caught him receiving the game-ending ball from first baseman Jake Bauers. Murphy embraced Bauers, the club's most notable pending free agent, and then said the following:\n\"You're going to be a rich f***er. Just remember when you're on that horses*** Yankees team and you guys are all playing for yourself, just remember this is the way we used to do it.\"\nBauers laughed off the comment and said \"You ain't getting rid of me that easy,\" but Yankees fans were less amused.\nMurphy addressed the matter during an appearance on the New York Post's \"The Show\" podcast published Tuesday and said that he called Yankees general manager Brian Cashman after finding out his moment with Bauers had reached social media, calling it a hot mic moment:\n\"I called Brian Cashman right away when I heard it got out … I heard the next morning, we're at the parade and everybody was talking about it. I was like, 'What? How did they hear that?' You know, hot mic. I'm like, 'Ah, whatever.' So I picked up the phone and called Brian right away and had a good conversation. The best I could, I tried to explain that I wasn't talking about the 2026 Yankees.\n\"He's just such a good guy, man. He's just a levelheaded — he's been through so much. I wish I had his demeanor and his way of handling things. I felt horribly if I slandered the Yankees because I was just referring to them as this iconic machine.\"\nIt's perhaps worth noting this wasn't really a hot mic moment, which implies Murphy didn't know he was being recorded. A person would have clearly been holding up a camera or phone to document an interesting moment, a player handing his manager a baseball with enormous meaning to both of them. Cameras and media members were all around them.\nAs for the exact meaning of Murphy's comment, the manager said Bauer's approaching payday had become a running joke between them, and that he only meant the Yankees in sort of abstract way.\n\"We had a little thing going. After every celebration, I'd shake his hand, I'd say, 'You rich so-and-so.' You're going to leave us, we're not going to be able to pay you. You're going to leave us and you're going to forget how you did things, how you were using the opposite field, taking your walks, all the things that made you great. I would just give him this rhetoric every time, 'You'll forget all about us.'\n\"I didn't mean to say these Yankees, like the 2026 or whatever Yankees are selfish. I was just referring to the teams that have a lot of high-paid, long-contract players. Sometimes it's harder to get all those guys together to play together. I use the Yankees because I knew Jake was with them before.\"\nIt remains to be seen if the non-Cashman members of the organization accept that explanation as well, but it's also hardly the most important thing for both the team and players right now.\nMurphy is in his third season as Brewers manager and is overwhelmingly favored to take home a third straight NL Manager of the Year award next week.\nBauers has been playing in MLB since 2018, but this season was the first time playing more than 120 games in a single season. He led the club in homers with 26 during the regular season and won NLCS MVP.",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Brewers manager Pat Murphy says he called Yankees GM Brian Cashman to 'explain' profane comment after World Series",
+    "original_body": "Milwaukee Brewers manager Pat Murphy appears to have one thing he regrets after a World Series-winning October.\nThe baseball veteran drew significant attention following the Brewers' five-game win in the 2026 Fall Classic after a camera caught him receiving the game-ending ball from first baseman Jake Bauers. Murphy embraced Bauers, the club's most notable pending free agent, and then said the following:\n\"You're going to be a rich f***er. Just remember when you're on that horses*** Yankees team and you guys are all playing for yourself, just remember this is the way we used to do it.\"\nBauers laughed off the comment and said \"You ain't getting rid of me that easy,\" but Yankees fans were less amused.\nMurphy addressed the matter during an appearance on the New York Post's \"The Show\" podcast published Tuesday and said that he called Yankees general manager Brian Cashman after finding out his moment with Bauers had reached social media, calling it a hot mic moment:\n\"I called Brian Cashman right away when I heard it got out … I heard the next morning, we're at the parade and everybody was talking about it. I was like, 'What? How did they hear that?' You know, hot mic. I'm like, 'Ah, whatever.' So I picked up the phone and called Brian right away and had a good conversation. The best I could, I tried to explain that I wasn't talking about the 2026 Yankees.\n\"He's just such a good guy, man. He's just a levelheaded — he's been through so much. I wish I had his demeanor and his way of handling things. I felt horribly if I slandered the Yankees because I was just referring to them as this iconic machine.\"\nIt's perhaps worth noting this wasn't really a hot mic moment, which implies Murphy didn't know he was being recorded. A person would have clearly been holding up a camera or phone to document an interesting moment, a player handing his manager a baseball with enormous meaning to both of them. Cameras and media members were all around them.\nAs for the exact meaning of Murphy's comment, the manager said Bauer's approaching payday had become a running joke between them, and that he only meant the Yankees in sort of abstract way.\n\"We had a little thing going. After every celebration, I'd shake his hand, I'd say, 'You rich so-and-so.' You're going to leave us, we're not going to be able to pay you. You're going to leave us and you're going to forget how you did things, how you were using the opposite field, taking your walks, all the things that made you great. I would just give him this rhetoric every time, 'You'll forget all about us.'\n\"I didn't mean to say these Yankees, like the 2026 or whatever Yankees are selfish. I was just referring to the teams that have a lot of high-paid, long-contract players. Sometimes it's harder to get all those guys together to play together. I use the Yankees because I knew Jake was with them before.\"\nIt remains to be seen if the non-Cashman members of the organization accept that explanation as well, but it's also hardly the most important thing for both the team and players right now.\nMurphy is in his third season as Brewers manager and is overwhelmingly favored to take home a third straight NL Manager of the Year award next week.\nBauers has been playing in MLB since 2018, but this season was the first time playing more than 120 games in a single season. He led the club in homers with 26 during the regular season and won NLCS MVP.",
+    "rss_title": "Brewers manager Pat Murphy says he called Yankees GM Brian Cashman to 'explain' profane comment after World Series",
+    "rss_body": "Milwaukee Brewers manager Pat Murphy appears to have one thing he regrets after a World Series-winning October.\nThe baseball veteran drew significant attention following the Brewers' five-game win in the 2026 Fall Classic after a camera caught him receiving the game-ending ball from first baseman Jake Bauers. Murphy embraced Bauers, the club's most notable pending free agent, and then said the following:\n\"You're going to be a rich f***er. Just remember when you're on that horses*** Yankees team and you guys are all playing for yourself, just remember this is the way we used to do it.\"\nBauers laughed off the comment and said \"You ain't getting rid of me that easy,\" but Yankees fans were less amused.\nMurphy addressed the matter during an appearance on the New York Post's \"The Show\" podcast published Tuesday and said that he called Yankees general manager Brian Cashman after finding out his moment with Bauers had reached social media, calling it a hot mic moment:\n\"I called Brian Cashman right away when I heard it got out … I heard the next morning, we're at the parade and everybody was talking about it. I was like, 'What? How did they hear that?' You know, hot mic. I'm like, 'Ah, whatever.' So I picked up the phone and called Brian right away and had a good conversation. The best I could, I tried to explain that I wasn't talking about the 2026 Yankees.\n\"He's just such a good guy, man. He's just a levelheaded — he's been through so much. I wish I had his demeanor and his way of handling things. I felt horribly if I slandered the Yankees because I was just referring to them as this iconic machine.\"\nIt's perhaps worth noting this wasn't really a hot mic moment, which implies Murphy didn't know he was being recorded. A person would have clearly been holding up a camera or phone to document an interesting moment, a player handing his manager a baseball with enormous meaning to both of them. Cameras and media members were all around them.\nAs for the exact meaning of Murphy's comment, the manager said Bauer's approaching payday had become a running joke between them, and that he only meant the Yankees in sort of abstract way.\n\"We had a little thing going. After every celebration, I'd shake his hand, I'd say, 'You rich so-and-so.' You're going to leave us, we're not going to be able to pay you. You're going to leave us and you're going to forget how you did things, how you were using the opposite field, taking your walks, all the things that made you great. I would just give him this rhetoric every time, 'You'll forget all about us.'\n\"I didn't mean to say these Yankees, like the 2026 or whatever Yankees are selfish. I was just referring to the teams that have a lot of high-paid, long-contract players. Sometimes it's harder to get all those guys together to play together. I use the Yankees because I knew Jake was with them before.\"\nIt remains to be seen if the non-Cashman members of the organization accept that explanation as well, but it's also hardly the most important thing for both the team and players right now.\nMurphy is in his third season as Brewers manager and is overwhelmingly favored to take home a third straight NL Manager of the Year award next week.\nBauers has been playing in MLB since 2018, but this season was the first time playing more than 120 games in a single season. He led the club in homers with 26 during the regular season and won NLCS MVP.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "18c46303dfa937417a08",
+    "title": "Pat Murphy reveals ‘damage control’ conversation with Brian Cashman after viral Yankees comments",
+    "source": "The Big Lead",
+    "author": "Lou Landers",
+    "url": "https://www.thebiglead.com/pat-murphy-damage-control-conversation-cashman-yankees/",
+    "published_iso": "2026-11-03T22:28:29+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 22:28:29 +0000",
+    "body": "Milwaukee Brewers manager Pat Murphy is addressing his viral comments about the New York Yankees during his team’s World Series celebration. Murphy revealed that he had a conversation with Yankees general manager Brian Cashman to smooth things over after his remarks about the organization sparked widespread attention around MLB.\nThe comments came during Milwaukee’s championship celebration, when Murphy was caught on video speaking with first baseman Jake Bauers. What started as a private exchange quickly became a major talking point around MLB.\nPat Murphy explains what he meant by Yankees comments\nMurphy’s comments were directed toward Bauers, who previously played for the Yankees and is entering free agency. During their exchange, Murphy told Bauers to remember how the Brewers played together if he eventually joined the Yankees, referring to the New York organization as a team where players were playing for themselves.\nThe video quickly went viral, generating plenty of reactions from baseball fans and putting Murphy in an uncomfortable position.\nHowever, Murphy has since explained that his remarks were part of a recurring private joke with Bauers. According to the manager, the conversation was not intended as a direct criticism of the 2026 Yankees. Instead, he was making a broader point about organizations with highly paid players on long-term contracts and the challenges of bringing everyone together.\nMurphy acknowledged that he regretted making the comments publicly, particularly after realizing how widely the video had circulated.\nMurphy reveals conversation with Brian Cashman\nFollowing the attention surrounding his comments, Murphy reached out to Yankees general manager Brian Cashman to address the situation.\nMurphy described the conversation as a good one and expressed respect for Cashman, calling him a good guy. However, he did not reveal the specific details of what was discussed between the two.\nThe conversation represents an effort to put the situation behind them after Murphy’s remarks became one of the biggest talking points from Milwaukee’s championship celebration.\nMurphy’s comments were never intended to become a public controversy, but the video quickly made its way around the baseball world. Now, with the conversation with Cashman taking place, the Brewers manager appears ready to move forward from the situation.\nFor the Yankees, the comments provided another opportunity to become part of the baseball conversation during the offseason. For Murphy, the focus is now on explaining what he meant and putting the viral moment behind him.",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Pat Murphy reveals ‘damage control’ conversation with Brian Cashman after viral Yankees comments",
+    "original_body": "Milwaukee Brewers manager Pat Murphy is addressing his viral comments about the New York Yankees during his team’s World Series celebration. Murphy revealed that he had a conversation with Yankees general manager Brian Cashman to smooth things over after his remarks about the organization sparked widespread attention around MLB.\nThe comments came during Milwaukee’s championship celebration, when Murphy was caught on video speaking with first baseman Jake Bauers. What started as a private exchange quickly became a major talking point around MLB.\nPat Murphy explains what he meant by Yankees comments\nMurphy’s comments were directed toward Bauers, who previously played for the Yankees and is entering free agency. During their exchange, Murphy told Bauers to remember how the Brewers played together if he eventually joined the Yankees, referring to the New York organization as a team where players were playing for themselves.\nThe video quickly went viral, generating plenty of reactions from baseball fans and putting Murphy in an uncomfortable position.\nHowever, Murphy has since explained that his remarks were part of a recurring private joke with Bauers. According to the manager, the conversation was not intended as a direct criticism of the 2026 Yankees. Instead, he was making a broader point about organizations with highly paid players on long-term contracts and the challenges of bringing everyone together.\nMurphy acknowledged that he regretted making the comments publicly, particularly after realizing how widely the video had circulated.\nMurphy reveals conversation with Brian Cashman\nFollowing the attention surrounding his comments, Murphy reached out to Yankees general manager Brian Cashman to address the situation.\nMurphy described the conversation as a good one and expressed respect for Cashman, calling him a good guy. However, he did not reveal the specific details of what was discussed between the two.\nThe conversation represents an effort to put the situation behind them after Murphy’s remarks became one of the biggest talking points from Milwaukee’s championship celebration.\nMurphy’s comments were never intended to become a public controversy, but the video quickly made its way around the baseball world. Now, with the conversation with Cashman taking place, the Brewers manager appears ready to move forward from the situation.\nFor the Yankees, the comments provided another opportunity to become part of the baseball conversation during the offseason. For Murphy, the focus is now on explaining what he meant and putting the viral moment behind him.",
+    "rss_title": "Pat Murphy reveals ‘damage control’ conversation with Brian Cashman after viral Yankees comments",
+    "rss_body": "Milwaukee Brewers manager Pat Murphy is addressing his viral comments about the New York Yankees during his team’s World Series celebration. Murphy revealed that he had a conversation with Yankees general manager Brian Cashman to smooth things over after his remarks about the organization sparked widespread attention around MLB.\nThe comments came during Milwaukee’s championship celebration, when Murphy was caught on video speaking with first baseman Jake Bauers. What started as a private exchange quickly became a major talking point around MLB.\nPat Murphy explains what he meant by Yankees comments\nMurphy’s comments were directed toward Bauers, who previously played for the Yankees and is entering free agency. During their exchange, Murphy told Bauers to remember how the Brewers played together if he eventually joined the Yankees, referring to the New York organization as a team where players were playing for themselves.\nThe video quickly went viral, generating plenty of reactions from baseball fans and putting Murphy in an uncomfortable position.\nHowever, Murphy has since explained that his remarks were part of a recurring private joke with Bauers. According to the manager, the conversation was not intended as a direct criticism of the 2026 Yankees. Instead, he was making a broader point about organizations with highly paid players on long-term contracts and the challenges of bringing everyone together.\nMurphy acknowledged that he regretted making the comments publicly, particularly after realizing how widely the video had circulated.\nMurphy reveals conversation with Brian Cashman\nFollowing the attention surrounding his comments, Murphy reached out to Yankees general manager Brian Cashman to address the situation.\nMurphy described the conversation as a good one and expressed respect for Cashman, calling him a good guy. However, he did not reveal the specific details of what was discussed between the two.\nThe conversation represents an effort to put the situation behind them after Murphy’s remarks became one of the biggest talking points from Milwaukee’s championship celebration.\nMurphy’s comments were never intended to become a public controversy, but the video quickly made its way around the baseball world. Now, with the conversation with Cashman taking place, the Brewers manager appears ready to move forward from the situation.\nFor the Yankees, the comments provided another opportunity to become part of the baseball conversation during the offseason. For Murphy, the focus is now on explaining what he meant and putting the viral moment behind him.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "13ec2a0ffd5df277de2e",
+    "title": "Jazz Chisholm Jr.'s Yankees tenure officially ending perfectly encapsulates Brian Cashman dealings",
+    "source": "Yanks Go Yard",
+    "author": "Pat Ragazzo",
+    "url": "https://yanksgoyard.com/jazz-chisholm-jr-yankees-tenure-officially-ending-perfectly-encapsulates-brian-cashman-dealings",
+    "published_iso": "2026-11-03T22:01:00+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 22:01:00 +0000",
+    "body": "Jazz Chisholm Jr.'s tenure with the New York Yankees looks like it's officially over. The Yankees did not extend Chisholm a qualifying offer before Monday's 5 p.m. deadline, and now he is a free agent.\nChisholm played himself off the Yankees in 2026, struggling with a .231/.312/.399 slash line, .711 OPS, 19 home runs, 55 RBI, 41 stolen bases and an underwhelming 1.7 bWAR. He also made a crucial throwing error at second base in the ALDS and then doubled down by saying he would probably make the ill-advised play all over again if given the chance.\nWhat was supposed to be an electric walk year with better playoff results ended up being a disaster for both parties. And it pretty much sums up how the Yankees do business.\nYankees GM Brian Cashman acquired Chisholm from the Miami Marlins at the 2024 trade deadline. Unfortunately for fans, this move wound up aligning with the majority of trades that Cashman makes, where the player is good, but not good enough.\nMore recently, Cashman landed first baseman Luis Garcia Jr. from the Washington Nationals at this past summer's deadline. Garcia had a 0.6 bWAR, .736 OPS and seven homers for the Yankees in 43 games. This is the latest example of a player being solid, but not enough to make the Yankees a World Series title winner.\nAt first, it appeared that the decision to bring in Chisholm was the right one. He agreed to shift over to third base and hit .273/.325/.500 with a .825 OPS, 11 homers and 23 RBI down the stretch in 2024.\nChisholm's best season with the Yankees came in 2025, where he posted a 30/30 campaign. In 130 games, Chisholm slashed .242/.332/.481 with a .813 OPS, 31 homers, 80 RBI, 31 stolen bases and a 4.1 bWAR. Even with that showing, his overall postseason numbers drag his regular season numbers down. Chisholm was just 16-for-88 (.182) in his 25 playoff games with the Bombers.\nThe addition of Chisholm didn't help the Yankees get over the hump, and by the time his team control expired he had seemingly overstayed his welcome in the Bronx. Chisholm's antics, such as taking his position with a lollipop in his mouth, was one of several incidents that rubbed the Yankees and others the wrong way.\nDoes that type of acquisition sound familiar? Aroldis Chapman. Lance Lynn. Aaron Hicks. James Paxton. JA Happ. Sonny Gray. Anthony Rizzo. Joey Gallo. Rougned Odor. Jameson Taillon. Corey Kluber. Josh Donaldson. Isiah Kiner-Falefa. Harrison Bader. Alex Verdugo. Marcus Stroman. Ryan McMahon. Devin Williams. Camilo Doval. All players who possessed a level of talent that provided some promise that could be acquired for the right price in Cashman's eyes ... but none sufficient enough to push the Yankees closer to a championship. That's a long list of misses that have plagued the Yankees since 2018.\nChisholm now hits the free agent market, where he will likely have to accept a one-year prove-it deal in order to rebuild his value before retesting free agency next year. At this point, it's safe to say that his time with the Yankees is over. The writing appears to be on the wall after the Yankees didn't extend a qualifying offer to him on Monday. The Chisholm trade will go down as on-brand for Cashman's underwhelming and risk-averse acquisitions.",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Jazz Chisholm Jr.'s Yankees tenure officially ending perfectly encapsulates Brian Cashman dealings",
+    "original_body": "Jazz Chisholm Jr.'s tenure with the New York Yankees looks like it's officially over. The Yankees did not extend Chisholm a qualifying offer before Monday's 5 p.m. deadline, and now he is a free agent.\nChisholm played himself off the Yankees in 2026, struggling with a .231/.312/.399 slash line, .711 OPS, 19 home runs, 55 RBI, 41 stolen bases and an underwhelming 1.7 bWAR. He also made a crucial throwing error at second base in the ALDS and then doubled down by saying he would probably make the ill-advised play all over again if given the chance.\nWhat was supposed to be an electric walk year with better playoff results ended up being a disaster for both parties. And it pretty much sums up how the Yankees do business.\nYankees GM Brian Cashman acquired Chisholm from the Miami Marlins at the 2024 trade deadline. Unfortunately for fans, this move wound up aligning with the majority of trades that Cashman makes, where the player is good, but not good enough.\nMore recently, Cashman landed first baseman Luis Garcia Jr. from the Washington Nationals at this past summer's deadline. Garcia had a 0.6 bWAR, .736 OPS and seven homers for the Yankees in 43 games. This is the latest example of a player being solid, but not enough to make the Yankees a World Series title winner.\nAt first, it appeared that the decision to bring in Chisholm was the right one. He agreed to shift over to third base and hit .273/.325/.500 with a .825 OPS, 11 homers and 23 RBI down the stretch in 2024.\nChisholm's best season with the Yankees came in 2025, where he posted a 30/30 campaign. In 130 games, Chisholm slashed .242/.332/.481 with a .813 OPS, 31 homers, 80 RBI, 31 stolen bases and a 4.1 bWAR. Even with that showing, his overall postseason numbers drag his regular season numbers down. Chisholm was just 16-for-88 (.182) in his 25 playoff games with the Bombers.\nThe addition of Chisholm didn't help the Yankees get over the hump, and by the time his team control expired he had seemingly overstayed his welcome in the Bronx. Chisholm's antics, such as taking his position with a lollipop in his mouth, was one of several incidents that rubbed the Yankees and others the wrong way.\nDoes that type of acquisition sound familiar? Aroldis Chapman. Lance Lynn. Aaron Hicks. James Paxton. JA Happ. Sonny Gray. Anthony Rizzo. Joey Gallo. Rougned Odor. Jameson Taillon. Corey Kluber. Josh Donaldson. Isiah Kiner-Falefa. Harrison Bader. Alex Verdugo. Marcus Stroman. Ryan McMahon. Devin Williams. Camilo Doval. All players who possessed a level of talent that provided some promise that could be acquired for the right price in Cashman's eyes ... but none sufficient enough to push the Yankees closer to a championship. That's a long list of misses that have plagued the Yankees since 2018.\nChisholm now hits the free agent market, where he will likely have to accept a one-year prove-it deal in order to rebuild his value before retesting free agency next year. At this point, it's safe to say that his time with the Yankees is over. The writing appears to be on the wall after the Yankees didn't extend a qualifying offer to him on Monday. The Chisholm trade will go down as on-brand for Cashman's underwhelming and risk-averse acquisitions.",
+    "rss_title": "Jazz Chisholm Jr.'s Yankees tenure officially ending perfectly encapsulates Brian Cashman dealings",
+    "rss_body": "Jazz Chisholm Jr.'s tenure with the New York Yankees looks like it's officially over. The Yankees did not extend Chisholm a qualifying offer before Monday's 5 p.m. deadline, and now he is a free agent.\nChisholm played himself off the Yankees in 2026, struggling with a .231/.312/.399 slash line, .711 OPS, 19 home runs, 55 RBI, 41 stolen bases and an underwhelming 1.7 bWAR. He also made a crucial throwing error at second base in the ALDS and then doubled down by saying he would probably make the ill-advised play all over again if given the chance.\nWhat was supposed to be an electric walk year with better playoff results ended up being a disaster for both parties. And it pretty much sums up how the Yankees do business.\nYankees GM Brian Cashman acquired Chisholm from the Miami Marlins at the 2024 trade deadline. Unfortunately for fans, this move wound up aligning with the majority of trades that Cashman makes, where the player is good, but not good enough.\nMore recently, Cashman landed first baseman Luis Garcia Jr. from the Washington Nationals at this past summer's deadline. Garcia had a 0.6 bWAR, .736 OPS and seven homers for the Yankees in 43 games. This is the latest example of a player being solid, but not enough to make the Yankees a World Series title winner.\nAt first, it appeared that the decision to bring in Chisholm was the right one. He agreed to shift over to third base and hit .273/.325/.500 with a .825 OPS, 11 homers and 23 RBI down the stretch in 2024.\nChisholm's best season with the Yankees came in 2025, where he posted a 30/30 campaign. In 130 games, Chisholm slashed .242/.332/.481 with a .813 OPS, 31 homers, 80 RBI, 31 stolen bases and a 4.1 bWAR. Even with that showing, his overall postseason numbers drag his regular season numbers down. Chisholm was just 16-for-88 (.182) in his 25 playoff games with the Bombers.\nThe addition of Chisholm didn't help the Yankees get over the hump, and by the time his team control expired he had seemingly overstayed his welcome in the Bronx. Chisholm's antics, such as taking his position with a lollipop in his mouth, was one of several incidents that rubbed the Yankees and others the wrong way.\nDoes that type of acquisition sound familiar? Aroldis Chapman. Lance Lynn. Aaron Hicks. James Paxton. JA Happ. Sonny Gray. Anthony Rizzo. Joey Gallo. Rougned Odor. Jameson Taillon. Corey Kluber. Josh Donaldson. Isiah Kiner-Falefa. Harrison Bader. Alex Verdugo. Marcus Stroman. Ryan McMahon. Devin Williams. Camilo Doval. All players who possessed a level of talent that provided some promise that could be acquired for the right price in Cashman's eyes ... but none sufficient enough to push the Yankees closer to a championship. That's a long list of misses that have plagued the Yankees since 2018.\nChisholm now hits the free agent market, where he will likely have to accept a one-year prove-it deal in order to rebuild his value before retesting free agency next year. At this point, it's safe to say that his time with the Yankees is over. The writing appears to be on the wall after the Yankees didn't extend a qualifying offer to him on Monday. The Chisholm trade will go down as on-brand for Cashman's underwhelming and risk-averse acquisitions.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e4456c54d52e7faca8e7",
+    "title": "Yankees' Jazz Chisholm split feels inevitable after $23 million decision",
+    "source": "MARCA",
+    "author": "Adriano Boin",
+    "url": "https://www.marca.com/en/mlb/new-york-yankees/2026/11/03/yankees-jazz-chisholm-split-feels-inevitable-after-23-million-decision.html",
+    "published_iso": "2026-11-03T21:53:10+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 21:53:10 +0000",
+    "body": "- New York Yankees. Aaron Judge surprises fans with appearance at New York City Marathon to support his wife\n- Milwaukee Brewers. Cigarettes before the game? The Brewers’ strange ritual on their way to the World Series\nThe New York Yankees appear increasingly likely to move on from Jazz Chisholm Jr. after deciding against extending him a qualifying offer ahead of the 2027 season.\nNew York made a different decision regarding closer David Bednar, offering him a one-year, $23.15 million qualifying offer on Monday.\nThe move gives the Yankees an opportunity to retain an important bullpen piece, but Chisholm's omission suggests the organization isn't convinced he's worth a similar commitment.\nChisholm entered 2026 with considerable expectations after recording 31 home runs and 31 stolen bases the previous season. However, his production declined considerably, finishing the campaign with a .231 batting average, 19 homers and a .711 OPS across 137 games.\nAlthough he stole a career-high 41 bases, his inconsistent offensive performances made it difficult for the Yankees to justify keeping him at a potentially expensive price.\nThe two-time All-Star has demonstrated plenty of talent throughout his career, but consistency has remained a concern. His occasional defensive lapses and questionable on-field decisions have also attracted criticism, creating additional uncertainty about his long-term future in New York.\nChisholm hasn't hidden his desire to remain with the Yankees. Following the team's postseason disappointment, he expressed his affection for the organization, making it clear that leaving the Bronx wasn't his preferred outcome.\nNevertheless, the Yankees have other priorities, and questions surrounding his consistency and postseason performances could make a reunion difficult.\nYankees could pursue Teruaki Sato as Chisholm's replacement\nFormer MLB executive Jim Bowden has also questioned whether Chisholm is the type of player the Yankees should build around, suggesting the organization would benefit from younger, more dependable personalities.\nBowden pointed to the additional distractions surrounding certain players, arguing that teams already face enough challenges without having to manage unnecessary clubhouse concerns.\nHis comments suggest Chisholm's situation could involve more than simply evaluating his offensive production.\nMeanwhile, New York has another potential infield problem involving Ryan McMahon. The third baseman hasn't delivered the offensive improvement the Yankees hoped for after acquiring him, finishing 2026 with a .213 average, seven home runs and a .636 OPS.\nConsequently, Japanese superstar Teruaki Sato could become an attractive offseason target.\nThe Hanshin Tigers standout is coming off an extraordinary 2026 campaign, winning the Central League Triple Crown with a .306 batting average, 39 home runs and 106 RBIs. \nHis impressive offensive production has made him one of the most intriguing international players potentially available to MLB clubs.\nSato's left-handed power could be particularly appealing at Yankee Stadium, where the short right-field porch offers an inviting target for left-handed hitters. Adding another dangerous power hitter would also take some pressure off Aaron Judge.\nHowever, his defensive position remains something to consider. Although primarily a third baseman in Japan, he has experience playing in the outfield and could eventually move elsewhere in the infield.\nLanding Sato wouldn't automatically solve every problem facing the Yankees, but his offensive potential would represent a significant addition.\nIf Chisholm ultimately departs, pursuing Sato could help reshape New York's lineup and provide another powerful weapon alongside Judge.",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees' Jazz Chisholm split feels inevitable after $23 million decision",
+    "original_body": "- New York Yankees. Aaron Judge surprises fans with appearance at New York City Marathon to support his wife\n- Milwaukee Brewers. Cigarettes before the game? The Brewers’ strange ritual on their way to the World Series\nThe New York Yankees appear increasingly likely to move on from Jazz Chisholm Jr. after deciding against extending him a qualifying offer ahead of the 2027 season.\nNew York made a different decision regarding closer David Bednar, offering him a one-year, $23.15 million qualifying offer on Monday.\nThe move gives the Yankees an opportunity to retain an important bullpen piece, but Chisholm's omission suggests the organization isn't convinced he's worth a similar commitment.\nChisholm entered 2026 with considerable expectations after recording 31 home runs and 31 stolen bases the previous season. However, his production declined considerably, finishing the campaign with a .231 batting average, 19 homers and a .711 OPS across 137 games.\nAlthough he stole a career-high 41 bases, his inconsistent offensive performances made it difficult for the Yankees to justify keeping him at a potentially expensive price.\nThe two-time All-Star has demonstrated plenty of talent throughout his career, but consistency has remained a concern. His occasional defensive lapses and questionable on-field decisions have also attracted criticism, creating additional uncertainty about his long-term future in New York.\nChisholm hasn't hidden his desire to remain with the Yankees. Following the team's postseason disappointment, he expressed his affection for the organization, making it clear that leaving the Bronx wasn't his preferred outcome.\nNevertheless, the Yankees have other priorities, and questions surrounding his consistency and postseason performances could make a reunion difficult.\nYankees could pursue Teruaki Sato as Chisholm's replacement\nFormer MLB executive Jim Bowden has also questioned whether Chisholm is the type of player the Yankees should build around, suggesting the organization would benefit from younger, more dependable personalities.\nBowden pointed to the additional distractions surrounding certain players, arguing that teams already face enough challenges without having to manage unnecessary clubhouse concerns.\nHis comments suggest Chisholm's situation could involve more than simply evaluating his offensive production.\nMeanwhile, New York has another potential infield problem involving Ryan McMahon. The third baseman hasn't delivered the offensive improvement the Yankees hoped for after acquiring him, finishing 2026 with a .213 average, seven home runs and a .636 OPS.\nConsequently, Japanese superstar Teruaki Sato could become an attractive offseason target.\nThe Hanshin Tigers standout is coming off an extraordinary 2026 campaign, winning the Central League Triple Crown with a .306 batting average, 39 home runs and 106 RBIs. \nHis impressive offensive production has made him one of the most intriguing international players potentially available to MLB clubs.\nSato's left-handed power could be particularly appealing at Yankee Stadium, where the short right-field porch offers an inviting target for left-handed hitters. Adding another dangerous power hitter would also take some pressure off Aaron Judge.\nHowever, his defensive position remains something to consider. Although primarily a third baseman in Japan, he has experience playing in the outfield and could eventually move elsewhere in the infield.\nLanding Sato wouldn't automatically solve every problem facing the Yankees, but his offensive potential would represent a significant addition.\nIf Chisholm ultimately departs, pursuing Sato could help reshape New York's lineup and provide another powerful weapon alongside Judge.",
+    "rss_title": "Yankees' Jazz Chisholm split feels inevitable after $23 million decision",
+    "rss_body": "- New York Yankees. Aaron Judge surprises fans with appearance at New York City Marathon to support his wife\n- Milwaukee Brewers. Cigarettes before the game? The Brewers’ strange ritual on their way to the World Series\nThe New York Yankees appear increasingly likely to move on from Jazz Chisholm Jr. after deciding against extending him a qualifying offer ahead of the 2027 season.\nNew York made a different decision regarding closer David Bednar, offering him a one-year, $23.15 million qualifying offer on Monday.\nThe move gives the Yankees an opportunity to retain an important bullpen piece, but Chisholm's omission suggests the organization isn't convinced he's worth a similar commitment.\nChisholm entered 2026 with considerable expectations after recording 31 home runs and 31 stolen bases the previous season. However, his production declined considerably, finishing the campaign with a .231 batting average, 19 homers and a .711 OPS across 137 games.\nAlthough he stole a career-high 41 bases, his inconsistent offensive performances made it difficult for the Yankees to justify keeping him at a potentially expensive price.\nThe two-time All-Star has demonstrated plenty of talent throughout his career, but consistency has remained a concern. His occasional defensive lapses and questionable on-field decisions have also attracted criticism, creating additional uncertainty about his long-term future in New York.\nChisholm hasn't hidden his desire to remain with the Yankees. Following the team's postseason disappointment, he expressed his affection for the organization, making it clear that leaving the Bronx wasn't his preferred outcome.\nNevertheless, the Yankees have other priorities, and questions surrounding his consistency and postseason performances could make a reunion difficult.\nYankees could pursue Teruaki Sato as Chisholm's replacement\nFormer MLB executive Jim Bowden has also questioned whether Chisholm is the type of player the Yankees should build around, suggesting the organization would benefit from younger, more dependable personalities.\nBowden pointed to the additional distractions surrounding certain players, arguing that teams already face enough challenges without having to manage unnecessary clubhouse concerns.\nHis comments suggest Chisholm's situation could involve more than simply evaluating his offensive production.\nMeanwhile, New York has another potential infield problem involving Ryan McMahon. The third baseman hasn't delivered the offensive improvement the Yankees hoped for after acquiring him, finishing 2026 with a .213 average, seven home runs and a .636 OPS.\nConsequently, Japanese superstar Teruaki Sato could become an attractive offseason target.\nThe Hanshin Tigers standout is coming off an extraordinary 2026 campaign, winning the Central League Triple Crown with a .306 batting average, 39 home runs and 106 RBIs. \nHis impressive offensive production has made him one of the most intriguing international players potentially available to MLB clubs.\nSato's left-handed power could be particularly appealing at Yankee Stadium, where the short right-field porch offers an inviting target for left-handed hitters. Adding another dangerous power hitter would also take some pressure off Aaron Judge.\nHowever, his defensive position remains something to consider. Although primarily a third baseman in Japan, he has experience playing in the outfield and could eventually move elsewhere in the infield.\nLanding Sato wouldn't automatically solve every problem facing the Yankees, but his offensive potential would represent a significant addition.\nIf Chisholm ultimately departs, pursuing Sato could help reshape New York's lineup and provide another powerful weapon alongside Judge.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "4efe1f5c1d13f570db23",
+    "title": "Yankees take a calculated risk on Jazz Chisholm free agency",
+    "source": "Yahoo Sports",
+    "author": "Alexander Wilson",
+    "url": "https://sports.yahoo.com/articles/yankees-calculated-risk-jazz-chisholm-213100780.html",
+    "published_iso": "2026-11-03T21:31:00+00:00",
+    "published_rfc2822": "Tue, 03 Nov 2026 21:31:00 +0000",
+    "body": "Jazz Chisholm Jr. can talk to other clubs without the draft-pick penalty attached to a qualifying offer. For the Yankees, that makes the second-base market more complicated, not necessarily closed.\nNew York chose not to extend Chisholm the $23.15 million offer by Monday's deadline, while offering it to David Bednar, MLB.com's Bryan Hoch reported. That decision does not prevent a reunion; it changes the compensation picture if he signs elsewhere.\nThe Yankees made a calculated bet\nChisholm fell from 31 home runs and an .813 OPS in 2025 to 19 homers and a .711 OPS in 2026. He still stole a career-high 41 bases. Both sides of that record belong in the conversation: the bat regressed, but his speed did not disappear.\nThe Yankees also sat him for two postseason games, including the elimination game. Chisholm later said he wished manager Aaron Boone had communicated the decision directly. A contract is a separate question, but the club should not pretend the relationship needs no attention.\nI would keep talking at a price that reflects the down year instead of assuming the no-offer decision means he has to leave. Anthony Volpe, Jose Caballero and Luis Garcia Jr. give New York other infield choices; each comes with a different offensive projection and role.\nWhat the market can change\nThe alternative is to commit those resources elsewhere and give the internal group a genuine competition. That saves the club from paying for a rebound that may not arrive, but it also risks losing an established power-speed combination for no qualifying-offer compensation.\nChisholm's offers and the Yankees' actual budget are not public. The decision removed one obstacle for a new club; it did not choose his next team.\n0What do you think?Post a comment.\nRelated Headlines",
+    "article_date": "2026-11-03",
+    "tracked_people": [
+      {
+        "name": "Anthony Volpe",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Luis García Jr.",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "role": "Infielder / Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees take a calculated risk on Jazz Chisholm free agency",
+    "original_body": "Jazz Chisholm Jr. can talk to other clubs without the draft-pick penalty attached to a qualifying offer. For the Yankees, that makes the second-base market more complicated, not necessarily closed.\nNew York chose not to extend Chisholm the $23.15 million offer by Monday's deadline, while offering it to David Bednar, MLB.com's Bryan Hoch reported. That decision does not prevent a reunion; it changes the compensation picture if he signs elsewhere.\nThe Yankees made a calculated bet\nChisholm fell from 31 home runs and an .813 OPS in 2025 to 19 homers and a .711 OPS in 2026. He still stole a career-high 41 bases. Both sides of that record belong in the conversation: the bat regressed, but his speed did not disappear.\nThe Yankees also sat him for two postseason games, including the elimination game. Chisholm later said he wished manager Aaron Boone had communicated the decision directly. A contract is a separate question, but the club should not pretend the relationship needs no attention.\nI would keep talking at a price that reflects the down year instead of assuming the no-offer decision means he has to leave. Anthony Volpe, Jose Caballero and Luis Garcia Jr. give New York other infield choices; each comes with a different offensive projection and role.\nWhat the market can change\nThe alternative is to commit those resources elsewhere and give the internal group a genuine competition. That saves the club from paying for a rebound that may not arrive, but it also risks losing an established power-speed combination for no qualifying-offer compensation.\nChisholm's offers and the Yankees' actual budget are not public. The decision removed one obstacle for a new club; it did not choose his next team.\n0What do you think?Post a comment.\nRelated Headlines",
+    "rss_title": "Yankees take a calculated risk on Jazz Chisholm free agency",
+    "rss_body": "Jazz Chisholm Jr. can talk to other clubs without the draft-pick penalty attached to a qualifying offer. For the Yankees, that makes the second-base market more complicated, not necessarily closed.\nNew York chose not to extend Chisholm the $23.15 million offer by Monday's deadline, while offering it to David Bednar, MLB.com's Bryan Hoch reported. That decision does not prevent a reunion; it changes the compensation picture if he signs elsewhere.\nThe Yankees made a calculated bet\nChisholm fell from 31 home runs and an .813 OPS in 2025 to 19 homers and a .711 OPS in 2026. He still stole a career-high 41 bases. Both sides of that record belong in the conversation: the bat regressed, but his speed did not disappear.\nThe Yankees also sat him for two postseason games, including the elimination game. Chisholm later said he wished manager Aaron Boone had communicated the decision directly. A contract is a separate question, but the club should not pretend the relationship needs no attention.\nI would keep talking at a price that reflects the down year instead of assuming the no-offer decision means he has to leave. Anthony Volpe, Jose Caballero and Luis Garcia Jr. give New York other infield choices; each comes with a different offensive projection and role.\nWhat the market can change\nThe alternative is to commit those resources elsewhere and give the internal group a genuine competition. That saves the club from paying for a rebound that may not arrive, but it also risks losing an established power-speed combination for no qualifying-offer compensation.\nChisholm's offers and the Yankees' actual budget are not public. The decision removed one obstacle for a new club; it did not choose his next team.\n0What do you think?Post a comment.\nRelated Headlines",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "832c0f430ead1e2b3b2d",
     "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
     "source": "MLB.com",
