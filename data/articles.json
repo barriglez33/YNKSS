@@ -1,5 +1,281 @@
 [
   {
+    "id": "1f77465e88b64e061d6d",
+    "title": "Should the Yankees hold onto Jasson Domínguez?",
+    "source": "Pinstripe Alley",
+    "author": "Andrés Chávez",
+    "url": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/214021/yankees-jasson-dominguez-future-trade-offseason-keep-2027-season",
+    "published_iso": "2026-11-05T19:30:00+00:00",
+    "published_rfc2822": "Thu, 05 Nov 2026 19:30:00 +0000",
+    "body": "Three years ago, Jasson Domínguez was one of the most promising position player prospects in baseball. The 2023 campaign saw the man known as “the Martian” demolish Double-A, Triple-A, and MLB pitching, the last two in small samples following a pair of quick promotions as the Yankees’ depth depleted due to injury. Since then, however, he has been unable to truly establish himself in The Show both offensively and defensively.\nIn 2026, Domínguez took another step back. In 222 plate appearances, the 23-year-old outfielder slashed .225/.267/.368 with six homers, eight stolen bases, and a 76 wRC+. He wasn’t exactly a menace the year prior and his glove was rough, but the switch-hitter had at least produced against righties enough to be a league-average bat (99 wRC+). Domínguez was worth -0.2 fWAR in 2026 and now has 0.5 in 206 career MLB games.\nInjuries were a factor, particularly that low-grade AC joint sprain he suffered back in May that sent him to the list, but the reality is that even after getting healthy, Domínguez didn’t impress nearly enough to give the Yankees a reason to stick with him as their overall offense sagged. Eventually, the Bombers acquired Heliot Ramos and promoted Spencer Jones, making Domínguez expendable on the active roster. He went to the minors and appeared in just four MLB games post-Trade Deadline.\nThis all leads to the question: should the Yankees keep Domínguez around for 2027? Has he done enough to keep getting chances? It all comes down to New York’s winter activity and his one minor-league option. That’s probably enough to keep him around as organizational depth, with at least a modicum of breakout appeal, but there are several avenues the team can opt to take with the former top prospect.\nThe Yankees will enter the 2027 campaign with Aaron Judge, Cody Bellinger, Jones, and Ramos in the outfield, plus Domínguez and José Caballero, who can also play there if needed (Giancarlo Stanton is purely a DH if he returns). A new outfielder via free agency or trade can’t be ruled out, either. That’s a lot of people for just a handful of spots, and for the sake of his development, the Martian should be playing every day.\nIf Domínguez isn’t traded in the offseason, he will likely start the year in Triple-A unless he wins a spot in spring training (or “summer” training, whenever it takes place due to the looming lockout). It’s probably a less likely scenario at this point, but it’s certainly plausible, especially if any injuries pop up ahead of him.\nTrading Domínguez when his value is this low might not be ideal—they’re not going to trade him just to trade him—but again, it will all depend on the proposed return and if he’s fitting in as the lead piece in a deal or part of a larger package. Gauging his current value against what he could offer down the road is tricky because just as he has bounce-back potential, he could also crash out even more and become older and worse.\nProbably thanks to that remaining minor-league option, Domínguez will remain with the Yankees if they don’t find a trade scenario that feels appropriate. However, his time with the organization is reaching a turning point as he enters a key offseason in his development. He’s currently playing Dominican winter ball in LIDOM, but things might get messy if/when the Yanks can’t communicate with him to track his training and offseason routine because of the lockout.\nLockout or not, Domínguez needs to take a step forward in the plate discipline department after posting an awful 4.5-percent walk rate in 2026. That’s where it all should start. A quick look at his Savant page, however, tells us that the raw tools are there for Domínguez to be better than he has been to this point:\nUpper-echelon bat speed, but subpar contact metrics. Elite arm strength, but subpar defense and range. He has excellent speed, too, so athleticism doesn’t seem to be the problem.\nDomínguez needs to hit the ball with more authority, but above all things, he needs to gain consistency with both swings. This year, he posted a 58 wRC+ hitting from the left side of the plate and 105 from the right side, which is baffling because the split was reversed in each of his previous three MLB campaigns.\nThere’s a very good chance that Domínguez is part of the Yankees organization as teams enter play in 2027. But if so, there’s no longer any margin for error. His spot in the team’s future plans is unquestionably in jeopardy.",
+    "article_date": "2026-11-05",
+    "tracked_people": [
+      {
+        "name": "Aaron Judge",
+        "role": "Outfielder",
+        "status": "Active (Reinstated from 60-day IL)",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "role": "Left Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "role": "Right Fielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "role": "Shortstop",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Jasson Domínguez",
+        "role": "Outfielder",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 29,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Should the Yankees hold onto Jasson Domínguez?",
+    "original_body": "Three years ago, Jasson Domínguez was one of the most promising position player prospects in baseball. The 2023 campaign saw the man known as “the Martian” demolish Double-A, Triple-A, and MLB pitching, the last two in small samples following a pair of quick promotions as the Yankees’ depth depleted due to injury. Since then, however, he has been unable to truly establish himself in The Show both offensively and defensively.\nIn 2026, Domínguez took another step back. In 222 plate appearances, the 23-year-old outfielder slashed .225/.267/.368 with six homers, eight stolen bases, and a 76 wRC+. He wasn’t exactly a menace the year prior and his glove was rough, but the switch-hitter had at least produced against righties enough to be a league-average bat (99 wRC+). Domínguez was worth -0.2 fWAR in 2026 and now has 0.5 in 206 career MLB games.\nInjuries were a factor, particularly that low-grade AC joint sprain he suffered back in May that sent him to the list, but the reality is that even after getting healthy, Domínguez didn’t impress nearly enough to give the Yankees a reason to stick with him as their overall offense sagged. Eventually, the Bombers acquired Heliot Ramos and promoted Spencer Jones, making Domínguez expendable on the active roster. He went to the minors and appeared in just four MLB games post-Trade Deadline.\nThis all leads to the question: should the Yankees keep Domínguez around for 2027? Has he done enough to keep getting chances? It all comes down to New York’s winter activity and his one minor-league option. That’s probably enough to keep him around as organizational depth, with at least a modicum of breakout appeal, but there are several avenues the team can opt to take with the former top prospect.\nThe Yankees will enter the 2027 campaign with Aaron Judge, Cody Bellinger, Jones, and Ramos in the outfield, plus Domínguez and José Caballero, who can also play there if needed (Giancarlo Stanton is purely a DH if he returns). A new outfielder via free agency or trade can’t be ruled out, either. That’s a lot of people for just a handful of spots, and for the sake of his development, the Martian should be playing every day.\nIf Domínguez isn’t traded in the offseason, he will likely start the year in Triple-A unless he wins a spot in spring training (or “summer” training, whenever it takes place due to the looming lockout). It’s probably a less likely scenario at this point, but it’s certainly plausible, especially if any injuries pop up ahead of him.\nTrading Domínguez when his value is this low might not be ideal—they’re not going to trade him just to trade him—but again, it will all depend on the proposed return and if he’s fitting in as the lead piece in a deal or part of a larger package. Gauging his current value against what he could offer down the road is tricky because just as he has bounce-back potential, he could also crash out even more and become older and worse.\nProbably thanks to that remaining minor-league option, Domínguez will remain with the Yankees if they don’t find a trade scenario that feels appropriate. However, his time with the organization is reaching a turning point as he enters a key offseason in his development. He’s currently playing Dominican winter ball in LIDOM, but things might get messy if/when the Yanks can’t communicate with him to track his training and offseason routine because of the lockout.\nLockout or not, Domínguez needs to take a step forward in the plate discipline department after posting an awful 4.5-percent walk rate in 2026. That’s where it all should start. A quick look at his Savant page, however, tells us that the raw tools are there for Domínguez to be better than he has been to this point:\nUpper-echelon bat speed, but subpar contact metrics. Elite arm strength, but subpar defense and range. He has excellent speed, too, so athleticism doesn’t seem to be the problem.\nDomínguez needs to hit the ball with more authority, but above all things, he needs to gain consistency with both swings. This year, he posted a 58 wRC+ hitting from the left side of the plate and 105 from the right side, which is baffling because the split was reversed in each of his previous three MLB campaigns.\nThere’s a very good chance that Domínguez is part of the Yankees organization as teams enter play in 2027. But if so, there’s no longer any margin for error. His spot in the team’s future plans is unquestionably in jeopardy.",
+    "rss_title": "Should the Yankees hold onto Jasson Domínguez?",
+    "rss_body": "Three years ago, Jasson Domínguez was one of the most promising position player prospects in baseball. The 2023 campaign saw the man known as “the Martian” demolish Double-A, Triple-A, and MLB pitching, the last two in small samples following a pair of quick promotions as the Yankees’ depth depleted due to injury. Since then, however, he has been unable to truly establish himself in The Show both offensively and defensively.\nIn 2026, Domínguez took another step back. In 222 plate appearances, the 23-year-old outfielder slashed .225/.267/.368 with six homers, eight stolen bases, and a 76 wRC+. He wasn’t exactly a menace the year prior and his glove was rough, but the switch-hitter had at least produced against righties enough to be a league-average bat (99 wRC+). Domínguez was worth -0.2 fWAR in 2026 and now has 0.5 in 206 career MLB games.\nInjuries were a factor, particularly that low-grade AC joint sprain he suffered back in May that sent him to the list, but the reality is that even after getting healthy, Domínguez didn’t impress nearly enough to give the Yankees a reason to stick with him as their overall offense sagged. Eventually, the Bombers acquired Heliot Ramos and promoted Spencer Jones, making Domínguez expendable on the active roster. He went to the minors and appeared in just four MLB games post-Trade Deadline.\nThis all leads to the question: should the Yankees keep Domínguez around for 2027? Has he done enough to keep getting chances? It all comes down to New York’s winter activity and his one minor-league option. That’s probably enough to keep him around as organizational depth, with at least a modicum of breakout appeal, but there are several avenues the team can opt to take with the former top prospect.\nThe Yankees will enter the 2027 campaign with Aaron Judge, Cody Bellinger, Jones, and Ramos in the outfield, plus Domínguez and José Caballero, who can also play there if needed (Giancarlo Stanton is purely a DH if he returns). A new outfielder via free agency or trade can’t be ruled out, either. That’s a lot of people for just a handful of spots, and for the sake of his development, the Martian should be playing every day.\nIf Domínguez isn’t traded in the offseason, he will likely start the year in Triple-A unless he wins a spot in spring training (or “summer” training, whenever it takes place due to the looming lockout). It’s probably a less likely scenario at this point, but it’s certainly plausible, especially if any injuries pop up ahead of him.\nTrading Domínguez when his value is this low might not be ideal—they’re not going to trade him just to trade him—but again, it will all depend on the proposed return and if he’s fitting in as the lead piece in a deal or part of a larger package. Gauging his current value against what he could offer down the road is tricky because just as he has bounce-back potential, he could also crash out even more and become older and worse.\nProbably thanks to that remaining minor-league option, Domínguez will remain with the Yankees if they don’t find a trade scenario that feels appropriate. However, his time with the organization is reaching a turning point as he enters a key offseason in his development. He’s currently playing Dominican winter ball in LIDOM, but things might get messy if/when the Yanks can’t communicate with him to track his training and offseason routine because of the lockout.\nLockout or not, Domínguez needs to take a step forward in the plate discipline department after posting an awful 4.5-percent walk rate in 2026. That’s where it all should start. A quick look at his Savant page, however, tells us that the raw tools are there for Domínguez to be better than he has been to this point:\nUpper-echelon bat speed, but subpar contact metrics. Elite arm strength, but subpar defense and range. He has excellent speed, too, so athleticism doesn’t seem to be the problem.\nDomínguez needs to hit the ball with more authority, but above all things, he needs to gain consistency with both swings. This year, he posted a 58 wRC+ hitting from the left side of the plate and 105 from the right side, which is baffling because the split was reversed in each of his previous three MLB campaigns.\nThere’s a very good chance that Domínguez is part of the Yankees organization as teams enter play in 2027. But if so, there’s no longer any margin for error. His spot in the team’s future plans is unquestionably in jeopardy.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "90db4a907747dc3cc8b4",
+    "title": "Yankees buscan retener a Paul Blackburn tras su gran 2026",
+    "source": "AhoraMismo.com",
+    "author": "Ahoramismo Staff",
+    "url": "https://ahoramismo.com/deportes/mlb/new-york-yankees/yankees-buscan-retener-a-paul-blackburn-tras-su-gran-2026/",
+    "published_iso": "2026-11-05T19:17:32+00:00",
+    "published_rfc2822": "Thu, 05 Nov 2026 19:17:32 +0000",
+    "body": "Los New York Yankees tienen decisiones importantes que tomar esta temporada baja y el equipo parece interesado en conservar a una de las mayores sorpresas de su campaña de 2026.\nEl veterano lanzador Paul Blackburn resurgió esta temporada en Nueva York y se convirtió en una opción confiable para el bullpen tras pasar apuros durante gran parte del año anterior.\nAhora, los Yankees muestran mucho interés en volver a contratarlo.\nEn un reporte del 5 de noviembre para el New York Daily News, el periodista de los Yankees Gary Phillips citó fuentes que señalan que el equipo tiene mucho interés en renovar el contrato de Blackburn.\nLa noticia llama la atención porque antes se pronosticaba que Blackburn dejaría Nueva York como agente libre.\nNo se ha anunciado ningún acuerdo, pero los reportes más recientes indican que los Yankees prefieren no perder a uno de sus relevistas más productivos.\nLos Yankees muestran mucho interés en volver a contratar a Paul Blackburn\nLa transformación de Blackburn ha sido una de las sorpresas más gratas para Nueva York.\nEl derecho llegó a los Yankees en 2025 después de que sus rivales de la ciudad, los Mets, lo dejaran libre, pero sus primeros resultados no convencieron.\nTerminó esa temporada con una efectividad de 5.28 en ocho apariciones con Nueva York, lo que dejó muchas dudas sobre su futuro.\nSin embargo, Blackburn regresó en 2026 y firmó su mejor temporada en números en las Grandes Ligas.\nEl lanzador de 32 años terminó con marca de 7-3, efectividad de 1.59 y 69 ponches en 85 entradas, con 62 apariciones, incluidas dos aperturas.\nTambién registró un WHIP de 1.08 y limitó a los bateadores rivales a un promedio de .195.\nEsas cifras consolidaron a Blackburn como una opción confiable para las últimas entradas y dieron a los Yankees un valioso complemento para el cerrador David Bednar.\nLa eficacia de Blackburn impresionó aún más por su trayectoria previa como abridor.\nElegido al Juego de Estrellas de 2022 con Oakland, había trabajado principalmente como abridor antes de pasar al bullpen en una etapa posterior de su carrera.\nAunque su total de ponches fue relativamente modesto, Blackburn demostró que sabe limitar los hits y evitar las carreras.\nSu actuación en 2026 reforzó sus posibilidades de conseguir otro contrato en las Grandes Ligas, aunque Nueva York debe evaluar si puede mantener esos resultados.\nEl FIP de Blackburn, una medida de efectividad independiente de la defensa, fue de 3.74, muy superior a su efectividad, lo que plantea dudas sobre si podrá mantener ese nivel de éxito.\nAun así, los Yankees tienen motivos claros para querer que regrese.\nLos Yankees afrontan decisiones clave para su bullpen en la agencia libre\nBlackburn no es el único lanzador conocido que Nueva York espera conservar.\nLos Yankees ya le hicieron una oferta calificada de 23.15 millones de dólares a David Bednar, quien consiguió 35 salvamentos durante la temporada de 2026.\nBednar tiene hasta el 17 de noviembre para aceptar la oferta por un año o seguir en busca de otro contrato.\nNueva York también debe tomar decisiones sobre otros relevistas que son agentes libres, entre ellos Tim Hill, Ryan Yarbrough, John Schreiber y Michael Fulmer.\nSegún el reporte de Phillips, los Yankees tienen cierto interés en conservar a Hill y también se han comunicado con Yarbrough.\nSin embargo, volver a contratar a lanzadores conocidos no resolverá necesariamente todos los problemas.\nCon varios integrantes del bullpen rumbo a la agencia libre, el gerente general Brian Cashman quizá tenga que sumar varios lanzadores antes del inicio de la temporada de 2027.\nBrent Headrick sigue bajo contrato tras una sólida campaña de 2026, pero las demás opciones del bullpen dentro de la organización también generan dudas.\nLos Yankees podrían buscar refuerzos fuera de la organización, en particular si algunos de sus agentes libres firman con otros equipos.\nBlackburn quizá no atraiga tanta atención como las grandes estrellas de Nueva York, pero su impresionante temporada lo convirtió en una pieza importante de los planes del equipo para esta temporada baja.\nAún no se sabe si los Yankees lograrán retenerlo, pero su interés indica que su etapa en el Bronx tal vez no haya terminado.",
+    "article_date": "2026-11-05",
+    "tracked_people": [
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Brent Headrick",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees buscan retener a Paul Blackburn tras su gran 2026",
+    "original_body": "Los New York Yankees tienen decisiones importantes que tomar esta temporada baja y el equipo parece interesado en conservar a una de las mayores sorpresas de su campaña de 2026.\nEl veterano lanzador Paul Blackburn resurgió esta temporada en Nueva York y se convirtió en una opción confiable para el bullpen tras pasar apuros durante gran parte del año anterior.\nAhora, los Yankees muestran mucho interés en volver a contratarlo.\nEn un reporte del 5 de noviembre para el New York Daily News, el periodista de los Yankees Gary Phillips citó fuentes que señalan que el equipo tiene mucho interés en renovar el contrato de Blackburn.\nLa noticia llama la atención porque antes se pronosticaba que Blackburn dejaría Nueva York como agente libre.\nNo se ha anunciado ningún acuerdo, pero los reportes más recientes indican que los Yankees prefieren no perder a uno de sus relevistas más productivos.\nLos Yankees muestran mucho interés en volver a contratar a Paul Blackburn\nLa transformación de Blackburn ha sido una de las sorpresas más gratas para Nueva York.\nEl derecho llegó a los Yankees en 2025 después de que sus rivales de la ciudad, los Mets, lo dejaran libre, pero sus primeros resultados no convencieron.\nTerminó esa temporada con una efectividad de 5.28 en ocho apariciones con Nueva York, lo que dejó muchas dudas sobre su futuro.\nSin embargo, Blackburn regresó en 2026 y firmó su mejor temporada en números en las Grandes Ligas.\nEl lanzador de 32 años terminó con marca de 7-3, efectividad de 1.59 y 69 ponches en 85 entradas, con 62 apariciones, incluidas dos aperturas.\nTambién registró un WHIP de 1.08 y limitó a los bateadores rivales a un promedio de .195.\nEsas cifras consolidaron a Blackburn como una opción confiable para las últimas entradas y dieron a los Yankees un valioso complemento para el cerrador David Bednar.\nLa eficacia de Blackburn impresionó aún más por su trayectoria previa como abridor.\nElegido al Juego de Estrellas de 2022 con Oakland, había trabajado principalmente como abridor antes de pasar al bullpen en una etapa posterior de su carrera.\nAunque su total de ponches fue relativamente modesto, Blackburn demostró que sabe limitar los hits y evitar las carreras.\nSu actuación en 2026 reforzó sus posibilidades de conseguir otro contrato en las Grandes Ligas, aunque Nueva York debe evaluar si puede mantener esos resultados.\nEl FIP de Blackburn, una medida de efectividad independiente de la defensa, fue de 3.74, muy superior a su efectividad, lo que plantea dudas sobre si podrá mantener ese nivel de éxito.\nAun así, los Yankees tienen motivos claros para querer que regrese.\nLos Yankees afrontan decisiones clave para su bullpen en la agencia libre\nBlackburn no es el único lanzador conocido que Nueva York espera conservar.\nLos Yankees ya le hicieron una oferta calificada de 23.15 millones de dólares a David Bednar, quien consiguió 35 salvamentos durante la temporada de 2026.\nBednar tiene hasta el 17 de noviembre para aceptar la oferta por un año o seguir en busca de otro contrato.\nNueva York también debe tomar decisiones sobre otros relevistas que son agentes libres, entre ellos Tim Hill, Ryan Yarbrough, John Schreiber y Michael Fulmer.\nSegún el reporte de Phillips, los Yankees tienen cierto interés en conservar a Hill y también se han comunicado con Yarbrough.\nSin embargo, volver a contratar a lanzadores conocidos no resolverá necesariamente todos los problemas.\nCon varios integrantes del bullpen rumbo a la agencia libre, el gerente general Brian Cashman quizá tenga que sumar varios lanzadores antes del inicio de la temporada de 2027.\nBrent Headrick sigue bajo contrato tras una sólida campaña de 2026, pero las demás opciones del bullpen dentro de la organización también generan dudas.\nLos Yankees podrían buscar refuerzos fuera de la organización, en particular si algunos de sus agentes libres firman con otros equipos.\nBlackburn quizá no atraiga tanta atención como las grandes estrellas de Nueva York, pero su impresionante temporada lo convirtió en una pieza importante de los planes del equipo para esta temporada baja.\nAún no se sabe si los Yankees lograrán retenerlo, pero su interés indica que su etapa en el Bronx tal vez no haya terminado.",
+    "rss_title": "Yankees buscan retener a Paul Blackburn tras su gran 2026",
+    "rss_body": "Los New York Yankees tienen decisiones importantes que tomar esta temporada baja y el equipo parece interesado en conservar a una de las mayores sorpresas de su campaña de 2026.\nEl veterano lanzador Paul Blackburn resurgió esta temporada en Nueva York y se convirtió en una opción confiable para el bullpen tras pasar apuros durante gran parte del año anterior.\nAhora, los Yankees muestran mucho interés en volver a contratarlo.\nEn un reporte del 5 de noviembre para el New York Daily News, el periodista de los Yankees Gary Phillips citó fuentes que señalan que el equipo tiene mucho interés en renovar el contrato de Blackburn.\nLa noticia llama la atención porque antes se pronosticaba que Blackburn dejaría Nueva York como agente libre.\nNo se ha anunciado ningún acuerdo, pero los reportes más recientes indican que los Yankees prefieren no perder a uno de sus relevistas más productivos.\nLos Yankees muestran mucho interés en volver a contratar a Paul Blackburn\nLa transformación de Blackburn ha sido una de las sorpresas más gratas para Nueva York.\nEl derecho llegó a los Yankees en 2025 después de que sus rivales de la ciudad, los Mets, lo dejaran libre, pero sus primeros resultados no convencieron.\nTerminó esa temporada con una efectividad de 5.28 en ocho apariciones con Nueva York, lo que dejó muchas dudas sobre su futuro.\nSin embargo, Blackburn regresó en 2026 y firmó su mejor temporada en números en las Grandes Ligas.\nEl lanzador de 32 años terminó con marca de 7-3, efectividad de 1.59 y 69 ponches en 85 entradas, con 62 apariciones, incluidas dos aperturas.\nTambién registró un WHIP de 1.08 y limitó a los bateadores rivales a un promedio de .195.\nEsas cifras consolidaron a Blackburn como una opción confiable para las últimas entradas y dieron a los Yankees un valioso complemento para el cerrador David Bednar.\nLa eficacia de Blackburn impresionó aún más por su trayectoria previa como abridor.\nElegido al Juego de Estrellas de 2022 con Oakland, había trabajado principalmente como abridor antes de pasar al bullpen en una etapa posterior de su carrera.\nAunque su total de ponches fue relativamente modesto, Blackburn demostró que sabe limitar los hits y evitar las carreras.\nSu actuación en 2026 reforzó sus posibilidades de conseguir otro contrato en las Grandes Ligas, aunque Nueva York debe evaluar si puede mantener esos resultados.\nEl FIP de Blackburn, una medida de efectividad independiente de la defensa, fue de 3.74, muy superior a su efectividad, lo que plantea dudas sobre si podrá mantener ese nivel de éxito.\nAun así, los Yankees tienen motivos claros para querer que regrese.\nLos Yankees afrontan decisiones clave para su bullpen en la agencia libre\nBlackburn no es el único lanzador conocido que Nueva York espera conservar.\nLos Yankees ya le hicieron una oferta calificada de 23.15 millones de dólares a David Bednar, quien consiguió 35 salvamentos durante la temporada de 2026.\nBednar tiene hasta el 17 de noviembre para aceptar la oferta por un año o seguir en busca de otro contrato.\nNueva York también debe tomar decisiones sobre otros relevistas que son agentes libres, entre ellos Tim Hill, Ryan Yarbrough, John Schreiber y Michael Fulmer.\nSegún el reporte de Phillips, los Yankees tienen cierto interés en conservar a Hill y también se han comunicado con Yarbrough.\nSin embargo, volver a contratar a lanzadores conocidos no resolverá necesariamente todos los problemas.\nCon varios integrantes del bullpen rumbo a la agencia libre, el gerente general Brian Cashman quizá tenga que sumar varios lanzadores antes del inicio de la temporada de 2027.\nBrent Headrick sigue bajo contrato tras una sólida campaña de 2026, pero las demás opciones del bullpen dentro de la organización también generan dudas.\nLos Yankees podrían buscar refuerzos fuera de la organización, en particular si algunos de sus agentes libres firman con otros equipos.\nBlackburn quizá no atraiga tanta atención como las grandes estrellas de Nueva York, pero su impresionante temporada lo convirtió en una pieza importante de los planes del equipo para esta temporada baja.\nAún no se sabe si los Yankees lograrán retenerlo, pero su interés indica que su etapa en el Bronx tal vez no haya terminado.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "f54454297688c81605b7",
+    "title": "Yankees Make Feelings Clear on Breakout Pitcher After Dominant Season",
+    "source": "Heavy.com",
+    "author": "Henry DiGennaro",
+    "url": "https://heavy.com/sports/mlb/new-york-yankees/yankees-paul-blackburn-free-agency/",
+    "published_iso": "2026-11-05T19:16:11+00:00",
+    "published_rfc2822": "Thu, 05 Nov 2026 19:16:11 +0000",
+    "body": "The New York Yankees have some major decisions to make this offseason, and the organization appears interested in keeping one of its biggest surprises from the 2026 campaign.\nVeteran pitcher Paul Blackburn enjoyed a career resurgence in New York this season, emerging as a dependable bullpen weapon after struggling for much of the previous year.\nNow, the Yankees are showing strong interest in bringing him back.\nIn a November 5 report for the New York Daily News, Yankees reporter Gary Phillips cited sources indicating that the club has significant interest in re-signing Blackburn.\nThe development is noteworthy given earlier predictions that Blackburn could leave New York as a free agent.\nNo agreement has been announced, but the latest reporting suggests the Yankees would prefer not to lose one of their most productive relief pitchers.\nYankees Show Strong Interest in Paul Blackburn Reunion\nBlackburn’s transformation has been one of New York’s more unexpected success stories.\nThe right-hander joined the Yankees in 2025 after being released by the crosstown rival Mets, but his initial results were underwhelming.\nHe finished that season with a 5.28 ERA across eight appearances for New York, leaving plenty of questions about his future.\nHowever, Blackburn returned in 2026 and delivered the best statistical season of his major-league career.\nThe 32-year-old finished with a 7-3 record, 1.59 ERA, and 69 strikeouts across 85 innings, making 62 appearances, including two starts.\nHe also recorded a 1.08 WHIP while holding opposing hitters to a .195 batting average.\nThose numbers helped Blackburn establish himself as a reliable late-inning option and gave the Yankees a valuable complement to closer David Bednar.\nBlackburn’s effectiveness was especially impressive considering his previous career as a starting pitcher.\nA 2022 All-Star with Oakland, he had primarily worked in starting rotations before transitioning into a bullpen role later in his career.\nWhile his strikeout totals were relatively modest, Blackburn demonstrated an ability to limit hits and prevent runs.\nHis 2026 performance has strengthened his case for another major-league contract, although New York must weigh whether those results are sustainable.\nBlackburn’s 3.74 fielding independent pitching mark was considerably higher than his ERA, raising questions about whether he can sustain that level of success.\nEven so, the Yankees have an obvious reason to want him back.\nYankees Face Major Bullpen Decisions in Free Agency\nBlackburn isn’t the only familiar arm New York hopes to retain.\nThe Yankees have already extended a $23.15 million qualifying offer to David Bednar, who recorded 35 saves during the 2026 season.\nBednar has until November 17 to accept the one-year offer or continue pursuing a different contract.\nNew York also has decisions to make regarding several other free-agent relievers, including Tim Hill, Ryan Yarbrough, John Schreiber and Michael Fulmer.\nPhillips’ reporting indicates the Yankees have some interest in retaining Hill and have checked in with Yarbrough as well.\nHowever, bringing back familiar pitchers won’t necessarily solve every problem.\nWith numerous bullpen contributors entering free agency, general manager Brian Cashman could need to add several arms before the 2027 season begins.\nBrent Headrick remains under contract following a strong 2026 campaign, but New York’s other internal bullpen options bring questions of their own.\nThe Yankees could look outside the organization for additional reinforcements, particularly if some of their free agents sign elsewhere.\nBlackburn may not command the attention of New York’s biggest stars, but his impressive season has made him an important part of the club’s offseason plans.\nWhether the Yankees can bring him back remains uncertain, but their interest suggests his time in the Bronx might not be over.",
+    "article_date": "2026-11-05",
+    "tracked_people": [
+      {
+        "name": "David Bednar",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "John Schreiber",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Tim Hill",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Paul Blackburn",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Brent Headrick",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Michael Fulmer",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees Make Feelings Clear on Breakout Pitcher After Dominant Season",
+    "original_body": "The New York Yankees have some major decisions to make this offseason, and the organization appears interested in keeping one of its biggest surprises from the 2026 campaign.\nVeteran pitcher Paul Blackburn enjoyed a career resurgence in New York this season, emerging as a dependable bullpen weapon after struggling for much of the previous year.\nNow, the Yankees are showing strong interest in bringing him back.\nIn a November 5 report for the New York Daily News, Yankees reporter Gary Phillips cited sources indicating that the club has significant interest in re-signing Blackburn.\nThe development is noteworthy given earlier predictions that Blackburn could leave New York as a free agent.\nNo agreement has been announced, but the latest reporting suggests the Yankees would prefer not to lose one of their most productive relief pitchers.\nYankees Show Strong Interest in Paul Blackburn Reunion\nBlackburn’s transformation has been one of New York’s more unexpected success stories.\nThe right-hander joined the Yankees in 2025 after being released by the crosstown rival Mets, but his initial results were underwhelming.\nHe finished that season with a 5.28 ERA across eight appearances for New York, leaving plenty of questions about his future.\nHowever, Blackburn returned in 2026 and delivered the best statistical season of his major-league career.\nThe 32-year-old finished with a 7-3 record, 1.59 ERA, and 69 strikeouts across 85 innings, making 62 appearances, including two starts.\nHe also recorded a 1.08 WHIP while holding opposing hitters to a .195 batting average.\nThose numbers helped Blackburn establish himself as a reliable late-inning option and gave the Yankees a valuable complement to closer David Bednar.\nBlackburn’s effectiveness was especially impressive considering his previous career as a starting pitcher.\nA 2022 All-Star with Oakland, he had primarily worked in starting rotations before transitioning into a bullpen role later in his career.\nWhile his strikeout totals were relatively modest, Blackburn demonstrated an ability to limit hits and prevent runs.\nHis 2026 performance has strengthened his case for another major-league contract, although New York must weigh whether those results are sustainable.\nBlackburn’s 3.74 fielding independent pitching mark was considerably higher than his ERA, raising questions about whether he can sustain that level of success.\nEven so, the Yankees have an obvious reason to want him back.\nYankees Face Major Bullpen Decisions in Free Agency\nBlackburn isn’t the only familiar arm New York hopes to retain.\nThe Yankees have already extended a $23.15 million qualifying offer to David Bednar, who recorded 35 saves during the 2026 season.\nBednar has until November 17 to accept the one-year offer or continue pursuing a different contract.\nNew York also has decisions to make regarding several other free-agent relievers, including Tim Hill, Ryan Yarbrough, John Schreiber and Michael Fulmer.\nPhillips’ reporting indicates the Yankees have some interest in retaining Hill and have checked in with Yarbrough as well.\nHowever, bringing back familiar pitchers won’t necessarily solve every problem.\nWith numerous bullpen contributors entering free agency, general manager Brian Cashman could need to add several arms before the 2027 season begins.\nBrent Headrick remains under contract following a strong 2026 campaign, but New York’s other internal bullpen options bring questions of their own.\nThe Yankees could look outside the organization for additional reinforcements, particularly if some of their free agents sign elsewhere.\nBlackburn may not command the attention of New York’s biggest stars, but his impressive season has made him an important part of the club’s offseason plans.\nWhether the Yankees can bring him back remains uncertain, but their interest suggests his time in the Bronx might not be over.",
+    "rss_title": "Yankees Make Feelings Clear on Breakout Pitcher After Dominant Season",
+    "rss_body": "The New York Yankees have some major decisions to make this offseason, and the organization appears interested in keeping one of its biggest surprises from the 2026 campaign.\nVeteran pitcher Paul Blackburn enjoyed a career resurgence in New York this season, emerging as a dependable bullpen weapon after struggling for much of the previous year.\nNow, the Yankees are showing strong interest in bringing him back.\nIn a November 5 report for the New York Daily News, Yankees reporter Gary Phillips cited sources indicating that the club has significant interest in re-signing Blackburn.\nThe development is noteworthy given earlier predictions that Blackburn could leave New York as a free agent.\nNo agreement has been announced, but the latest reporting suggests the Yankees would prefer not to lose one of their most productive relief pitchers.\nYankees Show Strong Interest in Paul Blackburn Reunion\nBlackburn’s transformation has been one of New York’s more unexpected success stories.\nThe right-hander joined the Yankees in 2025 after being released by the crosstown rival Mets, but his initial results were underwhelming.\nHe finished that season with a 5.28 ERA across eight appearances for New York, leaving plenty of questions about his future.\nHowever, Blackburn returned in 2026 and delivered the best statistical season of his major-league career.\nThe 32-year-old finished with a 7-3 record, 1.59 ERA, and 69 strikeouts across 85 innings, making 62 appearances, including two starts.\nHe also recorded a 1.08 WHIP while holding opposing hitters to a .195 batting average.\nThose numbers helped Blackburn establish himself as a reliable late-inning option and gave the Yankees a valuable complement to closer David Bednar.\nBlackburn’s effectiveness was especially impressive considering his previous career as a starting pitcher.\nA 2022 All-Star with Oakland, he had primarily worked in starting rotations before transitioning into a bullpen role later in his career.\nWhile his strikeout totals were relatively modest, Blackburn demonstrated an ability to limit hits and prevent runs.\nHis 2026 performance has strengthened his case for another major-league contract, although New York must weigh whether those results are sustainable.\nBlackburn’s 3.74 fielding independent pitching mark was considerably higher than his ERA, raising questions about whether he can sustain that level of success.\nEven so, the Yankees have an obvious reason to want him back.\nYankees Face Major Bullpen Decisions in Free Agency\nBlackburn isn’t the only familiar arm New York hopes to retain.\nThe Yankees have already extended a $23.15 million qualifying offer to David Bednar, who recorded 35 saves during the 2026 season.\nBednar has until November 17 to accept the one-year offer or continue pursuing a different contract.\nNew York also has decisions to make regarding several other free-agent relievers, including Tim Hill, Ryan Yarbrough, John Schreiber and Michael Fulmer.\nPhillips’ reporting indicates the Yankees have some interest in retaining Hill and have checked in with Yarbrough as well.\nHowever, bringing back familiar pitchers won’t necessarily solve every problem.\nWith numerous bullpen contributors entering free agency, general manager Brian Cashman could need to add several arms before the 2027 season begins.\nBrent Headrick remains under contract following a strong 2026 campaign, but New York’s other internal bullpen options bring questions of their own.\nThe Yankees could look outside the organization for additional reinforcements, particularly if some of their free agents sign elsewhere.\nBlackburn may not command the attention of New York’s biggest stars, but his impressive season has made him an important part of the club’s offseason plans.\nWhether the Yankees can bring him back remains uncertain, but their interest suggests his time in the Bronx might not be over.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "63c806459bcbefb25c68",
+    "title": "New York Yankees Announce Release of 9 Players After World Series",
+    "source": "Yahoo Sports",
+    "author": "Jackson Kruse",
+    "url": "https://sports.yahoo.com/articles/york-yankees-announce-release-9-185718069.html",
+    "published_iso": "2026-11-05T18:57:18+00:00",
+    "published_rfc2822": "Thu, 05 Nov 2026 18:57:18 +0000",
+    "body": "The New York Yankees, and every other MLB team, have been busy since the Milwaukee Brewers won the World Series late last month.\nOn Tuesday, Nov. 3, the Yankees officially released nine players from the organization.\nNew York Yankees Release 9 Players\nThe Yankees released nine minor-league players.\nThey were all assigned to the Dominican Summer League before being released.\nHere is a list of all of the players released by New York on Tuesday, according to MiLB.com's transactions log:\nLooking at the New York Yankees' 2026 Season\nThe Yankees finished the regular season with the second-best record in the American League at 93-68.\nThey were the top American League Wild Card team and trailed the first-place Tampa Bay Rays by 4 1/2 games.\nThe Yankees swept the Boston Red Sox 2-0 in the American League Wild Card round at Yankee Stadium.\nAfter sweeping the Red Sox, the Yankees were swept by the Rays 3-0 in the American League Division Series.\nManager Aaron Boone and general manager Brian Cashman are returning to the team in 2027.\nThis article was originally published on HEAVY\nThe post New York Yankees Announce Release of 9 Players After World Series appeared first on HEAVY.",
+    "article_date": "2026-11-05",
+    "tracked_people": [
+      {
+        "name": "Aaron Boone",
+        "role": "Head Coach",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Brian Cashman",
+        "role": "Senior VP & General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 31,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "New York Yankees Announce Release of 9 Players After World Series",
+    "original_body": "The New York Yankees, and every other MLB team, have been busy since the Milwaukee Brewers won the World Series late last month.\nOn Tuesday, Nov. 3, the Yankees officially released nine players from the organization.\nNew York Yankees Release 9 Players\nThe Yankees released nine minor-league players.\nThey were all assigned to the Dominican Summer League before being released.\nHere is a list of all of the players released by New York on Tuesday, according to MiLB.com's transactions log:\nLooking at the New York Yankees' 2026 Season\nThe Yankees finished the regular season with the second-best record in the American League at 93-68.\nThey were the top American League Wild Card team and trailed the first-place Tampa Bay Rays by 4 1/2 games.\nThe Yankees swept the Boston Red Sox 2-0 in the American League Wild Card round at Yankee Stadium.\nAfter sweeping the Red Sox, the Yankees were swept by the Rays 3-0 in the American League Division Series.\nManager Aaron Boone and general manager Brian Cashman are returning to the team in 2027.\nThis article was originally published on HEAVY\nThe post New York Yankees Announce Release of 9 Players After World Series appeared first on HEAVY.",
+    "rss_title": "New York Yankees Announce Release of 9 Players After World Series",
+    "rss_body": "The New York Yankees, and every other MLB team, have been busy since the Milwaukee Brewers won the World Series late last month.\nOn Tuesday, Nov. 3, the Yankees officially released nine players from the organization.\nNew York Yankees Release 9 Players\nThe Yankees released nine minor-league players.\nThey were all assigned to the Dominican Summer League before being released.\nHere is a list of all of the players released by New York on Tuesday, according to MiLB.com's transactions log:\nLooking at the New York Yankees' 2026 Season\nThe Yankees finished the regular season with the second-best record in the American League at 93-68.\nThey were the top American League Wild Card team and trailed the first-place Tampa Bay Rays by 4 1/2 games.\nThe Yankees swept the Boston Red Sox 2-0 in the American League Wild Card round at Yankee Stadium.\nAfter sweeping the Red Sox, the Yankees were swept by the Rays 3-0 in the American League Division Series.\nManager Aaron Boone and general manager Brian Cashman are returning to the team in 2027.\nThis article was originally published on HEAVY\nThe post New York Yankees Announce Release of 9 Players After World Series appeared first on HEAVY.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "aa507b60177cd3fd6ff9",
     "title": "Yankees' Aaron Judge Announces Personal Family News After Historic Feat",
     "source": "Heavy.com",
