@@ -1,5 +1,79 @@
 [
   {
+    "id": "eb61b45c2ec19308e523",
+    "title": "Yankees news: The trouble with third base",
+    "source": "Yahoo Sports",
+    "author": "Joshua Diemert",
+    "url": "https://sports.yahoo.com/articles/yankees-news-trouble-third-050000042.html",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "published_rfc2822": "Tue, 24 Nov 2026 05:00:00 +0000",
+    "body": "MLB.com | Brian Murphy: Everyone has some kind of weakness, even the mighty Dodgers came up short in 2026. The Yankees' big weakness in this offseason is the complete lack of any value at third base, with Ryan McMahon unable to be even a league-average hitter and also starting to fail defensively. Teruki Sato is a possible upgrade as he comes over from Japan and I'll have more on him tomorrow, but even if the Yankees miss on the NPB MVP, an upgrade at the hot corner is needed.\nNJ.com | Adam Zagoria: The Mets seem to have this habit of picking up all the Yankees' dropped toys, signing Clay Holmes, Devin Williams, Luke Weaver and of course Juan Soto over the past couple of years. That trend continued on Monday, with veteran slugger Paul Goldschmidt going across town after two seasons in the Bronx. Goldy agreed to a one year, $8 million deal that will see him most likely play in a strict platoon role, as the former MVP can still demolish left handed pitching — .967 OPS against southpaws vs. .590. Happy trails, Paul.\nNew York Post | Erich Richter: You know by now that the Yankees added bullpen depth yesterday, inking lefty Brent Suter to a one-year deal with a club option for 2028. Suter won't blow the ball by you, but manages contact and deals a ton of ground balls, and boasts elite level extension that the Yankees' pitching lab will do their best to further optimize.",
+    "article_date": "2026-11-24",
+    "tracked_people": [
+      {
+        "name": "Ryan McMahon",
+        "role": "Third Baseman",
+        "status": "Active (Reinstated from 10-day IL)",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees news: The trouble with third base",
+    "original_body": "MLB.com | Brian Murphy: Everyone has some kind of weakness, even the mighty Dodgers came up short in 2026. The Yankees' big weakness in this offseason is the complete lack of any value at third base, with Ryan McMahon unable to be even a league-average hitter and also starting to fail defensively. Teruki Sato is a possible upgrade as he comes over from Japan and I'll have more on him tomorrow, but even if the Yankees miss on the NPB MVP, an upgrade at the hot corner is needed.\nNJ.com | Adam Zagoria: The Mets seem to have this habit of picking up all the Yankees' dropped toys, signing Clay Holmes, Devin Williams, Luke Weaver and of course Juan Soto over the past couple of years. That trend continued on Monday, with veteran slugger Paul Goldschmidt going across town after two seasons in the Bronx. Goldy agreed to a one year, $8 million deal that will see him most likely play in a strict platoon role, as the former MVP can still demolish left handed pitching — .967 OPS against southpaws vs. .590. Happy trails, Paul.\nNew York Post | Erich Richter: You know by now that the Yankees added bullpen depth yesterday, inking lefty Brent Suter to a one-year deal with a club option for 2028. Suter won't blow the ball by you, but manages contact and deals a ton of ground balls, and boasts elite level extension that the Yankees' pitching lab will do their best to further optimize.",
+    "rss_title": "Yankees news: The trouble with third base",
+    "rss_body": "MLB.com | Brian Murphy: Everyone has some kind of weakness, even the mighty Dodgers came up short in 2026. The Yankees' big weakness in this offseason is the complete lack of any value at third base, with Ryan McMahon unable to be even a league-average hitter and also starting to fail defensively. Teruki Sato is a possible upgrade as he comes over from Japan and I'll have more on him tomorrow, but even if the Yankees miss on the NPB MVP, an upgrade at the hot corner is needed.\nNJ.com | Adam Zagoria: The Mets seem to have this habit of picking up all the Yankees' dropped toys, signing Clay Holmes, Devin Williams, Luke Weaver and of course Juan Soto over the past couple of years. That trend continued on Monday, with veteran slugger Paul Goldschmidt going across town after two seasons in the Bronx. Goldy agreed to a one year, $8 million deal that will see him most likely play in a strict platoon role, as the former MVP can still demolish left handed pitching — .967 OPS against southpaws vs. .590. Happy trails, Paul.\nNew York Post | Erich Richter: You know by now that the Yankees added bullpen depth yesterday, inking lefty Brent Suter to a one-year deal with a club option for 2028. Suter won't blow the ball by you, but manages contact and deals a ton of ground balls, and boasts elite level extension that the Yankees' pitching lab will do their best to further optimize.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "0be4f9bfb74db5b79976",
+    "title": "Paul Goldschmidt pacta con Mets $8 millones",
+    "source": "eldia.com.do",
+    "author": "Agencias",
+    "url": "https://eldia.com.do/paul-goldschmidt-pacta-con-mets-8-millones/",
+    "published_iso": "2026-11-24T04:01:00+00:00",
+    "published_rfc2822": "Tue, 24 Nov 2026 04:01:00 +0000",
+    "body": "New York.- Un día después de sacudir el mundo del béisbol al pactar con el lanzador agente libre Tarik Skubal, los Mets volvieron a la carga este lunes, acordando un contrato con el inicialista Paul Goldschmidt, le dijo una fuente a Anthony DiComo de MLB.com.\nSe informa que Goldschmidt firmaría por US$8 millones, con la oportunidad de ganar otros US$2 millones en bonos, según un informe del analista de MLB Network, Joel Sherman.\nLos Mets agregaron al dominicano Jorge Polanco en invierno pasado aparentemente para llenar el hueco que dejó la partida de Pete Alonso, pero Polanco se vio limitado a apenas 37 partidos y promedio de .148 debido a varias lesiones.",
+    "article_date": "2026-11-24",
+    "tracked_people": [
+      {
+        "name": "Paul Goldschmidt",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Paul Goldschmidt pacta con Mets $8 millones",
+    "original_body": "New York.- Un día después de sacudir el mundo del béisbol al pactar con el lanzador agente libre Tarik Skubal, los Mets volvieron a la carga este lunes, acordando un contrato con el inicialista Paul Goldschmidt, le dijo una fuente a Anthony DiComo de MLB.com.\nSe informa que Goldschmidt firmaría por US$8 millones, con la oportunidad de ganar otros US$2 millones en bonos, según un informe del analista de MLB Network, Joel Sherman.\nLos Mets agregaron al dominicano Jorge Polanco en invierno pasado aparentemente para llenar el hueco que dejó la partida de Pete Alonso, pero Polanco se vio limitado a apenas 37 partidos y promedio de .148 debido a varias lesiones.",
+    "rss_title": "Paul Goldschmidt pacta con Mets $8 millones",
+    "rss_body": "New York.- Un día después de sacudir el mundo del béisbol al pactar con el lanzador agente libre Tarik Skubal, los Mets volvieron a la carga este lunes, acordando un contrato con el inicialista Paul Goldschmidt, le dijo una fuente a Anthony DiComo de MLB.com.\nSe informa que Goldschmidt firmaría por US$8 millones, con la oportunidad de ganar otros US$2 millones en bonos, según un informe del analista de MLB Network, Joel Sherman.\nLos Mets agregaron al dominicano Jorge Polanco en invierno pasado aparentemente para llenar el hueco que dejó la partida de Pete Alonso, pero Polanco se vio limitado a apenas 37 partidos y promedio de .148 debido a varias lesiones.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "3d69f2049d8a88973cf1",
     "title": "Yankees face major roster dilemma as Brian Cashman weighs Adrian Morejon against three offseason needs",
     "source": "The Times of India",
